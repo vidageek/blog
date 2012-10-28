@@ -52,7 +52,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://www.giraldo.org
  [3]: http://www.giraldo.org/23confinan.html
  [4]: http://groups.google.com/group/rails-br/browse_thread/thread/4e1f1e3145064014#477809946ff770a6
- [5]: https://twitter.com/share
+
 
 
 

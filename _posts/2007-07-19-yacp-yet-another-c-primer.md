@@ -79,7 +79,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://www.vim.org
  [2]: http://www.gnu.org/software/emacs/ "Site do Emacs"
  [3]: http://www.gnu.org/software/emacs/windows/faq2.html#where-precompiled "Site do Emacs"
- [4]: https://twitter.com/share
+
 
 
 

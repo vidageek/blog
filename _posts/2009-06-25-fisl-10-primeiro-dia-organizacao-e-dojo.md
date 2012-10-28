@@ -63,7 +63,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://vidageek.net/2009/02/06/screencast-do-coding-dojo
  [5]: http://vidageek.net/autores/
  [6]: http://fabiokung.com/
- [7]: https://twitter.com/share
+
 
 
 

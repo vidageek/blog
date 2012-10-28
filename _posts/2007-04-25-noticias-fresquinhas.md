@@ -65,7 +65,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [5]: http://macmagazine.com.br/blog/2007/04/24/jogos-do-nintendinho-online-de-graca-via-browser/
  [6]: http://www.akitaonrails.com/articles/2007/04/24/novidades-da-semana-jruby-0-9-9-e-activeresource
  [7]: http://lifehacker.com/software/firefox/firefox-tip-open-search-results-in-a-new-tab-255171.php
- [8]: https://twitter.com/share
+
 
 
 

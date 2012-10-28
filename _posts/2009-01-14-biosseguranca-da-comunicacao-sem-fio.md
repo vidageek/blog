@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: https://sistemas2.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0463&nomdis=
  [4]: http://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_n%C3%A3o_ionizante
  [5]: http://en.wikipedia.org/wiki/Electromagnetic_hypersensitivity
- [6]: https://twitter.com/share
+
 
 
 

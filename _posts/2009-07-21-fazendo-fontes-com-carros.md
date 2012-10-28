@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: http://vimeo.com/5233789
  [4]: http://vimeo.com/wireless
  [5]: http://vimeo.com
- [6]: https://twitter.com/share
+
 
 
 

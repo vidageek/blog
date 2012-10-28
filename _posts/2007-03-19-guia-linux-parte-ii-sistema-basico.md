@@ -123,7 +123,7 @@ Veja como ter um desconto no [Dreamhost][22]: um excelente servidor web.
  [15]: http://www.linuxreality.com/podcast/episode-52-wireless-networking-basics/ "Wireless Networking Basics"
  [16]: http://http://www.linux-on-laptops.com/hosted/tsa65.html "Gentoo Linux on a Toshiba Sattelite A65"
  [17]: http://gentoo-wiki.com/HOWTO_MadWifi_Install "Gentoo Wiki: HowTo MadWifi Install"
- [18]: https://twitter.com/share
+
 
 
 

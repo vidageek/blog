@@ -67,7 +67,7 @@ O que acham disso? Já fizeram (ou fazem) algo semelhante?
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Test-driven_development
- [2]: https://twitter.com/share
+
 
 
 

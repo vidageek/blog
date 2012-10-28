@@ -41,7 +41,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/10/academico-150x150.jpg "academico"
  [2]: http://nuvensobviasdenicotina.blogspot.com/2007_09_01_archive.html
- [3]: https://twitter.com/share
+
 
 
 

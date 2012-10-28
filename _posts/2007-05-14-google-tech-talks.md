@@ -127,7 +127,7 @@ Veja como ter um desconto no [Dreamhost][23]: um excelente servidor web.
  [16]: http://video.google.com/videoplay?docid=-2077755378178864152
  [17]: http://video.google.com/videoplay?docid=1230747464670307641
  [18]: http://video.google.com/videoplay?docid=6704513211835446274
- [19]: https://twitter.com/share
+
 
 
 

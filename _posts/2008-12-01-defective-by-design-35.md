@@ -57,7 +57,7 @@ Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
  [8]: http://www.apple.com/hotnews/thoughtsonmusic/
  [9]: http://conhecimento.incubadora.fapesp.br/portal/wiki/OIPhoneEAInternetEmDispositivosM_c3_b3veis
  [10]: https://launchpad.net/
- [11]: https://twitter.com/share
+
 
 
 

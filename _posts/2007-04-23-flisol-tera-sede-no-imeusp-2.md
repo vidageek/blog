@@ -35,7 +35,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.installfest.info/
  [2]: http://www.linux.ime.usp.br/flisol
- [3]: https://twitter.com/share
+
 
 
 

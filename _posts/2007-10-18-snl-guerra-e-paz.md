@@ -54,7 +54,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://en.wikipedia.org/wiki/War_and_Peace
  [2]: http://en.wikipedia.org/wiki/Leo_Tolstoy
  [3]: http://en.wikipedia.org/wiki/Anna_Karenina
- [4]: https://twitter.com/share
+
 
 
 

@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://fabiokung.com/ "Fabio Kung"
  [2]: http://fabiokung.com/2009/02/04/rfactor-ruby-refactoring-for-your-loved-editor/ "post"
  [3]: http://github.com/fabiokung/rfactor-tmbundle/tree/master "instruções na página do Bundle"
- [4]: https://twitter.com/share
+
 
 
 

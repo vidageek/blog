@@ -41,7 +41,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://wunderland.com/LooneyLabs/Fluxx/Default.html
  [5]: http://www.dvorakgame.co.uk/index.php/Main_Page
  [6]: http://www.geocities.com/nconner23/bwcards.html
- [7]: https://twitter.com/share
+
 
 
 

@@ -63,7 +63,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://www.moleskine.com/
  [5]: ”http://pt.wikipedia.org/wiki/Role-playing_game”
  [6]: http://www.guynameddave.com/100-thing-challenge.html
- [7]: https://twitter.com/share
+
 
 
 

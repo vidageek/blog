@@ -71,7 +71,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.gentoo.org/main/en/where.xml
  [2]: http://torrents.gentoo.org/
- [3]: https://twitter.com/share
+
 
 
 

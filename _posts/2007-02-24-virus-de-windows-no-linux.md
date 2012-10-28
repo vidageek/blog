@@ -29,7 +29,7 @@ A boa notícia é que para esses vírus causarem danos grandes ao sistema, o Win
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://dosesdiarias.seucaminho.com/index.php/2007/02/23/virus-de-windows-no-linux/
- [2]: https://twitter.com/share
+
 
 
 

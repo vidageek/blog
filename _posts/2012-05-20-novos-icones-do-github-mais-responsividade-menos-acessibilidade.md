@@ -50,7 +50,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: http://www.alistapart.com/articles/responsive-images-and-web-standards-at-the-turning-point/
  [4]: http://pt.wikipedia.org/wiki/SVG "Scalable Vector Graphics"
  [5]: http://caniuse.com/#search=svg
- [6]: https://twitter.com/share
+
 
 
 

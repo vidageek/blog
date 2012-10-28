@@ -92,7 +92,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://www.caelum.com.br
  [3]: http://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%A3o
  [4]: http://www.davidpaniz.com/blog/2010/12/29/meu-ambiente-de-desenvolvimento-em-7-itens/
- [5]: https://twitter.com/share
+
 
 
 

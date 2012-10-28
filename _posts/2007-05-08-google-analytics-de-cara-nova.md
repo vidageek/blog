@@ -35,7 +35,7 @@ A interface antiga ainda continuará sendo acessível por pelo menos um mês.
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://analytics.google.com
- [2]: https://twitter.com/share
+
 
 
 

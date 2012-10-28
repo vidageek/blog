@@ -49,7 +49,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [5]: http://www.dojosp.epistemol.net/
  [6]: http://www.flickr.com/search/?q=railssummit&m=tags
  [7]: http://cemshost.com.br/~fabsn/dev/doku.php "Faz tempo que não Atualiza!"
- [8]: https://twitter.com/share
+
 
 
 

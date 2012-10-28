@@ -78,7 +78,7 @@ Veja como ter um desconto no [Dreamhost][28]: um excelente servidor web.
  [21]: http://www.ime.usp.br/~verao/index.php?secao=horario&
  [22]: http://www.caelum.com.br
  [23]: http://agilcoop.incubadora.fapesp.br/portal
- [24]: https://twitter.com/share
+
 
 
 

@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://pt.wikipedia.org/wiki/Smalltalk
  [2]: http://www.squeak.org/
  [3]: http://www.screencast-o-matic.com/watch/cjeFrOV2c
- [4]: https://twitter.com/share
+
 
 
 

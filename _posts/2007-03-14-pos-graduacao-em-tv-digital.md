@@ -33,7 +33,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://www.unesp.br
  [2]: http://www.capes.gov.br
  [3]: http://info.abril.uol.com.br/aberto/infonews/032007/14032007-7.shl
- [4]: https://twitter.com/share
+
 
 
 

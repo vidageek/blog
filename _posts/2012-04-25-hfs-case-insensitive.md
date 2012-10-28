@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.javaperformance.com.br
  [2]: http://apple.stackexchange.com/questions/22297/is-bash-in-osx-case-insensitive
- [3]: https://twitter.com/share
+
 
 
 

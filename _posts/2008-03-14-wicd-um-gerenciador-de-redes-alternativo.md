@@ -41,7 +41,7 @@ Veja mais no site do projeto: <http://wicd.sourceforge.net/>
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://wicd.sourceforge.net/
- [2]: https://twitter.com/share
+
 
 
 

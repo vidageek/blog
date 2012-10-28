@@ -41,7 +41,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://www.nokiastoresp.com.br/site/connectbook
  [3]: http://www.nokiastoresp.com.br/site/connectart
  [4]: http://www.nokiastoresp.com.br/site/connectusp
- [5]: https://twitter.com/share
+
 
 
 

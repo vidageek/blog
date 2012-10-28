@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://git-scm.com/
  [5]: http://www.gradle.org/
  [6]: https://github.com/vidageek/desafio20110516
- [7]: https://twitter.com/share
+
 
 
 

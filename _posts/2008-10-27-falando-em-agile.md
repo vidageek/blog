@@ -57,7 +57,7 @@ Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
  [10]: http://picasaweb.google.com/fabriciosn/FalandoEmAgile#
  [11]: http://2008.latinoware.org/
  [12]: http://cemshost.com.br/~fabsn/dev/doku.php "Faz tempo que não Atualiza!"
- [13]: https://twitter.com/share
+
 
 
 

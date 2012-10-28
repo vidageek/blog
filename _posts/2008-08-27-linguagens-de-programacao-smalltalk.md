@@ -62,7 +62,7 @@ Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
  [7]: http://www.seasidehosting.st/
  [8]: http://en.wikipedia.org/wiki/Self_%28programming_language%29
  [9]: http://www.kurtz-fernhout.com/squeak/
- [10]: https://twitter.com/share
+
 
 
 

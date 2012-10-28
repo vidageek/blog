@@ -37,7 +37,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://webworkerdaily.com/ "Web Worker Daily"
  [2]: http://www.rememberthemilk.com "Remeber the Milk"
  [3]: http://webworkerdaily.com/2007/03/22/rock-your-google-calendar-in-18-ways/ "Web Worker Daily: Rock your Google Calendar in 18 Ways"
- [4]: https://twitter.com/share
+
 
 
 

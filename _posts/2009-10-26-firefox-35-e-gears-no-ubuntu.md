@@ -42,7 +42,7 @@ Montagem tosca por mim mesmo, utilizando os ícones do Firefox 3.0, do Shiretoko
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2009/10/logo.png "Firefox 3.5, aqui vamos nós"
- [2]: https://twitter.com/share
+
 
 
 

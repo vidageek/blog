@@ -58,7 +58,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.pygame.org
  [2]: http://www.pyweek.org
- [3]: https://twitter.com/share
+
 
 
 

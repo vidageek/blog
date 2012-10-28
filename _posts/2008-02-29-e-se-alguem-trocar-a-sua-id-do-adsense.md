@@ -62,7 +62,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://adsense.google.com
  [2]: http://en.wikipedia.org/wiki/Search_Engine_Optimization
- [3]: https://twitter.com/share
+
 
 
 

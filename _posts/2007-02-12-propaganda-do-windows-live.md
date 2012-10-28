@@ -34,7 +34,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://imdb.com/title/tt0454921/ "The Pursuit of Happyness"
  [2]: http://www.reflexoesdigitais.com.br/blog/2007/02/07/gmail-para-todos/ "Gmail para todos!"
- [3]: https://twitter.com/share
+
 
 
 

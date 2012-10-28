@@ -30,7 +30,7 @@ Obrigado pela compreensão.
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://vidageek.net/2008/01/21/grafos-no-orkut/
- [2]: https://twitter.com/share
+
 
 
 

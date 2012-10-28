@@ -55,7 +55,7 @@ Bom, esses e outros comandos estão disponíveis em [command line fu][1]. Convid
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.commandlinefu.com/commands/browse/sort-by-votes
- [2]: https://twitter.com/share
+
 
 
 

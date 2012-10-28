@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/03/cppunit_logo_bw.gif
  [2]: http://cppunit.sourceforge.net/cgi-bin/moin.cgi/FrontPage
- [3]: https://twitter.com/share
+
 
 
 

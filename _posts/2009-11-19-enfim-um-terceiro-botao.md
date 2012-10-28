@@ -46,7 +46,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/2009/11/05/apple-not-that-magic-mouse/
  [2]: http://www.akitaonrails.com/
  [3]: http://clement.beffa.org/labs/projects/middleclick/
- [4]: https://twitter.com/share
+
 
 
 

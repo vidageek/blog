@@ -48,7 +48,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: http://en.wikipedia.org/wiki/City_of_Heroes "City of Heroes"
  [4]: http://en.wikipedia.org/wiki/City_of_Villains "City of Villains"
  [5]: http://flickr.com/photos/kagey_b/623840155/ "kagey_b"
- [6]: https://twitter.com/share
+
 
 
 

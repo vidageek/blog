@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://www.planetaeducacao.com.br/novo/index.asp "Planeta Educação"
  [3]: http://www.educabauru.com.br/ "Click Inclusão"
  [4]: http://flickr.com/photos/bayat/5844915/
- [5]: https://twitter.com/share
+
 
 
 

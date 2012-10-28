@@ -36,7 +36,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/word-shoot-spell-fast-or-die.jpg
  [2]: http://cognitivelabs.com/word_shoot.htm
- [3]: https://twitter.com/share
+
 
 
 

@@ -96,7 +96,7 @@ Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
  [8]: http://www.foddy.net/Athletics.html
  [9]: http://wordsquared.com/
  [10]: http://www.clickjogos.com/jogo/flakboy.html
- [11]: https://twitter.com/share
+
 
 
 

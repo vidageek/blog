@@ -52,7 +52,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [5]: http://www.ioccc.org/
  [6]: http://www.plethora.net/%7Eseebs/faqs/c-iaq.html
  [7]: http://www.google.com/translate_t
- [8]: https://twitter.com/share
+
 
 
 

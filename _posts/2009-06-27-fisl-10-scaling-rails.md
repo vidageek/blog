@@ -50,7 +50,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://redeparede.com.br/
  [2]: http://www.sphinxsearch.com/
  [3]: http://lucene.apache.org/solr/
- [4]: https://twitter.com/share
+
 
 
 

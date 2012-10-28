@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/cachacajava.thumbnail.jpg
  [2]: http://video.google.com/videoplay?docid=-3733345136856180693
- [3]: https://twitter.com/share
+
 
 
 

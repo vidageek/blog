@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://projetos.vidageek.net/mirror-pt
  [2]: http://vidageek.net/2008/11/16/mirror-dsl/
- [3]: https://twitter.com/share
+
 
 
 

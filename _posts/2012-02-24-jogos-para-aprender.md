@@ -36,7 +36,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://games.vidageek.net
  [5]: http://games.vidageek.net/play/regex
  [6]: https://github.com/vidageek/games
- [7]: https://twitter.com/share
+
 
 
 

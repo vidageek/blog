@@ -49,7 +49,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.apple.com/itunes/
  [2]: http://en.wikipedia.org/wiki/Strong_bad
- [3]: https://twitter.com/share
+
 
 
 

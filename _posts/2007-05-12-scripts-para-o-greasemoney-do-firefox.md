@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://www.krazydad.com/greasemonkey/googlefool.php "APRIL FOOGLE!"
  [5]: http://googlesystem.blogspot.com/2007/04/infinite-scrolling-in-google-search.html "Infinite Scrolling in Google Search"
  [6]: http://blog.monstuff.com/archives/000239.html
- [7]: https://twitter.com/share
+
 
 
 

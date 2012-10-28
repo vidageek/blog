@@ -52,7 +52,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://pt.wikipedia.org/wiki/Conven%C3%A7%C3%A3o_de_Berna
  [2]: http://pt.wikipedia.org/wiki/Dom%C3%ADnio_p%C3%BAblico
- [3]: https://twitter.com/share
+
 
 
 

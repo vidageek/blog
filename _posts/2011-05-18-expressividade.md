@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/2011/05/16/desafio-de-expressividade-i/
  [2]: https://github.com/jonasabreu/desafio20110516
  [3]: http://www.adaptworks.com.br
- [4]: https://twitter.com/share
+
 
 
 

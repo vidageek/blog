@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
  [7]: http://vidageek.net/2008/03/28/testes-unitarios-em-c/ "testes"
  [8]: http://integrade.incubadora.fapesp.br/ "se já estiver no ar novamente ..."
  [9]: http://cemshost.com.br/~fabsn/dev/doku.php "Faz tempo que não Atualiza!"
- [10]: https://twitter.com/share
+
 
 
 

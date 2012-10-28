@@ -40,7 +40,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://twitter.com/ "Twitter"
  [3]: http://vidageek.net/tags/geekstyleoflife/ "Geek Style of Life"
 
- [5]: https://twitter.com/share
+
 
 
 

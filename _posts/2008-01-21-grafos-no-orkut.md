@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://www.orkut.com/Community.aspx?cmm=44400470
  [2]: http://vidageek.net/public/images/grafo_orkut.png
  [3]: http://en.wikipedia.org/wiki/Floyd-Warshall_algorithm
- [4]: https://twitter.com/share
+
 
 
 

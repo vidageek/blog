@@ -41,7 +41,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: http://narod.yandex.ru/100.xhtml?zxdsl-852-modem.narod.ru/Nokia-5200.phoneplugin.zip "site original"
  [4]: http://macibuki.blogspot.com/2008/04/nokia-5200-isync-plugin-freeware.html "The switcher-to-mac's blog"
  [5]: http://flickr.com/photos/gabriellopez86/360692594/sizes/s/ ">>>GaBrIeL lopEz<<<"
- [6]: https://twitter.com/share
+
 
 
 

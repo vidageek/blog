@@ -54,7 +54,7 @@ Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
  [8]: http://www.linuxgenuineadvantage.org/ "Linux Genuine Advantage"
  [9]: http://cache.gizmodo.com/assets/resources/2007/02/pavista.jpg
  [10]: http://www.webtuga.com/2007/02/06/microsoft/comprar-o-windows-vista-pode-ser-um-pesadelo.php/
- [11]: https://twitter.com/share
+
 
 
 

@@ -52,7 +52,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://jruby.codehaus.org/
  [5]: http://vidageek.net/2008/11/24/deffective-by-design/
  [6]: http://groovy.codehaus.org/
- [7]: https://twitter.com/share
+
 
 
 

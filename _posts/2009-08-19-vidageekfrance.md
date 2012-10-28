@@ -77,7 +77,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://bblfish.net/tmp/2004_09_29/titanium_azerty_keyboard.jpg "AZERTY"
  [5]: www.dtsato.com
  [6]: http://pt.wikipedia.org/wiki/Jardim_das_Plantas_de_Paris
- [7]: https://twitter.com/share
+
 
 
 

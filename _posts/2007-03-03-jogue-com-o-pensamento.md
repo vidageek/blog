@@ -31,7 +31,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://www.emotiv.com
  [2]: http://www.gdconf.com
  [3]: http://wnews.uol.com.br/site/techguru/ver.php?origem=1&idConteudo=1756
- [4]: https://twitter.com/share
+
 
 
 

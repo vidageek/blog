@@ -37,7 +37,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/wp-content/uploads/2009/10/lameiro-fabs-300x225.jpg "Dojo no Carro"
  [2]: http://groups.google.com/group/dojo_sp/?pli=1
  [3]: http://vidageek.net/2008/04/19/fisl-90-coding-dojo/
- [4]: https://twitter.com/share
+
 
 
 

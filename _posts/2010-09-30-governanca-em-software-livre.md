@@ -53,7 +53,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [5]: http://www.dominiopublico.gov.br/download/texto/tl000001.pdf
  [6]: http://www.debian.org
  [7]: http://www.github.com
- [8]: https://twitter.com/share
+
 
 
 

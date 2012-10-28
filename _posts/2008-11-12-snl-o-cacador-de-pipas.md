@@ -45,7 +45,7 @@ Esse livro é do tipo que marca , que deixa seu enredo cravado em algum canto da
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.lasalle.edu.br/medianeira/images/stories/pipas.JPG "Pipas"
- [2]: https://twitter.com/share
+
 
 
 

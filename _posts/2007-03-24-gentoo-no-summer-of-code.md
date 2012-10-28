@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://code.google.com/soc/ "Google Summer of Code"
  [5]: http://www.gentoo.org/proj/en/userrel/soc/ "Gentoo Summer of Code"
  [6]: http://www.gentoo.org/news/20070323-soc.xml "Gentoo Linux no Google Summer of Code"
- [7]: https://twitter.com/share
+
 
 
 

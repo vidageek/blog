@@ -46,7 +46,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://vidageek.net/wp-content/uploads/2008/10/alien-predador-chess-set.jpg
  [5]: http://vidageek.net/tags/geekstyleoflife/ "GeekStyleOfLife"
  [6]: http://vidageek.net/2008/09/28/xadrez-online/ "Xadrez Online"
- [7]: https://twitter.com/share
+
 
 
 

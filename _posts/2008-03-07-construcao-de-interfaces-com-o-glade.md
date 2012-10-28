@@ -39,7 +39,7 @@ Veja também o site oficial: <http://glade.gnome.org/>
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.cin.ufpe.br/~cinlug/wiki/index.php/Mantendo_A_Sanidade_Com_O_Glade
- [2]: https://twitter.com/share
+
 
 
 

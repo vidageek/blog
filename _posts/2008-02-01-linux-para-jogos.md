@@ -37,7 +37,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://www.transgaming.com/products/cedega/
  []: http://vidageek.net/wp-content/uploads/2008/01/screen_cedega01.jpg "Cedega"
  [6]: http://www.battlefield-heroes.com/
- [7]: https://twitter.com/share
+
 
 
 

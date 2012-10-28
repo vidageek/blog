@@ -55,7 +55,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.eventhelix.com/RealtimeMantra/Basics/OptimizingCAndCPPCode.htm#Minimize%20Local%20Variables
  [2]: http://www.numerix-dsp.com/appsnotes/c_coding.html
- [3]: https://twitter.com/share
+
 
 
 

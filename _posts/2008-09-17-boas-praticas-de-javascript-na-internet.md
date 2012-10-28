@@ -42,7 +42,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.smashingmagazine.com/2008/09/16/jquery-examples-and-best-practices/
  [3]: http://vidageek.net/2007/11/28/jquery-plugin/
  [4]: http://docs.jquery.com/Main_Page
- [5]: https://twitter.com/share
+
 
 
 

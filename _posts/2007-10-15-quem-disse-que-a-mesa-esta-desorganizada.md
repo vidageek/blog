@@ -54,7 +54,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://en.wikipedia.org/wiki/Splay_tree
  [5]: http://en.wikipedia.org/wiki/Cache
  [6]: http://en.wikipedia.org/wiki/AVL_tree
- [7]: https://twitter.com/share
+
 
 
 

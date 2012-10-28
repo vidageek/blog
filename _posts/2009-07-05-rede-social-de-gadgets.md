@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: http://twitter.com
  [4]: http://en.wikipedia.org/wiki/Veronica_Belmont
  [5]: http://features.gdgt.com/2009/07/01/introducing-gdgt/
- [6]: https://twitter.com/share
+
 
 
 

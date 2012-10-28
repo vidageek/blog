@@ -44,7 +44,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/01/_44340741_vest_300.jpg
  [2]: http://www.tngames.com/games.php
- [3]: https://twitter.com/share
+
 
 
 

@@ -76,7 +76,7 @@ WARNING!!!! Se você tem um repositório svn público e vai migrar para o [githu
 
  [1]: http://github.com
  [2]: http://vidageek.net/2009/06/15/como-descobrir-todos-que-commitaram-em-um-repositorio-svn/
- [3]: https://twitter.com/share
+
 
 
 

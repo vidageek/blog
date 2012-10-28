@@ -35,7 +35,7 @@ O sistema ainda tem que melhorar, mas deverá ser lançado comercialmente em 200
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://info.abril.com.br/aberto/infonews/022007/26022007-9.shl "Software promete detectar mentiras em e-mail"
- [2]: https://twitter.com/share
+
 
 
 

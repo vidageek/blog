@@ -52,7 +52,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: http://media.rubyonrails.org/video/rails_take2_with_sound.mov "Creating a weblog in 15 minutes"
  [4]: http://media.rubyonrails.org/video/flickr-rails-ajax.mov "Putting Flickr on Rails"
  [5]: http://simplesideias.com.br/ "Simples Ideias"
- [6]: https://twitter.com/share
+
 
 
 

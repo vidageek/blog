@@ -45,7 +45,7 @@ Já estou melhor depois desse desabafo. Mas ainda assusta.
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://vidageek.net/public/images/numero_cliques.png
- [2]: https://twitter.com/share
+
 
 
 

@@ -79,7 +79,7 @@ Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
  [7]: http://pt.wikipedia.org/wiki/Gram%C3%A1tica_de_cl%C3%A1usulas_definidas
  [8]: http://www.swi-prolog.org/
  [9]: http://www.lcad.icmc.usp.br/~nonato/ED/Coloracao/coloracao.html
- [10]: https://twitter.com/share
+
 
 
 

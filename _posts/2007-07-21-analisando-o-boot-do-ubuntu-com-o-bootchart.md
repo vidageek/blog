@@ -34,7 +34,7 @@ Depois basta reiniciar a máquina para que o gráfico seja gerado e então vá a
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2007/07/feisty-20070718-1.png "Bootchart"
- [2]: https://twitter.com/share
+
 
 
 

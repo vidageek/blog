@@ -32,7 +32,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2007/04/che-stallman-tshirt-show.jpg
  [2]: http://geekz.co.uk/shop/store/show/che-stallman-tshirt?gad10 "Camiseta do Stallman"
- [3]: https://twitter.com/share
+
 
 
 

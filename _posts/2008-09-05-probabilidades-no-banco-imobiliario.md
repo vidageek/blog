@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml "Probabilidades no Monopoly"
  [3]: http://vidageek.net/2008/08/22/o-jogo-da-vida/ "Life"
  [4]: http://flickr.com/photos/dayland/2435423314/ "DaylandS"
- [5]: https://twitter.com/share
+
 
 
 

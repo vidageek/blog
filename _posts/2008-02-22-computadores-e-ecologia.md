@@ -54,7 +54,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://climatecrisis.net
  [3]: http://www.storyofstuff.com
  [4]: http://www.natureba.com.br/
- [5]: https://twitter.com/share
+
 
 
 

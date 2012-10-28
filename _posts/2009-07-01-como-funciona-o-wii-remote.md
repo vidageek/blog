@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2009/06/nunchuk.jpg "Wii Remote e Nunchuk"
  [2]: http://www.ime.usp.br/~mjack
- [3]: https://twitter.com/share
+
 
 
 

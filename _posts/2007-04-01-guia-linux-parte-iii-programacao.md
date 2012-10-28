@@ -86,7 +86,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [6]: http://www.cs.dal.ca/studentservices/refcards/gdbref.pdf "GDB Quick Reference"
  [7]: http://www.netbeans.org/ "Site Oficial NetBeans"
  [8]: http://en.wikipedia.org/wiki/Bc_%28Unix%29 "bc na Wikipedia"
- [9]: https://twitter.com/share
+
 
 
 

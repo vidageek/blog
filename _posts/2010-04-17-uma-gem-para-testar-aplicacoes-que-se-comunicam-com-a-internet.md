@@ -62,7 +62,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [6]: http://fakeweb.rubyforge.org/
  [7]: http://pt.wikipedia.org/wiki/URI
  [8]: http://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol#M.C3.A9todos
- [9]: https://twitter.com/share
+
 
 
 

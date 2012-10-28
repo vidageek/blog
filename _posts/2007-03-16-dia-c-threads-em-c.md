@@ -50,7 +50,7 @@ Mas e se eu quiser produzir uma aplicação portável entre alguns desses sistem
 
  [1]: http://www.libsdl.org
  [2]: http://www.gnu.org/software/pth/
- [3]: https://twitter.com/share
+
 
 
 

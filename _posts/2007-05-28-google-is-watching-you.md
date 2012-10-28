@@ -60,7 +60,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/DoubleClick
  [2]: http://en.wikipedia.org/wiki/Nineteen_Eighty-Four
- [3]: https://twitter.com/share
+
 
 
 

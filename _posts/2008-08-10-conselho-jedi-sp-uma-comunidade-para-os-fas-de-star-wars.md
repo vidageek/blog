@@ -44,7 +44,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/wp-content/uploads/2008/08/star-wars-coin.jpg
  [2]: http://www.conselhosp.com.br/ "Conselho Jedi de São Paulo"
  [3]: http://flickr.com/photos/pagedooley/867767672/ "kevindooley"
- [4]: https://twitter.com/share
+
 
 
 

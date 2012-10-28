@@ -52,7 +52,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: http://vidageek.net/2008/08/27/linguagens-de-programacao-smalltalk/
  [4]: http://plentz.org/
  [5]: http://www.squeaksource.com/SSpec/
- [6]: https://twitter.com/share
+
 
 
 

@@ -37,7 +37,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://en.wikipedia.org/wiki/Aaron_Wall
  [2]: http://www.seobook.com/
  [3]: http://en.wikipedia.org/wiki/Search_engine_optimization
- [4]: https://twitter.com/share
+
 
 
 

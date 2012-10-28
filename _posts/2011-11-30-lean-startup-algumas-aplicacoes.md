@@ -65,7 +65,7 @@ Veja como ter um desconto no [Dreamhost][16]: um excelente servidor web.
  [9]: https://market.android.com/details?id=br.com.watermelongames.skikitty
  [10]: http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898
  [11]: http://vidageek.net/2011/11/30/curso-de-lean-startup/
- [12]: https://twitter.com/share
+
 
 
 

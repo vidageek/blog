@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/2007/03/15/guia-linux-parte-i-introducao/ "Guia Linux - Parte I: Introdução"
  [2]: http://linux-hotplug.sourceforge.net/ "Linux Hotplugging"
- [3]: https://twitter.com/share
+
 
 
 

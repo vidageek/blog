@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [3]: http://vidageek.net/2007/09/05/opensource-projects-archimedes/ "Archimedes"
  [4]: http://vidageek.net/2008/08/29/neooffice-um-openoffice-nativo-para-mac/ "NeoOffice"
  [5]: http://www.flickr.com/photos/amatuerphotographer/1466017836/ "Photo Gallery"
- [6]: https://twitter.com/share
+
 
 
 

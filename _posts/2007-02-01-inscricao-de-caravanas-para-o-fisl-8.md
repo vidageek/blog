@@ -30,7 +30,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://br-linux.org/
  [2]: http://fisl.softwarelivre.org/8.0 "http://fisl.softwarelivre.org/8.0"
- [3]: https://twitter.com/share
+
 
 
 

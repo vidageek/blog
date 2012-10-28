@@ -73,7 +73,7 @@ Não testei, mas deve ter o mesmo efeito. Explicando um pouco da mágica:
 
  [1]: http://vidageek.net/public/images/sem_branch.png
  [2]: http://vidageek.net/public/images/com_branch.png
- [3]: https://twitter.com/share
+
 
 
 

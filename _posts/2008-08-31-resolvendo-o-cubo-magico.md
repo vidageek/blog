@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://jpbrown.i8.com/cubesolver.html "página do CubeSolver"
  [5]: http://www.amazon.com/LEGO-4494799-Mindstorms-NXT/dp/B000E4FDAE/ref=pd_bbs_sr_1?ie=UTF8&s=toys-and-games&qid=1216994970&sr=8-1 "Amazon"
  [6]: http://www.rihappy.com.br/prodvar.aspx?cp=3013359&np=lego-mindstorms-next "Rihappy"
- [7]: https://twitter.com/share
+
 
 
 

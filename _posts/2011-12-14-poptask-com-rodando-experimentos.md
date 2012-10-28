@@ -53,7 +53,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://vidageek.net/wp-content/uploads/2011/12/20111214-1614301.jpg
  [3]: http://poptask.com
  [4]: http://f.cl.ly/items/2I341H3Y3B311a0i300B/Photo%202011-12-14%2017-51-50.jpg "Ser Empreendedor"
- [5]: https://twitter.com/share
+
 
 
 

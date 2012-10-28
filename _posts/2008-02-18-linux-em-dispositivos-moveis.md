@@ -49,7 +49,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [6]: http://tuxmobil.org/portable_players.html
  [7]: http://ipodlinux.org/Main_Page
  [8]: http://flickr.com/photos/pommesschranke/179007539/
- [9]: https://twitter.com/share
+
 
 
 

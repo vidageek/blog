@@ -59,7 +59,7 @@ Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
  [10]: http://c2.com/doc/oopsla89/paper.html
  [11]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.562
  [12]: http://vidageek.net/2008/08/11/linguagens-de-programacao/
- [13]: https://twitter.com/share
+
 
 
 

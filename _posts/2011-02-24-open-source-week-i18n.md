@@ -31,7 +31,7 @@ Mais informações em <http://projetos.vidageek.net/i18n>.
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://vidageek.net/2010/02/24/i18n-para-java/
- [2]: https://twitter.com/share
+
 
 
 

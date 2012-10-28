@@ -50,7 +50,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://www.c-jump.com "Caixa do Jogo C-Jump"
  [2]: http://www.c-jump.com
  [3]: http://desinutilidades.blogspot.com/
- [4]: https://twitter.com/share
+
 
 
 

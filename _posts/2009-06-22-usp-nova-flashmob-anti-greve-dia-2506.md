@@ -55,7 +55,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.orkut.com.br/Main#CommMsgs.aspx?cmm=35362&tid=5349161641509978921&na=1&nst=1
  [2]: http://www.orkut.com.br/Main#CommMsgs.aspx?cmm=35362&tid=5349430734103718728&na=1&nst=1
- [3]: https://twitter.com/share
+
 
 
 

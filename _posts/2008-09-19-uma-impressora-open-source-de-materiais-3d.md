@@ -42,7 +42,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://dev.www.reprap.org/bin/view/Main/WebHome "site oficial da RepRap"
  [3]: http://www.thinkgeek.com/blog/2008/08/the-shape-of-things-to-come.html "assunto"
  [4]: http://en.wikipedia.org/wiki/Skynet_(Terminator) "Skynet na Wikipedia"
- [5]: https://twitter.com/share
+
 
 
 

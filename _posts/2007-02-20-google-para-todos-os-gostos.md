@@ -61,7 +61,7 @@ Veja como ter um desconto no [Dreamhost][16]: um excelente servidor web.
  [9]: http://pages.google.com
  [10]: http://reader.google.com
  [11]: http://labs.google.com
- [12]: https://twitter.com/share
+
 
 
 

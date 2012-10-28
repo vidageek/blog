@@ -40,7 +40,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.tug.org
  [2]: http://www.tug.org/texinfohtml/tds.html#Top_002dlevel-directories
- [3]: https://twitter.com/share
+
 
 
 

@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://www.homestarrunner.com/sbemail143.html "Technology"
  [3]: http://www.homestarrunner.com/ "HomeStarRunner"
  [4]: http://en.wikipedia.org/wiki/Homestarrunner "HomeStarRunner na Wikipedia"
- [5]: https://twitter.com/share
+
 
 
 

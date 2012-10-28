@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://code.google.com/p/objenesis/
  [3]: http://projetos.vidageek.net/mirror/project/release-notes/
  [4]: http://projetos.vidageek.net/mirror/
- [5]: https://twitter.com/share
+
 
 
 

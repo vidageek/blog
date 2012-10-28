@@ -29,7 +29,7 @@ O site [Worth1000][1] abriu um concurso para fotomontagens de políticos drag qu
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.worth1000.com
- [2]: https://twitter.com/share
+
 
 
 

@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [6]: http://www.youtube.com/watch?v=ONkpzzB3C74
  [7]: http://www.youtube.com/watch?v=30h4uvsQYTM
  []: http://www.adaptworks.com.br/blog/2011/05/04/conversa-rapida-retrospectiva-e-palestras/
- [9]: https://twitter.com/share
+
 
 
 

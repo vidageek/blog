@@ -69,7 +69,7 @@ Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
  [8]: http://www.ime.usp.br/~verao/difusao.html#B.4
  [9]: http://www.ime.usp.br/~verao/horarios.html
  [10]: http://www.ime.usp.br/~verao/insc.html
- [11]: https://twitter.com/share
+
 
 
 

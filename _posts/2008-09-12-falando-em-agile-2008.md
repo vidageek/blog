@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://vidageek.net/2008/04/25/fisl-90-desenvolvimento-agil-com-scrum-e-xp/
  [3]: http://www.falandoemagile.com.br
  [4]: http://guj.com.br/posts/list/102596.java
- [5]: https://twitter.com/share
+
 
 
 

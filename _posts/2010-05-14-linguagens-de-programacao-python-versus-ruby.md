@@ -69,7 +69,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [4]: http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/2773
  [5]: http://ar.rubyonrails.org/
  [6]: http://api.rubyonrails.org/classes/ActiveRecord/Base.html
- [7]: https://twitter.com/share
+
 
 
 

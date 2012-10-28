@@ -36,7 +36,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/wp-content/uploads/2009/01/stumbleupon-logo.jpg
 
  [3]: http://www.stumbleupon.com/ "StumbleUpon"
- [4]: https://twitter.com/share
+
 
 
 

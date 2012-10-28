@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: /public/criar_bucket.png
  [3]: /public/habilitar_site.png
  [4]: http://wwwizer.com/naked-domain-redirect
- [5]: https://twitter.com/share
+
 
 
 

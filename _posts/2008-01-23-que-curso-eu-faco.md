@@ -48,7 +48,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/wp-content/uploads/2008/01/duvidas.jpg
  [2]: http://www.icmc.sc.usp.br/~masiero/nomesist.htm
  [3]: http://www.infowester.com/col290804.php
- [4]: https://twitter.com/share
+
 
 
 

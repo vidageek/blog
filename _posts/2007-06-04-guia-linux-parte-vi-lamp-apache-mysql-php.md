@@ -89,7 +89,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [5]: http://gentoo-wiki.com/MySQL/Install "MySQL Install"
  [6]: http://www.php.net/ "PHP Site Oficial"
  [7]: http://www.vidageek.net/2007/05/22/rails-vs-java-e-php/ "Rails vs Java e PHP"
- [8]: https://twitter.com/share
+
 
 
 

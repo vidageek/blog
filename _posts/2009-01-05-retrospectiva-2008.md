@@ -417,7 +417,7 @@ Veja como ter um desconto no [Dreamhost][101]: um excelente servidor web.
  [94]: http://vidageek.net/2008/04/26/fisl-90-introducing-google-summer-of-code/
  [95]: http://vidageek.net/2008/04/25/fisl-90-desenvolvimento-agil-com-scrum-e-xp/
  [96]: http://vidageek.net/2008/04/19/fisl-90-entrando-nos-trilhos-introducao-a-ruby-on-rails/
- [97]: https://twitter.com/share
+
 
 
 

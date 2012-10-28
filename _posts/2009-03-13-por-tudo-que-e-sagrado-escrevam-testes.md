@@ -70,7 +70,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://agilemanifesto.org/
  [2]: http://lmgtfy.com/?q=Unit+testing+frameworks&l=1
- [3]: https://twitter.com/share
+
 
 
 

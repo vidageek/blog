@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://vidageek.net/2007/11/05/combatendo-spammers/
  [3]: http://akismet.com/
  [4]: http://3spam.com/
- [5]: https://twitter.com/share
+
 
 
 

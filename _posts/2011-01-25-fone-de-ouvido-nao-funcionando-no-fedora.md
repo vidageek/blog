@@ -50,7 +50,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/2011/01/08/meu-ambiente-de-desenvolvimento-em-7-itens-luiz/
  [2]: https://bugzilla.redhat.com/show_bug.cgi?id=603929
  [3]: http://www.kernel.org/doc/Documentation/sound/alsa/HD-Audio-Models.txt
- [4]: https://twitter.com/share
+
 
 
 

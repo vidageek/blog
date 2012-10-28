@@ -46,7 +46,7 @@ Veja como ter um desconto no [Dreamhost][16]: um excelente servidor web.
  [9]: http://br.linkedin.com/pub/camila-mariano/14/942/bb0
  [10]: http://twitter.com/#!/grazigrandi
  [11]: http://www.adaptworks.com.br
- [12]: https://twitter.com/share
+
 
 
 

@@ -53,7 +53,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [6]: http://www.procurandocursos.com.br
  [7]: https://github.com/adaptideas/scraper
  [8]: http://www.adaptideas.com.br
- [9]: https://twitter.com/share
+
 
 
 

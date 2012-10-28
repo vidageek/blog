@@ -41,7 +41,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/2007/08/29/o-mal-dos-programadores/
  [2]: http://www.bodhidharma.com.br/portugues/iaido.htm
  [3]: http://www.bodhidharma.com.br/portugues/neikung.htm
- [4]: https://twitter.com/share
+
 
 
 

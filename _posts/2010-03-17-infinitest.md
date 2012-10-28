@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://vidageek.net/2010/01/17/um-caso-de-odio-e-talvez-um-pouco-de-amor-tambem-conhecido-como-automatizadores-de-build/
  [2]: http://infinitest.org
  [3]: http://projetos.vidageek.net/mirror-pt/mirror
- [4]: https://twitter.com/share
+
 
 
 

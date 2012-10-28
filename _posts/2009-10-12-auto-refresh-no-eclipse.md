@@ -32,7 +32,7 @@ Você só precisa ir em Preferences -> General -> Workspace e marcar refresh aut
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://misko.hevery.com/
- [2]: https://twitter.com/share
+
 
 
 

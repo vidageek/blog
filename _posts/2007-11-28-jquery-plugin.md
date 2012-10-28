@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://eyebulb.com/public/dropshadow.htm
  [2]: http://vidageek.net/public/images/dropshadow.png
  [3]: https://addons.mozilla.org/en-US/firefox/addon/1843
- [4]: https://twitter.com/share
+
 
 
 

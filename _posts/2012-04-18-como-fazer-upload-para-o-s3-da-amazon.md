@@ -61,7 +61,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://aws.amazon.com/s3/
  [3]: http://timkay.com/aws/
  [4]: https://github.com/jonasabreu/performance/blob/master/deploy.sh
- [5]: https://twitter.com/share
+
 
 
 

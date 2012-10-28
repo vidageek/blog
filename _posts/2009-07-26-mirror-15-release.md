@@ -56,7 +56,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://projetos.vidageek.net/mirror-pt
  [2]: http://projetos.vidageek.net/mirror-pt/projeto/release-notes/
- [3]: https://twitter.com/share
+
 
 
 

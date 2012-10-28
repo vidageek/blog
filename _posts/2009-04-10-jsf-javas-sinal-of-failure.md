@@ -44,7 +44,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/2007/08/03/snl-a-arte-da-guerra/
  [2]: http://vidageek.net/2008/02/25/inc-isso-nao-compila/
- [3]: https://twitter.com/share
+
 
 
 

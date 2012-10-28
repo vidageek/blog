@@ -71,7 +71,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [2]: http://en.wikipedia.org/wiki/Application_programming_interface "Application programming interface"
  [3]: http://projetos.vidageek.net/mirror/
  []: http://reblog.zemanta.com/zemified/50d3c366-3064-49ca-b9fb-8f796e76b7e1/ "Zemified by Zemanta"
- [5]: https://twitter.com/share
+
 
 
 

@@ -41,7 +41,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [1]: http://pt.wikipedia.org/wiki/Unicode
  [2]: http://pt.wikipedia.org/wiki/Kanji
  [3]: http://www.tamasoft.co.jp/en/general-info/unicode.html
- [4]: https://twitter.com/share
+
 
 
 

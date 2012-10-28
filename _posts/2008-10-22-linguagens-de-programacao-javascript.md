@@ -61,7 +61,7 @@ Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
  [7]: http://www.prototypejs.org/
  [8]: http://www.mozilla.org/rhino/
  [9]: http://code.google.com/p/v8/
- [10]: https://twitter.com/share
+
 
 
 

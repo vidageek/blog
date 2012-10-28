@@ -40,7 +40,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/terrorista.png
  [2]: http://flickr.com/photos/itzafineday/195795108/
- [3]: https://twitter.com/share
+
 
 
 

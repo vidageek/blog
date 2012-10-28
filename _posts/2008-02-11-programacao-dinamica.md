@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_din%C3%A2mica
  [2]: http://vidageek.net/wp-content/uploads/2008/02/progdin.pdf "Programação Dinâmica"
- [3]: https://twitter.com/share
+
 
 
 
