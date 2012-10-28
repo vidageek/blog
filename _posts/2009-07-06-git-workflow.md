@@ -94,5 +94,5 @@ Me atrapalhei um pouco no começo por não entender os conceitos por trás de re
  [2]: https://twitter.com/share
  [3]: http://feeds.feedburner.com/VidaGeek
  [4]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
- [5]: http://twitter.com/blogvidageek
+
 

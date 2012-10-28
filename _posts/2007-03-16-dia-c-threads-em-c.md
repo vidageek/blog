@@ -53,5 +53,5 @@ Mas e se eu quiser produzir uma aplicação portável entre alguns desses sistem
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
  [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
- [6]: http://twitter.com/blogvidageek
+
 
