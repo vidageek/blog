@@ -37,7 +37,7 @@ Uma das coisas que as pessoas criticam muito no livro é seu tamanho. Na minha e
 
 Mesmo que você não goste de ler, ou ache que vai morrer antes de terminar, recomendo muito este livro. Melhor morrer no meio dele do que nunca começar a lê-lo.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

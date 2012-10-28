@@ -23,7 +23,7 @@ O [ConnectArt][3] é mais inovador. A proposta é colocar, num grande museu da c
 Por fim, o [ConnectUSP][4] é uma ótima opção para todos que frequentam a Universidade de São Paulo, na zona oeste: internet sem fio de graça no campus inteiro. Apesar de ser o “menos cultural” dos presentes (dependendo do ponto de vista), parece ser o mais útil, já que a internet sem fio no campus não é das melhores. Existem alguns pontos de acesso, mas são limitados para estudantes da USP devidamente cadastrados ou são pagos.
 
 Enfim, uma proposta muito legal da Nokia. Para escolher qual deles você prefere, basta entrar no site da [Nokia Store SP][1] a partir do dia 19. A cidade vai sair ganhando! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

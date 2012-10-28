@@ -55,7 +55,7 @@ O Gentoo enfim liberou sua versão 2007.0 para download e publicou um press rele
 > Tanto o x86 quanto o AMD64 também trazem hardened stages e non-hardened stages nesse lançamento. Hardened stages ainda usam GCC 3.4.6 e Glibc 2.3.6, mas é possível atualizar de hardened para non-hardened stages, se necessário.
 
 Você pode escolher sua ISO e baixá-la no [gentoo.org][1] ou em [torrents][2]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

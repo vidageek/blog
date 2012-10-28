@@ -32,7 +32,7 @@ Levanto, especialmente, um ponto que o palestrante ressaltou como bom e no qual 
 Talvez por conviver com muitas pessoas boas com baixa auto-estima com relação ao seu trabalho, eu acho que o ponto positivo do Scrum é exatamente sua característica antitésica: ver os resultados do seu trabalho rapidamente te deixa mais contente. Quanto à *peer-pression*, acho que ela ser positiva ou negativa depende única e exclusivamente do grupo com o qual se trabalha. Além disso, acredito que essa nova forma de pressão não deveria ser o filtro de qualidade dos programadores de um projeto.
 
 Se o foco era uma palestra introdutória, como os temas abordados sugerem, eu esperaria que a “propaganda” dessas metodologias fosse melhor feita. A impressão que fica é de que a palestra deveria participar da trilha de Casos/Soluções e não de Desenvolvimento: ferramentas/metodologia. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

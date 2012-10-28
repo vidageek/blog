@@ -40,7 +40,7 @@ Com tudo isso, é possível fazer algumas “bizarrices” não recomendadas, ma
 *   Da pra fazer várias outras mágicas com ponteiros em C, mas com essas três já é possível fazer muita coisa.
 
 Próxima semana: Algoritmos genéricos em C 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

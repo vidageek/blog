@@ -32,7 +32,7 @@ postsuper -d ALL<br />
 O ‘-d’ especifica quais e-mails da lista remover. Você pode ver o código na saída do comando ‘mailq’.
 
 Ufa! Quase lotei a caixa de e-mails de alguém… 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

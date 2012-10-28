@@ -36,7 +36,7 @@ Já o [HowToGeek][4] apresenta um *post* contendo uma série de atalhos de tecla
 Pode-se utilizar ainda o [Linux bash commands – MAN pages][5] que lista os comandos do bash e permite consultar o manual de cada um deles. Não se esqueça que você pode consultar o manual de vários programas e comandos através do comando `man programa`.
 
 Além deste *sites*, nos já publicamos alguns *posts* sobre o bash. O [“Aprenda comandos básicos de Linux][6]” indica um manual de uma página com os comandos mais importantes do bash. O “[Turbinando o terminal][7]” indica como deixar o seu terminal mais bonito e com *aliases* para evitar a digitação de grandes comandos que são freqüentemente utilizados. E por último temos o *post* [Um pouco de bash][8] que aborda comandos básicos e algumas dicas deste *shell*. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -78,7 +78,7 @@ Na sessão de perguntas, duas merecem destaque:
 > Começou com ele, alguns estudantes começaram a participar, alguns indianos, ainda é um esforço um tanto pequeno, tem uns 12 estudantes full time nisso. começou propriamente em 2006 e ainda estamos começando.
 
 Novamente, excelente palestra. Será disponibilizada em breve no site do [Centro de Competência em Software Livre][3] do IME/USP, a filmagem. Assim que for disponibilizado, colocaremos aqui o link para esse vídeo. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

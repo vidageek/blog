@@ -25,7 +25,7 @@ Muitas vezes os novos usuários de Linux não conseguem ver ganhos significativo
 - Excel 2003 (no Wine);
 
 Vale a pena dar uma olhada. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

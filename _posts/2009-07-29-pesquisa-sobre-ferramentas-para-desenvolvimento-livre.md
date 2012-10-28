@@ -30,7 +30,7 @@ Minha pesquisa procura identificar problemas de comunicação existentes em ambi
 Os resultados serão divulgados publicamente (em inglês) quando a pesquisa for completada e integrarão minha dissertação de mestrado (em português).
 
 Agradeço desde já pela ajuda de todos e espero que façam um bem para a comunidade acadêmica: respondam questionários! :-) 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

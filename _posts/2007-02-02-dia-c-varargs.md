@@ -43,7 +43,7 @@ Isso pode parecer meio confuso, mas depois que você aprende a usar você nota q
 Maiores informações: man stdarg (Para usuários de sistemas Unix), stdarg -> Google (Para qualquer usuário).
 
 Próxima semana, ponteiros de funções. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

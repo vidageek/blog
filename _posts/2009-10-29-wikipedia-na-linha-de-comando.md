@@ -28,7 +28,7 @@ vejo:
 Note que no final ainda há um link para o artigo inteiro na wikipedia.
 
 Uma mão na roda :-). [Para quem quer a fonte de onde encontrei isso, aqui vai.][1] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

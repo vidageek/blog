@@ -18,7 +18,7 @@ O comercial inteiro era muito sarcástico, afirmando que “quem ama bloqueia”
 Esse comercial mostra uma provável mudança de tendência sobre os DRM (Digital Rights Management). Afinal, você não está preso ao chip deles. Você pode mudar de operadora sem precisar trocar de celular. E isso ainda será lucrativo para a empresa (o objetivo deles é o lucro, não é?). Se não fosse, não gastariam dinheiro com propaganda.
 
 É muito interessante ver uma empresa posicionando-se (pelo menos parte) a favor da liberdade de escolha de seus usuários. Quem sabe isso não se torna mais comum? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

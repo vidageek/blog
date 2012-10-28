@@ -21,7 +21,7 @@ Essa versão trás muitas pequenas melhorias para o dia a dia (como refletir um 
 
 [Lista completa de mudanças][3].   
 [Página Oficial][4]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

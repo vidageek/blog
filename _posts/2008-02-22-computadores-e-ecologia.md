@@ -36,7 +36,7 @@ Fora o consumo de energia, todos nós podemos tomar medidas para diminuir nossa 
 *   [Story of Stuff][3]: site com um documentário rápido (20 min.) sobre o destino das coisas. Muito interessante! Em inglês. Obrigado ao Fabricio Sousa Nascimento pelo link.
 *   [Natureba][4]: site sobre as diversas medidas que podemos tomar para diminuir o estrago no meio ambiente. Em português.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -39,7 +39,7 @@ E isso afeta a comunidade de software livre?
 Finalmente, o palestrante citou outras licensas encontradas pelo mundo (OMPI e DMCA, particularmente na Europa) e incentivou-nos a exigir motivos para as licensas. Também ressaltou a importância da luta contra a DMCA, licensa que já foi aceita em alguns países e tende a migrar, agora.
 
 Claramente, Seth Schoen se levanta contra as licensas abusivamente restritivas e convida todos a se informar no site da [Electronic Frontier Foundation][1]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

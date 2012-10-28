@@ -101,7 +101,7 @@ Similarmente, as linhas que recebem somente *\hline* servem para fazer as linhas
 Pronto! Agora você já tem todas as ferramentas que precisa para escrever 90% dos textos com os quais você vai se deparar. Experimente tranformar seu último texto escolar ou relatório do trabalho em LaTeX e veja a qualidade da saída em .pdf.
 
 Na próxima parte desse tutorial, veremos como colocar imagens em latex, importando ou construindo-as programativamente, direto em LaTeX. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

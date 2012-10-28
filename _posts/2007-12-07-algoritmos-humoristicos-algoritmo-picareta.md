@@ -34,7 +34,7 @@ Alguns exemplos de usos bem sucedidos (e vários ainda estão rodando):
 *   Nradesco.com.br – Infelizmente este site saiu do ar, mas era muito interessante a forma como ele resolveu pescar seus usuário. Nunca uma simples letra fez tanta diferença. (Pros que ainda não entenderam olhem pro seu teclado – Qwert – e vejam onde fica o ‘B’ e o ‘N’).
 
 Esses são apenas os casos de sucesso que eu conheço. Garanto que existem muitos outros. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

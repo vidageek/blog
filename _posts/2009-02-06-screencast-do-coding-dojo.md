@@ -21,7 +21,7 @@ Este é apenas um trecho do evento, mas serve para demonstrar as técnicas utili
 
 Mais informações podem ser obtidas no [site oficial do Coding Dojo São Paulo][4] e através da [lista de discussão][5]. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

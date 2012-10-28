@@ -47,7 +47,7 @@ Em compiladores padrão GNUC (verifique a existência da constante \_\_GNUC\_\_)
 Mais informações: C Keywords -> Google
 
 Próxima semana: Estratégias de Depuração. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

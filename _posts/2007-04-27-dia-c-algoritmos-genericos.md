@@ -32,7 +32,7 @@ Antes de implementar um algorítmo genérico, recomendo que olhem os posts sobre
 Mais informações: Boa pergunta… Nunca encontrei nada sobre isso. Deixem um comentário ou mandem um e-mail pra mim.
 
 Próximo post: Tunning 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

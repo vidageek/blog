@@ -38,7 +38,7 @@ Para ler mais:
 Se você não quiser ter todo esse trabalho, o pessoal do **[random.org][1]** fornece bits aleatórios para você, de graça, e você pode até pegá-los em tempo real para sua aplicação Java.
 
 Tem também o [**LavaRnd**][2], onde eles usam um [sensor CCD][3] (como o que há em uma webcam) como fonte caótica, e têm um [projeto no Sourceforge][4] que contará com o código fonte necessário para todo mundo gerar seus próprios bits aleatórios. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

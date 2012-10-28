@@ -26,7 +26,7 @@ Em vez de “reinventar a roda”, basta usar uma das muitas *Libraries* dispon�
 Além disso, outras [ferramentas][5] que podem ser úteis são o InteliJ Debug e o Firebug, um addon pra Firefox muito útil – particularmente para experimentar *.css.
 
 Ainda outras alternativas ao Ajax foram citadas. Entre elas: [JBoss com Ajax4jsf][6], [Tapestry][7], [Wicket][5] e [Ruby on Rails com RJS][8]. Pra quem abomina JavaScript, vale a pena dar uma olhada! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

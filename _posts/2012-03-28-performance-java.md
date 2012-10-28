@@ -20,7 +20,7 @@ Assim surgiu o [Performance Java][1].
 Ainda tem pouco conteúdo (uns 10 posts) mas já tem pelo menos mais uns 30 à caminho.
 
 P.s.: O mais legal é que o site foi feito com [Jekyll][2] e está hospedado no [S3 da Amazon][3]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

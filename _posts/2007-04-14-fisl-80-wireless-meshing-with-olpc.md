@@ -34,7 +34,7 @@ Até o momento, o OLPC com Wireless Meshing é capaz de descobrir caminhos que e
 No fim da palestra, ouve uma demonstração da rede em mesh usada pra enviar um sinal musical para outro. Três XOs foram usado na demonstração sobre área de cobertura. Um deles saiu da área de cobertura, enquanto os outros se mantiam lado a lado. Quando a música cessou, o segundo foi caminhando até a meia distância entre a fonte e o falante da música e pudemos ver a rede de mesh funcionando.
 
 Após a grande sessão de aplausos, a palestra se encerrou. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

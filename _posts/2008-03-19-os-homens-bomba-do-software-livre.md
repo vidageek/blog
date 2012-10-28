@@ -24,7 +24,7 @@ Em suma, apoio o software livre, utilizo o Linux a muito tempo (desde do **Slack
 
 [Foto original][2] por ItzaFineDay. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -39,7 +39,7 @@ Mas, se depois de fazer tudo isso, seu código ainda não roda em tempo satisfat
 Mais informações: [Optimizing C and Cpp][1] e [C Coding][2]
 
 Próximo post: ??? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

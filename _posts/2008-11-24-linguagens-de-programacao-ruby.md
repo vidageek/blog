@@ -38,7 +38,7 @@ Esse post foi escrito por Rodrigo Flores, um aluno de ciência da computação d
 Foto por [elliottcable][7].  
 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -26,7 +26,7 @@ A Stanford University é, com certeza, uma das mais bem conceituadas universidad
 
 Espero que tenham gostado tanto quanto eu.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

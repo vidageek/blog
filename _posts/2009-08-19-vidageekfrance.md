@@ -57,7 +57,7 @@ Qualquer lugar que eu paro na cidade tem Wireless (umas 30 redes). Os provedores
 Bom, por hoje só essas coisinhas do cotidiano. Em breve devo ir ao Dojo aqui em Paris e outras atividades para contar mais para vocês.
 
 Se tiverem alguma dúvida sobre como algo funciona por aqui, é só deixar nos comentários. Abraços. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -21,7 +21,7 @@ Uma matéria saiu hoje na Folha Online na sessão de Informática, dizendo que a
 Bom, pela minha própria experiência com a cultura chinesa é bem capaz de emplacar, principalmente pelo fato de que o Chineses (até aonde vai meu limitado conhecimento) não gostam muito de perder sua cultura, e o IE é obviamente um software americano, enquanto o Firefox pode ser adaptado da forma que eles preferirem.
 
 [Via [Folha Online-Informática][1]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

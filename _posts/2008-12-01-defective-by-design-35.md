@@ -33,7 +33,7 @@ Eu sou um grande fã dos produtos da Apple, e sempre tive boa fé na empresa. No
 Minha mãe estava prestes a ganhar um macmini neste natal, ele não vem com nenhum drm até onde eu saiba, mas ainda assim estou vendo que ela vai ter que se contentar com algum hardware da efigênia, com Ubuntu 8.10, e não vai ser por causa da alta do dólar.
 
 Mudando um pouco o assunto, já que falei do Ubuntu, essa semana eu participei de uma palestra com Christian Reis, que trabalha para Canonical(criadora do Ubuntu). O Kiko é responsável pela coordenação de 35 engenheiros remotos na produção do [Launchpad][10], um trabalho bem interessante, que vai dar um ótimo post no futuro próximo :-). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

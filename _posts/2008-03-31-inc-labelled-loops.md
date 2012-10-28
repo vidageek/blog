@@ -59,7 +59,7 @@ Quando você rodar esse código feio e nojento, a saída será:
     
 
 Fiz o código bem feio pra deixar bem claro que embora exista, isso não deve ser usado nos seus códigos. Um simples break já pode causar confusão. Imaginem um monte de break e continue com uma palavra na frente. Você praticamente está condenando seu projeto ao fracasso (por que dois dias mais tarde você não conseguirá entender o que está escrito). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

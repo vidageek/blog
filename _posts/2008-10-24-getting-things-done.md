@@ -27,7 +27,7 @@ O que é mais legal, é que se você está acostumado com ferramentas como o [Re
 Eu tenho usado a metodologia, junto com o iGTD tem um mês e meio. Logo depois da primeira semana usando o GTD eu já me senti bem mais tranquilo, e passei a me estressar bem menos. No começo eu estava relutante em aceitar as idéias, mas depois as coisas melhoraram bastante. Acho que o sinal de sucesso mais evidente é de que eu tenho conseguido fazer todas as minhas tarefas e ainda arranjar tempo livre para atividades que nem entravam na minha lista, como ler e ir ao parque. Tomara que continue assim quando as provas chegarem ^.^.
 
 Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro do grupo de pesquisa do projeto Integrade, é aluno do terceiro ano de ciência da computação pelo **IME/USP**. E teoricamente mantém o [blog do fabs][8]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

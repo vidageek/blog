@@ -52,7 +52,7 @@ Guilherme Silveira, o primeiro colocado no Qualifying e um dos ganhadores da Are
 > Fora isso, o racicionio logico e a abstração que a pesquisa na area de matematica te da ajuda muito no momento de visualizar o codigo do seu programa e detectar seus pontos fortes e fracos, antes mesmo de encostar no teclado.
 
 Muito obrigado, Guilherme. Parabéns por mais essa vitória! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

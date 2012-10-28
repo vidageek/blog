@@ -33,7 +33,7 @@ Semana passada, Michael Feathers publicou um [post][1] no blog da ObjectMentor o
 10. [Programming as an Experience: the inspiration for Self][11] – David Ungar, Randall B. Smith: um artigo sobre o projeto da linguagem Self, que surgiu com o objetivo de melhorar a experiência do desenvolvimento de *software* e que inovou, em muitos aspectos, o conhecimento sobre linguagens de programação. (Quem sabe teremos um post sobre Self na série “[Linguagens de Programação][12]” qualquer dia?)
 
 Essa é a lista original publicada no post, com os comentários sobre os artigos adaptados e traduzidos. É claro, há diversos outros artigos muito bons nos quais vale a pena dar uma olhada. Qual você adicionaria/removeria? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

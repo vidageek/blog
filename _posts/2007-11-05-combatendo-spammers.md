@@ -21,7 +21,7 @@ Para evitar prejuízo (como vítimas de bloqueios indevidos) para os leitores do
 
 Quando eu comecei a bloquear não esperava resultados tão rápido. A partir dessa semana vou começar a registrar a evolução do número de spams, e caso isso não tenha sido um movimento sazonal, postarei dados concretos sobre isso.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -29,7 +29,7 @@ Minhas permissões para a pasta .ssh estavam erradas. Isso acontece porque eu cr
 É aqui que mora o perigo. Chaves publicas realmente não tem problema que sejam lidas, afinal são publicas. O problema é a sua chave privada. Essa não deve estar acessível por razão alguma. Se outras pessoas podem ler sua chave privada, elas podem se passar por você.
 
 Por causa disso, o ssh checa quais são as permissões do diretório .ssh . Se outros usuários puderem ler sua chave, ele considera ela como comprometida e simplesmente a ignora. O problema é que ele ignora de forma completamente silenciosa. Daí você perde os cabelos procurando pelo problema (nem mesmo rodando no modo verboso ele informa sobre isso). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

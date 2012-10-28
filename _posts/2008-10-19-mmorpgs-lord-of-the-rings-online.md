@@ -26,7 +26,7 @@ Foto por [Dunechaser][4].
 
 P.S.: Procure no Flickr por “LOTR Lego” para muitas risadas. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

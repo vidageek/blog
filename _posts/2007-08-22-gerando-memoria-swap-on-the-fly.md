@@ -31,7 +31,7 @@ swapon container<br />
 `
 
 **Atenção:** Isso não faz com que essa memória de swap esteja disponível após um reboot. Para isso você deve adicionar o swapon container nos scripts de inicialização do seu sistema. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

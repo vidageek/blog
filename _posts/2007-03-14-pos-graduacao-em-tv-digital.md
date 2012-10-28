@@ -16,7 +16,7 @@ A [Unesp][1] (Universidade Estadual Paulista) apresentou ao [Capes][2] (Coordena
 A Unesp possui concessão (desde 2006) para operar um canal de TV digital e espera que essa disciplina ajude a selecionar pessoas para a implementação deste canal.
 
 Mais informações:**[Uol][3]**. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

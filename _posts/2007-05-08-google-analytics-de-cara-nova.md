@@ -20,7 +20,7 @@ Além da maioria desses relatórios possuirem links diretos para exibição de m
 *   Um localizador de relatórios (para ajudar na migração da interface antiga para a nova)
 
 A interface antiga ainda continuará sendo acessível por pelo menos um mês. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

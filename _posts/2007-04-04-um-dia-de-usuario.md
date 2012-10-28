@@ -31,7 +31,7 @@ Em dias como esse (e para evitar suicídio entre programadores) voce pode alivia
 Todos os sites acima estão em inglês. Mas se você não sabe falar inglês, não se mate ainda. Você provavelmente vai rir mais ainda se você usar o [Google Translate][7] para traduzir esses sites.
 
 Além disso, se você usa algum sistema Unix, pode passar horas a fio lendo o fortune. Basta digitar fortune no seu terminal. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

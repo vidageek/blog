@@ -18,7 +18,7 @@ O problema é que a Microsoft vai conseguir pessoas que usem esses serviços, po
 Particularmente eu acho uma campanha despreparada para um produto superflúo. Os produtos Live não irão mudar meu estilo de vida, assim como nenhum produto no mundo. Mas em suma, para quem não é computólogo, provavelmente o comercial passou batido. Na cabeça do usuário simples a Microsoft faz o Windows e o Word, a Google faz pesquisa e o Terra ou o Uol lhe permite ver e-mails.
 
 Minha dica é: Vá assistir esse maravilhoso filme do Will Smith, e aproveite para ir comprar pipoca na hora do comercial do Windows Live. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -29,7 +29,7 @@ Quem sabe a **Marvel** não se empolga e lança um jogo ainda melhor?
 Imagem por [kagey_b][5]  
 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -16,7 +16,7 @@ A Estônia será o primeiro pais do mundo a permitir votação pela internet, na
 Especialistas estimam que entre 20 e 40 mil eleitores (são 940 mil, ao total) votarão via internet entre 26 e 28 de fevereiro.
 
 Mais informações: **[Folha Online][1]**. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

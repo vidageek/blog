@@ -44,7 +44,7 @@ Em suma, a palestra foi bastante abrangente. Além do acima citado, Rishab comen
 *   [FLOSS – US survey][7]
 
 Foto original da [página][8] pessoal de Rishab Aiyer Ghosh na UNU-MERIT. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

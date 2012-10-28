@@ -26,7 +26,7 @@ As peças são feitas em alumínio fundido a frio e são polidas a mão, mas o p
 
 Recentemente publicamos aqui no [GeekStyleOfLife][5] um [*post* sobre o Chess.com][6], uma rede social para jogadores de xadrez. No *post* explico mais sobre o site, que permite a participação de torneios e jogos entre amigos. Sinta-se a vontade para me desafiar para um jogo. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

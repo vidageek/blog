@@ -26,7 +26,7 @@ Sabe se lá porque, a Apple escondeu a opção de sincronização de contatos ap
 Salve o arquivo e abra o AdressBook, e vc vai ganhar o menu de sincronização do gmail. Apareceu na minha barra também um ícone de sincronização (o mesmo usado para o Mobile Me), e quando eu mando sincronizar ele sincroniza meu n95, meu AddressBook e os contatos do Gmail. Se o Ícone não aparecer para você, abrir o ISync pode ajudar.
 
 Explicando um pouco mais, parece que basta que o arquivo com.apple.iPhod.plist tenha qualquer dispositivo com o Family ID = 10001, então se vc tiver ipod ou alguma outra coisa sincronizada, basta mudar o ID. Se você tem um Iphone, a opção já deve estar lá. Por fim, eu achei que remover o conteúdo e trocar por essa linha ia causar algum problema com a sincronização do meu IPod Shuffle, mas no final das contas quando conetei ele o Itunes simplesmente arrumou a configuração. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

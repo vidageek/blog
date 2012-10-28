@@ -74,7 +74,7 @@ Então, até agora sabemos usar o cabeçalho e o que significa o que você escre
 
 Tente escrever texto aqui!  
 \end{document} 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

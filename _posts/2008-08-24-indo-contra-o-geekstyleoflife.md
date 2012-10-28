@@ -24,7 +24,7 @@ Isso aconteceu porque o Iaido exige muito do braço direito. Graças a isso eu p
 
 Com os treinos minha musculatura está voltando vagarosamente a um ponto razoável. Além disso me sinto muito mais disposto durante o dia inteiro. Acho que nesse aspecto, estou abandonando completamente o estilo Geek (afinal, exercício é coisa pra quem não sabe escovar bits!).
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

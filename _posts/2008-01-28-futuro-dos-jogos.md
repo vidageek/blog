@@ -28,7 +28,7 @@ Outra bastante interessante é um conjunto de peças de roupa, desenvolvido pela
 Com esse colete, você pode ter a sensação de tomar um tiro, um soco, ou então de estar voando, pisando fundo no carro etc. É como um force feedback para nosso corpo. Essa tecnologia já está disponível em alguns jogos (veja a lista [aqui][2]).
 
 Agora só falta os desenvolvedores de jogos utilizarem essas tecnologias! :) 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

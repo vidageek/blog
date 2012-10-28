@@ -21,7 +21,7 @@ Tomar parte em um jogo cujo andamento envolve mudar o próprio jogo pode ser uma
 Outro jogo que usa o conceito de mudar as próprias regras, embora o faça de modo controlado, é [Fluxx][4], da Looney Labs. Trata-se de um jogo de cartas, que começa com cada um comprando e jogando uma única carta em seu turno. Entretanto, cartas de regras podem alterar significativamente o andar das coisas: você pode acabar tendo que comprar três cartas, jogar cinco (a primeira das quais escolhida aleatoriamente), com os turnos rodando no sentido inverso, e descartar até ficar com duas cartas, além do objetivo do jogo mudar.
 
 Alguns outros jogos que merecem menção, embora não mudem as regras em si, mas por partilhar o espírito de reinvenção contínua, são [Dvorak][5], no qual cartas – e seus efeitos – são definidas pelos jogadores, até mesmo durante o jogo e [1000 Blank Cards][6], um jogo no melhor espírito discordiano. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

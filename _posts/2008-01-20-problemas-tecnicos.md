@@ -15,7 +15,7 @@ Alguns leitores viram mensagens de erros por causa de alguns plugins, um post fa
 Gostaria de pedir desculpas a todos os leitores por causa desses problemas. Espero que não se repitam no futuro.
 
 Obrigado pela compreensão. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

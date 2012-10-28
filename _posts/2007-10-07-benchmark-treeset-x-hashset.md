@@ -100,7 +100,7 @@ Vejam a diferença assustadora dos resultados:
 Ainda daria pra fazer o HashSet se comportar de forma mais rápida, movendo a criação dele para fora do laço e esvaziando ele no fim de cada iteração.
 
 Em uma máquina com menos disponibilidade de mémoria (a que eu usei para o teste possui 2GB) se um HashSet for usado como da primeira maneira, ele será muito pior que o TreeSet. Por isso é muito importante saber sob quais condições uma [estrutura de dados][7] é melhor do que outra. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

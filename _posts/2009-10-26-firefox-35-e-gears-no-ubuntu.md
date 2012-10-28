@@ -27,7 +27,7 @@ O segundo problema aconteceu porque eu já utilizava o Google Gears no Firefox 3
 Depois de tudo isso e de baixar todos os meus e-mails do GMail novamente, finalmente funcionou! Se você tiver uma outra solução para o problema, compartilhe!
 
 Montagem tosca por mim mesmo, utilizando os ícones do Firefox 3.0, do Shiretoko e do Google Gears 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

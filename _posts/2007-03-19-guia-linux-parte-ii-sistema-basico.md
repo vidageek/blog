@@ -92,7 +92,7 @@ A **ALSA** (**A**dvanced **L**inux **S**ound **A**rchitecture) é a biblioteca m
 *   Um problema quase geral de placas wifi é que normalmente existe um pedaço de código proprietário em suas bibliotecas. Isso significa que você ainda tem um sistema 100% grátis, mas **não 100% open source**.
 *   **EDITADO: **Na primeira instalação do meu sistema tudo ocorreu como dito anteriormente, mas numa instalação mais recente tive problemas com o **udev** que carregava automáticamente o **ath_pci** e dessa forma o **ath0 não era criado automáticamente**. Na verdade era necessário descarregar o módulo e recarrega-lo para que funcionasse. Isso foi corrigido inicialmente alterando o **/etc/conf.d/rc** setando **RC_COLDPLUG=”no”**. Mas essa solução não é muito boa, na verdade, aós alguma pesquisa, descobri que a origem do problema era a falta da opção **Automatic kernel module loading** em **Loadable module support**, nas configurações do kernel.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

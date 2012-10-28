@@ -19,7 +19,7 @@ Para instalar o bootchart no Ubuntu, basta executar:
 sudo apt-get install bootchart
 
 Depois basta reiniciar a máquina para que o gráfico seja gerado e então vá até a pasta /var/log/bootchart e você encontrara o PNG gerado. Aqui está o [Bootchart][1] gerado pela minha máquina. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

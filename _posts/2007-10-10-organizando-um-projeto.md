@@ -32,7 +32,7 @@ Esse é o resultado:
 Minha janela do quarto está cumprindo muito bem o papel de lousa. O único problema é que era difícil de ver o que estava escrito. Então coloquei algumas folhas de papel atrás.
 
 Pois é… acho que não tem nada que um pouco de criatividade não resolva. Alguém mais já encontrou alguma solução estranha como essa? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

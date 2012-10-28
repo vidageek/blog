@@ -74,7 +74,7 @@ pdflatex arquivo.tex
 Novamente explicando o porquê: na primeira vez que usamos o pdflatex, ele agrupa as palavras do glossário (índice remissivo) no arquivo *.idx com as devidas referências. Então, usamos o makeindex para transformar esse *.idx em um adendo LaTeX pro arquivo original e, na segunda passagem do pdflatex, ele finalmente junta as duas informações.
 
 Então, agora, você já sabe colocar links internos, externos e até mesmo gerar seu índice remissívo/glossário de acordo com as necessidades do seu texto. Espero que essa sessão do Guia Latex tenha ajudado e a próxima que virá tratará da parte matemática do LaTeX, parte bastante elegante e apreciada pelos usuários acadêmicos de Latex. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

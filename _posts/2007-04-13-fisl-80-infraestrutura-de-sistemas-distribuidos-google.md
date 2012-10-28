@@ -21,7 +21,7 @@ MapReduce é a união de duas técnicas usadas em diversos sistemas da Google (c
 
 BigTable, como o próprio nome já diz, é uma tabela grande. Mas como estamos falando da Google, é uma tabela gigantesca. Este é o banco de dados que a Google usa. Mas não pense que estamos falando de um banco de dados como o Oracle ou MySQL. A BigTable é bem mais simples e bem mais complicada. Ela é mais simples porque não precisa manter relacionamentos entre os dados, o que consome a maior parte do processamento em um banco de dados. Mas também é mais complicada pois foi desenvolvida para lidar com Terabytes de dados espalhados em milhares de máquinas. Ela é indexada atravéz de uma string qualquer (pode ser número, url ou qualquer outra coisa) e tem acesso direto à qualquer uma de suas posições (acesso assíncrono). Mas porque eles não usam um banco de dados já existente? Em parte por causa do custo, mas o maior motivo é que as aplicações deles são time-critical (tempo é um fator crítico). Ninguém quer esperar três segundos pela resposta de uma busca no Google. Se tivessem utilizado um banco de dados convensional, não seria possível fazer otimizações de baixo nível. Sem contar que “eles acham muito divertido implementar as coisas a partir do zero”. Outro suporte que a BigTable possui, é o timestamp, que permite que seus registros sejam associados de acordo com uma data e seja possível recuperar dados de datas antigas.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

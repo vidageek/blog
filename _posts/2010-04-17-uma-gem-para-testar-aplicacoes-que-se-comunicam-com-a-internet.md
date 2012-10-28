@@ -40,7 +40,7 @@ FakeWeb.register_uri(:get, "http://foo.com/bar", :body => "olá mundo")<br />
 `
 
 Em Java também é possível fazer algo parecido com um pouco de magia negra, desde que controlemos a criação do objeto responsável pela requisição. Mas, a meu ver, a primeira abordagem resulta num código mais desacoplado. Qual a sua opinião? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

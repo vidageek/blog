@@ -23,7 +23,7 @@ O Google Reader, agregador de feeds, não ficou de fora. Desde que comecei a uti
 A integração, do ponto de vista da empresa, faz todo sentido. No entanto, ela me trouxe um desconforto considerável. Anteriormente, se alguém compartilhava um artigo comigo, eu via isso dentro do próprio Reader, junto com os artigos dos sites que eu já assinava. Agora, preciso entrar no Google Plus para ver o que meus amigos andam lendo. A interação social que era parte da leitura de artigos no Reader foi removida, de certa forma. Agora, só dá para interagir pelo Google Plus, que não é exclusivo para leitura.
 
 Resumindo em poucas palavras, tenho saudades do Google Reader antigo e da facilidade de compartilhar informações que você achava relevantes com seus amigos. Claro que existem muitos outros mecanismos para isso, mas nenhum é tão prático como o Reader era. Tomara que a Google melhore essa integração entre o Reader e o Plus. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

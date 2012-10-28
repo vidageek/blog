@@ -33,7 +33,7 @@ O blog [Rails Envy][1], obviamente inspirados no video **“I’m a Mac, I’m a
 Caso queira saber mais sobre Ruby on Rails de uma olhada no site oficial: [http://www.rubyonrails.org/][2], em especial nos videos [Creating a weblog in 15 minutes][3] e [Putting Flickr on Rails][4] (ambos em formato quicktime).
 
 Fonte: [Simples Ideias][5] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

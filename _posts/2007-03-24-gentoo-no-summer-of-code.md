@@ -27,7 +27,7 @@ Ontem recebi pelo feed do [Gentoo News][3] uma notícia ótima: o Gentoo vai par
 Portanto, se você tiver tempo, souber programar, amar o software livre igual os escritores desse blog, então tente ganhar essa grana e ajudar o Gentoo a se desenvolver.
 
 [Via [Gentoo News][6]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

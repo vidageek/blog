@@ -26,7 +26,7 @@ Foi tentando contornar esses problemas que comecei a procurar uma alternativa, a
 Atualmente, o wicd está bastante estável. Infelizmente, não está na lista de pacotes padrão do Ubuntu (bem que poderia estar!), mas é fácil instalá-lo (basta seguir as instruções no site do projeto).
 
 Veja mais no site do projeto: <http://wicd.sourceforge.net/> 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

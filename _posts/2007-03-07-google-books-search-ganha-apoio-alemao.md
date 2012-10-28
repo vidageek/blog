@@ -20,7 +20,7 @@ Além dessa biblioteca, várias universidades dos Estados Unidos estão apoiando
 
 Mais informações: **[Uol][2]**.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

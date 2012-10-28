@@ -34,7 +34,7 @@ Privacidade é assunto sério e disperdiçar o escasso tempo das pessoas, interr
 **Candidatos, respeitar seus eleitores deveria ser primeira prioridade.**
 
 E não estou bem certa dos aspectos legais de se fazer esse tipo de ação. Se duvidar, ainda é crime… 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

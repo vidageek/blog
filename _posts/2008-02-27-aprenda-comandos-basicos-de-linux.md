@@ -24,7 +24,7 @@ Para os iniciantes os comandos de *shell* do linux podem ser um tanto quanto con
 É ai que entra o [The One Page Linux Manual<bbntop id="BBNNode_203"><bbnspan class="bbn_linknode">204</bbnspan></bbntop>][2], que resume em apenas uma folha (frente e verso) muitos dos mais importantes comandos do dia-a-dia no Linux. Ele explica também a estrutura de diretórios e o esquema de permissão. Acho que o único problema do mesmo é que ele fala que a instalação de *softwares* é feita através do comando **rpm**, que não é verdade para todas as distribuições. Vale a pena dar uma conferida mesmo se você é um *expert*, pois pode haver algo de novo para aprender.
 
 [Via [LifeHacker<bbntop id="BBNNode_204"><bbnspan class="bbn_linknode">205</bbnspan></bbntop>][3]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

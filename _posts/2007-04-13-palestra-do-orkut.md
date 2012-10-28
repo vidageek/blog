@@ -52,7 +52,7 @@ Enfim, numa palestra muito divertida e secundarimente instrutiva, Orkut Buyukkok
 
 [![Autógrafo][2]][2]  
 [![Autógrafo][3]][3] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -35,7 +35,7 @@ Eu acabei tirando poucas fotos, dado que tiníamos outros fotógrafos, mas tem u
 Para quem acompanhou os eventos esse ano, e também foi a alguns deles, fica o convite para se juntar a nós no OpenBeach do ano que vem. É uma boa oportunidade de conhecer as pessoas em momentos de descontração, de bater um bom papo e se divertir nas praias de Florianópolis.
 
 Um perdão para todos que tem acompanhado o RSS e os emails, estou tentando usar um novo estilo para escrever no blog, Textile, e tenho cometido alguns equívocos. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

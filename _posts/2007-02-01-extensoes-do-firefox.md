@@ -39,7 +39,7 @@ O FEBE uma vez ao dia salva todas as suas extensões em formato .xpi que o Firef
 [Link Alert][17]: Mostra um pequeno simbolo sob a seta no mouse quando você o passa sobre um link, permitindo que você veja facilmente de qual tipo de arquivo se trata.
 
 Essas são as extensões que utilizo atualmente. Conforme eu adicionar novas extensões ao meu Firefox irei menciona-las aqui. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

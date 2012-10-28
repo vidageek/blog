@@ -95,7 +95,7 @@ Desafios e oportunidades da Google na China, assim como colaboração entre os e
 As expectativas de hoje são o aumento do software de alta qualidade, necessitando mais automação nos testes. 
 
 Se você acha muito interessante algum Google Tech Talk que não esteja na lista acima, coloque um link para ele nos comentários. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

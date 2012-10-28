@@ -24,7 +24,7 @@ Pretendemos expandir o fórum assim que possível para outras linguagens e assun
 Inicialmente, os fóruns serão moderados e administrados pela equipe deste blog, que além disso estará solucionando dúvidas sempre que possível.
 
 Esperamos que cadastrem-se e aproveitem para aprender e ensinar usando o fórum. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

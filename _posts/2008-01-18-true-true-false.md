@@ -75,7 +75,7 @@ Para evitar esse tipo de problemas, eu costumo definir minhas constantes assim:
 Isso protege contra todos os problemas? Não. Mas evita alguns que podem dar muita dor de cabeça. Isso porque tendo todos os bits setados como 1, quando usar o operador bitwise & ele só vai dar false se o outro valor não possuir nenhum bit setado para 1 (que é exatamente o que queremos).
 
 Mas ainda bem que no padrão isoc99 existe o tipo bool. Vai evitar muitos problemas. Mas até ele ser realmente adotado ainda vai algum tempo. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

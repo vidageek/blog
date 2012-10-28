@@ -31,7 +31,7 @@ Depois de debugar um pouco o script e constatar que ele estava correto (do meu p
 Aparentemente o [HFS+ é case insensitive, mas guarda a informação de letras maiúsculas e minúsculas][2].
 
 Decisão triste essa. E se você quiser deixar ele case sensitive? Precisa formatar o hd. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

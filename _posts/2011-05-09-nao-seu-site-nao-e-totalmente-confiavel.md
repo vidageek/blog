@@ -28,7 +28,7 @@ Quando um cliente seu encontra um problema no seu site, a sua credibilidade é a
 Meus dados estão seguros? Bom, a PSN da Sony está/estava no chão e garanto que eles investem muito mais em segurança do que essa loja. Não acredito que exista um sistema totalmente confiável (Turing provou isso antes de existirem computadores) e onde meus dados estejam seguros (Sempre existe um risco desses dados serem roubados). Eu tenho que ter conhecimento desses riscos e agir de acordo.
 
 Será que já não passou da hora de começarmos a parar de inventar desculpas sem sentido e começarmos a informar a quais riscos nossos usuários estão expostos quando usam nosso sistema? Será que não deveríamos investir mais em educação digital ao invéz de apenas focar na inclusão digital? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

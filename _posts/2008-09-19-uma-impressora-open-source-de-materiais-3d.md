@@ -24,7 +24,7 @@ O blog do famoso site de vendas *ThinkGeek* também abordou o [assunto][3], e ai
 
 No futuro, o objetivo é aumentar esse 60% para que ela realmente se duplique. No próximo passos a máquina irá gerar a própria circuitaria e depois os transistores, assim por diante. Na minha opinião, parece que a [*Skynet* ][4] está mais próxima do que imaginamos, apesar da inteligência artificial não ser boa o suficiente, já existe uma máquina capaz de se duplicar. Brincadeiras a parte, esta tecnologia pode ser muito útil, mas também perigosa (como toda tecnologia). 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

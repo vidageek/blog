@@ -46,7 +46,7 @@ As chances são de que se você gosta do conteúdo de computação daqui, então
 Espero que vocês gostem destes dois novos blogs que serão feitos com muito cuidado e pesquisa para trazer informações úteis a todos.
 
 Até mais! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

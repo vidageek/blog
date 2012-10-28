@@ -19,7 +19,7 @@ Para quem não quer ler a monografia toda, apresento um resumo.
 > A comunicação sem fio utiliza, atualmente, [radiação eletromagnética não-ionizante][4] (por exemplo: ondas de rádio, luz, infravermelho) como meio de transmissão de informações. Sabe-se que essa radiação tem efeitos térmicos em tecidos vivos, ou seja, a exposição a ela causa aquecimento da área exposta. Os níveis de segurança de exposição a esse tipo de radiação, atualmente, são calculados levando-se em conta unicamente os efeitos térmicos. Porém, há diversas evidências de que esse não é o único efeito desse tipo de radiação e de que os outros possíveis efeitos (chamados não-térmicos) talvez sejam muito piores do que os já considerados. Os estudos nessa área ainda não são conclusivos e alguns resultados são contraditórios mas, se levarmos em conta a existência de pessoas que alegam ter hipersensibilidade à radiação eletromagnética (também conhecidas como [eletrossensíveis][5]) com sintomas reais relacionados à exposição à radiação, há motivos para nos preocuparmos
 
 E você, o que acha? Essas pessoas, que se dizem eletrossensíveis, sofrem por causa da radiação ou seus sintomas são de outra origem? Celulares causam câncer? O que devemos fazer? Dê sua opinião/sugestão! E se encontrar algum erro ou alguma dúvida, entre em contato! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -27,7 +27,7 @@ Você tem que estudar ambos os caminhos. Conhecer o que é realmente importante 
 Mas ainda não respondi sobre fazer ou não uma faculdade. Quer isso seja bom ou não, o mundo olha pra você diferente se você faz uma faculdade. É idiota mas é verdade. Conheço profissionais que não terminaram a faculdade e são meus exemplos de profissional. São pessoas que sempre que posso, quero estar trabalhando junto. Também não posso esquecer que meu primeiro contato com a Caelum foi atravéz da USP. Então, por mais que desgoste da faculdade, tenho que reconhecer que ela me trouxe coisas boas (sem contar que a base teórica que recebi nos primeiros 3 semestres me ajudam muito até hoje. Depois disso boa parte pode ser jogada no lixo)
 
 Como tudo em computação, você vai ter que pesar as vantagens e desvantagens e decidir se vale a pena fazer ou não. Mas mantenha sempre em mente que por qualquer dos caminhos da pra ir bem longe, basta que você complemente por você mesmo o que falta em um deles. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

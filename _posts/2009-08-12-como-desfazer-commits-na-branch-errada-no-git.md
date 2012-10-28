@@ -56,7 +56,7 @@ Um jeito legal de prevenir isso é digitando os comandos:
 
 Assim você corrige a cagada de trabalhar no master sem querer e continua a trabalhar com o git  
 do jeito certo. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -41,7 +41,7 @@ O código para o escopo provided ficou mais ou menos assim (eventualmente talvez
     }
     
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

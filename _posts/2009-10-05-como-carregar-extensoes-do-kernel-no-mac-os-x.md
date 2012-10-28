@@ -19,7 +19,7 @@ Meses atrás passei por uns problemas com meu mac. Estava rodando um programa ch
 Enfim, quando percebi a besteira, copiei de um outro mac a extensão exata (por sorte, eu tinha copiado o nome e local onde ela deveria ficar). Coloquei no lugar e nada. Estava quase desistindo e pensando em formatar a máquina quando por acaso encontrei um programa que fazia exatamente o que eu queria. Carregava extensões do kernel. O programa chama-se kextload (existe por padrão na shell do Mac OS X).
 
 Depois de rodá-lo (passando a extensão de wifi como parâmetro), ele também corrigiu a cache de extensões que estava zoada (por causa da zona que tinha feito) e tudo voltou a funcionar perfeitamente bem. Apenas não recomendo que tentem em casa, a não ser que seja a última esperança :) 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -24,7 +24,7 @@ Mas isso ainda não especifica o caminho completo: falta saber dentro de qual di
 Mas você também pode criar um diretório-raiz seu, seguindo essa estrutura e com seus pacotes, e configurar o LaTeX para procurar pacotes nele. Como? Bom, isso depende de qual distribuição LaTeX você está usando e também de como ela foi compilada. Mas você pode descobrir onde ficam os arquivos de configuração principais da sua distribuição com o comando ‘texconfig conf’. A saída dele mostra as variáveis de configuração do seu ambiente LaTeX, inclusive a variável TEXMF, que contém os caminhos para todos os diretórios-raiz de pacotes LaTeX no seu sistema. É essa variável que você deve alterar, incluindo o caminho para seu diretório.
 
 Com tantos diretórios e subdiretórios, e ainda a possibilidade de pacotes em vários lugares diferentes, como o LaTeX encontra os pacotes? Aí entra um programa chamado kpathsea. Ele cria um índice de todos os pacotes instalados. O LaTeX, na hora de processar um documento, chama esse programa para descobrir onde estão os arquivos de cada pacote referenciado pelo documento (pelos comandos \usepackage). Para saber mais sobre esse programa, use o comando ‘texdoc kpathsea’. Lá o autor do programa também conta a história do surgimento do kpathsea. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

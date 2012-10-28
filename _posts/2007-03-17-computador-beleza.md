@@ -18,7 +18,7 @@ Os ciêntistas acreditam que o software pode ser útil para as industrias de ent
 O software ainda não faz análise de homens, mas ele pode ser adaptado, segundo seus criadores.
 
 Mais informações:**[ The Age][1]**, em inglês. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

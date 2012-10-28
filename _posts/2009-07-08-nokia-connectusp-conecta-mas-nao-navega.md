@@ -20,7 +20,7 @@ Em outubro de 2008 quando inaugurou sua [loja própria][2] na Oscar Freire, divi
 Em resposta ao Jornal do Campus, a Nokia culpou a vegetação da universidade e disse que providências estão sendo tomadas. Veremos.
 
 Para quem quer saber mais, existe uma [comunidade no Orkut][4] sobre esse serviço da Nokia. Há também o [resultado do teste completo][5]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -120,7 +120,7 @@ Disponibilizei três versões do arquivo deste tutorial, uma para [Gentoo][1], u
 Espero que este tutorial tenha sido útil para aprender um pouco mais sobre bash e para melhorar o seu desempenho no terminal.
 
 Adaptado do [LifeHacker][4] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

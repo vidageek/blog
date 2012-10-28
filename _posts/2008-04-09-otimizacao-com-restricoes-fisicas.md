@@ -19,7 +19,7 @@ Imagine as possibilidades que esta mesa nos traz. Computólogos estão acostumad
 O sistema permite que o especialista na área assuma o controle, impondo as devidas restrições. Acredito que dispositivos como este podem mudar a forma como a humanidade vê a computação, tornando-a mais acessível a todos. 
 
 [Via [5min][2]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

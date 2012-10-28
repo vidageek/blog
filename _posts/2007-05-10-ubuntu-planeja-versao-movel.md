@@ -25,7 +25,7 @@ Vamos esperar para ver as especificações do projeto e a aceitação que o S.O.
 Se a utilização de software livre baixar o preço dos aparelhos e não criar barreiras de compatibilidade na sincronização com sistemas operacionais que não Ubuntu, não há motivos para dar errado.
 
 O lançamento da versão móvel de Ubuntu está previsto para outubro deste ano.  
-**Posts Relacionados:** 
+
 *   No related posts
 
 

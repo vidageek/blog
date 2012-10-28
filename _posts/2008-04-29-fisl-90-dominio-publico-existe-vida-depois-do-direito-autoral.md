@@ -36,7 +36,7 @@ O SESC-SP tem instruido grupos de teatro independentes sobre as leis do assunto 
 Enquanto isso, o grupo de Bruno Magrani trabalha na liberação das obras de Noel Rosa como domínio público. Eles entendem o domínio público com a celebração maior da cultura – quando todos têm acesso a ela.
 
 Como leitura recomendada na palestra, fica a página da [Wikipedia][2] sobre domínio público, material elogiado pelo palestrante principal. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

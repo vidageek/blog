@@ -43,7 +43,7 @@ Durante muito tempo eu tive um [Motorola Q][3], um daqueles smartphones com aces
 Sempre fui jogador de [ Role Playing Games (RPG) ][5], desde os 9 anos. Nunca dispensei nenhum bom livro, tão pouco uma mostra de cinema ou uma peça de teatro. Só que nesses lugares sempre consumo, assim como quando ouço música e nunca produzo nenhum conteúdo novo. Na mesa de rpg, entretanto, eu e amigos criamos histórias, personagens e até mesmo já passamos meses criando mundos. Essa atividade já produziu muitas coisas bacanas, amadoras, e nenhuma publicada. Mas idéias como as de editar um livro com nossas melhores aventuras, ou até mesmo investir em jogos online baseados no enredo de mundos que criamos tem começado a ser colocadas em prática.
 
 Se você já fez alguma troca como essa, conte para nós nos comentários. Pessoalmente, estou tentando chegar em um conjunto mínimo de objetos pessoais (até porque estou indo morar na França, e não quero levar muita tralha). Não estou nem um pouco interessado em chegar nas [100 things][6] do desafio de David, e na verdade estou muito mais procurando “interfaces” como o papel e o lápis que não só me permitam consumir, mas também produzir. Mas qualquer sugestão é bem vinda. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

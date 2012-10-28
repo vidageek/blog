@@ -28,7 +28,7 @@ O sistema SourceForge pode não ter a beleza de um pré-estruturado e com partes
 Claro que há efeitos colaterais como a velocidade de buscas ser menor e conter partes altamente complexas e confusas, mas para serve bem para lidar com as partes operacional, empresarial, editorial e funcional. Lidando muito bem com hardware e recursos limitados e com as limitações de software.
 
 Na seção de perguntas, Ross ainda afirmou que o SourceForge pretende, agora, se tornar mais atrativo para desenvolvedores, incluindo ferramentas tais como testes automatizados. O foco será em developer tools. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

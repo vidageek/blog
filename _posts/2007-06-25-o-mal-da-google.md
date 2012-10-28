@@ -39,7 +39,7 @@ Ou seja, mais de dezenove produtos. Eu acho muito legal com um único nome de us
 Claro que o maior problema aqui é minha falta de foco. Se eu tivesse concentração suficiente isso não seria um problema.
 
 O outro problema é que eu passo cerca de oito horas logado em sistemas Google. Eu dependo muito dessa empresa para praticamente todas as atividades de rotina do meu dia. Isso é péssimo! Estou praticamente preso à Google. Será que eu deveria ter deixado a dependência chegar a esse ponto? Ou eu deveria usar sistemas menos confiáveis e ficar menos dependênte? Não sei, mas o fato é que se a Google deixar de existir da noite para o dia, a quantidade de dados que eu vou perder chega a ser absurda (e isso tende a piorar muito a cada dia). Vai ser melhor recomeçar do zero. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

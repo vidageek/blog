@@ -21,7 +21,7 @@ Se você conseguiu acompanhar esses iogurtes todos, você entendeu o princípio 
 Na indução, temos um caso base, **B**, para o qual a fórmula que se quer provar verdadeira é de fato verdadeira (nos laticínios, trata-se do iogurte que deu origem aos outros). Se conseguirmos atestar que a fórmula é verdadeira para um natural **N** a partir da premissa de que é válida para **(N-1)**, isto é, que conseguimos construir a próxima solução a partir da solução atual (em nossa analogia, fazer a próxima leva de iogurte), então podemos afirmar que o que queremos provar vale para todo natural maior do que **B**.
 
 Da próxima vez, em O Iogurte Recursivo, a explicação será um pouco mais aprofundada e abordará recursão também. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

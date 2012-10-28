@@ -43,7 +43,7 @@ Aliás, falando na grade de palestras… organização, se tem gaps vazios em al
 Um grupo de pessoas da USP sugeriu trocar o sistema pobre de submissão e avaliação de palestras que se usa atualmente pelo sistema que é usado na organização todas as conferências mundiais da Debian. A organização disse que era tarde de mais pra isso – e a submissão de palestras não estava aberta ainda.
 
 Muitos por quês e muitas críticas. Fica uma sugestão: colocar mais pessoas de outros Estados na organização. Muita gente está achando que a organização está regionalista de mais. E isso é, provavelmente, a parte mais fácil de resolver. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

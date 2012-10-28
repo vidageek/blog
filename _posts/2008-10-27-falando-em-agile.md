@@ -31,7 +31,7 @@ Para os mais interessados, tem algumas fotos no meu [Picasa][10].
 Espero escrever para vocês semana que vem de Foz do Iguaçu, quando estarei na [Latinoware][11].
 
 Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro do grupo de pesquisa do projeto Integrade, é aluno do terceiro ano de ciência da computação pelo **IME/USP**. E teoricamente mantém o [blog do fabs][12]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

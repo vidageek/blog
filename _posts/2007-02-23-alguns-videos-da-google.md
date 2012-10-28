@@ -19,7 +19,7 @@ Dois videos muito interessantes da Google Tech Talks que estão sendo muito come
 O Segundo, “**[Human Computation”][2]** – Computação Humana, em português – fala de jogos produzidos com o objetivo de resolver algum problema. Um exemplo é o **[Google Image Labeler][3]**, que usa um jogo para colocar rótulos em imagens (muito útil para sistemas de busca).
 
 Mais videos da Google Tech Talks: **[Google Video][4]** 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

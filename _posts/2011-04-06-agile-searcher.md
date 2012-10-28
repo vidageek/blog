@@ -17,7 +17,7 @@ Como isso funcionou bem, resolvi abrir ela para quem quiser usar (e com um nome 
 O [Agile Searcher][2] é uma engine de busca voltada apenas para sites com relação à desenvolvimento ágil.
 
 Qualquer dúvida, sugestão ou angustia, envie um email para agilesearcher@vidageek.net ou deixe um comentário neste post. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

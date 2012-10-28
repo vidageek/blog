@@ -26,7 +26,7 @@ Veja o vídeo e se surpreenda com como essa fonte foi criada.
 [iQ font – When driving becomes writing / Full making of][3] from [wireless][4] on [Vimeo][5].
 
 Aos outros escritores desse blog, o que acham de usarmos essa fonte para o nome do blog no nosso novo layout que está a caminho..ups.. falei :-) 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

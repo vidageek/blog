@@ -33,7 +33,7 @@ As críticas que ficam a cada um dos arcabouços:
 
 Bom, é isso. Eu espero que as pessoas que compareceram a palestra tenham gostado e que eu tenha a oportunidade de dar novamente uma palestra no FISL. Foi uma experiência muito legal.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

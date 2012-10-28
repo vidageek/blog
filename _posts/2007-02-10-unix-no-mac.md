@@ -25,7 +25,7 @@ O Fink é, na verdade, um conjunto de aplicações. Uma dessas aplicações é o
 Além disso, no pacote do Fink ainda vem uma aplicação chamada FinkCommander. É uma interface gráfica para utilizar o apt-get. Semelhante ao Synaptic do Linux.
 
 Se você é um programador e está trabalhando na plataforma MacOS X, são dois programas vitais para você. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

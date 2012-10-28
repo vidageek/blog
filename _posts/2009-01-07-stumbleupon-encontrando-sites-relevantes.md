@@ -19,7 +19,7 @@ Quando quiser um site interessante, basta pressionar o botão **Stumble!**, que 
 
 Vale a pena dar uma olhada nesta ótima ferramenta, mas cuidado para não perder horas encontrando sites interessantes (isso já aconteceu comigo). 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

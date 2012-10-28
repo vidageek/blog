@@ -28,7 +28,7 @@ Pelo mesmo motivo, as operadoras de telefonia celular travam seus aparelhos para
 Nos mesmos moldes, drivers proprietários chegam até a inibir a criação de softwares que gráficos, por exemplo. O palestrante citou a ausência de softwares de Cad que sejam opensoource.
 
 Curiosamente, para isso temos contra-exemplo! O projeto Archimedes dos alunos IME-USP é um Cad Aberto e já está disponível no SourceForge. Na próxima semana, publicaremos um post sobre este software. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

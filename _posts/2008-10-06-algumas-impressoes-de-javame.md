@@ -28,7 +28,7 @@ Esse nem foi um problema tão grande para mim. O objetivo do meu projeto era sim
 Outra coisa que me incomodou, também, foi o grande acoplamento que as classes de visualização te impõem. A classe GameCanvas, por exemplo, é responsável pelo desenho na tela e por parte dos controles (a outra parte você pode por em outra classe). Se eu quiser mudar a camada de visualização da minha aplicação (o que podia ocorrer no nosso caso, já que nosso jogo podia ser no modo texto), vou ter que mudar tudo? E por que não tem uma classe unicamente para o tratamento da entrada?
 
 Agora, alguns elogios: foi bem fácil fazer uma interface gráfica com as classes do sistema. O JavaME já vem com classes para desenho de sprites e múltiplas camadas de imagem, e os sprites contam até com detecção de colisão entre si. Bem mais fácil do que fazer interface para Desktop. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

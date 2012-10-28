@@ -19,7 +19,7 @@ A questão é que parece que a Google anda se interessando pelo sistema, como vi
 Assim que for possivel, irei instalar a versão de testes e fornecerei mais detalhes.
 
 [Via [WebTuga][3]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

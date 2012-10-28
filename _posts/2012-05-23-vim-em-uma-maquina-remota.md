@@ -19,7 +19,7 @@ O comando é bem simples:
 
     vim scp://USER@HOST//path/para/arquivo
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

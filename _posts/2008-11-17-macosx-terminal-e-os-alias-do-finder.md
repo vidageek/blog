@@ -31,7 +31,7 @@ Foi ai que eu achei um post muito legal no [blog do theapotek][3]. Ele explica c
 Bonita essa sintaxe não? Acho que eu vou falar sobre ela em um futuro próximo…
 
 Nota, no momento do Post eu não estava conseguindo acessar o theapotek, a [página em cache no google está aqui.][4] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

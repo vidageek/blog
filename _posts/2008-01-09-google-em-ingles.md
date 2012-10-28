@@ -22,7 +22,7 @@ Para acessar o site em inglês direto é só entrar em [www.google.com/ncr][2].
 Dica boba, mas é algo que me custou um tempo para descobrir. Quem sabe ajuda mais alguem ;).
 
 Só não sei o que significa ncr. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

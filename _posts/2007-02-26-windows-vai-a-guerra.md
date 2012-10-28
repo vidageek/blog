@@ -14,7 +14,7 @@ Todos já ouviram falar das falhas do Sistema Operacional Windows. Todos sabem q
 O destróier tipo 45 do Reino Unido estará usando uma versão do Windows (desenvolvida para isso). É algo para se preocupar.
 
 Mais informações:**[The Register][1]** 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -23,7 +23,7 @@ Essa nova versão vem com alguns bugfixes, uma forma melhor de trabalhar com get
 Essas e outras mudanças podem ser vistas em <http://projetos.vidageek.net/mirror-pt/projeto/release-notes>.
 
 Todo feedback é bem vindo. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -83,7 +83,7 @@ Temos agora os testes passando e podemos generalizar para obter o resultado espe
   end  
  end
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

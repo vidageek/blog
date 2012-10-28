@@ -24,7 +24,7 @@ Exemplos bem-sucedidos de produtos que levaram em conta a opinião dos usuários
 Creio que é isso que falta para que o Linux faça mais sucesso do que já faz.
 
 Para saber mais: [Interação Humano-Computador][1] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

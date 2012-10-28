@@ -49,7 +49,7 @@ Uma característica muito importante que a linguagem Ruby deveria ter, mas só P
 Um ponto sobre o qual ainda não tenho uma opinião muito elaborada é sobre a modificação de classes e métodos em tempo de execução. Em Ruby, ela é implícita: se você declarar uma classe com o mesmo nome de uma que já existe, você estará modificando a existente. Em Python, ela é explícita: você só pode modificar a classe existente se você escrever código específico para isso; se você declarar uma classe com o mesmo nome de uma já existente, você está criando outra classe. Por um lado, acho bom deixar explícito que você está modificando uma classe existente. Mas, por outro lado, faz sentido ter duas classes diferentes com o mesmo nome?
 
 E você, qual a sua opinião? Quais são suas críticas a cada uma dessas linguagens? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

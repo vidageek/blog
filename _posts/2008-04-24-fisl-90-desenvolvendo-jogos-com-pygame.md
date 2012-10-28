@@ -42,7 +42,7 @@ O colaborador convidado Igor Montagner é bacharelando em Ciências da Computaç
 Obrigado pela colaboração, Igor!
 
 Simultaneamente a essa palestra, estive na palestra sobre “Desenvolvimento ágil de software com XP e Scrum”, da qual falarei em um próximo post – em breve. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

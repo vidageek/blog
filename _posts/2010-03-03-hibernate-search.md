@@ -28,7 +28,7 @@ O hibernate possui uma estrutura de interceptadores para muita coisa interna del
 O hibernate search entra exatamente nesse ponto. Cadastrando interceptadores para todas essas funções, ele é capaz de pegar os dados e serializar no índice do lucene também (notem que existe replicação de informação, uma vez que você terá os dados no banco e no índice do lucene). E esse é exatamente o ponto.
 
 O teste que não passava era um teste que simulava o comportamento do usuário, usando [WebDriver][4]. Na funcionalidade em questão, não eram enviados todos os dados do objeto, apenas a chave primária dele. Com isso, o hibernate search indexava apenas a chave, pois todo o resto do objeto estava vazio. Quando me lembrei disso, foi necessário apenas fazer uma busca antes de mandar gravar o objeto. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

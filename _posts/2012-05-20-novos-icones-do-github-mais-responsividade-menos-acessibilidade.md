@@ -31,7 +31,7 @@ Um dos formatos mais comuns de imagem vetorial é o [SVG][4]. Ele é [bem suport
 No entanto, a forma como o Github usou fontes para seus ícones não é muito acessível. A tag img do HTML possui um atributo obrigatório, o alt, que serve para definir um texto alternativo à imagem. Ele é útil quando a imagem não carrega mas, sobretudo, ele é **essencial** para quem não enxerga: leitores de tela usam esse texto para descrever o que é aquela imagem. No caso do Github, um usuário cego não vai saber, por exemplo, onde está o link para fazer logout, pois não há esse texto alternativo ao ícone; ele é um texto para o navegador.
 
 Assim, por mais elegante que seja a solução do Github, ela não é acessível. Neste caso, ícones em SVG parecem ser a solução mais adequada. Mas também é necessário que os navegadores melhorem o suporte a SVG, com melhor desempenho e compatibilidade com CSS3. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

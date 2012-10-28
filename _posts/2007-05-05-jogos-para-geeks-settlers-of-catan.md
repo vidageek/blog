@@ -34,7 +34,7 @@ Cada povoado vale um ponto de vitória, cidades valem dois, a maior estrada (com
 Há versões online como [JSettlers][2] e [Xplorers][3], além de várias outras, e também existe um projeto ([Pioneers][4]) que oferece pacotes para Gentoo, Debian, e outras distribuições, além, é claro, do código-fonte.
 
 Para saber mais (e ver fotos), há a [entrada para Settlers Of Catan][5] no [BoardGameGeek][6], uma fonte de informações e (muitas) fotos de jogos de tabuleiro. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

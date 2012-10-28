@@ -26,7 +26,7 @@ De qualquer forma, sendo possível ou não o desenvolvimento de uma inteligênci
 
 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

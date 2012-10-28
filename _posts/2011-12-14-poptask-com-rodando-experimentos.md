@@ -35,7 +35,7 @@ Nos decidimos perseverar, e realizar um segundo experimento que pretendemos lan�
 Ah, uma outra coisa legal de comentar, é que ganhamos essa semana o concurso ser empreeendedor da poli, que nos deu um “aporte” inicial que vai nos permitir rodar outros experimentos desses com um número maior de pessoas. Fiquem atentos.
 
 ![][4] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

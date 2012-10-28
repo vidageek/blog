@@ -20,7 +20,7 @@ Pra resolver isso, depois de pesquisar um pouco, descobri que é possível fazer
 O comando acima simplesmente clona o repositório (URL) da revisão 39000 até a atual (HEAD) na pasta especificada (NOME).
 
 Você fica sem parte do histórico, mas em geral acabo usando pouco o histórico, então abro mão fácil dele para poder usar git. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

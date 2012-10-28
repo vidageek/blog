@@ -19,7 +19,7 @@ Isso é muito interessante, pois se você precisa de um software de edição de 
 Esse site pode com certeza ser útil, pelo menos nos casos em que você não tem a mínima ideia do usar, ou então, precisar de uma alternativa.
 
 [Via [WebTuga][3]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

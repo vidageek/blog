@@ -37,7 +37,7 @@ Acredito que devamos estender esta liberdade a todos os pontos. Liberdade ao pen
 Não estou defendendo software proprietário, mas esse é um modelo de negócios que não vai sumir porque o Software Livre existe. Devemos procurar uma forma de coexistir com isso. Mas para isso é necessário que comecemos a nos afastar da iconoclastia, que é vital para se destruir algo, mas que sempre atrapalha durante construções. O momento em que precisamos destruir e andar sobre escombros já está passando, mas muitos ainda estão pensando em jogar bombas por todo lado. Nossos heróis precisaram destruir, para que nós possamos construir.
 
 O Software Livre já se consolidou como uma alternativa, mas ele tem potencial para ser muito mais do que isso. Ele pode ser um direito à escolha. Pensem nisso. Pensem até onde pode ir essa simples liberdade de escolha. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

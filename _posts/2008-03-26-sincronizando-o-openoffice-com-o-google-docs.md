@@ -27,7 +27,7 @@ Utilizando o [OpenOffice.org2GoogleDocs][4] você pode fazer *download/upload* d
 
 Se você utiliza muito pacote office vale a pena dar uma olhada no [OpenOffice.org][2], no [Google Docs][5] e no [OpenOffice.org2GoogleDocs][4]. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

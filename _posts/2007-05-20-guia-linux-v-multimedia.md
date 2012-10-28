@@ -58,7 +58,7 @@ CD-ROM/DVD Filesystems-><br />
 pois o player [Ogle][2] é capaz de realizar este trabalho com maestria, tornando seu micro um ótimo dvd player.
 
 Bom, acredito que isto cubra praticamente tudo sobre Multimedia no Gentoo. Caso eu tenha esquecido de algo ou tenha alguma sugestão, por favor mande-nos um comentário! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

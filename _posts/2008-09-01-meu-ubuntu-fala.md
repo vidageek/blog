@@ -31,7 +31,7 @@ Agora você já pode deixar seu Ubuntu mais simpático! Crie um script assim:
 espeak -v brazil 'Olá!'<br />
 `  
 e coloque para executar no início da sessão =) 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

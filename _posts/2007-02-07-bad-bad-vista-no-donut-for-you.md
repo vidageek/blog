@@ -30,7 +30,7 @@ Um pouco de humor:
 [ Linux Genuine Advantage][8]  
 ![Satira com o Vista][9]  
 [Via [WebTuga][10]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -37,7 +37,7 @@ Simon não fugiu à tese, mas seus argumentos arrancaram aplausos da platéia. S
 Ross diz que você estude e tente e erre até conseguir encontrar as 3 linhas que debugavam um problema, mesmo que para isso você passe por 100.000 outras. Ajuda a entender o processo e a expandir conhecimentos em debug.
 
 Numa discussão extremamente interessante e descontraída, os convidados aumentaram ainda mais a paixão dos ouvintes pelo software opensource e a vontade de trabalhar em projetos… principalmente os que te irritam! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

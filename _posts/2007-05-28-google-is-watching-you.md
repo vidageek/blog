@@ -44,7 +44,7 @@ Quanto à obtenção de informações pessoais por medidas legais, a Google já 
 Além disso, o recolhimento de informações é voluntário. Cada pessoa pode ou não permitir que suas buscas sejam armazenadas. Isso é liberdade de escolha: você opta por armazenar suas informações pessoais e obter buscas mais eficientes e sugestões ou por continuar com buscas normais e não ceder seus dados.
 
 Vemos extremistas em todos os lugares, mas uma reação comparando uma ferramenta de aprendizado ao Estado totalitário e sem privacidade narrado por George Orwell em 1949 extrapola qualquer barreira de sensatez. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

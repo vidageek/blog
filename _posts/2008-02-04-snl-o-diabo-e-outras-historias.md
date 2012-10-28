@@ -28,7 +28,7 @@ Embora os cinco contos sejam incriveis, os dois últimos contos (“Falso cupom�
 “Depois do baile” trata da destruição da imagem que podemos ter de uma pessoa. Um jovem vai ao baile, dança a noite inteira com a garota pela qual estava apaixonado e conhece o pai dela (que aparentemente aprova as intenções do jovem). O pai dela, general do exército russo desperta nele muita adimiração. Após o baile, ele não consegue dormir e resolve passear pela noite. Ao amanhecer encontra presos sendo transportados pelo general que conhecera no baile. Não continuo pois destruiria o conto, que é muito bem narrado por Tólstoy.
 
 É um livro que realmente me surpreendreu. Se alguém está apaixonado pela literatura russa como eu, esse livro é obrigatório. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

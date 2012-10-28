@@ -32,7 +32,7 @@ O [ICU (International Components for Unicode)][2] faz todo o trabalho pesado par
 Entre os vários usuários do ICU, estão Google, IBM e Apple.
 
 Ele é meio chato de usar, mas vale a pena. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

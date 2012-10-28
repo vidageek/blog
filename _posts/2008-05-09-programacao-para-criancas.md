@@ -33,7 +33,7 @@ Em suma, é um ótimo substituto ao computador para dar de presente às criança
 Agradeço a [Rafael Izbicki][3] pela recomendação!
 
 Foto: [C-Jump Factory][2] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

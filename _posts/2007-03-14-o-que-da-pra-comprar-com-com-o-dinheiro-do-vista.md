@@ -18,7 +18,7 @@ post_format: [ ]
 ---
 O blog [Na Mira do Linux][1] publicou diversas coisas que podem ser compradas com o dinheiro que você gastaria na edição Home do Windows Vista. Vale a pena conferir.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

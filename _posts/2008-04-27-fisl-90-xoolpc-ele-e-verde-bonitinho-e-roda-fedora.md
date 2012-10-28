@@ -36,7 +36,7 @@ Creio que a parte mais interessante da palestra tenha sido, no entanto, a discus
 A questão levantada foi como mudar a mentalidade brasileira de que a prova é a melhor maneira para avaliar aprendizado quando pode-se adotar um paradigma mais colaborativo, onde uma pessoa ajuda a outra a aprender. E, na verdade, uma das reclamações foi de que o Ministério da Educação por um lado não incentiva em nada o aprendizado colaborativo, apesar da vontade de alguns professores, e, por outro, quer aplicar o projeto dos OLPCs no Brasil – parece ou não que alguém está ganhando com isso e não são as crianças.
 
 Antes de investir num projeto desse nível e custo, deveríamos mudar a proposta de ensino para algo que possa ser adequado à ferramenta que o XO é. Não adianta comprar tecnologia de última geração se o modo de pensar ainda é aquele antigo e quadrado. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

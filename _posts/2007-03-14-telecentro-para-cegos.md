@@ -17,7 +17,7 @@ Um projeto conduzido pela [Apec][1], Associação Pernambucana para Cegos, estre
 O telecentro fica na sede da Apec, em Recife.
 
 Mais informações: [Uol][2]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

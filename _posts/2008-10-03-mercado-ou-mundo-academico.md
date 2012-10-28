@@ -25,7 +25,7 @@ Ainda não tive que decidir qual deles vou seguir, ou se vou continuar seguindo 
 
 ##### *Imagem via [Nuvens óbvias de nicotina][2]*
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

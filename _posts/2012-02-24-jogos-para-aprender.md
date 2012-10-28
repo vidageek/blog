@@ -16,7 +16,7 @@ Disso, nasceu uma [PoC][1] bem interessante, que junta elementos de [prática de
 O [VidaGeek Games][4] é o fruto desse trabalho. Como é uma PoC, ainda está bem cru, mas já dá para começar a sentir o gosto. Temos apenas um [jogo sobre RegEx][5] até o momento, mas várias idéias para melhorá-lo e para outros jogos.
 
 Todo feedback é bem-vindo e fundamental para nós. E se gostou bastante da idéia, pode nos ajudar sugerindo idéias/patches através do [github][6] ou do email games@vidageek.net. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

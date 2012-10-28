@@ -35,7 +35,7 @@ Para os desenvolvedores que quiserem contribuir o código fonte está em <http:/
 Pra quem quiser entrar em contato com a equipe – formada por bolsistas do Centro de Computação Científica e Software Livre (C3SL) da UFPR – escreva para xadrez-devel em c3sl ponto ufpr ponto br.
 
 Post por Carla Rizzotto. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

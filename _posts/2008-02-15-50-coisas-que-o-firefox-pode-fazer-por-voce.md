@@ -77,7 +77,7 @@ Apesar de conhecer várias extensões, encontrei recentemente esta lista na inte
 
 [Via [Techdo.com][52]]
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

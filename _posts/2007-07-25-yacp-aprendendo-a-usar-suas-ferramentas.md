@@ -85,7 +85,7 @@ Já o emacs possui apenas um modo e uso. Inserção. Isso significa que você n�
 *   ctrl-y – cola o texto previamente copiado
 *   ctrl-_ – desfazer
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

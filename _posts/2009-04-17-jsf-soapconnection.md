@@ -30,7 +30,7 @@ Seja quem for que criou esse método, quis evitar que quem estivesse criando sua
 Agora, esse foi um dos piores lugares em que eu já vi um Object. Por que raios não usaram sobrecarga de método? Custava deixar a API nojenta de SOAP um pouquinho mais legível? 
 
 Erro feio esse! O que será que acontece se eu passar um Long pro método? Exception? Devolve null? O comportamento que deveria ser padrão não está documentado. Triste, não? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

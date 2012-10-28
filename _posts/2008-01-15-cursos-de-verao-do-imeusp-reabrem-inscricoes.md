@@ -45,7 +45,7 @@ Para quem está começando a programar há vagas em cursos de [Introdução à C
 Você pode ver a lista toda de cursos disponíveis, horários e preços clicando [aqui][9] e você consegue as fichas de inscrição [aqui][10].
 
 Apesar de o site do IME/USP indicar que as inscrições terminaram em dezembro, elas foram reabertas ontem pelo fim da tarde! O site deve ser atualizado em breve. Novamente, se você ainda não fez planos para suas férias, vale a pena conferir e investir um pouco para aprender muito! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

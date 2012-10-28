@@ -24,7 +24,7 @@ Mas até agora eu não expliquei como colocar caracteres como  e  num camp
 O principal problema em usar esses caracteres é a demora para encontrá-los na tabela, mesmo que ela esteja razoavelmente organizada. Um quebra-galho, nesse caso, é anotar os caracteres que você for usar mais numa tabelinha separada e fácil de acessar (por exemplo, um post-it grudado no computador).
 
 *Update*: Aparentemente esse atalho é do ambiente Gnome. Tentei usá-lo dentro do navegador Opera e não funcionou. Alguém aí sabe de algum jeito mais genérico de fazer isso? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

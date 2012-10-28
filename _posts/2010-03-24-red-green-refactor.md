@@ -52,7 +52,7 @@ Talvez eu tenha perdido um pouco na qualidade do código usando essa abordagem t
 Outra coisa que esses testes me ajudam muito é a saber quando eu terminei a funcionalidade mais complexa. 
 
 O que acham disso? Já fizeram (ou fazem) algo semelhante? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -74,7 +74,7 @@ Então, em vez de softwares, adiciono ítens de fundamental importância naquele
 Muitos outros já entraram pra brincadeira. Quem me convidou, assim como aos outros autores do Vidageek, foi o [David Paniz][4].
 
 E o ambiente de desenvolvimento de vocês, como é? Publiquem seus posts e mandem os links nos comentários. Participações são bem vindas! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

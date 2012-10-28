@@ -29,7 +29,7 @@ open -a MiddleClick
 10 *       *        *       *      /Users/fabsn/Library/Scripts/md-mouse.sh
 
 Isso vai fazer com que o script seja reiniciado no minuto 10 de cada hora (a cada 1 hora). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

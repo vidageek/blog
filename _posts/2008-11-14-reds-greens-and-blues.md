@@ -32,7 +32,7 @@ Você, leitor do vidageek, conseguiria discutir a respeito de com a liberdade e 
 A análise que Benkler dá para este cenário é bastante complexa, e não cabe em um post, mas para os que querem ir além, vale muito a pena ler o [capítulo que fala das sociedades][2].
 
 Vocês podem deixar comentários sobre o que acham que poderia acontecer, e agente vai discutindo. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

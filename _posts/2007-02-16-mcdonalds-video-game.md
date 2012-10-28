@@ -28,7 +28,7 @@ No escritório você poderá ver como sua empresa está indo, contrar campanhas 
 Em suma este é um jogo muito viciante, sarcástico e bem feito. Com certeza dá pra desperdiçar algumas horas jogando.
 
 [Via [DownloadSquad][2]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

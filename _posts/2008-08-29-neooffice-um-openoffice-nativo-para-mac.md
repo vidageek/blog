@@ -20,7 +20,7 @@ Mas felizmente, em algum canto obscuro da internet, encontrei o [NeoOffice][3]. 
 
 A nova versão do OpenOffice para Mac não precisará do X11 e, portanto, o futuro do NeoOffice é incerto. Mas o beta atual do OpenOffice não é nem um pouco estável e portanto recomendo o NeoOffice por enquanto até a versão 3.0 do OpenOffice sair. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

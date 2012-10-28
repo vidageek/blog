@@ -15,7 +15,7 @@ Niklas Zennstrom e Janus Friis estão trabalhando em mais um projeto que promete
 Ainda não consegui inscrever-me para a versão de testes e assim que conseguir, colocarei as minhas primeiras impressões aqui.
 
 Mais informações e inscrições para a versão de testes do Joost:**[Joost][1]** 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

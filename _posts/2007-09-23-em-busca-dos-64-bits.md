@@ -30,7 +30,7 @@ Procurando por algum tempo no Google, encontro um site que diz que você precisa
 Depois de muito procurar usando o apt-cache (o Google não estava ajudando muito…), encontrei um plugin java 1.4 para o firefox. Pensei: “Melhor que nada. Quem sabe funciona”. Depois de baixar a jre 1.4 (inútil pois estou usando java 6 na máquina), instalar o plugin (j2re1.4-mozilla-plugin), entrei novamente no Banco do Brasil, a applet carregou e… o firefox foi morto por uma NullPointerException causada pelo plugin no momento em que eu passei o mouse em cima da applet.
 
 Triste fim para uma tarde. Mas faz parte do processo de mudança. Até processadores de 64 bits tornarem-se padrão para a produção de software, usuários de linux 64 bits vão sofrer bastante. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

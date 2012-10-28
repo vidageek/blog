@@ -24,7 +24,7 @@ Para quem não conhece, o Glade é um utilitário para desenvolvimento de interf
 Como o autor do artigo cita, a biblioteca GTK+ está disponível para muitas linguagens, e o arquivo com a descrição da sua interface, gerado pelo Glade, pode ser utilizado para carregá-la dinamicamente, ou seja, você pode mudar a hora que quiser a linguagem do seu programa que não precisará redesenhar a interface, o que torna o Glade muito versátil.
 
 Veja também o site oficial: <http://glade.gnome.org/> 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

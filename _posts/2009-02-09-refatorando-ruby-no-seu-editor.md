@@ -21,7 +21,7 @@ Muitos dos que programam em Ruby não utilizam IDEs para desenvolver seus softwa
 
 Inicialmente, o projeto realiza apenas o “Extract Method” e já pode ser usado no TextMate, mas o projeto foi desenvolvido para permitir o uso de qualquer editor suficientemente poderoso. Para instalar no TextMate basta seguir as [instruções na página do Bundle][3] no GitHub. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

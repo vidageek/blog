@@ -23,7 +23,7 @@ Note que, podendo memorizar todos os resultados, basta executar o algoritmo apen
 Lógico que nem todo caso é fácil de resolver que nem o exemplo acima. Mas a idéia fundamental por trás da programação dinâmica é a recursão. Então, quando surgir um problema para o qual você tem uma solução recursiva, veja se não é possível memorizar a recursão.
 
 Veja mais exemplos [aqui][2]. Note que, em todos, a idéia é tentar dar um passo, ver o que acontece até o fim e aprender com o resultado. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

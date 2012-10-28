@@ -18,7 +18,7 @@ Em diversos sites estão aparecendo rumores de que a nova versão do MacOS X (10
 Também está sendo menciona que os softwares iLife ’07 e iWork ’07 serão lançados também até o fim de março, mas sobre esses não existe nenhum informe oficial da Apple.
 
 Mais informações: **[Think Secret][1]**, em inglês. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

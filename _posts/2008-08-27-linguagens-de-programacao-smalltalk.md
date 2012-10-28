@@ -39,7 +39,7 @@ Achou interessante? Não gostou? Discorda de alguma coisa? Quer adicionar mais a
 
 ##### *Imagem via [Kurtz-Fernhout][9]*
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -25,7 +25,7 @@ Caso goste do *site* e comece a jogar, não se esqueça de me
 Foto por [sobriquet.net][4].  
 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

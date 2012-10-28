@@ -27,7 +27,7 @@ Apenas para complementar o post sobre VarArgs, agora que você conhece o funcion
 Mais informações: Introduction To Algorithms, de Cormem, Leiserson, Rivest e Stein (CLRS) ou pilha -> Google
 
 Próxima sexta: Recursão 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

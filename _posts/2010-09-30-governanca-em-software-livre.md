@@ -32,7 +32,7 @@ Entretanto, não é bem assim que as coisas funcionam no mundo do software livre
 Uma questão que surge aqui é: como alguém vira autoridade numa comunidade de software livre? Muito se fala em meritocracia para explicar isso: quem tem mais mérito vira líder naturalmente. Mas aí entra outra questão: o que é mérito para essas comunidades? Habildade de programação? Não no caso da comunidade Debian: nessa comunidade, uma análise das eleições dos primeiros anos dessa década mostra que os candidatos com mais contatos e que demonstravam maior habilidade de comunicação e representação política tiveram maior destaque.
 
 Concluindo, a ideia aqui era mostrar rapidamente que nem tudo que se pensa a respeito das comunidades de software livre é verdade, e que ainda há muito para se estudar, ainda mais com a influência das redes sociais no desenvolvimento de software, como é o caso do [GitHub][7]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

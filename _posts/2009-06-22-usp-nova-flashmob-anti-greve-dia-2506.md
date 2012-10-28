@@ -39,7 +39,7 @@ Local: Em frente à FEA
 Sei que muitos estudantes anti-greve não poderão participar, já que muitos de nós usa cada minuto extra do tempo para estudar, fazer trabalhos ou escrever teses de mestrado/doutorado – ou se desdobra para estudar e trabalhar. E exatamente isso é o que torna importante fazer um esforço para estar presente nesse flashmob. Se você tem esse tempinho na hora do almoço, passe lá para mostrar sua opinião – mostrar quem é maioria.
 
 Obrigado pela atenção e, novamente, peço desculpas aos leitores que não deveriam precisar ser expostos a isso. Infelizmente, se faz necessário. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

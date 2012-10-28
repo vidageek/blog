@@ -27,7 +27,7 @@ Bom, não tem salário, mas em compensação não precisa sair de casa, não pre
 Essa ferramenta é um tipo de jogo que a Google criou para melhorar a ferramenta de busca de imagens deles. O objetivo é descrever as imagens que forem aparecendo com tags relevantes. Quanto mais relevante, melhor!
 
 Aviso: é viciante (mesmo para quem não é workaholic)! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

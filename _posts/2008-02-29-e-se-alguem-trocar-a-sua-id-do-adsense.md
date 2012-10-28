@@ -46,7 +46,7 @@ O verdadeiro problema é a injeção de script. Esse é um pesadelo do mundo atu
 Mas isso raramente é feito de forma efetiva (quando é feito…), o que resulta em sites expostos. Já passou muito da hora dos programadores (em especial os que desenvolvem para web) se preocuparem em evitar o bom e velho “‘;DROP TABLE Funcionario;” que alguém colocou em um formulário qualquer por diversão.
 
 **Nota:** Não me lembro de ter visto em lugar algum alguém mencionar um ataque como esse que eu descrevi acima, mas isso não significa que ninguém já esteja usando idéias semelhantes a essa. Segurança é um assunto importante que **deve** ser mais discutido. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

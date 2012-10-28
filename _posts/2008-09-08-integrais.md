@@ -27,7 +27,7 @@ Essa calculadora é uma versão online da calculadora que vem com o programa Mat
 O site da [Wolfram][3], aliás, tem uma base de dados bastante extensa e útil nessas horas de aperto, com informações sobre funções, séries e loucuras do gênero :).
 
 Enfim, esta é uma ferramenta essencial para aqueles que estão cursando cálculo ou estão estudando alguma coisa que depende de integrais. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -31,7 +31,7 @@ Exemplo de código C ofuscado
 Um dos grandes atrativos de C é a eficiência do programa gerado, que, graças também a compiladores eficientes, é quase igual a de um programa escrito em código de máquina, pois é compilado diretamente para este, ou seja, não roda sobre nenhuma máquina virtual, como a maioria das linguagens novas (Ruby, Python, Java, Perl, Groovy, JavaScript etc.). Atualmente, porém, algumas máquinas virtuais são capazes de quase igualar o desempenho de um programa escrito em C, o que torna o motivo “eficiência” para a escolha de C como linguagem de um projeto discutível.
 
 Eu, particularmente, gosto bastante de programar em C. Ter controle sobre os mínimos aspectos da programação, às vezes, é agradável e até fundamental (e, às vezes, é ruim, pois torna a programação menos produtiva). Em outros casos, pode se tornar chato e confuso, com todos aqueles ponteiros e memória sendo alocada e desalocada. Não recomendo desenvolver todo e qualquer programa em C; isso seria uma loucura hoje em dia, com tantas ferramentas mais produtivas por aí. Mas escrever um programa com algumas centenas de linhas em C é uma experiência que recomendo a todos os programadores pelo menos uma vez na vida! Outra experiência que recomendo: ler algum código C bem escrito, como o do *kernel* do Linux ou algum programa do Knuth (que, provavelmente, vai estar disponível para leitura como CWEB). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

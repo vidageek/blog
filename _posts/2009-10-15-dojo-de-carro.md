@@ -20,7 +20,7 @@ A idéia era que os papéis de piloto e copiloto do dojo, trocassem entre os pap
 Sempre gostei da idéia de misturar atividades, nos antigos uber-dojos (atuais kakes), onde tínhamos vários grupos programando ao mesmo tempo, diferentes problemas em diferentes linguagens, as pessoas de fora faziam comida.
 
 Alguém tem alguma boa idéia de como misturar dojos com outras atividades? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -23,7 +23,7 @@ Eu acho que não deve demorar mais do que uns 30 ou 40 minutos para chegar à re
 Ah, o código tem testes e teste também é código :D
 
 Enfim, se gostou da idéia, [veja o código][6]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

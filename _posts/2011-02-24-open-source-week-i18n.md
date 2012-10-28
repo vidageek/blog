@@ -16,7 +16,7 @@ com mensagens muito grandes (ficava muito ruim no .properties).
 Também melhoramos a documentação.
 
 Mais informações em <http://projetos.vidageek.net/i18n>. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

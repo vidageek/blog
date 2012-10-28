@@ -53,7 +53,7 @@ Todo feedback é bem vindo!
 
 [![Reblog this post [with Zemanta]][5]][5]
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

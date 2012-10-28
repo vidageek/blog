@@ -25,7 +25,7 @@ Como curiosidade, a fonte original para este post foi uma [postagem do Blog de B
 Por último, se você é RPGista (ou pretende se torna um) e gostou da ambientação **Steampunk**, recomendo o livro  
 [Castelo Falkenstein][6], que aborda um mundo na era vitoriana onde o Steampunk é uma realidade e fadas convivem com os humanos. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

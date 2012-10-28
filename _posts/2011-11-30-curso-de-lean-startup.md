@@ -20,7 +20,7 @@ Esse workshop oferecerá uma introdução ao tema Lean Startups, focada em dinâ
 Os interessados em inscrever-se devem acessar [o site dos cursos de verão do IME][2] e seguir os passos. Seja rápido, apenas 40 vagas estão disponíveis nessa edição inicial. Embora aconteça na USP, o curso é aberto para todos os públicos.
 
 Qualquer dúvida, pode também ser enviada para fabricio+lean [at] tailorbirds.com.br 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

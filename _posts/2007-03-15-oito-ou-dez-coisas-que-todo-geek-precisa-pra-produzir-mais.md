@@ -16,7 +16,7 @@ post_format: [ ]
 O blog [ Nomadishere ][1] publicou um post com as oito coisas que todo geek, nerd ou pessoa criativa precisa pra produzir mais no trabalho.  
 Uma versão adaptada em português pode ser encontrada aqui.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -62,7 +62,7 @@ Guilherme de Almeida Moreira é formando em Processamento de Dados pela FATEC-SP
 > Agora funciona tudo ok.
 
 Obrigado, Victor! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

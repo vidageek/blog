@@ -24,7 +24,7 @@ E obvio que o Linux tem custos, pois afinal de contas tudo dentro de uma empresa
 As pessoas acham que só porque o código é aberto ele é inseguro e incompleto. Que você terá que contratar o Linus Torvalds para para poder usar Linux na sua empresa. Ledo engano…
 
 [Via [Folha Online][1]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

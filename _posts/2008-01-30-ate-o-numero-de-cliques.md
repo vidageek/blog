@@ -30,7 +30,7 @@ Eles têm que guardar isso em disco. Quantos sites eu já acessei hoje? Tudo gua
 É algo pra deixar qualquer um louco (ainda mais eu que adoro fazer otimizações de baixo nível).
 
 Já estou melhor depois desse desabafo. Mas ainda assusta. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

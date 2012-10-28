@@ -19,7 +19,7 @@ Para os que não sabem, os problemas computacionais podem ser classificados de a
 4.  Depois de um tempo (algo próximo a três meses), demita o funcionário.
 5.  Vá para o passo 2.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

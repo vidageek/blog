@@ -35,7 +35,7 @@ O primeiro possui uma curva de aprendizado de 30 segundos. Basta saber usar o pr
 Mais informações: gdb -> Google
 
 Na próxima semana: Pilha do C. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

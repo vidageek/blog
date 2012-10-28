@@ -49,7 +49,7 @@ E, de acordo com Thiago, 10% dos usuarios de São Paulo e 8% dos usuários do Ri
 Chegue às suas próprias conclusões… e lembre-se sempre do nome desse Senador.
 
 [Nota: Embora publicado por mim, Jonas de Abreu, este artigo foi escrito por Caue Guerra, amigo nosso] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -25,7 +25,7 @@ Recentemente encontrei esta tirinha na internet e gostei tanto que acabei assina
  [Via 
 
 [Extralife][4]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

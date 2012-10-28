@@ -26,7 +26,7 @@ Por isso, a partir do próximo domingo, teremos essa nova coluna semanal, a **Ge
 Estes temas já foram abordados antes, mas não não tinham o seu espaço próprio no blog. As tags [Humor][2],[ Jogos][3] e[ Livros][4] estão repletas desse tipo de posts. Até domingo!
 
 Imagem por [illusiondevivre][5] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

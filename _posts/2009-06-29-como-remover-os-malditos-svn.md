@@ -28,7 +28,7 @@ Explicação:
 1.  **find . -iname .svn**: Encontra todos os arquivos ou diretórios que se chamem .svn 
 2.  **xargs rm -fr**: O xargs é um programa que executa o que vier depois dele pra cada linha que ele receber como entrada. Por isso apaga todos os .svn. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -15,7 +15,7 @@ post_format: [ ]
 Japonêses desenvolveram um robô de resgate digno de animês: ele engole a vítima para tranportá-la para uma área mais segura. O robô foi desenvolvido para atuar em áreas de grandes tragédias como terremotos, atentados terroristas ou guerras. Ele possui duas pinças mecânicas que prendem uma pessoa e tranportam para a ambulância, conectada à parte traseira dele.
 
 Mais informações: [Uol][1] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

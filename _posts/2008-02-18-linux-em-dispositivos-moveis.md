@@ -27,7 +27,7 @@ Como uma última dica, para quem tem um **iPod**, sugiro dar uma olhada no [iPod
 
 [Foto original][8] por pommesschranke 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

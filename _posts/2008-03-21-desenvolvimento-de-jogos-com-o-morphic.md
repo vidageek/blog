@@ -26,7 +26,7 @@ Por ser em Smalltalk, tudo são objetos no Morphic, inclusive a moldura das jane
 Se você ficou curioso em conhecer mais sobre o Morphic, recomendo a leitura do texto sobre Smalltalk na Wikipédia (link acima), além de recomendar esse ótimo screencast feito pelo Hugo Corbucci (necessita de Java para ser assistido):
 
 [Exemplo de Morphic no Squeak][3] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

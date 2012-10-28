@@ -35,7 +35,7 @@ O que não é dito pela empresa, é que essa é uma via de mão dupla e, portant
 Isso vai contra toda a filosofia da comunidade OpenSource e me admira a Dell entrar nesse processo duvidoso com tantas opções de Linux acessíveis e fáceis de usar que vêm aparecendo nos últimos tempos, como o Ubuntu e o Insigne – este último, pode ser até encontrado em computadores vendidos na rede Extra de supermercados.
 
 Pode-se questionar as intenções da Dell, assim como questiona-se as da Novell. Apenas resta a esperança de que a Microsoft cumpra sua palavra e não se aproprie do código aberto e colaborativo do SuSE. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

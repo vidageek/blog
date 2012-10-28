@@ -31,7 +31,7 @@ Eis o texto escrito por Fabrício S. Nascimento e revisado por Mariana V. Bravo 
 > Confira alguns ScreenShots: <http://archimedes.incubadora.fapesp.br/portal/screenshots-2>.
 
 Agradecimentos ao Fabrício, à Mariana V. Bravo e ao Hugo Corbucci. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -24,7 +24,7 @@ Felizmente há diversas ferramentas e truques que podem ser utilizados para atin
 A função dessas ferramentas é assegurar que as dependências do seu programa (bibliotecas, formato de dados) estão satisfeitas e gerar instruções para uma ferramenta de compilação (Make, Visual Studio) saber como chamar o compilador para compilar seu programa, afinal os compiladores mudam de sistema para sistema, e mesmo as opções de compilação de um mesmo compilador mudam.
 
 Então, se você for escrever uma aplicação um pouco mais complexa do que um “Hello world”, vale a pena investir um tempinho para escrever um arquivo de configuração para usar uma dessas ferramentas! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

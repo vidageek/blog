@@ -34,7 +34,7 @@ Para desativar, basta configurar o Nautilus para mostrar o desktop e reinicia-lo
 gconftool-2 --type bool --set /apps/nautilus/preferences/show_desktop true && nautilus &`
 
 Fonte: [Prashanth Ellina Blog – Matrix Desktop][2] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

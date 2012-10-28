@@ -22,7 +22,7 @@ Mas muitos ainda não tem interesse sobre o assunto e são abocanhados pelas emp
 A Google com certeza não é nenhuma boa-samaritana, se ela divulga o software livre é porque tem suas próprias intenções sobre isso, mas enquanto ela estiver pagando para que desenvolvedores realizem melhorias e desenvolvem projetos de pertencem a toda a comunidade eu irei fazer busca no Google ao invés do Live Search (ou qualquer nome que aquilo tenha).
 
 Mais informações no [Blog do Google Summer of Code][1]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

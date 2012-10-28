@@ -41,7 +41,7 @@ Enfim, aprendi algumas coisas novas com essa palestra; gostei! E acho que també
 O código que ele mostrou na palestra está no [GitHub][7] e os slides, no [SlideShare][8].
 
 Assim que der tempo falo sobre as outras três palestras que assisti ontem, apesar da visita do nosso presidente ter atrapalhado um pouco o andamento do evento… 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

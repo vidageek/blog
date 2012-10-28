@@ -28,7 +28,7 @@ Terceiro: Contrinua com a comunidade. OpenSource é porta para muitas coisas. Vo
 Quarto: Diga ao mundo o que está fazendo e passe conhecimento para frente. Se você não falar, ninguém vai saber. E se você não ajudar os outros a aprender, não existe muita razão para que eles voltem para o seu site.
 
 Por último, ignore tudo que falei acima quando quiser ou achar que faz sentido. Não existe um único caminho para se construir uma marca. Você tem que achar o seu. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

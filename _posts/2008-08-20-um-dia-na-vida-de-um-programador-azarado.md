@@ -20,7 +20,7 @@ Estava eu, tranqüilamente indo trabalhar. Como sempre, o ônibus estava atrasad
 Mas peraí…. fechar a paulista por 30 minutos? Os caras que organizaram essa aparição pública tem vários parafusos a menos. Sei lá. Fecha uma faixa. Duas no máximo. Mas não ela inteira. A porcaria do meu ônibus passa por ela e além do atraso do ônibus tive que esperar toda a carreata passar. Mas isso nem foi o pior. Até aí (embora meu humor já estivesse mais próximo do limbo do que da minha cara) dava pra agüentar. O pior foi olhar pra cima e ver que tinha um helicóptero com um ser de baixa capacidade de raciocínio dentro jogando papel picado por toda a paulista. Vai varrer depois, cérebro de ostra? Porque festa não é festa se a paulista não estiver coberta de lixo.
 
 Enfim, parabéns César! Mas vê se contrata uma assessoria de imprensa com um pouco mais de cérebro no futuro. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

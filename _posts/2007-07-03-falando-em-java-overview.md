@@ -48,7 +48,7 @@ Além do memorável Coffee Break e o cumprimento dos horários propostos, boas e
 No fim do evento, foram sorteados diversos brindes, de assinaturas [MundoJava][3] a Nintendos DS.
 
 Nos posts a seguir, um resumo de cada palestra. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

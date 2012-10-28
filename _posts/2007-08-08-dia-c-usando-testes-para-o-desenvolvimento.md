@@ -31,7 +31,7 @@ Algumas dicas para quem pretende desenvolver utilizando testes:
 Mais informações: [Wikipedia][1]
 
 Com isso encerro a série Dia C. Espero que tenham gostado. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

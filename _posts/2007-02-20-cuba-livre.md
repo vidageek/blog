@@ -20,7 +20,7 @@ Essa parece ser a tendência de diversos governos (embora a maioria seja movida 
 Em Cuba, também nota-se um grande aumento no número de usuários de Software Livre. Nos últimos dois anos, o número de usuários de Software LIvre passou de 600 para mais de 3000. Acredita-se que esse crescimento seja exponêncial.
 
 Mais informações: **[USA Today][1]**, em inglês. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

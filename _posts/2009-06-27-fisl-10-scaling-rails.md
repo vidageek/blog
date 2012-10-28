@@ -33,7 +33,7 @@ Depois disso, Mergulhão falou um pouco sobre a estrutura física dos servidores
 Por fim, falou um pouco sobre o ganho de performance e de tempo de desenvolvimento (por não ter que usar mais SQL) com o uso do [Sphinx][2].
 
 O começo da palestra foi interessante, mas minha impressão final é de que o palestrante não ficou muito feliz com o resultado da migração do site, antes em PHP, para Rails. Outro comentário que posso fazer é que já trabalhei num projeto em Rails com Sphinx e a equipe não gostou muito; acabamos mudando para o [Solr][3]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

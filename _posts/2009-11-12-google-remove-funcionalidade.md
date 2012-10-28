@@ -24,7 +24,7 @@ Nenhuma explicação adicional! Existem alguns comentários de usuários explica
 Pessoalmente eu gostava da funcionalidade, talvez ela tenha ido por uma boa razão, mas eu não compreendo muito bem. Será que vale a pena por exemplo deixar alguns usuários insatisfeitos para descomplicar o sistema? Será que a nova implementação tornava essa funcionalidade muito difícil de ser adicionada? Enfim… porque será que o google fez uma coisa dessas?
 
 **Update: **Tem exatamente 30 dias (12 outubro 2009) o [google devolveu essa funcionalidade][3]. Pelo que eles escreveram no blog, baseado no feedback dos usuários eles decidiram devolver a função. Obrigado pela dica João Alberto :-). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

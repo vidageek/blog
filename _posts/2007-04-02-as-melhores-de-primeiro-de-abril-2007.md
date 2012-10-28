@@ -38,7 +38,7 @@ Como de praxe, vários sites da área publicaram notícias “pegadinha” em to
 Nossa brincadeira foi o Supertrunfo Grafos, que está em fase de planejamento ainda, mas tem pretensões de ser terminado. A esperança é sempre que a Grow de fato se interesse pela idéia e produza o que pode vir a ser a sensação no meio de desenvolvedores.
 
 Já o Guia Linux – Parte III, bom, esse é sério! Sem pegadinhas, só dicas úteis para você que está tentando instalar Linux, mas se perde no caminho! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

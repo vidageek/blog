@@ -34,7 +34,7 @@ Paulo Feofiloff um professor doutor da universidade de São Paulo publicou já f
 Idéias: Oferecer um algoritmo para tri-colorir um grafo em C++ com uma interface gráfica em Qt (pode usar outras bibliotecas do KDE). É desejado que o algoritmo seja linear no número de vértices do grafo (do contrário não servirá para implementar interfaces 3D).
 
 É isso ai, qualquer outra idéia pode ser postada nos comentários, nós temos interesse em qualquer projeto que vocês possam oferecer. Não se acanhem, o pessoal do vidageek vai olhar atentamente para todas as submissões, não se esqueça da data limite (3/04). Boa Sorte, estamos ansiosos em trabalhar com vocês! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

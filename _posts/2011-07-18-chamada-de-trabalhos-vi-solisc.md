@@ -40,7 +40,7 @@ Datas Importantes:
 01/09/2011 – Divulgação das palestras aprovadas
 
 21 e 22/10/2011 – 6º SoLiSC 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

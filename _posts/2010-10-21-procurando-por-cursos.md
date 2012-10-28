@@ -21,7 +21,7 @@ A AdaptIdeas (site no ar em breve) é uma empresa que surgiu dentro da [AdaptWor
 Uma coisa muito legal o Procurando Cursos é que muita coisa que criamos para a infraestrutura dele vai ser liberada OpenSource logo logo (versões de alguns dos meus projetos e alguns projetos novos assim que estabilizarmos a interface). Então esperem novidades em um futuro bem próximo.
 
 Acho que essas são as novidades. Mencionei que com a redução do rítmo do projeto, eu devo voltar a postar mais frequentemente? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

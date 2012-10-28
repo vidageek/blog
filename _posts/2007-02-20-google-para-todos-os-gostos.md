@@ -36,7 +36,7 @@ Todos já ouviram falar do Gmail, Orkut e YouTube (adquirido recentemente pela G
 A grande vantagem das ferramentas Google é que elas estão todas interligadas, ampliando sua funcionalidade. Além disso, todas são gratuítas e você acessa com o mesmo usuário e senha (Sua Google Account).
 
 Mais informações sobre essas e diversas outras ferramentas (incluindo todas as ferramentas ainda em desenvolvimento na Google) no **[Google Labs][11]**. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

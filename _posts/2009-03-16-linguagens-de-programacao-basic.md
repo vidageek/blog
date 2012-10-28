@@ -41,7 +41,7 @@ Voltando hoje com a nossa série “Linguagens de Programação”, temos um pos
 > Então, analisando-se a linguagem pode-se dizer que, mesmo sendo uma linguagem “amadora” (como ainda hoje em dia é chamada), é muito útil tanto pelos motivos ditos acima como, por exemplo, influenciar linguagens, como no caso do Visual Basic.Net e do VBScript, dando chance, assim, para que amadores possam continuar com uma linguagem relativamente simples e usando recursos modernos.
 
 Imagem retirada do site <http://esafonsosanches.nonio.uminho.pt/course/view.php?id=76> 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

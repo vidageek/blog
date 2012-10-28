@@ -50,7 +50,7 @@ Problemas:
 *   **“C compiler cannot create executables” no *****emerge portage.*** Inicialmente achei que fosse um problema no gcc, mas mesmo com **emerge gcc** isso não adiantou. Na verdade o meu **/etc/make.conf** estava configurado para **pentium-4**(errado) e não **pentium4**(correto). Então se você tiver esse problema de uma olhada na sua **CFLAGS** para ter certeza que está tudo certo.
 
 Se você optou pelo LiveCD, você tem agora uma instalação quase completamente funcional. Se você escolheu o minimal, deve ainda instalar o ambiente gráfico. Outros itens de hardware também devem ser instalados, como placa de som, placa wireless (possivelmente), etc. Algumas coisas também precisam ser configuradas. Na próxima parte do guia irei abordar esses assuntos. Uma coisa interessante agora seria usar o ***emerge –update world*** para atualizar o seu sistema (isso pode fazer seu sistema quebrar se você usou o LiveCD). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

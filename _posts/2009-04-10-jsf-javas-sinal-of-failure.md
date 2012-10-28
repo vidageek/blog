@@ -28,7 +28,7 @@ Essa é umas das linhas mais assustadoras que encontrei passeando pelo código d
 4.  Isso foi feito por preguiça! Qualquer aluno de Ciência da Computação faria uma classe Pilha que **TEM** um Vector.
 
 Paro por aqui pois ainda tem muita sujeira por vir. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

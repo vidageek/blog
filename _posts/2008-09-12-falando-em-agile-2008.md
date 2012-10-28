@@ -20,7 +20,7 @@ A Thoughworks UK manda três brasileiros pra casa para palestrar no Falando em A
 Além disso, Alexandre Magno, o único *Certified Scrum Trainer* do Brasil, apresenta uma palestra e a Globo manda integrantes de sua equipe ágil para contar do seu caso de sucesso e falar sobre Scrum – particularmente, espero que de forma menos extremista do que a apresentação do [FISL 9.0][2] sobre o tema!
 
 Vale dizer também que a Caelum não costuma decepcionar nem nas palestras, nem nos coffee breaks! Se você se interessa por metodologias ágeis, informe-se mais sobre o evento no [site indicado][3] e na [thread do GUJ][4] sobre o assunto! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

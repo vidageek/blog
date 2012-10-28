@@ -39,7 +39,7 @@ Olhem que divertido. A classe A declara e implementa x(). A classe B sobrescreve
 É interessante o java permitir que você sobrescreva um método com um método que nem implementação tem ainda. 
 
 Você ainda poderia modificar um pouco o código e fazer com que o método da classe C fosse final que tudo ainda continuaria compilando. Mágico, não? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

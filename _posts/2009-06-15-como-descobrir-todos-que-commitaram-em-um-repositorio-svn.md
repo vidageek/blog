@@ -37,7 +37,7 @@ Explicação da bizarrice acima:
 5.  **uniq**: elimina todas as duplicatas deixando apenas uma cópia de cada usuário (só funciona em listas ordenadas. Por isso o sort anterior). 
 
 Tentei fazer usando o comando **cut** no lugar do sed, mas o cut desistia no meio do caminho por causa de caracteres estranhos. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

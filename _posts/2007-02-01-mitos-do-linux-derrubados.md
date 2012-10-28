@@ -46,7 +46,7 @@ As últimas atualizações do Crossover Linux permitem que você jogo todos os j
 Espero que esse texto possa ajudar a diminuir o preconceito das pessoas em relação ao Linux.
 
 [via [DownloadSquad][6]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

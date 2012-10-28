@@ -20,7 +20,7 @@ Além disso, tem um problema maior. Quando você usa uma camada de abstração, 
 Então, ao contrário do que a maioria diz, eu reinvento a roda sempre que posso. Depois que está funcionando e tem uma boa cobertura de testes, se for melhor (na minha opnião) do que existe no mercado eu extraio e lanço opensource. Caso contrário, migro meu código para uma das soluções existentes. Gastei mais tempo? Não. Fiz um investimento em mim (e provavelmente na minha equipe). Me tornei mais capacitado para resolver esse e vários outros problemas.
 
 Mas é bom lembrar que você não vai poder fazer isso sempre (afinal, não se vive apenas de investimentos). Sem contar que reinventar a mesma roda sempre é bobagem (você vai aprender muito menos do que reinventando uma roda nova). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

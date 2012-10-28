@@ -33,7 +33,7 @@ O Happy Tree Friends é um site que conheço de longa data, da época do meu Ens
 Agora eles tem um Video Podcast, que até pouco tempo exibia pequenas animações mas agora mostra episódios completos. Trata-se de uma animação violenta que mostra os amigos da floresta em trapalhadas que freqüentemente levam a morte de maneira brutal e engraçada.
 
 Espero que esse post servia para levar mais algumas pessoas ao mundo dos podcasts. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

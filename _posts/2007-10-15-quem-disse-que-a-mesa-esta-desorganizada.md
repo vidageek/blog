@@ -34,7 +34,7 @@ Essa árvore tem por característica manter mais próximo à raiz os itens mais 
 Voltando ao assunto, o mesmo acontece com a mesa do programador. Os itens que ele utiliza com mais freqüência ficam mais próximos de suas mãos, minimizando o tempo gasto para pegá-los.
 
 Da próxima vez que encontrar alguém que tem uma mesa muito bagunçada, desconfie de que é um bom programador, ao invés de achar que não passa de um desleixado ;). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

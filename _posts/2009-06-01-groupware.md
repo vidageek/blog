@@ -21,7 +21,7 @@ Os groupware podem ser divididos em três tipos: coordenação (por exemplo gere
 Esta área, que foi criada na década de 80, cresceu muito e hoje aparece em muitas áreas e hoje é essencial em praticamente tudo desenvolvido com relação a internet, seja em jogos (MMORPGs), aplicações comerciais, aplicações web e etc.
 
 Em particular, uma das empresas que mais usa groupwares é o Google. Já reparou no que há em comum em todos os seus serviços ? Google Code, Google Calendar, Google Mail, Google Talk, Google Documents, Blogger, Google Maps, Orkut ? Todos estes são groupwares e ajudam as pessoas a manterem seus projetos de software livre, organizarem suas agendas, terem um cliente para e-mail e mensageiro instantâneo, criar textos, planilhas e apresentações em colaborativamente, expôr suas idéias e receber comentários por elas, criar rotas para você compartilhar com seus amigos, entre outras coisas. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -27,7 +27,7 @@ Há algum tempo atrás [analisamos][1] no nosso blog algumas das extensões mais
 [Auto Reload][6]: Ao adicionar uma página nesse script, sempre que a mesma estiver aberta ela é recarregada minuto-a-minuto. Muito útil para sites que precisam ser carregados constatemente para ver as informações.
 
 Este são poucos dos muitos scripts para Greasemonkey que existem na net. Caso conheça outros interessantes mande-nos um comentário! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

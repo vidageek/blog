@@ -62,7 +62,7 @@ Além do Vim, existe um outro bom editor chamado Emacs, criado por Richard Stall
 Para instalar o Emacs no Linux basta usar o seu gerenciador de pacotes (Portage, Synaptic, etc…) e escolher a opção de instalar o Emacs. Caso sua distribuição não tenha um gerenciador de pacotes, entre no [site do Emacs][2] e faça o download.
 
 Para instalar no Windows, acesse o [site do Emacs][3] e pegue o pacote de arquivos pré-compilados. Ele não contém um instalador, mas basta extraí-lo (ele é um .zip) e executar o bin/runemacs.exe, você pode deixar a pasta em qualquer lugar mas é interessante deixar em um lugar fácil de lembrar (C:\ ou Arquivos de Programas). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -30,7 +30,7 @@ Muitos dos temas da literatura se juntam nesse romance sobre valores, ao mesmo t
 Outro dia desses fui visitar uma amiga em Santos e ela estava com o Filme, vale muito a pena para quem não quer ler o livro pois é bem fiel.
 
 Esse livro é do tipo que marca , que deixa seu enredo cravado em algum canto da alma do leitor. Certamente como eu, por causa de uma simples pipa, se você ler este livro, nunca mais vai esquecer da calça de veludo cotelê marrom. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

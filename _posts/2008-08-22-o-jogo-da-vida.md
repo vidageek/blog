@@ -38,7 +38,7 @@ Duas curiosidades, a primeira o pessoal da **IBM** tem uma sessão chamada [*Pon
 Foto por [rastafabi][14]  
  
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

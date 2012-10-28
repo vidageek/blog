@@ -41,7 +41,7 @@ O [cronograma desses cursos][21] está disponível na página do IME, assim como
 Além disso, a quem interessar, vale a pena reforçar que os cursos Algoritmos em Java e Programação com a Linguagem Java são ministrados por instrutores da [Caelum][22], empresa de ensino e treinamento em Java e Scrum. Os cursos de metodologias ágeis e boas práticas contam com o pessoal da [AgilCoop][23], empresa ligada ao IME e especializada em metodologias ágeis.
 
 Vale a pena dar uma boa olhada e talvez investir uma ou duas semanas do seu verão atualizando-se como profissional ou aprendendo aquelas curiosidade que você sempre quis conhecer. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

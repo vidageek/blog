@@ -24,7 +24,7 @@ Muitas tecnologias estão envolvidas, como [Corba][6], o que torna trabalhar no 
 O Integrade ainda é bem jovem, mas já se encontra funcional. A última versão (0.4RC2) pode ser obtida [aqui][8]. Por hora, só funciona em Linux, mas para a próxima versão já teremos ele rodando em Macs e Windows.
 
 Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro do grupo de pesquisa do projeto Integrade, é aluno do terceiro ano de ciência da computação pelo **IME/USP**. E teoricamente mantém o [blog do fabs][9]. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

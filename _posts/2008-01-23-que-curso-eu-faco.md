@@ -31,7 +31,7 @@ Para tomar essa decisão, olhe com atenção as grades curriculares de cada curs
 
 Principalmente no segundo, que tem um comparativo mais detalhado entre esses cursos.  
 Veja a Wikipédia, também! Lá tem artigos para cada uma dessas áreas, com uma descrição bem precisa do que a cada uma se refere. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

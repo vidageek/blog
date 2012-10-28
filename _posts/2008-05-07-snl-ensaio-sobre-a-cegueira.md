@@ -25,7 +25,7 @@ O mais interessante no livro não é o progresso da doença, mas o estudo do com
 Outra característica bastante interessante no livro é a descrição que é apresentada das pessoas se adaptando à vida sem visão. O nível de detalhamento é fantástico, e faz parecer que o próprio autor do livro passou pela situação. Essas partes do livro, aliás, mostram as dificuldades que passa alguém que fica cego, algumas das quais a gente nem percebe.
 
 Em suma, o livro é muito interessante. Dá asas à imaginação sem sair do mundo real, e faz-nos pensar sobre nossa própria natureza, sobre nossas vidas e o mundo em que vivemos. Recomendo! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

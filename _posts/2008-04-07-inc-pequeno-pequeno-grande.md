@@ -62,7 +62,7 @@ Isso não compila. Dá erro porque a VM considera o 1 como int e um int nunca va
     
 
 Isso compila porque você força o cast e assume toda a responsabilidade por qualquer erro que possa ocorrer. Mas o segundo exemplo é realmente perturbador…. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

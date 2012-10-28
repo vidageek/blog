@@ -40,7 +40,7 @@ bzr co bzr+svn://umdominio.qualquer.**AQUI**/meubranch/essapasta/essearquivo.ext
 Sim, ele acabou de rodar o último comando trocando a string ALI por AQUI. Mágico, não?
 
 Bom, esses e outros comandos estão disponíveis em [command line fu][1]. Convido todos que acharem algum comando mais interessante lá a deixarem um comentário. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -26,7 +26,7 @@ As inscrições vão até o dia do evento, mas o prazo para comprar com preço r
 
 <http://gsd.ime.usp.br/sbcm/2007/portugues/index.html>.
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

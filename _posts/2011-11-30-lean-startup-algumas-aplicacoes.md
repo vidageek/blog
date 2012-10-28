@@ -40,7 +40,7 @@ webgym.com (fora do ar) – Bussines Model Canvas e Lean Model Canvas
 [SkiKitty][9] (android) – Utilização de Métricas (se você quiser testar a versão beta para iphone, basta mandar um e-mail para iphonegame@tailorbirds.com.br
 
 Se você ficou interessado no assunto, recomendo o livro [The Lean Startup][10] do próprio Eric Ries, ou se inscrever [no curso de Lean Startup que darei junto com alguns colegas em janeiro do ano que vem.][11] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

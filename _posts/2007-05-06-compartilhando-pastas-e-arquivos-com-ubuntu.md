@@ -15,7 +15,7 @@ Segue abaixo um video tutorial (em inglês) muito interessante sobre como compar
 
 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -33,7 +33,7 @@ Além disso, ele disse que os mentores não se incomodam muito com a faculdade q
 Um vídeo de incentivo feito pelo projeto Umit pode ser visto no [You tube][1] com legendas em português. Enfim, nada de muito novo e todas as informações ditas podem ser facilmente encontradas no Google numa busca comum por “Summer of Code”. 
 
 Na minha opinião, a participação da Google nesse FISL deixou um pouco a desejar, no geral. Apenas o cubo mágico como desafio no stand deles e nada, absolutamente, comparado à palestra sobre Map-Reduce e Big Table do FISL de 2007. Além disso, o pessoal que representou a Google desse ano era muito menos acessível, afastando um pouco o público que se interessava mais do que simplesmente em ganhar uma camiseta por entregar o currículo – decepcionante, Google Brasil. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

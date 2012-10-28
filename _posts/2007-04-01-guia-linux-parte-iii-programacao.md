@@ -64,7 +64,7 @@ O [GDB][5](Gnu Debugger) é extremamente útil, pois é um poderoso **debbuger p
 **Netbeans  
 **O **Netbeans** é um **IDE** criada pela Sun para o desenvolvimento em Java. Ele é o concorrente direto do Eclipse que muitos adoram. Eu, particularmente, simpatizei mais com essa IDE que agora, em sua versão 5.5, está muito poderosa.  
 Infelizmente no portage a versão disponível é a 3.6-r1, uma versão bem antiga e pouco poderosa. Por isso eu sugiro a instalação manual. No site [http://www.netbeans.org/][7] é possivel encontrar um instalador para Linux. Mas você precisará da [bc][8] (basic calculator, uma calculadora gnu poderosa ) para instalação, portanto execute um **emerge bc**. Para instalar, estando como **root** e de preferência no **X**, execute **chmod +x <arquivo>** e então **./<arquivo>** onde <arquivo> é o nome do pacote de instalação. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

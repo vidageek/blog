@@ -32,7 +32,7 @@ post_format: [ ]
 Um profiler, como o gprof, ajuda na otimização do código, pois permite que sejam facilmente identificados os gargalos (pontos de alto consumo de tempo/processando muito amento), para que você possa melhorar o desempenho do seu programa dedicando mais esforço às partes que realmente fazem diferença.
 
 Este post foi motivado pelo [Top 5 – Group  Writing Project][1] do [Problogger.net][2] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

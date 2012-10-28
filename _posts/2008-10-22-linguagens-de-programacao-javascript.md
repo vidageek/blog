@@ -38,7 +38,7 @@ Apesar dessas características, não há tantos recursos nativos na linguagem. M
 É lógico que Javascript não é perfeita. Além de não ser fácil de usá-la fora dos navegadores (outras linguagens de *script* são mais fáceis), nem sempre é fácil detectar erros no código. O código também não é modularizável com segurança, uma vez que não há como saber se todas as dependências do código estão satisfeitas até que o código seja executado. Isso a torna não muito boa para projetos grandes – de propósito pois, como o próprio nome diz, é uma linguagem de *script*, não destinada a grandes aplicações.
 
 Graças às características da linguagem, o código fica elegante e razoavelmente fácil de entender. É claro que sempre é possível escrever código ilegível… A linguagem também é muito poderosa, como se pode notar pela diversidade de bibliotecas disponíveis na linguagem, com os objetivos mais diversos. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

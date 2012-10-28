@@ -72,7 +72,7 @@ Andei vendo alguns outros que participaram da brincadeira e percebi que deixei d
 Tem outros softwares a mais também, que eu uso tão naturalmente que esqueço: mplayer, find, grep, xargs, sed, ssh, tar, curl, xclip, gdb, cmake…
 
 Acho que agora tá melhor. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

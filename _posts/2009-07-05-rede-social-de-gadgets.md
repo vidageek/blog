@@ -20,7 +20,7 @@ Trata-se de um website que reúne uma lista de quase 1500 gadgets (e crescendo),
 O site ainda mostra um resumo das suas ultimas modificações e permite que você siga pessoas (como no [twitter][3]) e faça amigos. As possibilidades são infindas…
 
 Se você quer saber mais sobre [gdgt.com][2], recomendo o vídeo de [Verônica Belmont][4] a respeito de [O que é o gdgt?][5] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

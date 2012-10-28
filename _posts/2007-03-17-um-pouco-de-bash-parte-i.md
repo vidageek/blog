@@ -90,7 +90,7 @@ Como usei alguns termos que talvez você não conheça, aqui vão umas pequenas 
 *   **(3)**: O caractere ‘~’ é um alias para a sua pasta raiz. Digite ‘echo ~’ para ver.
 
 Próximo post: mkdir, cp, mv, rm e rmdir. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -22,7 +22,7 @@ De uns tempos para cá, testes unitários ganharam muita importância no desenvo
 O CppUnit é um conjunto de classes, métodos e macros que permitem a utilização de testes unitários com simplicidade e facilidade. Também é possível fazer testes (unitários ou não) sem essa biblioteca, mas para quê reinventar a roda? O CppUnit já traz o suporte básico a asserções, *fixtures*, suítes de testes, além de contar com integração com diversos ambientes de programação, incluindo o Eclipse e o MSVC, para rodar os testes e encontrar os erros.
 
 Se você programa em C++ e não quer mudar para Java ou outra linguagem que dê acesso mais fácil a testes, como o JUnit, que já vem praticamente integrado ao Java, vale a pena tentar o CppUnit. Não é tão fácil de integrar ao seu projeto, como acontece em Java, mas o esforço compensa. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

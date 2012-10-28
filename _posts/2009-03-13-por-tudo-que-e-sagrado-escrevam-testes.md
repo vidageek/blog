@@ -54,7 +54,7 @@ Gostou? É assim que se aprende muito em computação sobre o que é relativamen
 E depois? O que eu devo fazer? Bom, de agora em diante, apenas ter disciplina para escrever os testes para as suas funcionalidades. Pronto. E o mundo está quase salvo =D .
 
 Programadores não podem ter medo de aprender coisas novas. O novo, em programação, é o que vai garantir que possamos chegar em casa e viver um pouco, em vez de apenas trabalhar por horas até a exaustão. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

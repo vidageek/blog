@@ -29,7 +29,7 @@ Uma das coisas que mais gostei no vídeo, é que os exemplos de bons e péssimos
 O vídeo tem uma hora de duração (por mim poderia ser ainda maior, pois a palestra é realmente muito boa).
 
 Espero que gostem! 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

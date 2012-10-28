@@ -29,7 +29,7 @@ Tem algo a acrescentar? Concorda/discorda com o que foi dito? Sua colaboração 
 
 ##### *Imagem via [Mastermod][3]*
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

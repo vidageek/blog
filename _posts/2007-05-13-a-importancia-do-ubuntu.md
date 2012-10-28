@@ -28,7 +28,7 @@ Mas como elas não estão nem um pouco interessadas em ferroadas, não irão faz
 O Ubuntu, por sua vez, além de fazer a instalação toda praticamente sozinho (inclusive o particionamento do disco rígido), é uma das distribuições linux que melhor detecta o seu hardware. Esse poder é tanto que, quando eu não sei a especificação de um determinado hardware, eu simplesmente inicializo o micro pelo LiveCD do Ubuntu e vejo qual é. Toda essa facilidade promovida pela distribuição é uma verdadeira pérola para o movimento. Com ele, qualquer pessoa pode simplesmente começar a adentrar no mundo do software livre, que ainda está muito afastado do cotidiano da maioria da população. Depois de instalar linux pela primeira vez, ele começa a ter um maior contato com todo o movimento, a ponto de passar a fazer parte dele e não ser apenas mais um espectador externo que pensa “Estou muito velho para aprender isso…”.
 
 Acredito que todo o movimento do software livre pode aprender com os passos do Ubuntu. O Software Livre DEVE ser de alta qualidade, mas não devemos esquecer que também pode ser bonito. O Beryl e o Compiz são exemplos disso, também. Nem sempre o melhor é escolhido. Na verdade, na maioria das vezes o mais bonito é escolhido. E isso é ainda mais forte no mundo do software livre, que, para muitos, é algum tipo de “tecnologia incompreensível que apenas geeks e técnicos sabem como usar”. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

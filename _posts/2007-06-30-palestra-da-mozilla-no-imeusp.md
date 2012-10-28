@@ -27,7 +27,7 @@ Se você não é um dos poucos que conseguiram assistir a palestra, você pode b
 [ Palestra da Mozilla (mp3)][3]- ~3.4MB (Obrigado Felipe Rafailov).
 
 Apesar de um pouco de eco, é possível ouvir bem a palestra – recomendo fones de ouvido. Boa diversão. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -17,7 +17,7 @@ Eu acabo de comprar o meu, sou um grande fã [de super meet boy][3] e estou mui
 ![][4]Uma coisa interessante, é que você pode decidir quanto vai para os desenvolvedores, quanto vai para caridade e quanto vai para o site que está fazendo e mantendo o projeto.
 
 Muito legal. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -25,7 +25,7 @@ No final, o guru **Fabio Kung** salvou o evento (que apesar de ter algumas coisa
 
 Uma cobertura mais detalhada pode ser encontrada no [Ruby Inside Brasil][4] (apesar de divergimos de algumas opiniões). O evento foi organizado pelo Grupo de Usuários de Ruby de São Paulo ([GURU-SP][5]), um grupo animado que vale a pena conhecer. Apesar de tudo, achamos que valeu a iniciativa do grupo em fazer este evento. 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -28,7 +28,7 @@ Além disso, durante o livro são citados diversos outros livros (de “Fausto�
 Ler este livro foi uma experiência bem reveladora pra mim, porque foi o segundo livro relacionado a psicologia que li (o primeiro foi “O eu e o inconsciente”, também de Jung e do qual falarei mais tarde) e realmente me identifiquei muito com essa linha psicológica. Em especial com os trabalhos sobre o subconsciente e inconsciente coletivo.
 
 Aniela Jaffé foi responsável por organizar a biografia. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

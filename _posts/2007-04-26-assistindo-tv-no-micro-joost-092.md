@@ -20,7 +20,7 @@ Apesar de ter uma grande gama de canais, incluindo alguns interessante como o **
 Concluindo, o software é bem interessante tanto do ponto de vista computacional quanto para realmente cumprir seu objetivo, mas com pouco conteúdo o software pode acabar no esquecimento, pois, imagine se a Wikipedia tivesse a estrutura atual mas tivesse pouco conteudo e você não pudesse adicioná-lo. Será que ela teria feito sucesso?
 
 Aproveitando, estamos lançando uma promoção: **As três pessoas que mandarem mais comentários úteis no blog (qualquer post, incluíndo trackbacks) até a próxima quarta-feira ganha um convite para o beta do Joost. ** 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

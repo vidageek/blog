@@ -30,7 +30,7 @@ Outros pontos negativos são a falta de documentação/ajuda e de ferramentas pr
 E você, o que acha? Mande sua opinião!
 
 Imagem via [Flickr][2] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -20,7 +20,7 @@ O sistema ainda tem que melhorar, mas deverá ser lançado comercialmente em 200
 
 
 [Via [INFO][1]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

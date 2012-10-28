@@ -38,7 +38,7 @@ A pedidos da organização do evento, estamos divulgando a seguinte mensagem:
 > Cordialmente,  
 > Comissão Organizadora I SIMTVD 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

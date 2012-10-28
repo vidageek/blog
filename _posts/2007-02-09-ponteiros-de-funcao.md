@@ -36,7 +36,7 @@ Este é mais um recurso de C que não é muito bem aproveitado (provavelmente po
 Mais informações: ponteiro de função -> Google
 
 Próxima semana, modificadores de variáveis e funções e as extensões GNUC. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

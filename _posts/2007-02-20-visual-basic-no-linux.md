@@ -18,7 +18,7 @@ Esse número de usuários é realmente assustador, lembrando que Visual Basic n�
 Bom para programadores Visual Basic e muito bom para Linux, pois agora é mais fácil migrar sistemas para Linux.
 
 Mais informações:**[Linux Devices][2]**, em inglês. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

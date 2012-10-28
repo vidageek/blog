@@ -22,7 +22,7 @@ Este algoritmo tem por objetivo sincronizar o acesso de processos a um mesmo rec
 5.  Quando achar que teve suas reivindicações atendidas ou ficar cansado de não fazer nada, entre na SC resmungando contra os processos que não aderiram ao piquete
 
 Este é um algoritmo ainda muito usado, especialmente em softwares públicos, que não levam em consideração o dano que por ventura venham a causar. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

@@ -19,7 +19,7 @@ O Prêmio Turing (conhecido como o Nobel da computação) é entregue aos maiore
 Frances Allen é pós-graduada em matemática pela Universidade de Michigan e trabalha na IBM desde 1957, onde iniciou carreira ensinando ForTran.
 
 Mais informações: **[Uol Tecnologia][1]** 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

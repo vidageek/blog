@@ -34,7 +34,7 @@ O que ninguém fala é dos diversos problemas que parecemos ganhar de brinde qua
 *   **Checar e-mail o tempo inteiro: **Isso na verdade não é uma síndrome ligada apenas a programadores. Todo mundo checa o e-mail o tempo inteiro. Minha solução é um pouco radical. Aos fins de semana eu não acesso e-mail. É difícil pois costuma ser a primeira coisa que faço no micro, mas parece estar funcionando. Ah, e também não acesso pouco antes de ir dormir (senão ia perder tempo de sono para ver coisas que não são necessariamente vitais).
 
 Se alguém tiver mais dicas de como sobrevivermos à profissão, por favor coloque um comentário. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

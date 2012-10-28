@@ -33,7 +33,7 @@ Como recomendação de leitura, ficaram:
 *   Direitos Autorais na Internet
 
 Boa leitura. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

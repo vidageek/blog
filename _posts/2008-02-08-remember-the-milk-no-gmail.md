@@ -25,7 +25,7 @@ Algumas semanas atrás eu estava dando uma olhada no [Remember The Milk][2] (O R
 Até que a equipe do RTM teve a genial idéia de integrá-lo ao GMail. Como você **sempre** tem uma aba do GMail aberta no Firefox, você pode manter sua agenda sempre aberta. E quando for dar uma olhada no GMail, você vê a sua agenda por tabela e nem precisa lembrar que ela existe (funcionou muito bem pra mim).
 
 Recomendo muito [esse addon][3]. Mesmo que você use algum outro tipo de agenda, vale a pena dar uma olhada nele. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

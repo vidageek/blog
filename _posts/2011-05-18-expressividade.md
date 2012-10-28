@@ -26,7 +26,7 @@ O que me parece é que expressividade depende das pessoas à quem o código se d
 De forma alguma estou dizendo que o código mais próximo da infraestrutura não deve ser expressivo (ele deve). Mas sim que o significado de **Código expressivo** muda dependendo de onde está o código.
 
 O que acham disso? 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

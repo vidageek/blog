@@ -21,7 +21,7 @@ Outra coisa muito legal é que ele coloca um marcador de erro (sabe a marcação
 A primeira versão (3.X) que usei dele, foi durante o desenvolvimento do [Mirror][3]. Na época era meio complicado colocar ele para rodar e tinha uns bugs meio estranhos (testes em loop infinito ficavam rodando eternamente). A versão atual (4.X) possui plugins para Eclipse e IntelliJ. 
 
 Vale muito a pena, em especial se você quer aprender TDD. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

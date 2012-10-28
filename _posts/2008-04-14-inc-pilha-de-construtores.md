@@ -50,7 +50,7 @@ Se dermos *new D()*, a saída será:
     
 
 Isso garante que todas as ancestrais da sua classe estejam inicializadas antes da sua classe ser inicializada. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

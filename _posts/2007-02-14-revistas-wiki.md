@@ -16,7 +16,7 @@ A iniciativa é, com certeza, tão interessante quanto a da própria Wikipedia e
 A Wikipedia e seus “filhos” são realmente muito interessantes para quem navega na Web, deve-se apenas tomar cuidado com a confiablidade do conteúdo, ou seja, ela é muito interessante para saber o que é um triângulo equilátero, mas nem tão interessante para escrever sua tese de doutorado sobre Geometria N-Dimensional.
 
 [Via [Slashdot][5]] 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

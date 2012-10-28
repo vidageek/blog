@@ -21,7 +21,7 @@ O DiskType é um daqueles programas pequenos (o fonte dele tem 44Kb) mas que sã
 Pronto. Rodando ele no /dev/cdrom, ele informou que o filesystem era o hfsplus.
 
 Fica a dica para os que costumam trabalhar com midias em formatos estranhos (ou os que, como eu, esquecem o formato delas). 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

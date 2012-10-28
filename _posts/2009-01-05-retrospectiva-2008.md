@@ -307,7 +307,7 @@ Tivemos quatro séries no VidaGeek.net em 2008. Em “Linguagens de Programaçã
 7.  [FISL 9.0: Entrando nos trilhos – Introdução a Ruby on Rails][96]
 
 Obrigado a todos os nossos leitores. Desejamos a todos um **feliz 2009**. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

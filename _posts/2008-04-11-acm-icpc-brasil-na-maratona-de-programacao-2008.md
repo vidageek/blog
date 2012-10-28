@@ -27,7 +27,7 @@ O Brasil foi representado por 4 times nessa competição e sua melhor colocaçã
 Parabéns aos representantes brasileiros nesse ano! A gente espera que tenha sido muito divertido, pelo menos!
 
 Veja a [lista completa de resultados][3] e as [fotos e vídeos][4] do evento. 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

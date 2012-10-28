@@ -26,7 +26,7 @@ Portanto, se você estava pensando em criar um programa que calcula PI, não o f
 Imagem modificada de [WorldIslandInfo.com][3]  
 
 
-**Posts Relacionados:** 
+
 *   No related posts
 
 

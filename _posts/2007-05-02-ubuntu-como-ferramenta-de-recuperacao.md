@@ -29,7 +29,7 @@ sudo chroot /mnt/root /bin/bash**
 Estava agora em casa, com uma pequena excessão que, no Ubuntu, as partições são sda e nao hda como estava acostumado, mas isso não foi um problema. Dei alguns emerges, recompilei o kernel, alterei algumas configurações e finalmente consegui meu Wireless no Gentoo devolta (mais ou menos, tive que fazer uma gambiarra).
 
 Portanto, fica como dica, mesmo que não use o Ubuntu carregue consigo o CD de instalação que pode eventualmente ser útil, por exemplo para fazer a instalacao do Gentoo quando seu Wireless não funciona. Outra dica, não atualize seu sistema no dia da entrega de trabalho… 
-**Posts Relacionados:** 
+
 *   No related posts
 
 
