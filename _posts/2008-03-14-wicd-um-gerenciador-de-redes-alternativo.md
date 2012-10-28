@@ -27,7 +27,7 @@ Atualmente, o wicd está bastante estável. Infelizmente, não está na lista de
 
 Veja mais no site do projeto: <http://wicd.sourceforge.net/> 
 
-*   No related posts
+
 
 
 

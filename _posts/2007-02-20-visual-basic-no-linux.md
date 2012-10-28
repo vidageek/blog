@@ -19,7 +19,7 @@ Bom para programadores Visual Basic e muito bom para Linux, pois agora é mais f
 
 Mais informações:**[Linux Devices][2]**, em inglês. 
 
-*   No related posts
+
 
 
 

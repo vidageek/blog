@@ -21,7 +21,7 @@ Além da maioria desses relatórios possuirem links diretos para exibição de m
 
 A interface antiga ainda continuará sendo acessível por pelo menos um mês. 
 
-*   No related posts
+
 
 
 

@@ -39,7 +39,7 @@ Apesar dessas características, não há tantos recursos nativos na linguagem. M
 
 Graças às características da linguagem, o código fica elegante e razoavelmente fácil de entender. É claro que sempre é possível escrever código ilegível… A linguagem também é muito poderosa, como se pode notar pela diversidade de bibliotecas disponíveis na linguagem, com os objetivos mais diversos. 
 
-*   No related posts
+
 
 
 

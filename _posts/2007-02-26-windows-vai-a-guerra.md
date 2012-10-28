@@ -15,7 +15,7 @@ O destróier tipo 45 do Reino Unido estará usando uma versão do Windows (desen
 
 Mais informações:**[The Register][1]** 
 
-*   No related posts
+
 
 
 

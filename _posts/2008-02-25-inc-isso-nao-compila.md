@@ -40,7 +40,7 @@ Olhem que divertido. A classe A declara e implementa x(). A classe B sobrescreve
 
 Você ainda poderia modificar um pouco o código e fazer com que o método da classe C fosse final que tudo ainda continuaria compilando. Mágico, não? 
 
-*   No related posts
+
 
 
 

@@ -28,7 +28,7 @@ Um dia a gente vence essa briga.
 ##### *Imagem via [3spam.com][4]</h5> 
 </i> 
 
-*   No related posts
+
 
 
 

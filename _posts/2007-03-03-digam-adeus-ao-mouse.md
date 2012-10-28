@@ -13,7 +13,7 @@ No último fascículo da MIT Technology Review, exite uma reportagem sobre um no
 
 Mais informações:**[Programming Musings][1]**, em inglês. 
 
-*   No related posts
+
 
 
 

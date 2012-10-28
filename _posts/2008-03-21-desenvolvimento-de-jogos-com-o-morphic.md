@@ -27,7 +27,7 @@ Se você ficou curioso em conhecer mais sobre o Morphic, recomendo a leitura do 
 
 [Exemplo de Morphic no Squeak][3] 
 
-*   No related posts
+
 
 
 

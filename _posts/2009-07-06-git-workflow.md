@@ -77,7 +77,7 @@ Me atrapalhei um pouco no começo por não entender os conceitos por trás de re
                         É um pouco mais trabalhoso que o svn, mas os ganhos são significativos. Vale a pena usar git direito. Eu não volto mais pro svn.
                         
                         **Posts Relacionados:** 
-                        *   No related posts
+
                         
                         <g:plusone size="medium" count="false" href=""></g:plusone> 
                         

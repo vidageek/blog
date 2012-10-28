@@ -22,7 +22,7 @@ Pronto. Rodando ele no /dev/cdrom, ele informou que o filesystem era o hfsplus.
 
 Fica a dica para os que costumam trabalhar com midias em formatos estranhos (ou os que, como eu, esquecem o formato delas). 
 
-*   No related posts
+
 
 
 

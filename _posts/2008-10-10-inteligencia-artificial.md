@@ -36,7 +36,7 @@ Este artigo visa apenas a mostrar dar uma introdução à minha opinião sobre o
 
 ***Edit:*** criei um [tópico][12] no nosso fórum para discutirmos mais sobre o assunto. Creio que há bastante o que discutir… Comentem! :) 
 
-*   No related posts
+
 
 
 

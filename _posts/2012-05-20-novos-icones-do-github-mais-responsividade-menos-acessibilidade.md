@@ -32,7 +32,7 @@ No entanto, a forma como o Github usou fontes para seus ícones não é muito ac
 
 Assim, por mais elegante que seja a solução do Github, ela não é acessível. Neste caso, ícones em SVG parecem ser a solução mais adequada. Mas também é necessário que os navegadores melhorem o suporte a SVG, com melhor desempenho e compatibilidade com CSS3. 
 
-*   No related posts
+
 
 
 

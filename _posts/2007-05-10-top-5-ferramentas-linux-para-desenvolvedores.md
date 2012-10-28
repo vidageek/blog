@@ -33,7 +33,7 @@ Um profiler, como o gprof, ajuda na otimização do código, pois permite que se
 
 Este post foi motivado pelo [Top 5 – Group  Writing Project][1] do [Problogger.net][2] 
 
-*   No related posts
+
 
 
 

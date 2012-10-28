@@ -25,7 +25,7 @@ Mas você também pode criar um diretório-raiz seu, seguindo essa estrutura e c
 
 Com tantos diretórios e subdiretórios, e ainda a possibilidade de pacotes em vários lugares diferentes, como o LaTeX encontra os pacotes? Aí entra um programa chamado kpathsea. Ele cria um índice de todos os pacotes instalados. O LaTeX, na hora de processar um documento, chama esse programa para descobrir onde estão os arquivos de cada pacote referenciado pelo documento (pelos comandos \usepackage). Para saber mais sobre esse programa, use o comando ‘texdoc kpathsea’. Lá o autor do programa também conta a história do surgimento do kpathsea. 
 
-*   No related posts
+
 
 
 

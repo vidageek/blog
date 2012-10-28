@@ -44,7 +44,7 @@ Sempre fui jogador de [ Role Playing Games (RPG) ][5], desde os 9 anos. Nunca di
 
 Se você já fez alguma troca como essa, conte para nós nos comentários. Pessoalmente, estou tentando chegar em um conjunto mínimo de objetos pessoais (até porque estou indo morar na França, e não quero levar muita tralha). Não estou nem um pouco interessado em chegar nas [100 things][6] do desafio de David, e na verdade estou muito mais procurando “interfaces” como o papel e o lápis que não só me permitam consumir, mas também produzir. Mas qualquer sugestão é bem vinda. 
 
-*   No related posts
+
 
 
 

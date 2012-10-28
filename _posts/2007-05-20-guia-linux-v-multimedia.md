@@ -59,7 +59,7 @@ pois o player [Ogle][2] é capaz de realizar este trabalho com maestria, tornand
 
 Bom, acredito que isto cubra praticamente tudo sobre Multimedia no Gentoo. Caso eu tenha esquecido de algo ou tenha alguma sugestão, por favor mande-nos um comentário! 
 
-*   No related posts
+
 
 
 

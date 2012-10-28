@@ -31,7 +31,7 @@ Agora, esse foi um dos piores lugares em que eu já vi um Object. Por que raios 
 
 Erro feio esse! O que será que acontece se eu passar um Long pro método? Exception? Devolve null? O comportamento que deveria ser padrão não está documentado. Triste, não? 
 
-*   No related posts
+
 
 
 

@@ -24,7 +24,7 @@ Lógico que nem todo caso é fácil de resolver que nem o exemplo acima. Mas a i
 
 Veja mais exemplos [aqui][2]. Note que, em todos, a idéia é tentar dar um passo, ver o que acontece até o fim e aprender com o resultado. 
 
-*   No related posts
+
 
 
 

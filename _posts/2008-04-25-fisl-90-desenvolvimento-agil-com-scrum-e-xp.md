@@ -33,7 +33,7 @@ Talvez por conviver com muitas pessoas boas com baixa auto-estima com relação 
 
 Se o foco era uma palestra introdutória, como os temas abordados sugerem, eu esperaria que a “propaganda” dessas metodologias fosse melhor feita. A impressão que fica é de que a palestra deveria participar da trilha de Casos/Soluções e não de Desenvolvimento: ferramentas/metodologia. 
 
-*   No related posts
+
 
 
 

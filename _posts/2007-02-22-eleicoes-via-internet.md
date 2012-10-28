@@ -17,7 +17,7 @@ Especialistas estimam que entre 20 e 40 mil eleitores (são 940 mil, ao total) v
 
 Mais informações: **[Folha Online][1]**. 
 
-*   No related posts
+
 
 
 

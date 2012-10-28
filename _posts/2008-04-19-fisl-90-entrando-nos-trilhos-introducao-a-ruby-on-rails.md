@@ -26,7 +26,7 @@ Passando por a criação de uma página com formulário simples e padrão de Rub
 De passo em passo, de erro em erro e passando, eventualmente, pelo scaffold uma aplicação simples de perguntas com usuários. Apenas, uma pena, não deu tempo de terminar essa aplicação. A versão completa dessa aplicação pode ser vista clicando aqui: [Aplicação de Perguntas.][1]
 
 
-*   No related posts
+
 
 
 

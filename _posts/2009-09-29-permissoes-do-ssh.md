@@ -30,7 +30,7 @@ Minhas permissões para a pasta .ssh estavam erradas. Isso acontece porque eu cr
 
 Por causa disso, o ssh checa quais são as permissões do diretório .ssh . Se outros usuários puderem ler sua chave, ele considera ela como comprometida e simplesmente a ignora. O problema é que ele ignora de forma completamente silenciosa. Daí você perde os cabelos procurando pelo problema (nem mesmo rodando no modo verboso ele informa sobre isso). 
 
-*   No related posts
+
 
 
 

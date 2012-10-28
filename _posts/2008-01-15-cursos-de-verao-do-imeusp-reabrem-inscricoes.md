@@ -46,7 +46,7 @@ Você pode ver a lista toda de cursos disponíveis, horários e preços clicando
 
 Apesar de o site do IME/USP indicar que as inscrições terminaram em dezembro, elas foram reabertas ontem pelo fim da tarde! O site deve ser atualizado em breve. Novamente, se você ainda não fez planos para suas férias, vale a pena conferir e investir um pouco para aprender muito! 
 
-*   No related posts
+
 
 
 

@@ -29,7 +29,7 @@ O hibernate search entra exatamente nesse ponto. Cadastrando interceptadores par
 
 O teste que não passava era um teste que simulava o comportamento do usuário, usando [WebDriver][4]. Na funcionalidade em questão, não eram enviados todos os dados do objeto, apenas a chave primária dele. Com isso, o hibernate search indexava apenas a chave, pois todo o resto do objeto estava vazio. Quando me lembrei disso, foi necessário apenas fazer uma busca antes de mandar gravar o objeto. 
 
-*   No related posts
+
 
 
 

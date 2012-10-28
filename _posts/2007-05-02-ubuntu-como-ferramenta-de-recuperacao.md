@@ -30,7 +30,7 @@ Estava agora em casa, com uma pequena excessão que, no Ubuntu, as partições s
 
 Portanto, fica como dica, mesmo que não use o Ubuntu carregue consigo o CD de instalação que pode eventualmente ser útil, por exemplo para fazer a instalacao do Gentoo quando seu Wireless não funciona. Outra dica, não atualize seu sistema no dia da entrega de trabalho… 
 
-*   No related posts
+
 
 
 

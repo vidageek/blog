@@ -22,7 +22,7 @@ Na indução, temos um caso base, **B**, para o qual a fórmula que se quer prov
 
 Da próxima vez, em O Iogurte Recursivo, a explicação será um pouco mais aprofundada e abordará recursão também. 
 
-*   No related posts
+
 
 
 

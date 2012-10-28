@@ -32,7 +32,7 @@ Bonita essa sintaxe não? Acho que eu vou falar sobre ela em um futuro próximo�
 
 Nota, no momento do Post eu não estava conseguindo acessar o theapotek, a [página em cache no google está aqui.][4] 
 
-*   No related posts
+
 
 
 

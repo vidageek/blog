@@ -36,7 +36,7 @@ byte -> short -> int -> long -> float -> double
 
 O que parece estranho é o long usar 64 bits enquanto que o float usa só 32. Mas como obedecem à regra acima, a promoção é feita do mesmo jeito. 
 
-*   No related posts
+
 
 
 

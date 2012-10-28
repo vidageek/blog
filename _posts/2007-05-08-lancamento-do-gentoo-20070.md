@@ -56,7 +56,7 @@ O Gentoo enfim liberou sua versão 2007.0 para download e publicou um press rele
 
 Você pode escolher sua ISO e baixá-la no [gentoo.org][1] ou em [torrents][2]. 
 
-*   No related posts
+
 
 
 

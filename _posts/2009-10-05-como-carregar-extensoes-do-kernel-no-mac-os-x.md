@@ -20,7 +20,7 @@ Enfim, quando percebi a besteira, copiei de um outro mac a extensão exata (por 
 
 Depois de rodá-lo (passando a extensão de wifi como parâmetro), ele também corrigiu a cache de extensões que estava zoada (por causa da zona que tinha feito) e tudo voltou a funcionar perfeitamente bem. Apenas não recomendo que tentem em casa, a não ser que seja a última esperança :) 
 
-*   No related posts
+
 
 
 

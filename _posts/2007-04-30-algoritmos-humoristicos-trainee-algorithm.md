@@ -20,7 +20,7 @@ Para os que não sabem, os problemas computacionais podem ser classificados de a
 5.  Vá para o passo 2.
 
 
-*   No related posts
+
 
 
 

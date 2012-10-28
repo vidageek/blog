@@ -26,7 +26,7 @@ Se a utilização de software livre baixar o preço dos aparelhos e não criar b
 
 O lançamento da versão móvel de Ubuntu está previsto para outubro deste ano.  
 
-*   No related posts
+
 
 
 

@@ -40,7 +40,7 @@ O FEBE uma vez ao dia salva todas as suas extensões em formato .xpi que o Firef
 
 Essas são as extensões que utilizo atualmente. Conforme eu adicionar novas extensões ao meu Firefox irei menciona-las aqui. 
 
-*   No related posts
+
 
 
 

@@ -38,7 +38,7 @@ Explicação da bizarrice acima:
 
 Tentei fazer usando o comando **cut** no lugar do sed, mas o cut desistia no meio do caminho por causa de caracteres estranhos. 
 
-*   No related posts
+
 
 
 

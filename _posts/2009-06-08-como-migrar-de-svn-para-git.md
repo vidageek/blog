@@ -61,7 +61,7 @@ WARNING!!!! Se você tem um repositório svn público e vai migrar para o [githu
         
         Pronto. Seu repositório acabou de ser migrado de svn para git. Simples, fácil e rápido (a não ser que você tenha uns 10k commits. Aí vai demorar bastante. No meu caso demorou cerca de 4 horas o processo completo.) 
         **Posts Relacionados:** 
-        *   No related posts
+
         
         <g:plusone size="medium" count="false" href=""></g:plusone> 
         

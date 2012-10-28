@@ -55,7 +55,7 @@ E depois? O que eu devo fazer? Bom, de agora em diante, apenas ter disciplina pa
 
 Programadores não podem ter medo de aprender coisas novas. O novo, em programação, é o que vai garantir que possamos chegar em casa e viver um pouco, em vez de apenas trabalhar por horas até a exaustão. 
 
-*   No related posts
+
 
 
 

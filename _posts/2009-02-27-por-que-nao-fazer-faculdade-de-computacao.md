@@ -28,7 +28,7 @@ Mas ainda não respondi sobre fazer ou não uma faculdade. Quer isso seja bom ou
 
 Como tudo em computação, você vai ter que pesar as vantagens e desvantagens e decidir se vale a pena fazer ou não. Mas mantenha sempre em mente que por qualquer dos caminhos da pra ir bem longe, basta que você complemente por você mesmo o que falta em um deles. 
 
-*   No related posts
+
 
 
 

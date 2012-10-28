@@ -40,7 +40,7 @@ Finalmente, o palestrante citou outras licensas encontradas pelo mundo (OMPI e D
 
 Claramente, Seth Schoen se levanta contra as licensas abusivamente restritivas e convida todos a se informar no site da [Electronic Frontier Foundation][1]. 
 
-*   No related posts
+
 
 
 

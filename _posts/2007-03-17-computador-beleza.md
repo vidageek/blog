@@ -19,7 +19,7 @@ O software ainda não faz análise de homens, mas ele pode ser adaptado, segundo
 
 Mais informações:**[ The Age][1]**, em inglês. 
 
-*   No related posts
+
 
 
 

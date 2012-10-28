@@ -31,7 +31,7 @@ Eles têm que guardar isso em disco. Quantos sites eu já acessei hoje? Tudo gua
 
 Já estou melhor depois desse desabafo. Mas ainda assusta. 
 
-*   No related posts
+
 
 
 

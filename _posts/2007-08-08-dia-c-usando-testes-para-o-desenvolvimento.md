@@ -32,7 +32,7 @@ Mais informações: [Wikipedia][1]
 
 Com isso encerro a série Dia C. Espero que tenham gostado. 
 
-*   No related posts
+
 
 
 

@@ -25,7 +25,7 @@ O principal problema em usar esses caracteres é a demora para encontrá-los na 
 
 *Update*: Aparentemente esse atalho é do ambiente Gnome. Tentei usá-lo dentro do navegador Opera e não funcionou. Alguém aí sabe de algum jeito mais genérico de fazer isso? 
 
-*   No related posts
+
 
 
 

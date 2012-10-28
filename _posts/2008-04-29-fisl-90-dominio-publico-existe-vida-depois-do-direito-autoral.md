@@ -37,7 +37,7 @@ Enquanto isso, o grupo de Bruno Magrani trabalha na liberação das obras de Noe
 
 Como leitura recomendada na palestra, fica a página da [Wikipedia][2] sobre domínio público, material elogiado pelo palestrante principal. 
 
-*   No related posts
+
 
 
 

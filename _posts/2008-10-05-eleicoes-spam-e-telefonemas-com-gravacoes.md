@@ -35,7 +35,7 @@ Privacidade é assunto sério e disperdiçar o escasso tempo das pessoas, interr
 
 E não estou bem certa dos aspectos legais de se fazer esse tipo de ação. Se duvidar, ainda é crime… 
 
-*   No related posts
+
 
 
 

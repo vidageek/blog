@@ -17,7 +17,7 @@ Nossos planos são para que isso não ocorra mais. Alguns alunos farão menos ma
 
 Nos próximos meses pretendemos realizar alguns mini-projetos para melhorar a qualidade do blog. Pretendemos alterar o tema para um mais bonito, eficiênte e clean, permitir o envio de dúvidas para que sejam respondidas semanalmente, criar uma newsletter mensal e permitir outras formas de comunicação entre nós e os nossos leitores. Portanto, o blog voltará a ativa com várias novidades. 
 
-*   No related posts
+
 
 
 

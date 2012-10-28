@@ -16,7 +16,7 @@ O foco principal é sobre paradigams das linguagens, embora não sejam de todo i
 O conteúdo (fornecido por usuários) é rico em links para outros sites e, vez por outra, artigos acadêmicos e páginas detalhadas sobre o assunto em questão. Embora seja um pouco bagunçado – por ter informação demais – vale a pena conferir, se você tem interesse em entender e discutir a estrutura de linguagens de programação.  
 url: <http://lambda-the-ultimate.org> 
 
-*   No related posts
+
 
 
 

@@ -34,7 +34,7 @@ Aguardamos a publicação dos slides dessa palestra, com as tirinhas do Dilbert 
 * Este termo se refere àqueles websites que aprendem suas preferências e mostram ítens de interesse particular de cada pessoa – vide Amazon.  
 ** Service-Oriented Architecture, só fui entender a sigla ao fim da palestra. 
 
-*   No related posts
+
 
 
 

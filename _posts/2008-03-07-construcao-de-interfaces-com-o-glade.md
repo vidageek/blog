@@ -25,7 +25,7 @@ Como o autor do artigo cita, a biblioteca GTK+ está disponível para muitas lin
 
 Veja também o site oficial: <http://glade.gnome.org/> 
 
-*   No related posts
+
 
 
 

@@ -16,7 +16,7 @@ Japonêses desenvolveram um robô de resgate digno de animês: ele engole a vít
 
 Mais informações: [Uol][1] 
 
-*   No related posts
+
 
 
 

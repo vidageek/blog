@@ -23,7 +23,7 @@ Para habilitar a modificação desses headers restritos, você precisa executar:
 
 Antes do código que modifica o header. 
 
-*   No related posts
+
 
 
 

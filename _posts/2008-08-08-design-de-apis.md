@@ -30,7 +30,7 @@ O vídeo tem uma hora de duração (por mim poderia ser ainda maior, pois a pale
 
 Espero que gostem! 
 
-*   No related posts
+
 
 
 

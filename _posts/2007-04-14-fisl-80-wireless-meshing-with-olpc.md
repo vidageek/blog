@@ -35,7 +35,7 @@ No fim da palestra, ouve uma demonstração da rede em mesh usada pra enviar um 
 
 Após a grande sessão de aplausos, a palestra se encerrou. 
 
-*   No related posts
+
 
 
 

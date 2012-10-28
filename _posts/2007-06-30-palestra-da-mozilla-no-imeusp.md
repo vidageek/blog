@@ -28,7 +28,7 @@ Se você não é um dos poucos que conseguiram assistir a palestra, você pode b
 
 Apesar de um pouco de eco, é possível ouvir bem a palestra – recomendo fones de ouvido. Boa diversão. 
 
-*   No related posts
+
 
 
 

@@ -26,7 +26,7 @@ Além disso, no pacote do Fink ainda vem uma aplicação chamada FinkCommander. 
 
 Se você é um programador e está trabalhando na plataforma MacOS X, são dois programas vitais para você. 
 
-*   No related posts
+
 
 
 

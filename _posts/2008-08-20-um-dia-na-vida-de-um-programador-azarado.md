@@ -21,7 +21,7 @@ Mas peraí…. fechar a paulista por 30 minutos? Os caras que organizaram essa a
 
 Enfim, parabéns César! Mas vê se contrata uma assessoria de imprensa com um pouco mais de cérebro no futuro. 
 
-*   No related posts
+
 
 
 

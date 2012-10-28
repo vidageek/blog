@@ -21,7 +21,7 @@ Então, ao contrário do que a maioria diz, eu reinvento a roda sempre que posso
 
 Mas é bom lembrar que você não vai poder fazer isso sempre (afinal, não se vive apenas de investimentos). Sem contar que reinventar a mesma roda sempre é bobagem (você vai aprender muito menos do que reinventando uma roda nova). 
 
-*   No related posts
+
 
 
 

@@ -35,7 +35,7 @@ Há versões online como [JSettlers][2] e [Xplorers][3], além de várias outras
 
 Para saber mais (e ver fotos), há a [entrada para Settlers Of Catan][5] no [BoardGameGeek][6], uma fonte de informações e (muitas) fotos de jogos de tabuleiro. 
 
-*   No related posts
+
 
 
 

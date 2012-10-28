@@ -37,7 +37,7 @@ A grande vantagem das ferramentas Google é que elas estão todas interligadas, 
 
 Mais informações sobre essas e diversas outras ferramentas (incluindo todas as ferramentas ainda em desenvolvimento na Google) no **[Google Labs][11]**. 
 
-*   No related posts
+
 
 
 

@@ -29,7 +29,7 @@ Ler este livro foi uma experiência bem reveladora pra mim, porque foi o segundo
 
 Aniela Jaffé foi responsável por organizar a biografia. 
 
-*   No related posts
+
 
 
 

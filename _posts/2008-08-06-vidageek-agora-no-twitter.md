@@ -23,7 +23,7 @@ Nós do **VidaGeek.net** decidimos criar uma conta no **Twitter**, não só para
 
 Para acompanhar nossas mensagens neste serviço, basta visitar a nossa [conta][4]. Se você já usa o serviço, nosso usuário é **blogvidageek**. Gostaríamos também de saber a sua opinião sobre o Twitter e qual o seu usuário para que possamos visitá-lo também. 
 
-*   No related posts
+
 
 
 

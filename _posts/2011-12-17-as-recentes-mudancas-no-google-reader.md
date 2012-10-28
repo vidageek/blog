@@ -24,7 +24,7 @@ A integração, do ponto de vista da empresa, faz todo sentido. No entanto, ela 
 
 Resumindo em poucas palavras, tenho saudades do Google Reader antigo e da facilidade de compartilhar informações que você achava relevantes com seus amigos. Claro que existem muitos outros mecanismos para isso, mas nenhum é tão prático como o Reader era. Tomara que a Google melhore essa integração entre o Reader e o Plus. 
 
-*   No related posts
+
 
 
 

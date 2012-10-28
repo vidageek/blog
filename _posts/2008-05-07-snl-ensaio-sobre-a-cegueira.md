@@ -26,7 +26,7 @@ Outra característica bastante interessante no livro é a descrição que é apr
 
 Em suma, o livro é muito interessante. Dá asas à imaginação sem sair do mundo real, e faz-nos pensar sobre nossa própria natureza, sobre nossas vidas e o mundo em que vivemos. Recomendo! 
 
-*   No related posts
+
 
 
 

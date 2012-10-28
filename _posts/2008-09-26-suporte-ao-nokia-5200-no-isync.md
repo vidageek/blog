@@ -23,7 +23,7 @@ Foto modificada da original de [Gabriel Lopes][5].
  
 
 
-*   No related posts
+
 
 
 

@@ -76,7 +76,7 @@ Isso protege contra todos os problemas? Não. Mas evita alguns que podem dar mui
 
 Mas ainda bem que no padrão isoc99 existe o tipo bool. Vai evitar muitos problemas. Mas até ele ser realmente adotado ainda vai algum tempo. 
 
-*   No related posts
+
 
 
 

@@ -33,7 +33,7 @@ Como um dos objetivos iniciais da linguagem era a portabilidade dos programas, f
 
 Para concluir esse post (mas não necessariamente o assunto), podemos dizer que a linguagem já está, digamos, velha. Isso também tem suas vantagens e desvantagens. As vantagens são a tecnologia bem desenvolvida sobre ela (o que inclui a máquina virtual) e a grande quantidade de ferramentas para se trabalhar com ela (bibliotecas e ambientes de desenvolvimento). A principal desvantagem, acentuada pela decisão de compatibilidade com versões anteriores, é a dificuldade de evoluir a linguagem, dadas as decisões erradas de arquitetura e a quase-impossibilidade de alterar sua sintaxe. 
 
-*   No related posts
+
 
 
 

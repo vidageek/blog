@@ -14,7 +14,7 @@ post_format: [ ]
 ---
 O site **[Babar Kazar][1]**colocou no ar uma coletânea de publicações sobre Ciência da Computação, incluindo trabalhos de Knuth e dos criadores do algoritmo criptográfico RSA(Rivest, Shamir e Adleman). Se você se interessa por Ciência da Computação vale a pena investir seu tempo lendo esses trabalhos. 
 
-*   No related posts
+
 
 
 

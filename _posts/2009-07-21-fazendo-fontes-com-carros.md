@@ -27,7 +27,7 @@ Veja o vídeo e se surpreenda com como essa fonte foi criada.
 
 Aos outros escritores desse blog, o que acham de usarmos essa fonte para o nome do blog no nosso novo layout que está a caminho..ups.. falei :-) 
 
-*   No related posts
+
 
 
 

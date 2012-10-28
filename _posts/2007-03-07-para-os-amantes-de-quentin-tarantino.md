@@ -15,7 +15,7 @@ Mais sobre o diretor de Pulp Fiction no [imdb][1].
 
 [Via [Prática][2]] 
 
-*   No related posts
+
 
 
 

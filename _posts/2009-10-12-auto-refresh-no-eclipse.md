@@ -18,7 +18,7 @@ Depois de quase me conformar, vi um tweet do [Miško Hevery][1] (http://twitter.
 
 Você só precisa ir em Preferences -> General -> Workspace e marcar refresh automatically. Essa foi umas das descobertas que mais melhorou meu humor nos últimos tempos. 
 
-*   No related posts
+
 
 
 

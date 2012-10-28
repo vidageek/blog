@@ -185,7 +185,7 @@ printf("%d\n", m.i);/*vai imprimir algum valor estranho*/</p>
 <p>`  
 A única vez que usei essa estrutura foi quando estava fazendo um leitor de arquivos .ini . Convencionei que poderiam existir apenas 3 tipos dentro do ini (string, inteiro e float) e criei um union para representar isso. Mesmo assim ainda precisava de 2 bits pra armazenar qual tipo eu tinha lido, porque o union não mantém essa informação. 
 
-*   No related posts
+
 
 
 

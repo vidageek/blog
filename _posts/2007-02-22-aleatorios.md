@@ -39,7 +39,7 @@ Se você não quiser ter todo esse trabalho, o pessoal do **[random.org][1]** fo
 
 Tem também o [**LavaRnd**][2], onde eles usam um [sensor CCD][3] (como o que há em uma webcam) como fonte caótica, e têm um [projeto no Sourceforge][4] que contará com o código fonte necessário para todo mundo gerar seus próprios bits aleatórios. 
 
-*   No related posts
+
 
 
 

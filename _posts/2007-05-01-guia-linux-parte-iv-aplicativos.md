@@ -31,7 +31,7 @@ Existem opções open-source ao famoso leitor de arquivos portáveis da **Adobe*
 Você usa outros aplicativos interessantes para Linux? Deixe seu comentário e poderemos aborda-lo em outra edição do nosso guia!**  
 ** 
 
-*   No related posts
+
 
 
 

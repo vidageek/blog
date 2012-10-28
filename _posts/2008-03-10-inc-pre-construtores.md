@@ -97,7 +97,7 @@ A saída é:
 
 Bem feio, não? 
 
-*   No related posts
+
 
 
 

@@ -26,7 +26,7 @@ Outras informações sobre a séria podem ser encontradas na [Wikipedia][3] e ex
 Imagem por [DraXus][4].
 
 
-*   No related posts
+
 
 
 

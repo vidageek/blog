@@ -50,7 +50,7 @@ Chegue às suas próprias conclusões… e lembre-se sempre do nome desse Senado
 
 [Nota: Embora publicado por mim, Jonas de Abreu, este artigo foi escrito por Caue Guerra, amigo nosso] 
 
-*   No related posts
+
 
 
 

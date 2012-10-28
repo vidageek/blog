@@ -27,7 +27,7 @@ Salve o arquivo e abra o AdressBook, e vc vai ganhar o menu de sincronização d
 
 Explicando um pouco mais, parece que basta que o arquivo com.apple.iPhod.plist tenha qualquer dispositivo com o Family ID = 10001, então se vc tiver ipod ou alguma outra coisa sincronizada, basta mudar o ID. Se você tem um Iphone, a opção já deve estar lá. Por fim, eu achei que remover o conteúdo e trocar por essa linha ia causar algum problema com a sincronização do meu IPod Shuffle, mas no final das contas quando conetei ele o Itunes simplesmente arrumou a configuração. 
 
-*   No related posts
+
 
 
 

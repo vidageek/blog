@@ -25,7 +25,7 @@ A função dessas ferramentas é assegurar que as dependências do seu programa 
 
 Então, se você for escrever uma aplicação um pouco mais complexa do que um “Hello world”, vale a pena investir um tempinho para escrever um arquivo de configuração para usar uma dessas ferramentas! 
 
-*   No related posts
+
 
 
 

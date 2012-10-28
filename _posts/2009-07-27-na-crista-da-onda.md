@@ -31,7 +31,7 @@ E você, o que acha? Mande sua opinião!
 
 Imagem via [Flickr][2] 
 
-*   No related posts
+
 
 
 

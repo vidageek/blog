@@ -32,7 +32,7 @@ espeak -v brazil 'Olá!'<br />
 `  
 e coloque para executar no início da sessão =) 
 
-*   No related posts
+
 
 
 

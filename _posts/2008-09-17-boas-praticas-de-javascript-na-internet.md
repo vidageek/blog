@@ -25,7 +25,7 @@ Outro erro grave (que eu já cometi uma vez) é assumir que o visitante do seu s
 Essa última dica vale também para Flash, Shockwave, Java e qualquer outra funcionalidade que pode não existir ou estar desativada no navegador. A não ser que o propósito do site seja, por exemplo, fornecer jogos em Flash.
 
 
-*   No related posts
+
 
 
 

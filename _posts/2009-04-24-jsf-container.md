@@ -35,7 +35,7 @@ Normal, não fosse um pequeno detalhe. “This value can be null”. Como assim?
 Mais uma razão para valorizar a expressividade ao invéz dos comentários.
 
 
-*   No related posts
+
 
 
 

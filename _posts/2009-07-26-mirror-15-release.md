@@ -41,7 +41,7 @@ Agora você pode fazer apenas:
 
 Release notes completo pode ser encontrado [aqui][2]. 
 
-*   No related posts
+
 
 
 

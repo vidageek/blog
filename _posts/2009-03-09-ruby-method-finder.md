@@ -39,7 +39,7 @@ Ainda não suporta blocos, bem como preciso fazer um gem disso eventualmente. Co
 ![][7]
 
 
-*   No related posts
+
 
 
 

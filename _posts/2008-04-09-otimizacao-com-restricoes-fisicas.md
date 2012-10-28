@@ -20,7 +20,7 @@ O sistema permite que o especialista na área assuma o controle, impondo as devi
 
 [Via [5min][2]] 
 
-*   No related posts
+
 
 
 

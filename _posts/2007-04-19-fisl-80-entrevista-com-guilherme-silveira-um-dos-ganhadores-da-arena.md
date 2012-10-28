@@ -53,7 +53,7 @@ Guilherme Silveira, o primeiro colocado no Qualifying e um dos ganhadores da Are
 
 Muito obrigado, Guilherme. Parabéns por mais essa vitória! 
 
-*   No related posts
+
 
 
 

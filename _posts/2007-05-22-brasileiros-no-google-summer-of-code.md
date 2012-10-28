@@ -23,7 +23,7 @@ A Google com certeza não é nenhuma boa-samaritana, se ela divulga o software l
 
 Mais informações no [Blog do Google Summer of Code][1]. 
 
-*   No related posts
+
 
 
 

@@ -28,7 +28,7 @@ Essa ferramenta é um tipo de jogo que a Google criou para melhorar a ferramenta
 
 Aviso: é viciante (mesmo para quem não é workaholic)! 
 
-*   No related posts
+
 
 
 

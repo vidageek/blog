@@ -29,7 +29,7 @@ Claro que há efeitos colaterais como a velocidade de buscas ser menor e conter 
 
 Na seção de perguntas, Ross ainda afirmou que o SourceForge pretende, agora, se tornar mais atrativo para desenvolvedores, incluindo ferramentas tais como testes automatizados. O foco será em developer tools. 
 
-*   No related posts
+
 
 
 

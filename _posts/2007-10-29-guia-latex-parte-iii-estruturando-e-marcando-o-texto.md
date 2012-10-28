@@ -102,7 +102,7 @@ Pronto! Agora você já tem todas as ferramentas que precisa para escrever 90% d
 
 Na próxima parte desse tutorial, veremos como colocar imagens em latex, importando ou construindo-as programativamente, direto em LaTeX. 
 
-*   No related posts
+
 
 
 

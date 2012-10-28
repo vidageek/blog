@@ -56,7 +56,7 @@ Bom, não escrevi esse monte de coisas apenas como um desabafo (embora tenha me 
 Enfim, o que preciso nesse momento é de pessoas que estejam afim de contribuir com idéias e críticas (do tipo “não gosto de X porque Y”) pra esse planejamento inicial. Não criei uma lista ainda porque não sei se existem outros interessados (eventualmente sou eu que sou incapaz de usar ant e maven). Por enquanto podemos começar pelos comentários mesmo :)
 
 
-*   No related posts
+
 
 
 

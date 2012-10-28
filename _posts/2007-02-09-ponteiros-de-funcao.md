@@ -37,7 +37,7 @@ Mais informações: ponteiro de função -> Google
 
 Próxima semana, modificadores de variáveis e funções e as extensões GNUC. 
 
-*   No related posts
+
 
 
 

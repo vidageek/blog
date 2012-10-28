@@ -28,7 +28,7 @@ Atualmente vemos muito discussões sobre a OLPC permitir ou não o Windows no XO
 [Foto original][4] por Bayat. 
 
 
-*   No related posts
+
 
 
 

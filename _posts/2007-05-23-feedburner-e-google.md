@@ -23,7 +23,7 @@ As analíses sobre esse assunto são as mais diversas possíveis. Muitos acredit
 
 Fonte: [John Chow dot Com][2] 
 
-*   No related posts
+
 
 
 

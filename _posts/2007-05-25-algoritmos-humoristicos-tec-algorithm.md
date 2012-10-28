@@ -24,7 +24,7 @@ Algoritmo CET :
 
 Gostaria de enfatizar a grande inteligência por trás desse algoritmo. Com o gasto de produzir apenas um indicador, o erro está corrigido. Isso ocorre porque a partir do momento em que se coloca o aviso, o erro simplesmente deixa de existir. É muito inteligente, não? 
 
-*   No related posts
+
 
 
 

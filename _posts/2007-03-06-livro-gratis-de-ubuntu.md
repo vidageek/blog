@@ -19,7 +19,7 @@ Hoje o Life Hacker publicou um post sobre o Ubuntu Linux Bible, um livro (obviam
 
 [Via [LifeHacker][2]] 
 
-*   No related posts
+
 
 
 

@@ -34,7 +34,7 @@ Como recomendação de leitura, ficaram:
 
 Boa leitura. 
 
-*   No related posts
+
 
 
 

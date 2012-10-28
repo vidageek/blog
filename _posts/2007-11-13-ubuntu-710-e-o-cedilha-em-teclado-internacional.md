@@ -63,7 +63,7 @@ Guilherme de Almeida Moreira é formando em Processamento de Dados pela FATEC-SP
 
 Obrigado, Victor! 
 
-*   No related posts
+
 
 
 

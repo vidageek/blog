@@ -16,7 +16,7 @@ Ainda não consegui inscrever-me para a versão de testes e assim que conseguir,
 
 Mais informações e inscrições para a versão de testes do Joost:**[Joost][1]** 
 
-*   No related posts
+
 
 
 

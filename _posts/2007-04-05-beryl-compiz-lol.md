@@ -17,7 +17,7 @@ Foi confirmado no blog do [Compiz][1] que a fusão com o Beryl irá realmente ac
 
 Mais informações:[ BrLinux][2] 
 
-*   No related posts
+
 
 
 

@@ -20,7 +20,7 @@ Esse site pode com certeza ser útil, pelo menos nos casos em que você não tem
 
 [Via [WebTuga][3]] 
 
-*   No related posts
+
 
 
 

@@ -29,7 +29,7 @@ Com esse colete, você pode ter a sensação de tomar um tiro, um soco, ou entã
 
 Agora só falta os desenvolvedores de jogos utilizarem essas tecnologias! :) 
 
-*   No related posts
+
 
 
 

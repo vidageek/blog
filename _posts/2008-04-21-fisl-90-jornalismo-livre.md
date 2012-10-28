@@ -29,7 +29,7 @@ No fim das contas, um jornalismo livre causaria muitos textos de baixa qualidade
 
 Em opinião pessoal e em defesa de blogs muito bons que vemos pela internet, acho difícil acreditar que o conteúdo gerado por usuários seja pior do que o gerado pela mídia tradicional, se tivermos acesso às mesmas fontes. 
 
-*   No related posts
+
 
 
 

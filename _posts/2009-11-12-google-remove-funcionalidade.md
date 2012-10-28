@@ -25,7 +25,7 @@ Pessoalmente eu gostava da funcionalidade, talvez ela tenha ido por uma boa raz�
 
 **Update: **Tem exatamente 30 dias (12 outubro 2009) o [google devolveu essa funcionalidade][3]. Pelo que eles escreveram no blog, baseado no feedback dos usuários eles decidiram devolver a função. Obrigado pela dica João Alberto :-). 
 
-*   No related posts
+
 
 
 

@@ -29,7 +29,7 @@ Outra coisa que me incomodou, também, foi o grande acoplamento que as classes d
 
 Agora, alguns elogios: foi bem fácil fazer uma interface gráfica com as classes do sistema. O JavaME já vem com classes para desenho de sprites e múltiplas camadas de imagem, e os sprites contam até com detecção de colisão entre si. Bem mais fácil do que fazer interface para Desktop. 
 
-*   No related posts
+
 
 
 

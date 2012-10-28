@@ -19,7 +19,7 @@ Também está sendo menciona que os softwares iLife ’07 e iWork ’07 serão l
 
 Mais informações: **[Think Secret][1]**, em inglês. 
 
-*   No related posts
+
 
 
 

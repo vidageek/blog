@@ -26,7 +26,7 @@ Muitas vezes os novos usuários de Linux não conseguem ver ganhos significativo
 
 Vale a pena dar uma olhada. 
 
-*   No related posts
+
 
 
 

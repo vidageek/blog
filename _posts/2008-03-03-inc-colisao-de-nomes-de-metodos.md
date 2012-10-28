@@ -65,7 +65,7 @@ E quando você faz herança múltipla de interfaces? Mais uma que compila.
 
 Essas aqui eu só acreditei na hora em que o compilador simplesmente não reclamou. Se um dia antes de eu fazer esses testes me perguntassem o que acontecia, eu falaria sem medo nenhum que não compilava. Mas compila. 
 
-*   No related posts
+
 
 
 

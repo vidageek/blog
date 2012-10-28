@@ -28,7 +28,7 @@ O site da [Wolfram][3], aliás, tem uma base de dados bastante extensa e útil n
 
 Enfim, esta é uma ferramenta essencial para aqueles que estão cursando cálculo ou estão estudando alguma coisa que depende de integrais. 
 
-*   No related posts
+
 
 
 

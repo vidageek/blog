@@ -308,7 +308,7 @@ Tivemos quatro séries no VidaGeek.net em 2008. Em “Linguagens de Programaçã
 
 Obrigado a todos os nossos leitores. Desejamos a todos um **feliz 2009**. 
 
-*   No related posts
+
 
 
 

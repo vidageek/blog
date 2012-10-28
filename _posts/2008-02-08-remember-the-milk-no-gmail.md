@@ -26,7 +26,7 @@ Até que a equipe do RTM teve a genial idéia de integrá-lo ao GMail. Como voc�
 
 Recomendo muito [esse addon][3]. Mesmo que você use algum outro tipo de agenda, vale a pena dar uma olhada nele. 
 
-*   No related posts
+
 
 
 

@@ -17,7 +17,7 @@ Também melhoramos a documentação.
 
 Mais informações em <http://projetos.vidageek.net/i18n>. 
 
-*   No related posts
+
 
 
 

@@ -18,7 +18,7 @@ Eu acabo de comprar o meu, sou um grande fã [de super meet boy][3] e estou mui
 
 Muito legal. 
 
-*   No related posts
+
 
 
 

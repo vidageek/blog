@@ -79,7 +79,7 @@ Na sessão de perguntas, duas merecem destaque:
 
 Novamente, excelente palestra. Será disponibilizada em breve no site do [Centro de Competência em Software Livre][3] do IME/USP, a filmagem. Assim que for disponibilizado, colocaremos aqui o link para esse vídeo. 
 
-*   No related posts
+
 
 
 

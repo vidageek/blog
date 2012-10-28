@@ -29,7 +29,7 @@ Em suma este é um jogo muito viciante, sarcástico e bem feito. Com certeza dá
 
 [Via [DownloadSquad][2]] 
 
-*   No related posts
+
 
 
 

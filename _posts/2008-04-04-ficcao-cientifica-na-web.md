@@ -24,7 +24,7 @@ Por estas e muitas outras informações, vale a pena dar uma olhada no [io9][2].
 [Foto original][7] por Daze(d). 
 
 
-*   No related posts
+
 
 
 

@@ -13,7 +13,7 @@ Um geek, por definição, é alguém que gosta de aprender coisas novas sempre: 
 
 O verdadeiro geek, aquele que realmente gosta de aprender, está pronto para aprender a qualquer hora com qualquer um. Ele reconhece quando alguém tem algo para lhe ensinar e vê com felicidade uma oportunidade assim. Fica feliz quando alguém o corrige, porque assim ele está aprendendo. O verdadeiro geek é humilde para ver todas as pessoas como possíveis professores de alguma coisa. 
 
-*   No related posts
+
 
 
 

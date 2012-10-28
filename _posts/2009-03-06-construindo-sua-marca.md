@@ -29,7 +29,7 @@ Quarto: Diga ao mundo o que está fazendo e passe conhecimento para frente. Se v
 
 Por último, ignore tudo que falei acima quando quiser ou achar que faz sentido. Não existe um único caminho para se construir uma marca. Você tem que achar o seu. 
 
-*   No related posts
+
 
 
 

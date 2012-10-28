@@ -29,7 +29,7 @@ Assim, foi muito mais facil decidir qual o modo preferido dos jogadores, ainda q
 
 Se você tem um dispositivo Android, recomendo testar o [SkiKitty][6], e observar os dois modos. Se seu dispositivo é um iphone, a Apple ainda vai aprovar nosso pedido, fique ligado no blog que eu aviso quando o jogo sair. 
 
-*   No related posts
+
 
 
 

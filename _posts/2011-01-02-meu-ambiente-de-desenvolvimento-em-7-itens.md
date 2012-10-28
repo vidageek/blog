@@ -75,7 +75,7 @@ Muitos outros já entraram pra brincadeira. Quem me convidou, assim como aos out
 
 E o ambiente de desenvolvimento de vocês, como é? Publiquem seus posts e mandem os links nos comentários. Participações são bem vindas! 
 
-*   No related posts
+
 
 
 

@@ -29,7 +29,7 @@ Isso não funciona. Com a quantidade de usuários que o orkut tem, ele teria sai
 
 O que é mais possível, então? Uma boa Heurística. Hoje mesmo eu notei que têm alguns profiles que eu entro e não aparece a sequência de usuários. Portanto, o que deve ser feito é estabelecer um limite na profundidade da busca, baseado nos seus amigos e nas comunidades em que você participa. Isso reduz de milhões de usuários para milhares de usuários. Mesmo assim ainda acho que é um esforço computacional muito grande e provavelmente deve ser rodado de forma lazy (especialmente se você lembrar que já está sendo usada uma heurística e nem sempre vai aparecer o caminho). 
 
-*   No related posts
+
 
 
 

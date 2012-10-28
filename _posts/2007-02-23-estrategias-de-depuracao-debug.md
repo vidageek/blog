@@ -36,7 +36,7 @@ Mais informações: gdb -> Google
 
 Na próxima semana: Pilha do C. 
 
-*   No related posts
+
 
 
 

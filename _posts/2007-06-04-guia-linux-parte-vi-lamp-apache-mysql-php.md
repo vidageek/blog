@@ -69,7 +69,7 @@ Após a instalação, que pode demorar um tempo razoável, será necessário rei
 
 Pronto! Você já tem um servidor LAMP rodando na sua máquina. A configuração do Apache, do MySQL e a programação em PHP fogem do escopo deste guia, mas muita informação pode ser encontrada nos sites oficiais, principalmente no site do PHP que contém muita informação para quem quer programar nessa linguagem. 
 
-*   No related posts
+
 
 
 

@@ -44,7 +44,7 @@ Maiores informações: man stdarg (Para usuários de sistemas Unix), stdarg -> G
 
 Próxima semana, ponteiros de funções. 
 
-*   No related posts
+
 
 
 

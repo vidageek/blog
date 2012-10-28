@@ -42,7 +42,7 @@ Voltando hoje com a nossa série “Linguagens de Programação”, temos um pos
 
 Imagem retirada do site <http://esafonsosanches.nonio.uminho.pt/course/view.php?id=76> 
 
-*   No related posts
+
 
 
 

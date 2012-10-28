@@ -18,7 +18,7 @@ O telecentro fica na sede da Apec, em Recife.
 
 Mais informações: [Uol][2]. 
 
-*   No related posts
+
 
 
 

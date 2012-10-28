@@ -23,7 +23,7 @@ O CppUnit é um conjunto de classes, métodos e macros que permitem a utilizaç�
 
 Se você programa em C++ e não quer mudar para Java ou outra linguagem que dê acesso mais fácil a testes, como o JUnit, que já vem praticamente integrado ao Java, vale a pena tentar o CppUnit. Não é tão fácil de integrar ao seu projeto, como acontece em Java, mas o esforço compensa. 
 
-*   No related posts
+
 
 
 

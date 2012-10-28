@@ -24,7 +24,7 @@ Ah, o código tem testes e teste também é código :D
 
 Enfim, se gostou da idéia, [veja o código][6]. 
 
-*   No related posts
+
 
 
 

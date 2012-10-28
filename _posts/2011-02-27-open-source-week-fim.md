@@ -18,7 +18,7 @@ Enfim, espero que esses projetos ajudem vocês.
 Ah, e se tiver interesse em participar de algum projeto opensource (independente do nível de conhecimento), mande um email para opensource [arroba] vidageek [ponto] net. Sempre precisamos de pessoas interessadas :)
 
 
-*   No related posts
+
 
 
 

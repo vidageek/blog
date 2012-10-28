@@ -22,7 +22,7 @@ Boa sorte!
 
 *Edit:* a RedBug entrará em contato com o ganhador assim que sair o resultado para acertar os detalhes. O ganhador terá 10 dias para responder. Se esse prazo expirar, o ganhador será desclassificado e será realizado um novo sorteio. 
 
-*   No related posts
+
 
 
 

@@ -33,7 +33,7 @@ Dia 19/05/2010 o [Rafael Ferreira][1] dará uma palestra na reunião do [SouJava
 
 Essa é uma palestra que recomendo muito. Não apenas por gostar de scala, mas por conhecer há um bom tempo o trabalho que o Rafael Ferreira faz. 
 
-*   No related posts
+
 
 
 

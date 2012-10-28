@@ -47,7 +47,7 @@ Espero que esse texto possa ajudar a diminuir o preconceito das pessoas em rela√
 
 [via [DownloadSquad][6]] 
 
-*   No related posts
+
 
 
 

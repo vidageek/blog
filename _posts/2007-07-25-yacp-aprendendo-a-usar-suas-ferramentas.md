@@ -86,7 +86,7 @@ Já o emacs possui apenas um modo e uso. Inserção. Isso significa que você n�
 *   ctrl-_ – desfazer
 
 
-*   No related posts
+
 
 
 

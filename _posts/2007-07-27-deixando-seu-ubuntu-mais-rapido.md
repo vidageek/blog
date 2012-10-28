@@ -37,7 +37,7 @@ Ela e as seguintes indicam cada um dos tty’s e você pode comentá-las com um 
 
 Como o Ubuntu foi criado para um sistema genérico ele não utiliza os outros (possivelmente existentes) processadores da máquina durante o processo de inicialização. Editando o arquivo `/etc/init.d/rc `trocando `CONCURRENCY=none` para `CONCURRENCY=shell ` você muda o seu boot de normal para paralelo. Para ver se isto foi útil você pode usar o [Bootchart][2]. 
 
-*   No related posts
+
 
 
 

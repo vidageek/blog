@@ -29,7 +29,7 @@ Meus dados estão seguros? Bom, a PSN da Sony está/estava no chão e garanto qu
 
 Será que já não passou da hora de começarmos a parar de inventar desculpas sem sentido e começarmos a informar a quais riscos nossos usuários estão expostos quando usam nosso sistema? Será que não deveríamos investir mais em educação digital ao invéz de apenas focar na inclusão digital? 
 
-*   No related posts
+
 
 
 

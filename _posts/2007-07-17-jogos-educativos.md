@@ -27,7 +27,7 @@ Recentemente alguns jogos educativos em Flash me chamaram a atenção. São todo
 **  
 ![Ayiti: The Cost of Life][7]O [Ayiti: The Cost of Life][8] lembra muito o The Sims, mas obviamente com as suas limitações. Ele é um jogo de estratégia por turnos, onde seu objetivo é melhorar a vida de uma família do Haiti, escolhendo como cada um dos membros irá agir para que esse progresso seja obtido. Você tem inicialmente várias escolha, que mudam de turno para turno, coisas como mandar os membros da família trabalhar, estudar, descansar, serem voluntários da ONU ou irem para o hospital. Nisso tudo, pelo bem da família, você pode fazer coisas moralmente dúbias como mandar os filhos pequenos para o trabalho, algo algumas vezes necessário para conseguir dinheiro para sobreviver. Trata-se de um jogo bem complexo e principalmente difícil, demorei vários dias para termina-lo e ainda sim não foi em um nível muito satisfatório, mas de qualquer forma vale a pena dar uma olhada pois é um jogo muito bem feito e que mostra a dificuldade na vida das pessoas do 3º mundo. 
 
-*   No related posts
+
 
 
 

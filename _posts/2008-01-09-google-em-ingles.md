@@ -23,7 +23,7 @@ Dica boba, mas é algo que me custou um tempo para descobrir. Quem sabe ajuda ma
 
 Só não sei o que significa ncr. 
 
-*   No related posts
+
 
 
 

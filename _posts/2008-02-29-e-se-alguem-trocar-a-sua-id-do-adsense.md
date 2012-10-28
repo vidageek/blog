@@ -47,7 +47,7 @@ Mas isso raramente é feito de forma efetiva (quando é feito…), o que resulta
 
 **Nota:** Não me lembro de ter visto em lugar algum alguém mencionar um ataque como esse que eu descrevi acima, mas isso não significa que ninguém já esteja usando idéias semelhantes a essa. Segurança é um assunto importante que **deve** ser mais discutido. 
 
-*   No related posts
+
 
 
 

@@ -31,7 +31,7 @@ Os resultados serão divulgados publicamente (em inglês) quando a pesquisa for 
 
 Agradeço desde já pela ajuda de todos e espero que façam um bem para a comunidade acadêmica: respondam questionários! :-) 
 
-*   No related posts
+
 
 
 

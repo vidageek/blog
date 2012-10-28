@@ -15,7 +15,7 @@ Retirado do site [br-linux.org][1]:
 
 Para os alunos do IME-USP haverá um ônibus pago pelo instituto que sairá de São Paulo para o evento. O custo para a hospedagem lá deverá ficar em torno de R$ 200,00. Portanto os interessados procurem logo se informar com o pessoal do instituto sobre esse grande evento. 
 
-*   No related posts
+
 
 
 

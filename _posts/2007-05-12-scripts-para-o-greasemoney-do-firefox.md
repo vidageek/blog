@@ -28,7 +28,7 @@ Há algum tempo atrás [analisamos][1] no nosso blog algumas das extensões mais
 
 Este são poucos dos muitos scripts para Greasemonkey que existem na net. Caso conheça outros interessantes mande-nos um comentário! 
 
-*   No related posts
+
 
 
 

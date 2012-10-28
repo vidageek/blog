@@ -21,7 +21,7 @@ O comando acima simplesmente clona o repositório (URL) da revisão 39000 até a
 
 Você fica sem parte do histórico, mas em geral acabo usando pouco o histórico, então abro mão fácil dele para poder usar git. 
 
-*   No related posts
+
 
 
 

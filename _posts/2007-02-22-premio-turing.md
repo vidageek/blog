@@ -20,7 +20,7 @@ Frances Allen é pós-graduada em matemática pela Universidade de Michigan e tr
 
 Mais informações: **[Uol Tecnologia][1]** 
 
-*   No related posts
+
 
 
 

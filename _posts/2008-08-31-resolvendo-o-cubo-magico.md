@@ -26,7 +26,7 @@ Mais detalhes do projeto podem ser encontrados na
 Se você se interessou pelo o Lego Mindstorm, procure alguém que possa traze-lo dos EUA para você (US$ 249,99 na [Amazon][5]), já que por aqui ele custa uma pequena fortuna (R$ 1889,90 na [Rihappy][6]). 
 
 
-*   No related posts
+
 
 
 

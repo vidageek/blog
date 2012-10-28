@@ -22,7 +22,7 @@ Bom, pela minha própria experiência com a cultura chinesa é bem capaz de empl
 
 [Via [Folha Online-Informática][1]] 
 
-*   No related posts
+
 
 
 

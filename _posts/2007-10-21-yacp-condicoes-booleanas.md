@@ -77,7 +77,7 @@ Se você fizer todas as comparações possíveis usando duas condições e um op
 
 Existe um outro operador, chamado Ou Exclusivo. As expressões formadas por ele são verdadeiras se uma única condição (das duas em volta dele) for verdadeira. Se as duas forem verdadeiras ou falsas a expressão é falsa. Ele não costuma ser muito utilizado (só usei ele pra criptografia e mesmo assim era um operador um pouquinho diferente. 
 
-*   No related posts
+
 
 
 

@@ -40,7 +40,7 @@ Mais informações: [Optimizing C and Cpp][1] e [C Coding][2]
 
 Próximo post: ??? 
 
-*   No related posts
+
 
 
 

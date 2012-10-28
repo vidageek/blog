@@ -91,7 +91,7 @@ Como usei alguns termos que talvez você não conheça, aqui vão umas pequenas 
 
 Próximo post: mkdir, cp, mv, rm e rmdir. 
 
-*   No related posts
+
 
 
 

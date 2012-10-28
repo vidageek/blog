@@ -28,7 +28,7 @@ Eu tenho usado a metodologia, junto com o iGTD tem um mês e meio. Logo depois d
 
 Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro do grupo de pesquisa do projeto Integrade, é aluno do terceiro ano de ciência da computação pelo **IME/USP**. E teoricamente mantém o [blog do fabs][8]. 
 
-*   No related posts
+
 
 
 

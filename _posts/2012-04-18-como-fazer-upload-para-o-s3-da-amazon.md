@@ -44,7 +44,7 @@ O primeiro é para deixar o arquivo acessível ao público. O segundo serve para
 Como eu não conheço nenhuma ferramenta que me dê o content-type de acordo com a extensão do arquivo, eu criei uma função (typeFor) que preenche na variável $CONTENT_TYPE o valor correto (ela está no [mesmo arquivo do Github][4]).
 
 
-*   No related posts
+
 
 
 

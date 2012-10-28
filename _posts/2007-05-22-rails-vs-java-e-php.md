@@ -34,7 +34,7 @@ Caso queira saber mais sobre Ruby on Rails de uma olhada no site oficial: [http:
 
 Fonte: [Simples Ideias][5] 
 
-*   No related posts
+
 
 
 

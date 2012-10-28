@@ -21,7 +21,7 @@ Concluindo, o software é bem interessante tanto do ponto de vista computacional
 
 Aproveitando, estamos lançando uma promoção: **As três pessoas que mandarem mais comentários úteis no blog (qualquer post, incluíndo trackbacks) até a próxima quarta-feira ganha um convite para o beta do Joost. ** 
 
-*   No related posts
+
 
 
 

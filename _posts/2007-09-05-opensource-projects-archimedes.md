@@ -32,7 +32,7 @@ Eis o texto escrito por Fabrício S. Nascimento e revisado por Mariana V. Bravo 
 
 Agradecimentos ao Fabrício, à Mariana V. Bravo e ao Hugo Corbucci. 
 
-*   No related posts
+
 
 
 

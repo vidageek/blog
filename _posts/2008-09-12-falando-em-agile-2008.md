@@ -21,7 +21,7 @@ Além disso, Alexandre Magno, o único *Certified Scrum Trainer* do Brasil, apre
 
 Vale dizer também que a Caelum não costuma decepcionar nem nas palestras, nem nos coffee breaks! Se você se interessa por metodologias ágeis, informe-se mais sobre o evento no [site indicado][3] e na [thread do GUJ][4] sobre o assunto! 
 
-*   No related posts
+
 
 
 

@@ -34,7 +34,7 @@ options snd-hda-intel model=xxxxxx probe_mask=1<br />
 
 Feito isso, você vai ter que recarregar o módulo do ALSA ou, o que é muito mais fácil na maioria dos casos, reiniciar o computador. E, por fim, depois que já tiver logado na sua conta, conectar o fone e entrar nas preferências de som para escolher os fones de ouvido como saída (em Sistema -> Preferências -> Som -> Saída). Funcionou? 
 
-*   No related posts
+
 
 
 

@@ -43,7 +43,7 @@ Algumas perguntas particularmente relevantes surgiram, também:
         
         Desculpe a citação não literal, mas acho que passei a idéia corretamente. 
         **Posts Relacionados:** 
-        *   No related posts
+
         
         <g:plusone size="medium" count="false" href=""></g:plusone> 
         

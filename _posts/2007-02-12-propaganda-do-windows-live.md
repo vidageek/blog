@@ -19,7 +19,7 @@ Particularmente eu acho uma campanha despreparada para um produto superflúo. Os
 
 Minha dica é: Vá assistir esse maravilhoso filme do Will Smith, e aproveite para ir comprar pipoca na hora do comercial do Windows Live. 
 
-*   No related posts
+
 
 
 

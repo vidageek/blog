@@ -49,7 +49,7 @@ Mas agora o teste estava muito longo e parecia besteira o que estava sendo feito
 O método merge de um hash permite a fusão de um segundo hash ao primeiro, adicionando novos pares de chave – valor e substituindo os valores das chaves já existentes, mas se passarmos um bloco (como no exemplo acima) podemos escolher qual valor iremos utilizar para chaves repetidas. Indo um pouco além do usual, minha idéia foi substituir um par já existente – o que poderia ser feito para quantos pares fossem desejados. Espero que essa dica possa ser útil, já que o merge é um método muito interessante. 
 
 
-*   No related posts
+
 
 
 

@@ -12,7 +12,7 @@ post_format: [ ]
 ---
 Temos um ganhador! José Souza, parabéns! Você foi o sorteado. A RedBug entrará em contato com você ainda hoje. 
 
-*   No related posts
+
 
 
 

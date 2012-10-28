@@ -26,7 +26,7 @@ Recentemente encontrei esta tirinha na internet e gostei tanto que acabei assina
 
 [Extralife][4]] 
 
-*   No related posts
+
 
 
 

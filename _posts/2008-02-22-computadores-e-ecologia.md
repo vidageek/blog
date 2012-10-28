@@ -37,7 +37,7 @@ Fora o consumo de energia, todos nós podemos tomar medidas para diminuir nossa 
 *   [Natureba][4]: site sobre as diversas medidas que podemos tomar para diminuir o estrago no meio ambiente. Em português.
 
 
-*   No related posts
+
 
 
 

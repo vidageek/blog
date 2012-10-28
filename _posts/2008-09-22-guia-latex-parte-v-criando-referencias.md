@@ -75,7 +75,7 @@ Novamente explicando o porquê: na primeira vez que usamos o pdflatex, ele agrup
 
 Então, agora, você já sabe colocar links internos, externos e até mesmo gerar seu índice remissívo/glossário de acordo com as necessidades do seu texto. Espero que essa sessão do Guia Latex tenha ajudado e a próxima que virá tratará da parte matemática do LaTeX, parte bastante elegante e apreciada pelos usuários acadêmicos de Latex. 
 
-*   No related posts
+
 
 
 

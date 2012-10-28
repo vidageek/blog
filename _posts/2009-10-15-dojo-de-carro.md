@@ -21,7 +21,7 @@ Sempre gostei da idéia de misturar atividades, nos antigos uber-dojos (atuais k
 
 Alguém tem alguma boa idéia de como misturar dojos com outras atividades? 
 
-*   No related posts
+
 
 
 

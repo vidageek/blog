@@ -20,7 +20,7 @@ Acontece no próximo sábado, o Festival Latino Americano de Instalação Softwa
 Esse ano, o IME/USP será uma das sedes e o evento terá, além de voluntários instalando software livre, uma série de Palestras para iniciantes nesse mundo.  
 Para mais informações acesse: [www.linux.ime.usp.br/flisol][2] 
 
-*   No related posts
+
 
 
 

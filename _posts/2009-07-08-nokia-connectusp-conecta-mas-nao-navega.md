@@ -21,7 +21,7 @@ Em resposta ao Jornal do Campus, a Nokia culpou a vegetação da universidade e 
 
 Para quem quer saber mais, existe uma [comunidade no Orkut][4] sobre esse serviço da Nokia. Há também o [resultado do teste completo][5]. 
 
-*   No related posts
+
 
 
 

@@ -21,7 +21,7 @@ Os interessados em inscrever-se devem acessar [o site dos cursos de verão do IM
 
 Qualquer dúvida, pode também ser enviada para fabricio+lean [at] tailorbirds.com.br 
 
-*   No related posts
+
 
 
 

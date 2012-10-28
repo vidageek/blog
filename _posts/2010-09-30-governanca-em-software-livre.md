@@ -33,7 +33,7 @@ Uma questão que surge aqui é: como alguém vira autoridade numa comunidade de 
 
 Concluindo, a ideia aqui era mostrar rapidamente que nem tudo que se pensa a respeito das comunidades de software livre é verdade, e que ainda há muito para se estudar, ainda mais com a influência das redes sociais no desenvolvimento de software, como é o caso do [GitHub][7]. 
 
-*   No related posts
+
 
 
 

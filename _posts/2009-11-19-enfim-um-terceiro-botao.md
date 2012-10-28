@@ -30,7 +30,7 @@ open -a MiddleClick
 
 Isso vai fazer com que o script seja reiniciado no minuto 10 de cada hora (a cada 1 hora). 
 
-*   No related posts
+
 
 
 

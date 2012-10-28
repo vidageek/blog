@@ -49,7 +49,7 @@ No fim do evento, foram sorteados diversos brindes, de assinaturas [MundoJava][3
 
 Nos posts a seguir, um resumo de cada palestra. 
 
-*   No related posts
+
 
 
 

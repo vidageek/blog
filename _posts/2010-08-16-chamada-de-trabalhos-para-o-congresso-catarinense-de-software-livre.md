@@ -46,7 +46,7 @@ A organização do evento informa que todos os palestrantes aprovados terão ise
 *   22 e 23/10/2010 – 5º SoLiSC
 
 
-*   No related posts
+
 
 
 

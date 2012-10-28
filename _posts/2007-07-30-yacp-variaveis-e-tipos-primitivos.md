@@ -47,7 +47,7 @@ short int podemosUsarVariosCaracteresNoNomeDaVariavel;
 
 Em C, nomes (de qualquer coisa) podem possuir muitos caracteres (não pude encontrar um valor máximo, mas meus testes mostraram que até 10765 caracteres funciona), desde que não sejam começados por números (podem possuir números a partir do segundo caractere, mesmo que seja entre caracteres) ou operadores. Também não é permitido dar nomes iguais, mesmo que seja para coisas diferentes. 
 
-*   No related posts
+
 
 
 

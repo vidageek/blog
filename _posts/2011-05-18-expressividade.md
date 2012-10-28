@@ -27,7 +27,7 @@ De forma alguma estou dizendo que o código mais próximo da infraestrutura não
 
 O que acham disso? 
 
-*   No related posts
+
 
 
 

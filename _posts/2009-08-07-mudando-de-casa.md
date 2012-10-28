@@ -47,7 +47,7 @@ Espero que vocês gostem destes dois novos blogs que serão feitos com muito cui
 
 Até mais! 
 
-*   No related posts
+
 
 
 

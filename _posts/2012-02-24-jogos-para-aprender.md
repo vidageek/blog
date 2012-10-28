@@ -17,7 +17,7 @@ O [VidaGeek Games][4] é o fruto desse trabalho. Como é uma PoC, ainda está be
 
 Todo feedback é bem-vindo e fundamental para nós. E se gostou bastante da idéia, pode nos ajudar sugerindo idéias/patches através do [github][6] ou do email games@vidageek.net. 
 
-*   No related posts
+
 
 
 

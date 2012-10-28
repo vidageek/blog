@@ -42,7 +42,7 @@ O erro gerado (pela ferramente pdflatex), se você colocar o “-”, é o segui
 
 A solução eu obtive por sorte. Apenas pra ver o que acontecia resolvi retirar o “-” e funcionou. Espero que evite dores de cabeça para vocês. 
 
-*   No related posts
+
 
 
 

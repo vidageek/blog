@@ -28,7 +28,7 @@ Depois de tudo isso e de baixar todos os meus e-mails do GMail novamente, finalm
 
 Montagem tosca por mim mesmo, utilizando os ícones do Firefox 3.0, do Shiretoko e do Google Gears 
 
-*   No related posts
+
 
 
 

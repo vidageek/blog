@@ -96,7 +96,7 @@ As expectativas de hoje são o aumento do software de alta qualidade, necessitan
 
 Se você acha muito interessante algum Google Tech Talk que não esteja na lista acima, coloque um link para ele nos comentários. 
 
-*   No related posts
+
 
 
 

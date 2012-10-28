@@ -21,7 +21,7 @@ O site ainda mostra um resumo das suas ultimas modificações e permite que voc�
 
 Se você quer saber mais sobre [gdgt.com][2], recomendo o vídeo de [Verônica Belmont][4] a respeito de [O que é o gdgt?][5] 
 
-*   No related posts
+
 
 
 

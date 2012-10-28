@@ -29,7 +29,7 @@ Explicação:
 2.  **xargs rm -fr**: O xargs é um programa que executa o que vier depois dele pra cada linha que ele receber como entrada. Por isso apaga todos os .svn. 
 
 
-*   No related posts
+
 
 
 

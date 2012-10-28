@@ -17,7 +17,7 @@ Fui fundada recentemente uma lista para os usuários brasileiros do WordPress (o
 
 Vocês podem acessa-la por aqui: [http://groups.google.com.br/group/wordpress-brasil][1] 
 
-*   No related posts
+
 
 
 

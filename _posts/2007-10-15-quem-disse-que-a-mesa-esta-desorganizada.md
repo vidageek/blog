@@ -35,7 +35,7 @@ Voltando ao assunto, o mesmo acontece com a mesa do programador. Os itens que el
 
 Da próxima vez que encontrar alguém que tem uma mesa muito bagunçada, desconfie de que é um bom programador, ao invés de achar que não passa de um desleixado ;). 
 
-*   No related posts
+
 
 
 

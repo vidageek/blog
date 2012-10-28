@@ -32,7 +32,7 @@ Aparentemente o [HFS+ é case insensitive, mas guarda a informação de letras m
 
 Decisão triste essa. E se você quiser deixar ele case sensitive? Precisa formatar o hd. 
 
-*   No related posts
+
 
 
 

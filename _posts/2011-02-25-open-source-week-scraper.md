@@ -32,7 +32,7 @@ Maiores informações na [página oficial][1].
 
 Ah, infelizmente ainda não disponível em um repositório maven (vou resolver isso nas próximas semanas), mas você pode baixá-lo no [github][7] da [AdaptIdeas][8]. 
 
-*   No related posts
+
 
 
 

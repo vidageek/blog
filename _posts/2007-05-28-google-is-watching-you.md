@@ -45,7 +45,7 @@ Além disso, o recolhimento de informações é voluntário. Cada pessoa pode ou
 
 Vemos extremistas em todos os lugares, mas uma reação comparando uma ferramenta de aprendizado ao Estado totalitário e sem privacidade narrado por George Orwell em 1949 extrapola qualquer barreira de sensatez. 
 
-*   No related posts
+
 
 
 

@@ -20,7 +20,7 @@ O Segundo, “**[Human Computation”][2]** – Computação Humana, em portugu�
 
 Mais videos da Google Tech Talks: **[Google Video][4]** 
 
-*   No related posts
+
 
 
 

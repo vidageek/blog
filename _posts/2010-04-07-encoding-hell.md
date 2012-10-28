@@ -38,7 +38,7 @@ Ah, e não adianta usar o `System.setProperty`. As propriedades são usadas no m
 Outra coisa, quem descobriu o post e a solução foi o [Edmilson Miyasaki, da Adaptworks][6].
 
 
-*   No related posts
+
 
 
 

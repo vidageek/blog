@@ -35,7 +35,7 @@ gconftool-2 --type bool --set /apps/nautilus/preferences/show_desktop true && na
 
 Fonte: [Prashanth Ellina Blog – Matrix Desktop][2] 
 
-*   No related posts
+
 
 
 

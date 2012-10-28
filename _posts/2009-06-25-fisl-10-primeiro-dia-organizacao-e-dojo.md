@@ -44,7 +44,7 @@ Um grupo de pessoas da USP sugeriu trocar o sistema pobre de submissão e avalia
 
 Muitos por quês e muitas críticas. Fica uma sugestão: colocar mais pessoas de outros Estados na organização. Muita gente está achando que a organização está regionalista de mais. E isso é, provavelmente, a parte mais fácil de resolver. 
 
-*   No related posts
+
 
 
 

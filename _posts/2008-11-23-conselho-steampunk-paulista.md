@@ -28,7 +28,7 @@ Idealizado tendo como objetivo principal democratizar e flexibilizar o movimento
 Cândido Ruiz, membro fundador do Conselho Steampunk, redator do Steampunksp.tk e colaborador do projeto ‘Steam Case Mode’. 
 
 
-*   No related posts
+
 
 
 

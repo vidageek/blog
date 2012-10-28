@@ -24,7 +24,7 @@ Por fim, o [ConnectUSP][4] é uma ótima opção para todos que frequentam a Uni
 
 Enfim, uma proposta muito legal da Nokia. Para escolher qual deles você prefere, basta entrar no site da [Nokia Store SP][1] a partir do dia 19. A cidade vai sair ganhando! 
 
-*   No related posts
+
 
 
 

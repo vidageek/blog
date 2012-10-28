@@ -63,7 +63,7 @@ Em Java, existe um bloco de código que é executado no momento em que o ClassLo
     
     E Antes que os mais rigorosos gritem comigo, nada garante que a variável vai ser alocada entre as duas primeiras chamadas ao println. A VM pode simplesmente criar a variável antes das chamadas.
     **Posts Relacionados:**
-    *   No related posts
+
     
     
     

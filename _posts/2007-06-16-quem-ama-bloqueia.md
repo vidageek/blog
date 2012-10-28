@@ -19,7 +19,7 @@ Esse comercial mostra uma provável mudança de tendência sobre os DRM (Digital
 
 É muito interessante ver uma empresa posicionando-se (pelo menos parte) a favor da liberdade de escolha de seus usuários. Quem sabe isso não se torna mais comum? 
 
-*   No related posts
+
 
 
 

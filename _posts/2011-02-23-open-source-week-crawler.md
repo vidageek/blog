@@ -22,7 +22,7 @@ Mais informações você encontra na [página oficial do projeto][5].
 
 Ah, para os que usam gerenciadores de dependência, como o Maven e Gradle, os artefatos ainda não foram sincronizados com o repositório central (Os procedimentos mudaram bastante), mas você já consegue baixá-los manualmente pelo github ou pelo repositório do Sonatype em <https://oss.sonatype.org/content/groups/public/net/vidageek/crawler/> 
 
-*   No related posts
+
 
 
 

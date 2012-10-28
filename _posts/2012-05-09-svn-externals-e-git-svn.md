@@ -15,7 +15,7 @@ Depois de efetuado o clone, notei que algumas pastas não vieram. Mais precisame
 
 Aparentemente o **git svn** ainda não suporta svn externals. Então em projetos que dependem de svn externals (como era o caso), ainda não dá para usar git. 
 
-*   No related posts
+
 
 
 

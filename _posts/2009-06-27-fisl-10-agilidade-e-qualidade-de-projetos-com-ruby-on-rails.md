@@ -42,7 +42,7 @@ O código que ele mostrou na palestra está no [GitHub][7] e os slides, no [Slid
 
 Assim que der tempo falo sobre as outras três palestras que assisti ontem, apesar da visita do nosso presidente ter atrapalhado um pouco o andamento do evento… 
 
-*   No related posts
+
 
 
 

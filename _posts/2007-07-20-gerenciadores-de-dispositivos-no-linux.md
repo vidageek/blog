@@ -28,7 +28,7 @@ Algumas distribuições usam ou usavam (o Gentoo com o genkernel por exemplo) um
 
 O Udev tem o propósito de resolver esses problemas criados pelo Devfs, criando e removendo automáticamente os arquivos de dispositivo (devices files) e nomear os dispostivos de forma consistente. Para isto o projeto é dividido em 3 partes: namedev (responsável pelo nomeação), libsysfs (responsável pelo acesso ao dispositivos pelo udev através do kernel de forma transparente) e o próprio udev que recebe pedidos do kernel para alterar a estrutura do /dev. 
 
-*   No related posts
+
 
 
 

@@ -53,7 +53,7 @@ Outra coisa que esses testes me ajudam muito é a saber quando eu terminei a fun
 
 O que acham disso? Já fizeram (ou fazem) algo semelhante? 
 
-*   No related posts
+
 
 
 

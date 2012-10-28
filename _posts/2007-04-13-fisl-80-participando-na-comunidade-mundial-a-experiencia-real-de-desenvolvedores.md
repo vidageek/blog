@@ -38,7 +38,7 @@ Ross diz que você estude e tente e erre até conseguir encontrar as 3 linhas qu
 
 Numa discussão extremamente interessante e descontraída, os convidados aumentaram ainda mais a paixão dos ouvintes pelo software opensource e a vontade de trabalhar em projetos… principalmente os que te irritam! 
 
-*   No related posts
+
 
 
 

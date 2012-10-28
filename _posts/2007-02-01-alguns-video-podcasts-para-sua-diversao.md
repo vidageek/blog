@@ -34,7 +34,7 @@ Agora eles tem um Video Podcast, que até pouco tempo exibia pequenas animaçõe
 
 Espero que esse post servia para levar mais algumas pessoas ao mundo dos podcasts. 
 
-*   No related posts
+
 
 
 

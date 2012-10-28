@@ -42,7 +42,7 @@ Além disso, a quem interessar, vale a pena reforçar que os cursos Algoritmos e
 
 Vale a pena dar uma boa olhada e talvez investir uma ou duas semanas do seu verão atualizando-se como profissional ou aprendendo aquelas curiosidade que você sempre quis conhecer. 
 
-*   No related posts
+
 
 
 

@@ -28,7 +28,7 @@ Mais informações: Introduction To Algorithms, de Cormem, Leiserson, Rivest e S
 
 Próxima sexta: Recursão 
 
-*   No related posts
+
 
 
 

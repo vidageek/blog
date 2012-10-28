@@ -41,7 +41,7 @@ Sim, ele acabou de rodar o último comando trocando a string ALI por AQUI. Mági
 
 Bom, esses e outros comandos estão disponíveis em [command line fu][1]. Convido todos que acharem algum comando mais interessante lá a deixarem um comentário. 
 
-*   No related posts
+
 
 
 

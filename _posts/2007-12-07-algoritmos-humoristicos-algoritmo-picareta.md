@@ -35,7 +35,7 @@ Alguns exemplos de usos bem sucedidos (e vários ainda estão rodando):
 
 Esses são apenas os casos de sucesso que eu conheço. Garanto que existem muitos outros. 
 
-*   No related posts
+
 
 
 

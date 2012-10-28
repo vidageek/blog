@@ -29,7 +29,7 @@ O Ubuntu, por sua vez, além de fazer a instalação toda praticamente sozinho (
 
 Acredito que todo o movimento do software livre pode aprender com os passos do Ubuntu. O Software Livre DEVE ser de alta qualidade, mas não devemos esquecer que também pode ser bonito. O Beryl e o Compiz são exemplos disso, também. Nem sempre o melhor é escolhido. Na verdade, na maioria das vezes o mais bonito é escolhido. E isso é ainda mais forte no mundo do software livre, que, para muitos, é algum tipo de “tecnologia incompreensível que apenas geeks e técnicos sabem como usar”. 
 
-*   No related posts
+
 
 
 

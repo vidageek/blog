@@ -29,7 +29,7 @@ Nos mesmos moldes, drivers proprietários chegam até a inibir a criação de so
 
 Curiosamente, para isso temos contra-exemplo! O projeto Archimedes dos alunos IME-USP é um Cad Aberto e já está disponível no SourceForge. Na próxima semana, publicaremos um post sobre este software. 
 
-*   No related posts
+
 
 
 

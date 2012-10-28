@@ -26,7 +26,7 @@ Este é o[ site oficial][3] do Strong Bad que faz parte do [HomeStarRunner.][4]
 
 Existe também um podcast para que você receba todo novo episódio que sair de forma automática que pode ser encontrado na iTunes Store. 
 
-*   No related posts
+
 
 
 

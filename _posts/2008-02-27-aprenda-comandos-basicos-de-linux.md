@@ -25,7 +25,7 @@ Para os iniciantes os comandos de *shell* do linux podem ser um tanto quanto con
 
 [Via [LifeHacker<bbntop id="BBNNode_204"><bbnspan class="bbn_linknode">205</bbnspan></bbntop>][3]] 
 
-*   No related posts
+
 
 
 

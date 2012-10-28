@@ -35,7 +35,7 @@ Idéias: Oferecer um algoritmo para tri-colorir um grafo em C++ com uma interfac
 
 É isso ai, qualquer outra idéia pode ser postada nos comentários, nós temos interesse em qualquer projeto que vocês possam oferecer. Não se acanhem, o pessoal do vidageek vai olhar atentamente para todas as submissões, não se esqueça da data limite (3/04). Boa Sorte, estamos ansiosos em trabalhar com vocês! 
 
-*   No related posts
+
 
 
 

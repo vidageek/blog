@@ -34,7 +34,7 @@ Vamos a um exemplo: veja as seguintes declarações da função [seno][2] abaixo
 
 Perceba como cada uma pressupõe um certo conhecimento prévio do leitor. A primeira só vai fazer sentido se você souber exatamente em que contexto essa função é chamada, mas é bem enxuta. A segunda faz sentido para quem já teve um curso de geometria; é enxuta e atinge boa parcela dos possíveis leitores. Já a terceira pressupõe um conhecimento muito básico de geometria, por isso explica bem o que faz (tão bem que nem cabe numa linha só aqui). Qual delas é mais expressiva? A primeira, a segunda ou a terceira? Deixe sua opinião para continuarmos essa discussão! 
 
-*   No related posts
+
 
 
 

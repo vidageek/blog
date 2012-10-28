@@ -21,7 +21,7 @@ O primeiro dos quatro volumes é o melhor na minha opinião. Senti que a autora 
 
 Era um livro para o qual eu não dava muito valor, mas que surpreendeu-me muito. Para os que gostam desse tipo de história (Tradições Celtas) é realmente uma leitura imperdível. Para os que não gostam ou não tiveram muito contato, é um ótimo de jeito de conhecer melhor. 
 
-*   No related posts
+
 
 
 

@@ -31,7 +31,7 @@ Um pouco de humor:
 ![Satira com o Vista][9]  
 [Via [WebTuga][10]] 
 
-*   No related posts
+
 
 
 

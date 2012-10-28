@@ -21,7 +21,7 @@ xkcd é uma HQ em inglês disponível gratuitamente na Internet com licença [cc
 
 E outras tantas bastante boas, como [Lisp][4], [Pillar][5] e [Ninja Turtles][6], mais “genéricas”, por assim dizer. Vale a pena dar uma olhada no arquivo quando você não tiver nada para fazer e quiser dar umas boas risadas. 
 
-*   No related posts
+
 
 
 

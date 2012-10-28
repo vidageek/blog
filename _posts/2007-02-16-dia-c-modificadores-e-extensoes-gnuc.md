@@ -48,7 +48,7 @@ Mais informações: C Keywords -> Google
 
 Próxima semana: Estratégias de Depuração. 
 
-*   No related posts
+
 
 
 

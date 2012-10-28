@@ -27,7 +27,7 @@ Estes temas já foram abordados antes, mas não não tinham o seu espaço própr
 
 Imagem por [illusiondevivre][5] 
 
-*   No related posts
+
 
 
 

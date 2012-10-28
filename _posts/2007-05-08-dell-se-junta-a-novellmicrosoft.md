@@ -36,7 +36,7 @@ Isso vai contra toda a filosofia da comunidade OpenSource e me admira a Dell ent
 
 Pode-se questionar as intenções da Dell, assim como questiona-se as da Novell. Apenas resta a esperança de que a Microsoft cumpra sua palavra e não se aproprie do código aberto e colaborativo do SuSE. 
 
-*   No related posts
+
 
 
 

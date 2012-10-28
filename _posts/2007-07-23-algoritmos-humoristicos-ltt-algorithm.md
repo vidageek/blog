@@ -28,7 +28,7 @@ finalmente {
 
 Vale lembrar que esse provavelmente é o algoritmo mais utilizado pela maioria dos serviços públicos e privados cujo mal funcionamento pode ser causa de danos sérios. 
 
-*   No related posts
+
 
 
 

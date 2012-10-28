@@ -121,7 +121,7 @@ Espero que este tutorial tenha sido útil para aprender um pouco mais sobre bash
 
 Adaptado do [LifeHacker][4] 
 
-*   No related posts
+
 
 
 

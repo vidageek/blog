@@ -18,7 +18,7 @@ Depois do sistema de reconhecimento de voz do Windows Vista, da Microsoft, mostr
 
 Mais informações: **[Uol][1]**. 
 
-*   No related posts
+
 
 
 

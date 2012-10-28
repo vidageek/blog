@@ -17,7 +17,7 @@ Calma, não entenda errado o título acima. Todos sabemos que o Windows é um si
 
 O mais interessante é o fato de existir um dropdown para escolher quantas palmas bater, imagine-se abrindo o gmail com uma palma, o google com duas, o vidageek com três, o yahoo com quatro, e por ai vai… Nem o desenvolvedor lembra o que três palmas fazem… 
 
-*   No related posts
+
 
 
 

@@ -21,7 +21,7 @@ O artigo aborda não apenas os *softwares* proprietários pagos, mas dá também
 Foto por [Photo Gallery][5]. 
 
 
-*   No related posts
+
 
 
 

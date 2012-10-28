@@ -41,7 +41,7 @@ Com tudo isso, é possível fazer algumas “bizarrices” não recomendadas, ma
 
 Próxima semana: Algoritmos genéricos em C 
 
-*   No related posts
+
 
 
 

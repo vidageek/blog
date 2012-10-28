@@ -38,7 +38,7 @@ Não estou defendendo software proprietário, mas esse é um modelo de negócios
 
 O Software Livre já se consolidou como uma alternativa, mas ele tem potencial para ser muito mais do que isso. Ele pode ser um direito à escolha. Pensem nisso. Pensem até onde pode ir essa simples liberdade de escolha. 
 
-*   No related posts
+
 
 
 

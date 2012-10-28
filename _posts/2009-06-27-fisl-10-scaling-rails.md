@@ -34,7 +34,7 @@ Por fim, falou um pouco sobre o ganho de performance e de tempo de desenvolvimen
 
 O começo da palestra foi interessante, mas minha impressão final é de que o palestrante não ficou muito feliz com o resultado da migração do site, antes em PHP, para Rails. Outro comentário que posso fazer é que já trabalhei num projeto em Rails com Sphinx e a equipe não gostou muito; acabamos mudando para o [Solr][3]. 
 
-*   No related posts
+
 
 
 

@@ -37,7 +37,7 @@ A questão levantada foi como mudar a mentalidade brasileira de que a prova é a
 
 Antes de investir num projeto desse nível e custo, deveríamos mudar a proposta de ensino para algo que possa ser adequado à ferramenta que o XO é. Não adianta comprar tecnologia de última geração se o modo de pensar ainda é aquele antigo e quadrado. 
 
-*   No related posts
+
 
 
 

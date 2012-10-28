@@ -101,7 +101,7 @@ Ainda daria pra fazer o HashSet se comportar de forma mais rápida, movendo a cr
 
 Em uma máquina com menos disponibilidade de mémoria (a que eu usei para o teste possui 2GB) se um HashSet for usado como da primeira maneira, ele será muito pior que o TreeSet. Por isso é muito importante saber sob quais condições uma [estrutura de dados][7] é melhor do que outra. 
 
-*   No related posts
+
 
 
 

@@ -24,7 +24,7 @@ Essas e outras mudanças podem ser vistas em <http://projetos.vidageek.net/mirro
 
 Todo feedback é bem vindo. 
 
-*   No related posts
+
 
 
 

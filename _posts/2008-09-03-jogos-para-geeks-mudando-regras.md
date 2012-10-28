@@ -22,7 +22,7 @@ Outro jogo que usa o conceito de mudar as próprias regras, embora o faça de mo
 
 Alguns outros jogos que merecem menção, embora não mudem as regras em si, mas por partilhar o espírito de reinvenção contínua, são [Dvorak][5], no qual cartas – e seus efeitos – são definidas pelos jogadores, até mesmo durante o jogo e [1000 Blank Cards][6], um jogo no melhor espírito discordiano. 
 
-*   No related posts
+
 
 
 

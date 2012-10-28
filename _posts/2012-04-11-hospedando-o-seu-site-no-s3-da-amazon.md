@@ -26,7 +26,7 @@ Segue um roteiro básico:
 E pronto. Basta fazer o upload dos arquivos.
 
 
-*   No related posts
+
 
 
 

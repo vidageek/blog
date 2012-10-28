@@ -24,7 +24,7 @@ Das 12, 5 fui eu quem apresentou:
 Tem ainda várias outras sobre scrum, certificados digitais, liderança e como dar palestras</p> 
 Feedback é muito bem vindo :) 
 
-*   No related posts
+
 
 
 

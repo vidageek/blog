@@ -18,7 +18,7 @@ O [Agile Searcher][2] é uma engine de busca voltada apenas para sites com rela�
 
 Qualquer dúvida, sugestão ou angustia, envie um email para agilesearcher@vidageek.net ou deixe um comentário neste post. 
 
-*   No related posts
+
 
 
 

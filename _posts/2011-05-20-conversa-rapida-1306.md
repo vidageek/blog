@@ -13,7 +13,7 @@ No dia 13 de Junho, das 19:30 às 22:00, acontecerá na [AdaptWorks][1] mais uma
 
 A [edição passada][3] foi bem divertida. Se tiver interesse em participar, mande um email para jabreu@adaptworks.com.br para confirmar pois são poucos os lugares. 
 
-*   No related posts
+
 
 
 

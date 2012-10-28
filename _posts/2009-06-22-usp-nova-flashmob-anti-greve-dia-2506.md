@@ -40,7 +40,7 @@ Sei que muitos estudantes anti-greve não poderão participar, já que muitos de
 
 Obrigado pela atenção e, novamente, peço desculpas aos leitores que não deveriam precisar ser expostos a isso. Infelizmente, se faz necessário. 
 
-*   No related posts
+
 
 
 

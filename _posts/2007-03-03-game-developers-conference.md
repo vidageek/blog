@@ -15,7 +15,7 @@ A [Game Developers Conference (GDC)][1] que começara dia 5 de março e terminar
 
 Mais informações: **[game Developers Conference][1]**, em inglês. 
 
-*   No related posts
+
 
 
 

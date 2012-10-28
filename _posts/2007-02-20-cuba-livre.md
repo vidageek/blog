@@ -21,7 +21,7 @@ Em Cuba, também nota-se um grande aumento no número de usuários de Software L
 
 Mais informações: **[USA Today][1]**, em inglês. 
 
-*   No related posts
+
 
 
 

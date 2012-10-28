@@ -50,7 +50,7 @@ Um ponto sobre o qual ainda não tenho uma opinião muito elaborada é sobre a m
 
 E você, qual a sua opinião? Quais são suas críticas a cada uma dessas linguagens? 
 
-*   No related posts
+
 
 
 

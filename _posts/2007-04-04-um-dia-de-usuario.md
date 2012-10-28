@@ -32,7 +32,7 @@ Todos os sites acima estão em inglês. Mas se você não sabe falar inglês, n�
 
 Além disso, se você usa algum sistema Unix, pode passar horas a fio lendo o fortune. Basta digitar fortune no seu terminal. 
 
-*   No related posts
+
 
 
 

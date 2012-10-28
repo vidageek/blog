@@ -17,7 +17,7 @@ O blog [ Nomadishere ][1] publicou um post com as oito coisas que todo geek, ner
 Uma versão adaptada em português pode ser encontrada aqui.
 
 
-*   No related posts
+
 
 
 

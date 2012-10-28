@@ -59,7 +59,7 @@ Exemplo:
 
 Troca as chaves atuais jonas pelas que estão com a terminação vidageek . 
 
-*   No related posts
+
 
 
 

@@ -30,7 +30,7 @@ Imagem por [kagey_b][5]
 
 
 
-*   No related posts
+
 
 
 

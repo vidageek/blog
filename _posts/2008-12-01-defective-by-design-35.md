@@ -34,7 +34,7 @@ Minha mãe estava prestes a ganhar um macmini neste natal, ele não vem com nenh
 
 Mudando um pouco o assunto, já que falei do Ubuntu, essa semana eu participei de uma palestra com Christian Reis, que trabalha para Canonical(criadora do Ubuntu). O Kiko é responsável pela coordenação de 35 engenheiros remotos na produção do [Launchpad][10], um trabalho bem interessante, que vai dar um ótimo post no futuro próximo :-). 
 
-*   No related posts
+
 
 
 

@@ -24,7 +24,7 @@ O Wii Remote tem dois sensores: uma câmera, que captura a luz infravermelha emi
 
 **Uma curiosidade**: Não sei se todo mundo sabe mas eu, pelo menos, descobri há pouco tempo. Vale não só para a sensor bar do Wii Remote, como para a maioria dos emissores de infravermelho usados em controles remotos. As webcams e (não testado) câmeras mais baratas e simples capturam infravermelho. Assim, você pode testar se seu controle remoto está funcionando apontando-o na direção de uma webcam ligada. A fonte de luz infravermelha vai aparecer branca na imagem. 
 
-*   No related posts
+
 
 
 

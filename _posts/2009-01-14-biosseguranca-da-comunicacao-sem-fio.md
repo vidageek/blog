@@ -20,7 +20,7 @@ Para quem não quer ler a monografia toda, apresento um resumo.
 
 E você, o que acha? Essas pessoas, que se dizem eletrossensíveis, sofrem por causa da radiação ou seus sintomas são de outra origem? Celulares causam câncer? O que devemos fazer? Dê sua opinião/sugestão! E se encontrar algum erro ou alguma dúvida, entre em contato! 
 
-*   No related posts
+
 
 
 

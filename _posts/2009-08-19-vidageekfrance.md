@@ -58,7 +58,7 @@ Bom, por hoje só essas coisinhas do cotidiano. Em breve devo ir ao Dojo aqui em
 
 Se tiverem alguma dúvida sobre como algo funciona por aqui, é só deixar nos comentários. Abraços. 
 
-*   No related posts
+
 
 
 

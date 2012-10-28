@@ -57,7 +57,7 @@ Resumindo, Prolog é uma linguagem interessante de se aprender; estimula um tipo
 
 **Nota**: a imagem do post remete ao problema de colorir mapas utilizando um número fixo de cores, um problema bastante difícil, mas que pode ser facilmente programado em Prolog. A imagem foi retirada [deste site][9], que fala mais sobre o problema. 
 
-*   No related posts
+
 
 
 

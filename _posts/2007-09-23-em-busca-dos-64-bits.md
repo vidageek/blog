@@ -31,7 +31,7 @@ Depois de muito procurar usando o apt-cache (o Google não estava ajudando muito
 
 Triste fim para uma tarde. Mas faz parte do processo de mudança. Até processadores de 64 bits tornarem-se padrão para a produção de software, usuários de linux 64 bits vão sofrer bastante. 
 
-*   No related posts
+
 
 
 

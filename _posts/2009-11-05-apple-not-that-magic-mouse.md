@@ -23,7 +23,7 @@ Esse mouse resolveu a maior parte dos problemas do mouse antigo, é leve e não 
 Mas a pior coisa é eu perdi 2 botões. Eu já esperava não encontrar o quarto botão, mas na verdade nem existe **mais o botão do meio :-(**, o que torna chato tarefas como “abrir em nova aba” do firefox, e inúmeros outros comandos interessantes de outros programas (já vi vários posts por ai de pessoas que desenham em programas de CAD que falta o botão para a função pan). Eu vou mesmo sentir falta de copiar e colar do linux na minha máquina virtual, ou com o sinergy no meu eeepc. Espero que a apple descubra um jeito de fazer isso funcionar via software nos próximos updates do magic mouse, quem dera fosse Software Livre…
 
 
-*   No related posts
+
 
 
 

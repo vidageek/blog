@@ -35,7 +35,7 @@ Mas e se eu quiser produzir uma aplicação portável entre alguns desses sistem
     
     Próxima semana: Ponteiros e Aritmética de Ponteiros. 
     **Posts Relacionados:** 
-    *   No related posts
+
     
     <g:plusone size="medium" count="false" href=""></g:plusone> 
     

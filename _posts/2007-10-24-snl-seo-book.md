@@ -21,7 +21,7 @@ O que achei bastante interessante nesse livro é que uma das coisas que é muito
 
 No livro são apresentadas diversas dicas de como deixar seu site mais otimizado, mas se você está procurando formas de enganar os sistemas de busca não vai achar esse livro interessante. Para outros, como eu, que queiram apenas aprender como deixar seu site mais visível com certeza vai ser uma boa leitura. 
 
-*   No related posts
+
 
 
 

@@ -31,7 +31,7 @@ Aqui vai um screenshot do site de exemplos (Notem a quantidade de código extra 
 
 Se não acreditar, desabilite o javascript no seu browser (Não aqui, no site de testes). E vale a pena pegar o [firebug][3] pra ver como que o plugin faz essa mágica. 
 
-*   No related posts
+
 
 
 

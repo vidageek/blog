@@ -33,7 +33,7 @@ A análise que Benkler dá para este cenário é bastante complexa, e não cabe 
 
 Vocês podem deixar comentários sobre o que acham que poderia acontecer, e agente vai discutindo. 
 
-*   No related posts
+
 
 
 

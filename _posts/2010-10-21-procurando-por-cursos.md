@@ -22,7 +22,7 @@ Uma coisa muito legal o Procurando Cursos é que muita coisa que criamos para a 
 
 Acho que essas são as novidades. Mencionei que com a redução do rítmo do projeto, eu devo voltar a postar mais frequentemente? 
 
-*   No related posts
+
 
 
 

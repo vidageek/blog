@@ -70,7 +70,7 @@ Esse ambiente procura o melhor lugar para se encaixar numa página, flutuando te
 
 Com isso, você já é capaz de tratar figuras em LaTeX e colorir seu texto. Se restou alguma dúvida sobre esse assunto, incentivo perguntas – muito foi deixado de lado nesse breve tutorial. Divirtam-se! 
 
-*   No related posts
+
 
 
 

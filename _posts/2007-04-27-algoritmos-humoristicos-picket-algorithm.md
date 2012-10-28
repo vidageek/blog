@@ -23,7 +23,7 @@ Este algoritmo tem por objetivo sincronizar o acesso de processos a um mesmo rec
 
 Este é um algoritmo ainda muito usado, especialmente em softwares públicos, que não levam em consideração o dano que por ventura venham a causar. 
 
-*   No related posts
+
 
 
 

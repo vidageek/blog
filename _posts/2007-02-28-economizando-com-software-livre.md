@@ -25,7 +25,7 @@ As pessoas acham que só porque o código é aberto ele é inseguro e incompleto
 
 [Via [Folha Online][1]] 
 
-*   No related posts
+
 
 
 

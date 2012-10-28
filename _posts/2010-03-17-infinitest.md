@@ -22,7 +22,7 @@ A primeira versão (3.X) que usei dele, foi durante o desenvolvimento do [Mirror
 
 Vale muito a pena, em especial se você quer aprender TDD. 
 
-*   No related posts
+
 
 
 

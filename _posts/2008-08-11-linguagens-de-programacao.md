@@ -57,7 +57,7 @@ Faremos uma série de posts, aqui no VidaGeek, comentando mais sobre cada lingua
 ##### *Imagem via [esenviseu][4]*
 
 
-*   No related posts
+
 
 
 

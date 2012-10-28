@@ -58,7 +58,7 @@ Não testei, mas deve ter o mesmo efeito. Explicando um pouco da mágica:
     *   </ol> 
         A versão anterior que eu usava da PS1 usava ruby pra fazer essa mágica toda, mas dessa forma não depende mais do ruby instalado na máquina. 
         **Posts Relacionados:** 
-        *   No related posts
+
         
         <g:plusone size="medium" count="false" href=""></g:plusone> 
         

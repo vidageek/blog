@@ -28,7 +28,7 @@ Portanto, se você tiver tempo, souber programar, amar o software livre igual os
 
 [Via [Gentoo News][6]] 
 
-*   No related posts
+
 
 
 

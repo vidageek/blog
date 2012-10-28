@@ -45,7 +45,7 @@ O post de hoje tem, novamente, a colaboração do nosso leitor Cacio Gazola. Mas
 > Assim como o multicolumn, é necessário adicionar o pacote multirow no preâmbulo. Os dois juntos dão liberdade para criar tabelas totalmente assimétricas.
 
 
-*   No related posts
+
 
 
 

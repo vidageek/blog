@@ -33,7 +33,7 @@ Minha janela do quarto está cumprindo muito bem o papel de lousa. O único prob
 
 Pois é… acho que não tem nada que um pouco de criatividade não resolva. Alguém mais já encontrou alguma solução estranha como essa? 
 
-*   No related posts
+
 
 
 

@@ -39,7 +39,7 @@ Nossa brincadeira foi o Supertrunfo Grafos, que está em fase de planejamento ai
 
 Já o Guia Linux – Parte III, bom, esse é sério! Sem pegadinhas, só dicas úteis para você que está tentando instalar Linux, mas se perde no caminho! 
 
-*   No related posts
+
 
 
 

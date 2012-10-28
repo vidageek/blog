@@ -18,7 +18,7 @@ Recentemente minhas experiências com jogos têm sido melhores no Linux do que n
 
 O mercado de jogos está mudando, também. Recentemente, a Electronic Arts lançou uma versão gratuita do jogo de futebol FIFA e também anunciou uma versão gratuita do jogo Battlefield, o [Battlefield Heroes][6]. Outros títulos também estão sendo lançados em versões gratuitas. A renda está vindo de anúncios dentro desses jogos. Quem sabe agora que esses jogos mais populares estão ganhando versões gratuitas não ganhem também uma versão gratuita que rode no Linux? 
 
-*   No related posts
+
 
 
 

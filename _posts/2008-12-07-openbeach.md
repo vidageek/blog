@@ -36,7 +36,7 @@ Para quem acompanhou os eventos esse ano, e também foi a alguns deles, fica o c
 
 Um perdão para todos que tem acompanhado o RSS e os emails, estou tentando usar um novo estilo para escrever no blog, Textile, e tenho cometido alguns equívocos. 
 
-*   No related posts
+
 
 
 

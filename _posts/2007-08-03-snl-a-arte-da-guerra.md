@@ -48,7 +48,7 @@ Meus preferidos são “Os nove tipos de terreno” e “O ataque pelo fogo”.
 É um livro pequeno (cerca de 100 páginas), mas que me trouxe resultados muito bons quando aplicado em muito do que faço. Recomendo a todos, mesmo que não gostem de estratégia militar. Pros que gostam, ainda tem esse *sabor extra*.
 
 
-*   No related posts
+
 
 
 

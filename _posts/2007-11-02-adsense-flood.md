@@ -29,7 +29,7 @@ Não acredito que a Google comece um programa de execuções sumárias para quem
 Acabei de reler [os termos de serviço][1] e vi que existe menção apenas a robos usados pelo dono da conta. Robôs de terceiros (desde que não incentivados pelo dono da conta) não estão presentes no TOS. Portanto acredito que não exista motivo para se preocupar com isso. É do maior interesse da Google que isso não aconteça ou seja raro e que não prejudique os assinantes do AdSense.
 
 
-*   No related posts
+
 
 
 

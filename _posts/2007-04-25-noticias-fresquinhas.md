@@ -45,7 +45,7 @@ Algumas notícias interessantes:
 *   [Firefox Tip: Open search results in a new tab][7]
 
 
-*   No related posts
+
 
 
 

@@ -73,7 +73,7 @@ Tem outros softwares a mais também, que eu uso tão naturalmente que esqueço: 
 
 Acho que agora tá melhor. 
 
-*   No related posts
+
 
 
 

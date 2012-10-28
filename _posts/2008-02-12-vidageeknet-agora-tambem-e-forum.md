@@ -25,7 +25,7 @@ Inicialmente, os fóruns serão moderados e administrados pela equipe deste blog
 
 Esperamos que cadastrem-se e aproveitem para aprender e ensinar usando o fórum. 
 
-*   No related posts
+
 
 
 
