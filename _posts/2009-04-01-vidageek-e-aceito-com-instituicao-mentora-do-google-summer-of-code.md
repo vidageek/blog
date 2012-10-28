@@ -53,6 +53,6 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [3]: http://www.ime.usp.br/~pf/algoritmos_em_grafos/aulas/v-coloring.html
  [4]: https://twitter.com/share
  [5]: http://feeds.feedburner.com/VidaGeek
- [6]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

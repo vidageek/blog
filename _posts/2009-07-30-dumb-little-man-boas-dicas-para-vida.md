@@ -43,6 +43,6 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [6]: http://www.dumblittleman.com/2009/07/eight-reasons-to-read-fiction.html
  [7]: https://twitter.com/share
  [8]: http://feeds.feedburner.com/VidaGeek
- [9]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

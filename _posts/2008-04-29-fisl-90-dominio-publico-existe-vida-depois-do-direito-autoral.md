@@ -54,6 +54,6 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [2]: http://pt.wikipedia.org/wiki/Dom%C3%ADnio_p%C3%BAblico
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
- [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

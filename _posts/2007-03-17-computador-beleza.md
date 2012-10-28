@@ -35,6 +35,6 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
  [1]: http://www.theage.com.au/news/national/beautiful-computer-says-yes/2007/03/17/1174080223528.html
  [2]: https://twitter.com/share
  [3]: http://feeds.feedburner.com/VidaGeek
- [4]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

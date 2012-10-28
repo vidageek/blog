@@ -47,6 +47,6 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  []: http://www.adaptworks.com.br/blog/2011/05/04/conversa-rapida-retrospectiva-e-palestras/
  [9]: https://twitter.com/share
  [10]: http://feeds.feedburner.com/VidaGeek
- [11]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

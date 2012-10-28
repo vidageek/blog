@@ -44,6 +44,6 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
  [1]: http://vidageek.net/wp-content/uploads/2009/10/logo.png "Firefox 3.5, aqui vamos nós"
  [2]: https://twitter.com/share
  [3]: http://feeds.feedburner.com/VidaGeek
- [4]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

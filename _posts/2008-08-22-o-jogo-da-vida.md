@@ -68,6 +68,6 @@ Veja como ter um desconto no [Dreamhost][19]: um excelente servidor web.
  [14]: http://flickr.com/photos/rastafabi/490403800/ "rastafabi"
  [15]: https://twitter.com/share
  [16]: http://feeds.feedburner.com/VidaGeek
- [17]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

@@ -41,6 +41,6 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
  [1]: http://pt.wikipedia.org/wiki/Intera%C3%A7%C3%A3o_homem-computador
  [2]: https://twitter.com/share
  [3]: http://feeds.feedburner.com/VidaGeek
- [4]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

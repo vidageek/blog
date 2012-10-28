@@ -63,6 +63,6 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [4]: https://github.com/jonasabreu/performance/blob/master/deploy.sh
  [5]: https://twitter.com/share
  [6]: http://feeds.feedburner.com/VidaGeek
- [7]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

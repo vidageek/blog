@@ -35,6 +35,6 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
  [1]: http://my.opera.com/angelight/blog/2007/03/11/o-que-pode-ser-comprado-com-o-dinheiro-do-windows-vista
  [2]: https://twitter.com/share
  [3]: http://feeds.feedburner.com/VidaGeek
- [4]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

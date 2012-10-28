@@ -70,6 +70,6 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  []: http://vidageek.net/wp-content/uploads/2007/04/autografoorkutb.jpg "Autógrafo"
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
- [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

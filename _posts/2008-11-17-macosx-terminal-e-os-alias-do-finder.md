@@ -51,6 +51,6 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [4]: http://74.125.113.104/search?q=cache:ew5q3CKCjs0J:theapotek.com/2006/12/01/making-the-mac-os-x-bash-shell-alias-and-symlink-agnostic/+bash+shell+alias+agnostic&hl=pt-BR&ct=clnk&cd=1&gl=br&client=firefox-a
  [5]: https://twitter.com/share
  [6]: http://feeds.feedburner.com/VidaGeek
- [7]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

@@ -36,6 +36,6 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [2]: http://lifehacker.com/software/ubuntu/learn-ubuntu-linux-with-freely-available-ebook-241847.php "Learn Ubuntu Linux with freely available e-book"
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
- [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

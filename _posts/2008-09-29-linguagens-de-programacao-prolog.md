@@ -81,6 +81,6 @@ Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
  [9]: http://www.lcad.icmc.usp.br/~nonato/ED/Coloracao/coloracao.html
  [10]: https://twitter.com/share
  [11]: http://feeds.feedburner.com/VidaGeek
- [12]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

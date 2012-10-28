@@ -37,6 +37,6 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
  [1]: http://www.usatoday.com/tech/products/software/2007-02-19-cuba-linux_x.htm?csp=34
  [2]: https://twitter.com/share
  [3]: http://feeds.feedburner.com/VidaGeek
- [4]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

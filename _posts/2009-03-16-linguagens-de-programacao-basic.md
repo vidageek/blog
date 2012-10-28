@@ -66,6 +66,6 @@ Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
  [9]: http://vidageek.net/2008/08/18/linguagens-de-programacao-c/
  [10]: https://twitter.com/share
  [11]: http://feeds.feedburner.com/VidaGeek
- [12]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

@@ -60,6 +60,6 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [8]: http://vidageek.net/2007/03/17/um-pouco-de-bash-parte-i/ "Um pouco de bash"
  [9]: https://twitter.com/share
  [10]: http://feeds.feedburner.com/VidaGeek
- [11]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

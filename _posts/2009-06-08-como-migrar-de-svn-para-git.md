@@ -78,6 +78,6 @@ WARNING!!!! Se você tem um repositório svn público e vai migrar para o [githu
  [2]: http://vidageek.net/2009/06/15/como-descobrir-todos-que-commitaram-em-um-repositorio-svn/
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
- [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

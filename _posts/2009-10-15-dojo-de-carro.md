@@ -39,6 +39,6 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [3]: http://vidageek.net/2008/04/19/fisl-90-coding-dojo/
  [4]: https://twitter.com/share
  [5]: http://feeds.feedburner.com/VidaGeek
- [6]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

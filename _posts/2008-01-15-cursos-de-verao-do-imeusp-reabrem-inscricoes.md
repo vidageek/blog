@@ -71,6 +71,6 @@ Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
  [10]: http://www.ime.usp.br/~verao/insc.html
  [11]: https://twitter.com/share
  [12]: http://feeds.feedburner.com/VidaGeek
- [13]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

@@ -123,6 +123,6 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [7]: http://en.wikipedia.org/wiki/Data_structure
  [8]: https://twitter.com/share
  [9]: http://feeds.feedburner.com/VidaGeek
- [10]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

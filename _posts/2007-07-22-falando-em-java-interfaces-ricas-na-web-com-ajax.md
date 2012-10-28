@@ -50,6 +50,6 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [8]: http://www.codyfauser.com/2005/12/05/rjs-templates-plugin-subversion-repository
  [9]: https://twitter.com/share
  [10]: http://feeds.feedburner.com/VidaGeek
- [11]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

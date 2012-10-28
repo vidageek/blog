@@ -33,6 +33,6 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [3]: http://wnews.uol.com.br/site/techguru/ver.php?origem=1&idConteudo=1756
  [4]: https://twitter.com/share
  [5]: http://feeds.feedburner.com/VidaGeek
- [6]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

@@ -67,6 +67,6 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [7]: http://lifehacker.com/software/firefox/firefox-tip-open-search-results-in-a-new-tab-255171.php
  [8]: https://twitter.com/share
  [9]: http://feeds.feedburner.com/VidaGeek
- [10]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

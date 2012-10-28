@@ -54,6 +54,6 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [2]: http://vidageek.net/2007/07/21/analisando-o-boot-do-ubuntu-com-o-bootchart/ "VidaGeek.net: Analisando o boot do Ubuntu com o Bootchart"
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
- [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

@@ -40,6 +40,6 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [2]: http://www.johnchow.com/going-once-going-twice-sold-for-100-million/ "John Chow dot Com"
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
- [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

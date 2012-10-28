@@ -80,6 +80,6 @@ Veja como ter um desconto no [Dreamhost][28]: um excelente servidor web.
  [23]: http://agilcoop.incubadora.fapesp.br/portal
  [24]: https://twitter.com/share
  [25]: http://feeds.feedburner.com/VidaGeek
- [26]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

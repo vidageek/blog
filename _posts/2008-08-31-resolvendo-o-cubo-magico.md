@@ -47,6 +47,6 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [6]: http://www.rihappy.com.br/prodvar.aspx?cp=3013359&np=lego-mindstorms-next "Rihappy"
  [7]: https://twitter.com/share
  [8]: http://feeds.feedburner.com/VidaGeek
- [9]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

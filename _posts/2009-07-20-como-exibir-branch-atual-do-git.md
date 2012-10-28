@@ -75,6 +75,6 @@ Não testei, mas deve ter o mesmo efeito. Explicando um pouco da mágica:
  [2]: http://vidageek.net/public/images/com_branch.png
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
- [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

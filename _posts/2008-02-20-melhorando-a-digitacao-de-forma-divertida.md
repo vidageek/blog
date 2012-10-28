@@ -38,6 +38,6 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [2]: http://cognitivelabs.com/word_shoot.htm
  [3]: https://twitter.com/share
  [4]: http://feeds.feedburner.com/VidaGeek
- [5]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

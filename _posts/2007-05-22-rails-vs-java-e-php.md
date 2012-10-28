@@ -54,6 +54,6 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [5]: http://simplesideias.com.br/ "Simples Ideias"
  [6]: https://twitter.com/share
  [7]: http://feeds.feedburner.com/VidaGeek
- [8]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

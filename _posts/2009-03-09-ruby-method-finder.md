@@ -61,6 +61,6 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [7]: http://img.zemanta.com/pixy.gif?x-id=3e3b3307-a63f-4b78-85d6-bc64266e9b2d
  [8]: https://twitter.com/share
  [9]: http://feeds.feedburner.com/VidaGeek
- [10]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 

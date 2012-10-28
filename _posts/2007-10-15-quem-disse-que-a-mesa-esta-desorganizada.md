@@ -55,6 +55,6 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [5]: http://en.wikipedia.org/wiki/Cache
  [6]: http://en.wikipedia.org/wiki/AVL_tree
  [7]: https://twitter.com/share
- [8]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+
 
 
