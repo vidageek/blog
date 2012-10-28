@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Inteligência Artificial
-excerpt:
+
 layout: post
 category:
   - IA

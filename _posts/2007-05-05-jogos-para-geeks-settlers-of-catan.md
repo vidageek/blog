@@ -1,7 +1,7 @@
 ---
 author: Breno Franco
 title: 'Jogos para Geeks: Settlers of Catan'
-excerpt:
+
 layout: post
 category:
   - Dicas

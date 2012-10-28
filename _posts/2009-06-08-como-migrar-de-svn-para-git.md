@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Como migrar de SVN para GIT
-excerpt:
+
 layout: post
 category:
   - Dicas

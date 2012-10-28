@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Dojo de Carro
-excerpt:
+
 layout: post
 category:
   - Diversão

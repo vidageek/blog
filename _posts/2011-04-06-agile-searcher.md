@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Agile Searcher
-excerpt:
+
 layout: post
 category:
   - Agile

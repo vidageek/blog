@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Em busca da expressividade
-excerpt:
+
 layout: post
 category:
   - Discussões

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Robô japonês engole vítimas
-excerpt:
+
 layout: post
 category:
   - News

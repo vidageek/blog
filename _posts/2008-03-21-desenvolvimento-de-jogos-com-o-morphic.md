@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Desenvolvimento de jogos com o Morphic
-excerpt:
+
 layout: post
 category:
   - Dicas

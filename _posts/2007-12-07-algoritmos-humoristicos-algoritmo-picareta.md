@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Algoritmos Humorísticos - Algoritmo Picareta'
-excerpt:
+
 layout: post
 category:
   - Humor

@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Boas práticas de JavaScript na Internet
-excerpt:
+
 layout: post
 category:
   - Blogroll

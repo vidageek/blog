@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Conversa Rápida 13/06
-excerpt:
+
 layout: post
 category:
   - Eventos

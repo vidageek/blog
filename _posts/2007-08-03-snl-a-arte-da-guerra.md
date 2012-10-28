@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - A Arte da Guerra'
-excerpt:
+
 layout: post
 category:
   - Dicas

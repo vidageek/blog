@@ -3,7 +3,7 @@ author: convidados
 title: >
   Compartilhando pastas e arquivos com
   Ubuntu
-excerpt:
+
 layout: post
 category:
   - Linux

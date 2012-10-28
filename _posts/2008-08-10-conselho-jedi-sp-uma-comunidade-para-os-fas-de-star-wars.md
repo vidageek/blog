@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Conselho Jedi SP - Uma Comunidade para os Fãs de Star Wars'
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

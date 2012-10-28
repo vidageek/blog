@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de Programação - Java'
-excerpt:
+
 layout: post
 category:
   - Discussões

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Quem ama bloqueia....
-excerpt:
+
 layout: post
 category:
   - OpenSource

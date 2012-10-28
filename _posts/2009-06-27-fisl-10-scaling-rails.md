@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'FISL 10: Scaling Rails'
-excerpt:
+
 layout: post
 category:
   - Eventos

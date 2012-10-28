@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Pequeno + Pequeno == Grande?'
-excerpt:
+
 layout: post
 category:
   - Dicas

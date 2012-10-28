@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Expressividade
-excerpt:
+
 layout: post
 category:
   - Discussões

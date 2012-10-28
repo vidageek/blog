@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Computador & Beleza'
-excerpt:
+
 layout: post
 category:
   - News

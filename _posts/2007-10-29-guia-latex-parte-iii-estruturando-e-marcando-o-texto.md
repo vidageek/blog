@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte III: Estruturando e marcando o texto'
-excerpt:
+
 layout: post
 category:
   - Dicas

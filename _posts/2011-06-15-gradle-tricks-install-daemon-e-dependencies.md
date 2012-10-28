@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Gradle Tricks - Install, Daemon e Dependencies'
-excerpt:
+
 layout: post
 category:
   - Dicas

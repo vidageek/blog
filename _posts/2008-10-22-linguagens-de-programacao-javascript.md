@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de programação - Javascript'
-excerpt:
+
 layout: post
 category:
   - Opiniao

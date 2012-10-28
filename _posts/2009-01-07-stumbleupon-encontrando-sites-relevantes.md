@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'StumbleUpon - Encontrando Sites Relevantes'
-excerpt:
+
 layout: post
 category:
   - Web 2.0

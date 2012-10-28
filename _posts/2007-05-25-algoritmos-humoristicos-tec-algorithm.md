@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Algoritmos Humorísticos - TEC Algorithm'
-excerpt:
+
 layout: post
 category:
   - Humor

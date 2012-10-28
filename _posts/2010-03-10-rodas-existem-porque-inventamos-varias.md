@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Rodas existem porque inventamos várias
-excerpt:
+
 layout: post
 category:
   - Opiniao

@@ -3,7 +3,7 @@ author: Luiz
 title: >
   Meu ambiente de desenvolvimento em 7
   ítens (Luiz)
-excerpt:
+
 layout: post
 category:
   - Dicas

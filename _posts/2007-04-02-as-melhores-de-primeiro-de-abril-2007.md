@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: As melhores de primeiro de abril 2007
-excerpt:
+
 layout: post
 category:
   - Google

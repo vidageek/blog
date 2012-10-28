@@ -3,7 +3,7 @@ author: convidados
 title: >
   Uma Impressora Open-Source de Materiais
   3D
-excerpt:
+
 layout: post
 category:
   - OpenSource

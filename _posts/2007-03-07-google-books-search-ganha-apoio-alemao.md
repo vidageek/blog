@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google Books Search ganha apoio alemão
-excerpt:
+
 layout: post
 category:
   - News

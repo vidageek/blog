@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: 'OpenSource Projects: Archimedes'
-excerpt:
+
 layout: post
 category:
   - Fisl

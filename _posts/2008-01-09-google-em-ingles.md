@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google em Inglês
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Ubuntu como Ferramenta de Recuperação
-excerpt:
+
 layout: post
 category:
   - Dicas

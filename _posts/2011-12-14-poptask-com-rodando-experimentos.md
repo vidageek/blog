@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: 'Poptask.com - Rodando Experimentos'
-excerpt:
+
 layout: post
 category:
   - Eventos

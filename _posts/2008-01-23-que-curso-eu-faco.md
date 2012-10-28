@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Que curso eu faço?
-excerpt:
+
 layout: post
 category:
   - Dicas

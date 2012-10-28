@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0: Discussão paralela com Bletsas'
-excerpt:
+
 layout: post
 category:
   - Eventos

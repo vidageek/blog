@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'MMORPGs - Lord of the Rings Online'
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

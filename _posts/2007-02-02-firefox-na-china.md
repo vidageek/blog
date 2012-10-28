@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Firefox na China
-excerpt:
+
 layout: post
 category:
   - Firefox

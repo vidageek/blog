@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Voltando as atividades
-excerpt:
+
 layout: post
 category:
   - Opiniao

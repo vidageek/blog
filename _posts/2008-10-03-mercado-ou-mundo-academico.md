@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Mercado ou mundo acadêmico?
-excerpt:
+
 layout: post
 category:
   - Opiniao

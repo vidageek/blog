@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Ubuntu planeja versão móvel
-excerpt:
+
 layout: post
 category:
   - Linux

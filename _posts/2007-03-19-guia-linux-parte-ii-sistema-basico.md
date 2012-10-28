@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte II: Sistema Básico'
-excerpt:
+
 layout: post
 category:
   - Gentoo

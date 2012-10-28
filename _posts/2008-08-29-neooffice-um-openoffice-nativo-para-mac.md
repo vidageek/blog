@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'NeoOffice: Um OpenOffice Nativo para Mac'
-excerpt:
+
 layout: post
 category:
   - Mac

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Lista de Wordpress em Português
-excerpt:
+
 layout: post
 category:
   - Dicas

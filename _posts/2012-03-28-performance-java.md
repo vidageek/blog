@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Performance Java
-excerpt:
+
 layout: post
 category:
   - Java

@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Os criadores do Skype atacam
   novamente...
-excerpt:
+
 layout: post
 category:
   - News

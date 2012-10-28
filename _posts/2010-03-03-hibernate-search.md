@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Hibernate Search
-excerpt:
+
 layout: post
 category:
   - Dicas

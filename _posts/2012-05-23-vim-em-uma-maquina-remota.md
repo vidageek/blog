@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Vim em uma máquina remota
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de Programação - Python versus Ruby'
-excerpt:
+
 layout: post
 category:
   - Discussões

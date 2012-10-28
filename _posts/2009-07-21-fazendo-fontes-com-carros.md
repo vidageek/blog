@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Fazendo fontes com carros
-excerpt:
+
 layout: post
 category:
   - Dicas

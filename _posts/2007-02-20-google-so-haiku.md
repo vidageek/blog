@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Google SO: Haiku'
-excerpt:
+
 layout: post
 category:
   - OpenSource

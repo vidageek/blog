@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: OpenBeach
-excerpt:
+
 layout: post
 category:
   - Eventos

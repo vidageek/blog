@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Economizando com Software Livre
-excerpt:
+
 layout: post
 category:
   - OpenSource

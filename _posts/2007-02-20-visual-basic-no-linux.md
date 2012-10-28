@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Visual Basic no Linux
-excerpt:
+
 layout: post
 category:
   - Linux

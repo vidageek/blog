@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: VidaGeek.net agora também é Fórum!
-excerpt:
+
 layout: post
 category:
   - C

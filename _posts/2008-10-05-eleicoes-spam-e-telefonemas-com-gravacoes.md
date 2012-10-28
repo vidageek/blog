@@ -3,7 +3,7 @@ author: Cecilia Fernandes
 title: >
   Eleições, spam e telefonemas com
   gravações
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

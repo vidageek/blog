@@ -1,7 +1,7 @@
 ---
 author: Breno Franco
 title: 'Jogos para Geeks: Mudando Regras'
-excerpt:
+
 layout: post
 category:
   - Jogos

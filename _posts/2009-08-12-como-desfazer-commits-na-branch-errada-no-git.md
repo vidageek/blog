@@ -3,7 +3,7 @@ author: convidados
 title: >
   Como desfazer commits na branch errada
   no Git
-excerpt:
+
 layout: post
 category:
   - Dicas

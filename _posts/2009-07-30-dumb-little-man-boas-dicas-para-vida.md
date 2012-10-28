@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Dumb Little Man, boas dicas para vida.
-excerpt:
+
 layout: post
 category:
   - Uncategorized

@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Desenvolvimento ágil com Scrum e XP'
-excerpt:
+
 layout: post
 category:
   - Eventos

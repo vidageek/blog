@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Mitos do Linux derrubados
-excerpt:
+
 layout: post
 category:
   - Linux

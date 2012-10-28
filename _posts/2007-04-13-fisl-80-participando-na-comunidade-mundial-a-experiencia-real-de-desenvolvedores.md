@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0 Participando na Comunidade Mundial: A experiência real de desenvolvedores'
-excerpt:
+
 layout: post
 category:
   - Eventos

@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Domínio público - existe vida depois do direito autoral?'
-excerpt:
+
 layout: post
 category:
   - Eventos

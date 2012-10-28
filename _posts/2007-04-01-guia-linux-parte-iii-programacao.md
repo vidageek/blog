@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte III: Programação'
-excerpt:
+
 layout: post
 category:
   - Gentoo

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Leopard em Março?
-excerpt:
+
 layout: post
 category:
   - Mac

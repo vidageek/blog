@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Algoritmos Genéricos'
-excerpt:
+
 layout: post
 category:
   - C

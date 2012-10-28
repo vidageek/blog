@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: MacOSX Terminal e os Alias do Finder
-excerpt:
+
 layout: post
 category:
   - Dicas

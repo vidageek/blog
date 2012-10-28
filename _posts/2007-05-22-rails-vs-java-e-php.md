@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Rails Vs Java e PHP
-excerpt:
+
 layout: post
 category:
   - Programacao

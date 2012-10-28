@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: A importância do Ubuntu
-excerpt:
+
 layout: post
 category:
   - Linux

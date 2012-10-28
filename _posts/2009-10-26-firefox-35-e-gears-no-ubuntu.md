@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Firefox 3.5 e Gears no Ubuntu
-excerpt:
+
 layout: post
 category:
   - Dicas

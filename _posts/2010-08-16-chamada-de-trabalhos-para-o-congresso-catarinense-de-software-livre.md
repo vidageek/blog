@@ -3,7 +3,7 @@ author: Cecilia Fernandes
 title: >
   Chamada de trabalhos para o Congresso
   Catarinense de Software Livre
-excerpt:
+
 layout: post
 category:
   - Eventos

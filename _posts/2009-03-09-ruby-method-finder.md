@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Ruby Method Finder
-excerpt:
+
 layout: post
 category:
   - Programacao

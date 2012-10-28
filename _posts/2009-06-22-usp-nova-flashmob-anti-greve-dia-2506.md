@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'USP - nova flashmob anti-greve dia 25/06'
-excerpt:
+
 layout: post
 category:
   - Eventos

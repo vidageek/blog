@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Peças de Xadrez
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

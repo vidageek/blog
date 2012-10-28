@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Vírus de Windows no Linux?
-excerpt:
+
 layout: post
 category:
   - Linux

@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Novos ícones do Github: mais responsividade, menos acessibilidade'
-excerpt:
+
 layout: post
 category:
   - Discussões

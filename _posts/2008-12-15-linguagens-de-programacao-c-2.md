@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de Programação - C'
-excerpt:
+
 layout: post
 category:
   - C

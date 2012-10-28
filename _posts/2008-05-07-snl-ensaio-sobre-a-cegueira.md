@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'SNL - Ensaio sobre a cegueira'
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Futuro dos Jogos
-excerpt:
+
 layout: post
 category:
   - Jogos

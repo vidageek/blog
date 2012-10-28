@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Pague o quanto quiser por 6 jogos.
-excerpt:
+
 layout: post
 category:
   - Uncategorized

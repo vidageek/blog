@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Eleições via Internet?
-excerpt:
+
 layout: post
 category:
   - News

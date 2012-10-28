@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - SEO Book'
-excerpt:
+
 layout: post
 category:
   - Dicas

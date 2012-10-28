@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Introducing Google Summer of Code'
-excerpt:
+
 layout: post
 category:
   - Eventos

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google Tech Talks
-excerpt:
+
 layout: post
 category:
   - Dicas

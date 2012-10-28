@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Camiseta do Stallman
-excerpt:
+
 layout: post
 category:
   - Humor

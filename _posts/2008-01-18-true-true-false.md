@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'TRUE & TRUE == FALSE ?'
-excerpt:
+
 layout: post
 category:
   - C

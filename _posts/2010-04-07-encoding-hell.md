@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Encoding hell
-excerpt:
+
 layout: post
 category:
   - Dicas

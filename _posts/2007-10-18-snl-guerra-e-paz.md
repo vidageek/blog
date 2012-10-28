@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - Guerra e Paz'
-excerpt:
+
 layout: post
 category:
   - Dicas

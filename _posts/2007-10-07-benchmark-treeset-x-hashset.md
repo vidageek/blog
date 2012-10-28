@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Benchmark TreeSet x HashSet
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Configuração de caminhos no LaTeX
-excerpt:
+
 layout: post
 category:
   - Latex

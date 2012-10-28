@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'YACP - Condições Booleanas'
-excerpt:
+
 layout: post
 category:
   - C

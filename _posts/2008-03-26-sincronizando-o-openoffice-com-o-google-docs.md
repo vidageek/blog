@@ -3,7 +3,7 @@ author: convidados
 title: >
   Sincronizando o OpenOffice com o Google
   Docs
-excerpt:
+
 layout: post
 category:
   - Google

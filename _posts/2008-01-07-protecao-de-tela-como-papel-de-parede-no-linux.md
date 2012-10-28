@@ -3,7 +3,7 @@ author: convidados
 title: >
   Proteção de Tela como Papel de Parede
   no Linux
-excerpt:
+
 layout: post
 category:
   - Dicas

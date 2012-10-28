@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Resolvendo o Cubo Mágico
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

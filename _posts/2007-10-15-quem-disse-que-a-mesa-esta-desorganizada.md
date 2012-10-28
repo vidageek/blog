@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Quem disse que a mesa está
   desorganizada?
-excerpt:
+
 layout: post
 category:
   - Opiniao

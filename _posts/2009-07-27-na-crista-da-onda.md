@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Na crista da onda
-excerpt:
+
 layout: post
 category:
   - Discussões

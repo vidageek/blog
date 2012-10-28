@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Turbinando o Terminal
-excerpt:
+
 layout: post
 category:
   - Gentoo

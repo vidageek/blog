@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Palestra da Mozilla no IME/USP
-excerpt:
+
 layout: post
 category:
   - Eventos

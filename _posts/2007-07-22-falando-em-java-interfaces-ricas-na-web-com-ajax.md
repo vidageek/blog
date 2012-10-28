@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Falando em Java: Interfaces ricas na Web com Ajax'
-excerpt:
+
 layout: post
 category:
   - Eventos

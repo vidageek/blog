@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Firefox começa a dominar Europa
-excerpt:
+
 layout: post
 category:
   - News

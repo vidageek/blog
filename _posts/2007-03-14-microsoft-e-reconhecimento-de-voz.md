@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Microsoft e reconhecimento de voz
-excerpt:
+
 layout: post
 category:
   - News

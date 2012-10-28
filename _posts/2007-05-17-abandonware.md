@@ -1,7 +1,7 @@
 ---
 author: Breno Franco
 title: Abandonware
-excerpt:
+
 layout: post
 category:
   - Software

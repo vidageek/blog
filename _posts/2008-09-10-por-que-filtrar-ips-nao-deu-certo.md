@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Por que filtrar ips não deu certo
-excerpt:
+
 layout: post
 category:
   - Dicas

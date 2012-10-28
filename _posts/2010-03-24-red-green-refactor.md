@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Red, Green, Refactor?
-excerpt:
+
 layout: post
 category:
   - Dicas

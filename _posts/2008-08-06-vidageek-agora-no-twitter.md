@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: VidaGeek.net Agora No Twitter
-excerpt:
+
 layout: post
 category:
   - Dicas

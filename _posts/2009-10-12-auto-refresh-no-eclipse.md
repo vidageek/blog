@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Auto refresh no eclipse
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: A nova definição de Tecnologia
-excerpt:
+
 layout: post
 category:
   - Humor

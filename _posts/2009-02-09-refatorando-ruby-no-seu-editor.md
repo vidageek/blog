@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Refatorando Ruby no seu editor
-excerpt:
+
 layout: post
 category:
   - Ruby

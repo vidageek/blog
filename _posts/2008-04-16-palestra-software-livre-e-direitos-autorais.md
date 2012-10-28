@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Palestra - Software Livre e Direitos Autorais'
-excerpt:
+
 layout: post
 category:
   - Eventos

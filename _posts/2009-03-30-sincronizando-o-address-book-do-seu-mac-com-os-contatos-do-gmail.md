@@ -3,7 +3,7 @@ author: fabs
 title: >
   Sincronizando o Address Book do seu mac
   com os Contatos do Gmail
-excerpt:
+
 layout: post
 category:
   - Mac

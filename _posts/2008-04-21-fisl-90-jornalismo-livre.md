@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Jornalismo Livre'
-excerpt:
+
 layout: post
 category:
   - Eventos

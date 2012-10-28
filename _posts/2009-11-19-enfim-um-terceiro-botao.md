@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Enfim um Terceiro Botão..
-excerpt:
+
 layout: post
 category:
   - Discussões

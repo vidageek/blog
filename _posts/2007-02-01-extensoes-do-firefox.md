@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Extensões do Firefox
-excerpt:
+
 layout: post
 category:
   - Dicas

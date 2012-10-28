@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Estratégias de depuração (debug)'
-excerpt:
+
 layout: post
 category:
   - C

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: O Final de Caverna do Dragão
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

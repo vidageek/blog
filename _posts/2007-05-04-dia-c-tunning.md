@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Tuning'
-excerpt:
+
 layout: post
 category:
   - C

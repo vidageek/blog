@@ -3,7 +3,7 @@ author: convidados
 title: >
   Pesquisa sobre ferramentas para
   desenvolvimento livre
-excerpt:
+
 layout: post
 category:
   - Agile

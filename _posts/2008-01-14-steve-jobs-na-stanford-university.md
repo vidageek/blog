@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Steve Jobs na Stanford University
-excerpt:
+
 layout: post
 category:
   - Eventos

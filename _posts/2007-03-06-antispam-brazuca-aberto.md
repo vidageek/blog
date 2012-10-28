@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Antispam brazuca aberto
-excerpt:
+
 layout: post
 category:
   - OpenSource

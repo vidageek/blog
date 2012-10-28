@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google Analytics de cara nova
-excerpt:
+
 layout: post
 category:
   - Google

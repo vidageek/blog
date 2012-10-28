@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Probabilidades no Banco Imobiliário
-excerpt:
+
 layout: post
 category:
   - Jogos

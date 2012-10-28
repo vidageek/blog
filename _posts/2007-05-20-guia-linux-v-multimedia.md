@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux V: Multimedia'
-excerpt:
+
 layout: post
 category:
   - Gentoo

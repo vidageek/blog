@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Game Developers Conference
-excerpt:
+
 layout: post
 category:
   - Eventos

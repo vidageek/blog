@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Como funciona o Wii Remote
-excerpt:
+
 layout: post
 category:
   - Diversão

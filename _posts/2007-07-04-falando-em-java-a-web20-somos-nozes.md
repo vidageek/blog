@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Falando Em Java: A Web2.0 somos nozes'
-excerpt:
+
 layout: post
 category:
   - Eventos

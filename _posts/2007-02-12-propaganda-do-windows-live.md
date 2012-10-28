@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Propaganda do Windows Live
-excerpt:
+
 layout: post
 category:
   - Opiniao

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Alguns Video Podcasts para sua diversão
-excerpt:
+
 layout: post
 category:
   - Dicas

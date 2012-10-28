@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Oito (ou dez) coisas que todo geek
   precisa pra produzir mais
-excerpt:
+
 layout: post
 category:
   - Dicas

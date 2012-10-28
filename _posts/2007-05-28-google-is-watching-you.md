@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Google is watching you
-excerpt:
+
 layout: post
 category:
   - Google

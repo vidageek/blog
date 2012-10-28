@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Construção de interfaces com o Glade
-excerpt:
+
 layout: post
 category:
   - C

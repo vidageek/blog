@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Alguns Videos da Google....
-excerpt:
+
 layout: post
 category:
   - Dicas

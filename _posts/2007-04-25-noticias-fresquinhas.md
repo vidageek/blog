@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Notícias Fresquinhas
-excerpt:
+
 layout: post
 category:
   - News

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Revistas Wiki
-excerpt:
+
 layout: post
 category:
   - Web 2.0

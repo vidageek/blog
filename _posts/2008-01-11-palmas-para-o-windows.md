@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Palmas para o Windows
-excerpt:
+
 layout: post
 category:
   - Humor

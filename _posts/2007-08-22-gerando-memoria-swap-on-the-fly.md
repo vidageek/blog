@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Gerando memória swap on-the-fly
-excerpt:
+
 layout: post
 category:
   - Gentoo

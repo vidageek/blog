@@ -3,7 +3,7 @@ author: Luiz
 title: >
   Crowdsourcing para o aprendizado
   computacional
-excerpt:
+
 layout: post
 category:
   - Google

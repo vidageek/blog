@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Promoção RedBug: resultado'
-excerpt:
+
 layout: post
 category:
   - Promoções

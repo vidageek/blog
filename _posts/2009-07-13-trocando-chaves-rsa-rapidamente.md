@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Trocando chaves rsa rapidamente
-excerpt:
+
 layout: post
 category:
   - Dicas

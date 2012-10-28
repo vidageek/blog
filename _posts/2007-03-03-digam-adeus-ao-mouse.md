@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Digam adeus ao mouse
-excerpt:
+
 layout: post
 category:
   - News

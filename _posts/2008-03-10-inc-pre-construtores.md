@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Pré construtores'
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Mirror 1.4 release
-excerpt:
+
 layout: post
 category:
   - Java

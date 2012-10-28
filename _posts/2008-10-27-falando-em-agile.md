@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Falando em Agile
-excerpt:
+
 layout: post
 category:
   - Agile

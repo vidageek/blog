@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Nova Coluna Semanal: Geek Style of Life'
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

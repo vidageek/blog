@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Algumas impressões de JavaME
-excerpt:
+
 layout: post
 category:
   - Dicas

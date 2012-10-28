@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Software útil
-excerpt:
+
 layout: post
 category:
   - Opiniao

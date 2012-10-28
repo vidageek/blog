@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - Memórias, Sonhos e Reflexões'
-excerpt:
+
 layout: post
 category:
   - Dicas

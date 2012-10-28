@@ -1,7 +1,7 @@
 ---
 author: Breno Franco
 title: Aleatórios
-excerpt:
+
 layout: post
 category:
   - Programacao

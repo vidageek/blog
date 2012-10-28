@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Usando testes para o desenvolvimento'
-excerpt:
+
 layout: post
 category:
   - C

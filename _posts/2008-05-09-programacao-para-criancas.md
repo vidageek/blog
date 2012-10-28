@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Programação para crianças
-excerpt:
+
 layout: post
 category:
   - Humor

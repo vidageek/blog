@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'JSF - SOAPConnection'
-excerpt:
+
 layout: post
 category:
   - Java

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Threads em C'
-excerpt:
+
 layout: post
 category:
   - C

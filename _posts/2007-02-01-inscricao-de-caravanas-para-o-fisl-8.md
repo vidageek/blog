@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Inscrição de Caravanas para o FISL 8
-excerpt:
+
 layout: post
 category:
   - Eventos

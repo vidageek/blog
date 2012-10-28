@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Permissões do .ssh
-excerpt:
+
 layout: post
 category:
   - Dicas

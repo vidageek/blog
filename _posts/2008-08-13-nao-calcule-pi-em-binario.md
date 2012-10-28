@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Não Calcule PI em Binário
-excerpt:
+
 layout: post
 category:
   - Humor

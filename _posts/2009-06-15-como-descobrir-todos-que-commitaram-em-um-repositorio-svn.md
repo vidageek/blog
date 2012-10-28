@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Como descobrir todos que commitaram em
   um repositório SVN
-excerpt:
+
 layout: post
 category:
   - Dicas

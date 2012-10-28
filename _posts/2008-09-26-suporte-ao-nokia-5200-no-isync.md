@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Suporte ao Nokia 5200 no iSync
-excerpt:
+
 layout: post
 category:
   - Mac

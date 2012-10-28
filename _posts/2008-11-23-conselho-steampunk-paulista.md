@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Conselho Steampunk Paulista
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

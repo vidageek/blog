@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0: Entrevista com Guilherme Silveira, um dos ganhadores da Arena'
-excerpt:
+
 layout: post
 category:
   - Eventos

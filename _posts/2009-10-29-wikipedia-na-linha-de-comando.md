@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Wikipedia na linha de comando
-excerpt:
+
 layout: post
 category:
   - Diversão

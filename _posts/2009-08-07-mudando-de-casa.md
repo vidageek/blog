@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Mudando de Casa
-excerpt:
+
 layout: post
 category:
   - Uncategorized

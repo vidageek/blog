@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: O Jogo da Vida
-excerpt:
+
 layout: post
 category:
   - Math

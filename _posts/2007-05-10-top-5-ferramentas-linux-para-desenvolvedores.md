@@ -3,7 +3,7 @@ author: convidados
 title: >
   Top 5 ferramentas Linux para
   Desenvolvedores
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -3,7 +3,7 @@ author: Cecilia Fernandes
 title: >
   Simpósio Brasileiro de Computação
   Musical
-excerpt:
+
 layout: post
 category:
   - Eventos

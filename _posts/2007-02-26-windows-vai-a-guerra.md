@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Windows vai à Guerra
-excerpt:
+
 layout: post
 category:
   - News

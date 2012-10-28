@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Remember the Milk no Gmail
-excerpt:
+
 layout: post
 category:
   - Dicas

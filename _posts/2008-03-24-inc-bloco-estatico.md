@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Bloco Estático'
-excerpt:
+
 layout: post
 category:
   - Dicas

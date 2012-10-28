@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'JSF - Container'
-excerpt:
+
 layout: post
 category:
   - Java

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: "McDonald's Video Game"
-excerpt:
+
 layout: post
 category:
   - Jogos

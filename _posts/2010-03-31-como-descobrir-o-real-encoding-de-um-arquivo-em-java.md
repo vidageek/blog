@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Como descobrir o real encoding de um
   arquivo em java
-excerpt:
+
 layout: post
 category:
   - Dicas

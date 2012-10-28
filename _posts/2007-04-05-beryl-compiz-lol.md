@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Beryl + Compiz = \o/
-excerpt:
+
 layout: post
 category:
   - News

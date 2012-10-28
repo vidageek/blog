@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 18 dicas para o Google Calendar
-excerpt:
+
 layout: post
 category:
   - Dicas

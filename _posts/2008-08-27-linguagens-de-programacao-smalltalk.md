@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de programação - Smalltalk'
-excerpt:
+
 layout: post
 category:
   - Programacao

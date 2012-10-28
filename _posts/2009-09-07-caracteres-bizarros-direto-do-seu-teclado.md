@@ -3,7 +3,7 @@ author: Luiz
 title: >
   Caracteres bizarros direto do seu
   teclado
-excerpt:
+
 layout: post
 category:
   - Dicas

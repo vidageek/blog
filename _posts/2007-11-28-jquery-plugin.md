@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: JQuery Plugin
-excerpt:
+
 layout: post
 category:
   - Dicas

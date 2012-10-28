@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Truques do Bash
-excerpt:
+
 layout: post
 category:
   - Uncategorized

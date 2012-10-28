@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Entrando nos trilhos - Introdução a Ruby on Rails'
-excerpt:
+
 layout: post
 category:
   - Eventos

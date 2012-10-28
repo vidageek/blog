@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'YACP - Aprendendo a usar suas ferramentas'
-excerpt:
+
 layout: post
 category:
   - C

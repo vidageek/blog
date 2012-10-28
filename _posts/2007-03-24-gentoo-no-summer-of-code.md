@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Gentoo no Summer of Code
-excerpt:
+
 layout: post
 category:
   - Gentoo

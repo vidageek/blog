@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Combatendo Spammers
-excerpt:
+
 layout: post
 category:
   - Dicas

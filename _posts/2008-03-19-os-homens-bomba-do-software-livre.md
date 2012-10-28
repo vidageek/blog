@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Os Homens-Bomba do Software Livre
-excerpt:
+
 layout: post
 category:
   - Opiniao

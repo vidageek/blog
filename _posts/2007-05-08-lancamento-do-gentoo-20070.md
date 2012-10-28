@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Lançamento do Gentoo 2007.0
-excerpt:
+
 layout: post
 category:
   - Gentoo

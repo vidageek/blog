@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: "JSF - Java's Signal of Failure"
-excerpt:
+
 layout: post
 category:
   - Java

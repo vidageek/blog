@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Show Us The Code, Mr. Ballmer!!!
-excerpt:
+
 layout: post
 category:
   - Linux

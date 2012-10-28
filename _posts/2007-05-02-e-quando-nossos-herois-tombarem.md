@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: E quando nossos heróis tombarem?
-excerpt:
+
 layout: post
 category:
   - Fisl

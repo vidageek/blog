@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Star Wars - Versão Steampunk'
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

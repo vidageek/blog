@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Pilha de Construtores'
-excerpt:
+
 layout: post
 category:
   - Dicas

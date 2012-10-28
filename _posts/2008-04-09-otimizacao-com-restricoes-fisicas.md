@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Otimização com Restrições Físicas
-excerpt:
+
 layout: post
 category:
   - News

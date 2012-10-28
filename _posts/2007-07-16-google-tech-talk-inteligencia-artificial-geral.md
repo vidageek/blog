@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Google Tech Talk: Inteligência Artificial Geral'
-excerpt:
+
 layout: post
 category:
   - Google

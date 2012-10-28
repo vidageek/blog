@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Tabelas assimétricas no LaTeX
-excerpt:
+
 layout: post
 category:
   - Dicas

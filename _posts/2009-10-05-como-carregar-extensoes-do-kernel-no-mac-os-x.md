@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Como carregar extensões do kernel no
   Mac OS X
-excerpt:
+
 layout: post
 category:
   - Dicas

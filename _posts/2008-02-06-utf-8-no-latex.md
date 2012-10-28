@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: UTF-8 no Latex
-excerpt:
+
 layout: post
 category:
   - Dicas

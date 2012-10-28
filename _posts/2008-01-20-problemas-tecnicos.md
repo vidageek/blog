@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Problemas Técnicos
-excerpt:
+
 layout: post
 category:
   - Software

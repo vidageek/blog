@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Jogos para Aprender
-excerpt:
+
 layout: post
 category:
   - Jogos

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Isso Não Compila!!!'
-excerpt:
+
 layout: post
 category:
   - Dicas

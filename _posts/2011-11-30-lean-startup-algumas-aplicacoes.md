@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: 'Lean Startup - Algumas aplicações'
-excerpt:
+
 layout: post
 category:
   - Agile

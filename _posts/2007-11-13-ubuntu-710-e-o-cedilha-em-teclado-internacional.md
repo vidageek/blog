@@ -3,7 +3,7 @@ author: Cecilia Fernandes
 title: >
   Ubuntu 7.10 e o cedilha em teclado
   internacional
-excerpt:
+
 layout: post
 category:
   - Dicas

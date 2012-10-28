@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Detectando Mentiras no E-mail
-excerpt:
+
 layout: post
 category:
   - News

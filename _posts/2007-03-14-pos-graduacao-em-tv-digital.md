@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Pós graduação em TV digital
-excerpt:
+
 layout: post
 category:
   - News

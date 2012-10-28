@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Um pouco de Bash - Parte I'
-excerpt:
+
 layout: post
 category:
   - Linux

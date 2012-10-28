@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Colisão de Nomes de Métodos'
-excerpt:
+
 layout: post
 category:
   - Dicas

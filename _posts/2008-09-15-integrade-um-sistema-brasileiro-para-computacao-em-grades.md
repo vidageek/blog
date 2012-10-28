@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: 'InteGrade: Um Sistema Brasileiro para Computação em Grades'
-excerpt:
+
 layout: post
 category:
   - OpenSource

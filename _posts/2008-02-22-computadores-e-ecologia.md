@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Computadores e Ecologia
-excerpt:
+
 layout: post
 category:
   - Dicas

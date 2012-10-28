@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Em busca dos 64 bits
-excerpt:
+
 layout: post
 category:
   - Dicas

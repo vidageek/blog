@@ -4,7 +4,7 @@ title: >
   Um caso de ódio e talvez um pouco de
   amor (Também conhecido como
   automatizadores de build)
-excerpt:
+
 layout: post
 category:
   - Discussões

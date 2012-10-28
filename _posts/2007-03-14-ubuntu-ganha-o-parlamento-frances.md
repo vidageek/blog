@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Ubuntu Ganha o Parlamento Francês
-excerpt:
+
 layout: post
 category:
   - Linux

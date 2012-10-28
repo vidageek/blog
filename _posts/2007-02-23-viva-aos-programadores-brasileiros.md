@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Viva aos programadores brasileiros
-excerpt:
+
 layout: post
 category:
   - Eventos

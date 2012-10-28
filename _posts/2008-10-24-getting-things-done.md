@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Getting Things Done
-excerpt:
+
 layout: post
 category:
   - Dicas

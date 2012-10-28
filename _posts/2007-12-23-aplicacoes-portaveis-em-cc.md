@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Aplicações portáveis em C/C++
-excerpt:
+
 layout: post
 category:
   - C

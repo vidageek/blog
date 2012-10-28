@@ -3,7 +3,7 @@ author: convidados
 title: >
   Melhorando a Digitação de Forma
   Divertida
-excerpt:
+
 layout: post
 category:
   - Jogos

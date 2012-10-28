@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'FISL 10: Seaside versus Rails'
-excerpt:
+
 layout: post
 category:
   - Discussões

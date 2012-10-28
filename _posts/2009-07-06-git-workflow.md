@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Git Workflow
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Unix no Mac
-excerpt:
+
 layout: post
 category:
   - Dicas

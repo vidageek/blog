@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Wicd: Um gerenciador de redes alternativo'
-excerpt:
+
 layout: post
 category:
   - Dicas

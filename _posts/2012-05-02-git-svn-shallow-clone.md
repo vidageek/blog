@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Git Svn shallow clone
-excerpt:
+
 layout: post
 category:
   - Dicas

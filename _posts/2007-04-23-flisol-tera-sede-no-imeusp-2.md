@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: FLISOL terá sede no IME/USP
-excerpt:
+
 layout: post
 category:
   - Eventos

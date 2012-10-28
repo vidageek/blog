@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'FISL 8.0 - Privacidade na Internet: um debate em aberto (Thiago Tavares Nunes de Oliveira e Demi Getschko)'
-excerpt:
+
 layout: post
 category:
   - Eventos

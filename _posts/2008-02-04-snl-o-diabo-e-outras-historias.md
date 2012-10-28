@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - O Diabo e outras histórias'
-excerpt:
+
 layout: post
 category:
   - Dicas

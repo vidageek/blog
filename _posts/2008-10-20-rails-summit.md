@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Rails Summit
-excerpt:
+
 layout: post
 category:
   - Eventos

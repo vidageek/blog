@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Ruby e Rails no Mundo Real
-excerpt:
+
 layout: post
 category:
   - Eventos

@@ -3,7 +3,7 @@ author: Cecilia Fernandes
 title: >
   Meu ambiente de desenvolvimento em 7
   ítens
-excerpt:
+
 layout: post
 category:
   - Dicas

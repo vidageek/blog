@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Cursos de verão no IME-USP
-excerpt:
+
 layout: post
 category:
   - Uncategorized

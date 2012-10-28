@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Deligio: Busca de Software'
-excerpt:
+
 layout: post
 category:
   - Software

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Atualizando o RubyGems no Mac
-excerpt:
+
 layout: post
 category:
   - Ruby

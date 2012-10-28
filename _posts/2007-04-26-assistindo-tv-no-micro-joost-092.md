@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Assistindo TV no Micro: Joost 0.9.2'
-excerpt:
+
 layout: post
 category:
   - Software

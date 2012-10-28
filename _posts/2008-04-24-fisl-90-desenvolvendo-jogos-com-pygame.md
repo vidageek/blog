@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Desenvolvendo jogos com PyGame'
-excerpt:
+
 layout: post
 category:
   - Eventos

@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Por que (não) fazer faculdade de
   computação
-excerpt:
+
 layout: post
 category:
   - Discussões

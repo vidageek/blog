@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: YACP (Yet Another C Primer)
-excerpt:
+
 layout: post
 category:
   - C

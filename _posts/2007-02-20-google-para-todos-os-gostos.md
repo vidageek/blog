@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google para todos os gostos
-excerpt:
+
 layout: post
 category:
   - Dicas

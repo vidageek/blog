@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Telecentro Para Cegos
-excerpt:
+
 layout: post
 category:
   - Linux

@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Como mudar o header host de uma
   requisição feita com Java
-excerpt:
+
 layout: post
 category:
   - Dicas

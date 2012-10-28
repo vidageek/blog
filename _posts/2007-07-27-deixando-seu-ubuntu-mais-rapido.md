@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Deixando seu Ubuntu mais rápido
-excerpt:
+
 layout: post
 category:
   - Dicas

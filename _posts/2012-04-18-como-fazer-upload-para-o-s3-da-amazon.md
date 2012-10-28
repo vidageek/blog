@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Como fazer upload para o S3 da Amazon
-excerpt:
+
 layout: post
 category:
   - Dicas

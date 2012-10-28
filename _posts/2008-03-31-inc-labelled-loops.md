@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Labelled Loops'
-excerpt:
+
 layout: post
 category:
   - Dicas

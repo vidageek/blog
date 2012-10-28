@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'I Simpósio Internacional de Televisão Digital - SIMTVD'
-excerpt:
+
 layout: post
 category:
   - Eventos

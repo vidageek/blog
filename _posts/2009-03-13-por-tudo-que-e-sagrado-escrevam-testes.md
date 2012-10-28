@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Por tudo que é sagrado, escrevam
   testes!
-excerpt:
+
 layout: post
 category:
   - Dicas

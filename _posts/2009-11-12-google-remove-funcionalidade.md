@@ -3,7 +3,7 @@ author: fabs
 title: >
   Google remove funcionalidade, usuários
   reclamam e... nada.
-excerpt:
+
 layout: post
 category:
   - Discussões

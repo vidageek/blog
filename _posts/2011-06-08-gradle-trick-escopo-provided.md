@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Gradle Trick - Escopo Provided'
-excerpt:
+
 layout: post
 category:
   - Dicas

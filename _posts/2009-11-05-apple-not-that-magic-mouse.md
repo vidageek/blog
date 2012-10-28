@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Apple "not that" magic mouse
-excerpt:
+
 layout: post
 category:
   - Discussões

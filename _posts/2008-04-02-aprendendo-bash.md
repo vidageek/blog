@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Aprendendo Bash
-excerpt:
+
 layout: post
 category:
   - Gentoo

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Para os amantes de Quentin Tarantino
-excerpt:
+
 layout: post
 category:
   - Humor

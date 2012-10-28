@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: AdSense Flood
-excerpt:
+
 layout: post
 category:
   - Google

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Open Source Week - Crawler'
-excerpt:
+
 layout: post
 category:
   - Java

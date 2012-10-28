@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Curso de Lean Startup
-excerpt:
+
 layout: post
 category:
   - Lean Startup

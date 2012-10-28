@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'MMORPGs: City of Heroes'
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

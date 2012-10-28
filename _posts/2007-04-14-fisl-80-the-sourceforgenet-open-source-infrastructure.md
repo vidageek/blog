@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0: The sourceforge.net: Open Source Infrastructure'
-excerpt:
+
 layout: post
 category:
   - Eventos

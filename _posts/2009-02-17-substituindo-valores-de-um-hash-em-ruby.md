@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Substituindo valores de um Hash em Ruby
-excerpt:
+
 layout: post
 category:
   - Dicas

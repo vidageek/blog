@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Prêmio Turing
-excerpt:
+
 layout: post
 category:
   - News

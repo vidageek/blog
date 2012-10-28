@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de programação - Prolog'
-excerpt:
+
 layout: post
 category:
   - IA

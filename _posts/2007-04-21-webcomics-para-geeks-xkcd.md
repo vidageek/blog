@@ -1,7 +1,7 @@
 ---
 author: Breno Franco
 title: 'Webcomics para Geeks: xkcd'
-excerpt:
+
 layout: post
 category:
   - Humor

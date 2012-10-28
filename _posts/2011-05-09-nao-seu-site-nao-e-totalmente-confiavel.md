@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   Não. Seu site não é totalmente
   confiável.
-excerpt:
+
 layout: post
 category:
   - Discussões

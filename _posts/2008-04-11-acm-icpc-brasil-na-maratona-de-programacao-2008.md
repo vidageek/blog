@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'ACM ICPC - Brasil na maratona de programação 2008'
-excerpt:
+
 layout: post
 category:
   - Eventos

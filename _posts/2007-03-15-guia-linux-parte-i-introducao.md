@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte I: Introdução'
-excerpt:
+
 layout: post
 category:
   - Gentoo

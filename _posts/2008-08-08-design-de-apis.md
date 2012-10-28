@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Design de APIs
-excerpt:
+
 layout: post
 category:
   - Java

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Xadrez Online
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

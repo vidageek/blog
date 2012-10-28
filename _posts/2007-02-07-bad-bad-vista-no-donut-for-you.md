@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Bad Bad Vista, no donut for you...
-excerpt:
+
 layout: post
 category:
   - Humor

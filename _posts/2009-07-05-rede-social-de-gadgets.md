@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Rede social de Gadgets
-excerpt:
+
 layout: post
 category:
   - News

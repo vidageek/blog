@@ -4,7 +4,7 @@ title: |
   >
     Onde produzir encontra viver com
     simplicidade.
-excerpt: |
+
   |
     Foi quando ganhei de um amigo um caderno de notas (um Moleskine :-) e era de desenho. Resultado, meu celular + notebook continuam sendo mais do que suficientes para me manter cuidandos dos meus afazeres, e ao invés de um complexo dispositivo para manter anotações, tenho agora um elegante caderno que tenho até mesmo usado para desenhar . O mais legal, descobri que adoro desenhar, e o tempo que gastava lendo emails no meu PDA gasto agorarabiscar fachadas de prédios e objetos quadrados.
     

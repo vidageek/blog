@@ -3,7 +3,7 @@ author: Luiz
 title: >
   Uma gem para testar aplicações que se
   comunicam com a Internet
-excerpt:
+
 layout: post
 category:
   - Dicas

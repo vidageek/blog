@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Linux em Dispositivos Móveis
-excerpt:
+
 layout: post
 category:
   - Gentoo

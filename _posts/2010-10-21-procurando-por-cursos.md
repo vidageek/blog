@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Procurando por cursos?
-excerpt:
+
 layout: post
 category:
   - Uncategorized

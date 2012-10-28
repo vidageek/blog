@@ -3,7 +3,7 @@ author: Luiz
 title: >
   10 artigos que todo programador deveria
   ler (pelo menos duas vezes)
-excerpt:
+
 layout: post
 category:
   - Blogroll

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Aprenda Comandos Básicos de Linux
-excerpt:
+
 layout: post
 category:
   - Gentoo

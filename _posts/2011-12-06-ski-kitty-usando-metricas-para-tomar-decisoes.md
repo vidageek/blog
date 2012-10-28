@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: 'Lean Startup - Usando métricas para tomar decisões (Ski kitty)'
-excerpt:
+
 layout: post
 category:
   - Jogos

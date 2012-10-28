@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Retrospectiva 2008
-excerpt:
+
 layout: post
 category:
   - Uncategorized

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte IV: Aplicativos'
-excerpt:
+
 layout: post
 category:
   - Gentoo

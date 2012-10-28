@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Brasileiros no Google Summer of Code
-excerpt:
+
 layout: post
 category:
   - Eventos

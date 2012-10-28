@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Svn externals e Git Svn
-excerpt:
+
 layout: post
 category:
   - Dicas

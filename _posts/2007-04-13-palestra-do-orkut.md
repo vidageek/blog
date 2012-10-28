@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Palestra do Orkut
-excerpt:
+
 layout: post
 category:
   - Eventos

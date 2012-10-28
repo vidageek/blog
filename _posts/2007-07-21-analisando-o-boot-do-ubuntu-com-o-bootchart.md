@@ -3,7 +3,7 @@ author: convidados
 title: >
   Analisando o boot do Ubuntu com o
   Bootchart
-excerpt:
+
 layout: post
 category:
   - Linux

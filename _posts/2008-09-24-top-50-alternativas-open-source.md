@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Top 50 Alternativas Open-Source
-excerpt:
+
 layout: post
 category:
   - OpenSource

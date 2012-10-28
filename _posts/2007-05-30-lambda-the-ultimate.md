@@ -1,7 +1,7 @@
 ---
 author: Breno Franco
 title: Lambda the Ultimate
-excerpt:
+
 layout: post
 category:
   - Blogroll

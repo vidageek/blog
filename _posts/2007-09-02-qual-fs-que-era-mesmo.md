@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Qual fs que era mesmo?
-excerpt:
+
 layout: post
 category:
   - Dicas

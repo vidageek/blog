@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Testes unitários em C++
-excerpt:
+
 layout: post
 category:
   - C

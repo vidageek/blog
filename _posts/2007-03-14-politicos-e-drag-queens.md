@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Políticos e Drag Queens
-excerpt:
+
 layout: post
 category:
   - Humor

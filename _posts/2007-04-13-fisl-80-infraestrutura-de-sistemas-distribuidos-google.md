@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'FISL 8.0 - Infraestrutura de Sistemas Distribuídos (Google)'
-excerpt:
+
 layout: post
 category:
   - Eventos

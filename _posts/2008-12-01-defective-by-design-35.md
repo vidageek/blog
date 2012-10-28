@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: 'Defective By Design - 35 dias contra DRM'
-excerpt:
+
 layout: post
 category:
   - Discussões

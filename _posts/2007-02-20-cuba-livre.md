@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Cuba Libre
-excerpt:
+
 layout: post
 category:
   - Linux

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Ponteiros de Função'
-excerpt:
+
 layout: post
 category:
   - C

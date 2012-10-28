@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Organizando um projeto
-excerpt:
+
 layout: post
 category:
   - Dicas

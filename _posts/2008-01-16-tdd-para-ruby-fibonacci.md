@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'TDD para Ruby - Fibonacci'
-excerpt:
+
 layout: post
 category:
   - Ruby

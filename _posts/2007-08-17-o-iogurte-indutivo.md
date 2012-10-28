@@ -1,7 +1,7 @@
 ---
 author: Breno Franco
 title: O Iogurte Indutivo
-excerpt:
+
 layout: post
 category:
   - Dicas

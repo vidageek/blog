@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Gerenciadores de dispositivos no Linux
-excerpt:
+
 layout: post
 category:
   - Gentoo

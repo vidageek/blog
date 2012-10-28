@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - As Brumas de Avalon'
-excerpt:
+
 layout: post
 category:
   - Dicas

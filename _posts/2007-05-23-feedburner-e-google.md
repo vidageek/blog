@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: FeedBurner e Google
-excerpt:
+
 layout: post
 category:
   - Google

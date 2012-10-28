@@ -1,7 +1,7 @@
 ---
 author: Breno Franco
 title: 'EXTRA, EXTRA, EXTRA: Grow lançará Super Trunfo: Grafos'
-excerpt:
+
 layout: post
 category:
   - Jogos

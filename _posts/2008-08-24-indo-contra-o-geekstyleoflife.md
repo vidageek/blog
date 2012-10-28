@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Indo contra o GeekStyleofLife
-excerpt:
+
 layout: post
 category:
   - GeekStyleOfLife

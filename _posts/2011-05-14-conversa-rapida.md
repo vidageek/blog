@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Conversa Rápida
-excerpt:
+
 layout: post
 category:
   - Eventos

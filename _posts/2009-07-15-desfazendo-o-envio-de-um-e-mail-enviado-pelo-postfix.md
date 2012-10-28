@@ -3,7 +3,7 @@ author: Luiz
 title: >
   Desfazendo o envio de um e-mail enviado
   pelo Postfix
-excerpt:
+
 layout: post
 category:
   - Dicas

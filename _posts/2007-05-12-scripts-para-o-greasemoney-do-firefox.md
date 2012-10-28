@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Scripts para o Greasemoney do Firefox
-excerpt:
+
 layout: post
 category:
   - Firefox

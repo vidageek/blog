@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: 'FISL 10: Agilidade e Qualidade de Projetos com Ruby on Rails'
-excerpt:
+
 layout: post
 category:
   - Agile

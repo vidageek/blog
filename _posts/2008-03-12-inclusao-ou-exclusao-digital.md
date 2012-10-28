@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Inclusão ou Exclusão Digital?
-excerpt:
+
 layout: post
 category:
   - OpenSource

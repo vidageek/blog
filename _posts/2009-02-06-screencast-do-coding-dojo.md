@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Screencast do Coding Dojo
-excerpt:
+
 layout: post
 category:
   - Eventos

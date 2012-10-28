@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Programação Dinâmica
-excerpt:
+
 layout: post
 category:
   - Dicas

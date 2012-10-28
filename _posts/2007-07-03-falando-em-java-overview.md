@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Falando em Java: Overview'
-excerpt:
+
 layout: post
 category:
   - Eventos

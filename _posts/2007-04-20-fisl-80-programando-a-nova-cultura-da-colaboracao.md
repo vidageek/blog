@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0: Programando a nova cultura da colaboração'
-excerpt:
+
 layout: post
 category:
   - Eventos

@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: O verdadeiro geek
-excerpt:
+
 layout: post
 category:
   - Discussões

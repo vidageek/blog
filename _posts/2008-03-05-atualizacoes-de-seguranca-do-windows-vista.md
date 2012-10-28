@@ -3,7 +3,7 @@ author: convidados
 title: >
   Atualizações de Segurança do Windows
   Vista
-excerpt:
+
 layout: post
 category:
   - Blogroll

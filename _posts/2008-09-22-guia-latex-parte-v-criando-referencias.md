@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte V: Criando referências'
-excerpt:
+
 layout: post
 category:
   - Dicas

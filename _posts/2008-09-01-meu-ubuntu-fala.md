@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Meu Ubuntu fala!
-excerpt:
+
 layout: post
 category:
   - Dicas

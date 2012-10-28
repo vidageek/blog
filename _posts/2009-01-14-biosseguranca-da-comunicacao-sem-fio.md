@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Biossegurança da comunicação sem fio
-excerpt:
+
 layout: post
 category:
   - Discussões

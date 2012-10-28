@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'YACP - Variáveis e Tipos Primitivos'
-excerpt:
+
 layout: post
 category:
   - C

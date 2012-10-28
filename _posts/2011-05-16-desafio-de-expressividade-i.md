@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Desafio de expressividade I
-excerpt:
+
 layout: post
 category:
   - Expressividade

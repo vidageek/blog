@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Grafos no Orkut
-excerpt:
+
 layout: post
 category:
   - Google

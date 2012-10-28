@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Pilha do C'
-excerpt:
+
 layout: post
 category:
   - C

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: O Poder do Linux
-excerpt:
+
 layout: post
 category:
   - Dicas

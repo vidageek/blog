@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Jogue com o Pensamento
-excerpt:
+
 layout: post
 category:
   - Jogos

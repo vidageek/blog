@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SouJava - Scala: Mais poder e menos burocracia na JVM.'
-excerpt:
+
 layout: post
 category:
   - Uncategorized

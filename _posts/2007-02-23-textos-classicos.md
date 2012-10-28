@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Textos Clássicos
-excerpt:
+
 layout: post
 category:
   - Dicas

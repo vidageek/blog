@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Governança em software livre
-excerpt:
+
 layout: post
 category:
   - Discussões

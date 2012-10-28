@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: E se alguém trocar a sua id do AdSense?
-excerpt:
+
 layout: post
 category:
   - Dicas

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Até o número de cliques?
-excerpt:
+
 layout: post
 category:
   - Google

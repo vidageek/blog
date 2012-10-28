@@ -3,7 +3,7 @@ author: Jonas Abreu
 title: >
   O que dá pra comprar com com o dinheiro
   do Vista???
-excerpt:
+
 layout: post
 category:
   - Dicas

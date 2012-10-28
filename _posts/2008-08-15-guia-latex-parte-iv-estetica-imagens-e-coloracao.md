@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte IV: Estética (imagens e coloração)'
-excerpt:
+
 layout: post
 category:
   - Dicas

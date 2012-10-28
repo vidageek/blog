@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Infinitest
-excerpt:
+
 layout: post
 category:
   - Dicas

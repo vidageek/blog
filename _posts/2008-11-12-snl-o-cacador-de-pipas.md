@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: 'SNL - O Caçador de Pipas'
-excerpt:
+
 layout: post
 category:
   - Livros

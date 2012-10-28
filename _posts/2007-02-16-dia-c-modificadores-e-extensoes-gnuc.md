@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Modificadores e extensões GNUC'
-excerpt:
+
 layout: post
 category:
   - C

@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Linguagens de Programação - Basic'
-excerpt:
+
 layout: post
 category:
   - Discussões

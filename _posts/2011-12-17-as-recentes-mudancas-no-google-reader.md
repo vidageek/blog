@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: As recentes mudanças no Google Reader
-excerpt:
+
 layout: post
 category:
   - Google

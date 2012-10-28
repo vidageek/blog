@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Chamada de Trabalhos VI SoLiSC
-excerpt:
+
 layout: post
 category:
   - Eventos

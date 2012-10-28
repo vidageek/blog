@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Jogos Educativos
-excerpt:
+
 layout: post
 category:
   - Jogos

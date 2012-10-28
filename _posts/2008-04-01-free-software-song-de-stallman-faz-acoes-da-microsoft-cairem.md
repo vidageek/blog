@@ -3,7 +3,7 @@ author: Breno Franco
 title: >
   "Free Software Song" de Stallman faz
   ações da Microsoft caírem
-excerpt:
+
 layout: post
 category:
   - Humor

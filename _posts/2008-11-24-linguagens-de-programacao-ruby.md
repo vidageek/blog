@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Linguagens de programação - Ruby'
-excerpt:
+
 layout: post
 category:
   - Opiniao

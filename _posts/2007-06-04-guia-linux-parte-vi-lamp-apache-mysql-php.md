@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte VI: LAMP (Apache + MySQL + PHP)'
-excerpt:
+
 layout: post
 category:
   - Gentoo

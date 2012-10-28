@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'YACP - Definindo seus próprios tipos'
-excerpt:
+
 layout: post
 category:
   - C

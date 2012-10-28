@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Um dia na vida de um programador azarado
-excerpt:
+
 layout: post
 category:
   - Humor

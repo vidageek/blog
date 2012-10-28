@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Groupware
-excerpt:
+
 layout: post
 category:
   - Uncategorized

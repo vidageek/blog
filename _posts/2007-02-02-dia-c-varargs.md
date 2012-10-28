@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - VarArgs'
-excerpt:
+
 layout: post
 category:
   - C

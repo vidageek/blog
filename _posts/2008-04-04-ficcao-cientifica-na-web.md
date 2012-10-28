@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Ficção Ciêntifica na Web
-excerpt:
+
 layout: post
 category: [ ]
 tags:

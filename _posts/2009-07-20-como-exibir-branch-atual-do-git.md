@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Como exibir branch atual do git
-excerpt:
+
 layout: post
 category:
   - Dicas

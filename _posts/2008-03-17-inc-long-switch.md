@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Long Switch?'
-excerpt:
+
 layout: post
 category:
   - Dicas

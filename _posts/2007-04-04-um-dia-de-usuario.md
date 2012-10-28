@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Um dia de usuário
-excerpt:
+
 layout: post
 category:
   - Humor

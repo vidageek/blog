@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Dell se junta a Novell/Microsoft
-excerpt:
+
 layout: post
 category:
   - Linux

@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: Mirror DSL
-excerpt:
+
 layout: post
 category:
   - Java

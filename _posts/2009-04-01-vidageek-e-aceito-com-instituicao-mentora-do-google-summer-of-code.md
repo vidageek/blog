@@ -3,7 +3,7 @@ author: fabs
 title: >
   Vidageek é aceito com instituição
   mentora do Google Summer of Code
-excerpt:
+
 layout: post
 category:
   - C

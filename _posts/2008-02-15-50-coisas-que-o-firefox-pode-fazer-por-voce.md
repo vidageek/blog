@@ -3,7 +3,7 @@ author: convidados
 title: >
   50 Coisas Que o Firefox Pode Fazer Por
   Você
-excerpt:
+
 layout: post
 category:
   - Firefox

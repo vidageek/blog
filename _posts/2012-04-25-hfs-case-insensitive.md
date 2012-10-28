@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: HFS+ case insensitive?
-excerpt:
+
 layout: post
 category:
   - Dicas

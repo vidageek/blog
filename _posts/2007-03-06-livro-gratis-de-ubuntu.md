@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Livro grátis de Ubuntu
-excerpt:
+
 layout: post
 category:
   - Linux

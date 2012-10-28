@@ -3,7 +3,7 @@ author: Luiz
 title: >
   Fone de ouvido não funcionando no
   Fedora
-excerpt:
+
 layout: post
 category:
   - Dicas

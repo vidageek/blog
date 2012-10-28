@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 10: Primeiro dia, organização e dojo'
-excerpt:
+
 layout: post
 category:
   - Dicas

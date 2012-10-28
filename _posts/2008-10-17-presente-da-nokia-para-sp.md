@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Presente da Nokia para SP
-excerpt:
+
 layout: post
 category:
   - Dicas

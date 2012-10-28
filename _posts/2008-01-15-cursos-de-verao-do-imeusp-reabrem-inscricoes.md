@@ -3,7 +3,7 @@ author: Cecilia Fernandes
 title: >
   Cursos de verão do IME/USP reabrem
   inscrições
-excerpt:
+
 layout: post
 category:
   - C

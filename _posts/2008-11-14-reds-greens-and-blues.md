@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Reds, Greens and Blues
-excerpt:
+
 layout: post
 category:
   - Discussões

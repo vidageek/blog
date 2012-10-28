@@ -1,7 +1,7 @@
 ---
 author: convidados
 title: Ambiente aberto de Xadrez Online
-excerpt:
+
 layout: post
 category:
   - Jogos

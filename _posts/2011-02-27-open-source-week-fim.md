@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Open Source Week - Fim'
-excerpt:
+
 layout: post
 category:
   - OpenSource

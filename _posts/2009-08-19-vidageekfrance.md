@@ -1,7 +1,7 @@
 ---
 author: fabs
 title: Vidageek@France
-excerpt:
+
 layout: post
 category:
   - Diversão

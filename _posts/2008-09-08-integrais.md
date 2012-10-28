@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Integrais
-excerpt:
+
 layout: post
 category:
   - Dicas

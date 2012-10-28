@@ -1,7 +1,7 @@
 ---
 author: Luiz
 title: Linux para jogos
-excerpt:
+
 layout: post
 category:
   - Dicas

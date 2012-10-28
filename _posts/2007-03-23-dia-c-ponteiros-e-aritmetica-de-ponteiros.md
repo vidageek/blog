@@ -1,7 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Ponteiros e Aritmética de Ponteiros.'
-excerpt:
+
 layout: post
 category:
   - C

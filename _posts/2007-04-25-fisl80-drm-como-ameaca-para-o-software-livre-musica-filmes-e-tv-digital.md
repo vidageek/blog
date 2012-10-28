@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL8.0: DRM como ameaça para o software livre: música, filmes e TV digital'
-excerpt:
+
 layout: post
 category:
   - Eventos

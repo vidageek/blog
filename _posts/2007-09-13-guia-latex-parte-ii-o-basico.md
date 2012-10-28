@@ -1,7 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte II: O Básico'
-excerpt:
+
 layout: post
 category:
   - Dicas
