@@ -1,5 +1,5 @@
 ---
-title: Contato
+title: Autores
 excerpt:
 layout: page
 ---
