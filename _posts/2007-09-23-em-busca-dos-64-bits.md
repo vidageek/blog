@@ -41,7 +41,7 @@ Triste fim para uma tarde. Mas faz parte do processo de mudança. Até processad
 
 
 
-**Acompanhe-nos por [ RSS][2], por [Email][3] ou via [Twitter][4].**  
+
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
 

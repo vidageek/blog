@@ -39,7 +39,7 @@ Acabei de reler [os termos de serviço][1] e vi que existe menção apenas a rob
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: https://www.google.com/adsense/static/pt_BR/LocalizedTerms.html?hl=pt_BR

@@ -31,7 +31,7 @@ Mais informações: **[Uol][2]**.
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://books.google.com

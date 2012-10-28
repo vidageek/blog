@@ -30,7 +30,7 @@ Vale a pena dar uma olhada nesta ótima ferramenta, mas cuidado para não perder
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2009/01/stumbleupon-logo.jpg

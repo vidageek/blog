@@ -33,7 +33,7 @@ Mas a pior coisa é eu perdi 2 botões. Eu já esperava não encontrar o quarto 
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Apple_Mighty_Mouse

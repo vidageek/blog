@@ -38,7 +38,7 @@ Veja a [lista completa de resultados][3] e as [fotos e vídeos][4] do evento.
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://icpc.baylor.edu/icpc/v2/

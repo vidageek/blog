@@ -67,7 +67,7 @@ Resumindo, Prolog é uma linguagem interessante de se aprender; estimula um tipo
 
 
 
-**Acompanhe-nos por [ RSS][11], por [Email][12] ou via [Twitter][13].**  
+
 Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/mapas-300x266.jpg "Coloração de mapas"

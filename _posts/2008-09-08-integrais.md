@@ -38,7 +38,7 @@ Enfim, esta é uma ferramenta essencial para aqueles que estão cursando cálcul
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/integral_area-300x262.png "Integral? Socorro!"

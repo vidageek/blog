@@ -31,7 +31,7 @@ A nova versão do OpenOffice para Mac não precisará do X11 e, portanto, o futu
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/neo-office-logo.jpg

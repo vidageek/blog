@@ -32,7 +32,7 @@ Acho que essas são as novidades. Mencionei que com a redução do rítmo do pro
 
 
 
-**Acompanhe-nos por [ RSS][13], por [Email][14] ou via [Twitter][15].**  
+
 Veja como ter um desconto no [Dreamhost][16]: um excelente servidor web.
 
  [1]: http://www.procurandocursos.com

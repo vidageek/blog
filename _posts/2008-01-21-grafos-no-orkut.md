@@ -39,7 +39,7 @@ O que é mais possível, então? Uma boa Heurística. Hoje mesmo eu notei que t�
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://www.orkut.com/Community.aspx?cmm=44400470

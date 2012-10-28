@@ -35,7 +35,7 @@ Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro
 
 
 
-**Acompanhe-nos por [ RSS][11], por [Email][12] ou via [Twitter][13].**  
+
 Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/integrade.png

@@ -37,7 +37,7 @@ Aos outros escritores desse blog, o que acham de usarmos essa fonte para o nome 
 
 
 
-**Acompanhe-nos por [ RSS][7], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://nl.toyota.be/iqfont

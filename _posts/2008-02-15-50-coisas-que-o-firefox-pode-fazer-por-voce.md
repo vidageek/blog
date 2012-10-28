@@ -88,7 +88,7 @@ Apesar de conhecer várias extensões, encontrei recentemente esta lista na inte
 
 
 
-**Acompanhe-nos por [ RSS][54], por [Email][55] ou via [Twitter][56].**  
+
 Veja como ter um desconto no [Dreamhost][57]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/firefox1.jpg

@@ -37,7 +37,7 @@ Se você ficou curioso em conhecer mais sobre o Morphic, recomendo a leitura do 
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://pt.wikipedia.org/wiki/Smalltalk

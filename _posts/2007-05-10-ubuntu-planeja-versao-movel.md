@@ -36,7 +36,7 @@ O lançamento da versão móvel de Ubuntu está previsto para outubro deste ano.
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://pcworld.uol.com.br/noticias/2007/05/08/idgnoticia.2007-05-08.2072179675

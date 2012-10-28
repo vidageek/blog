@@ -36,7 +36,7 @@ Uma cobertura mais detalhada pode ser encontrada no [Ruby Inside Brasil][4] (ape
 
 
 
-**Acompanhe-nos por [ RSS][7], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2009/04/rer-2009.png

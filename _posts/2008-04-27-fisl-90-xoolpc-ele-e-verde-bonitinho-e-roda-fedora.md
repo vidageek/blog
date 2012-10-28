@@ -47,7 +47,7 @@ Antes de investir num projeto desse nível e custo, deveríamos mudar a proposta
 
 
 
-**Acompanhe-nos por [ RSS][2], por [Email][3] ou via [Twitter][4].**  
+
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
 

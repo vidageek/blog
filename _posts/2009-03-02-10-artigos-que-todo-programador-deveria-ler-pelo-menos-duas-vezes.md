@@ -44,7 +44,7 @@ Essa é a lista original publicada no post, com os comentários sobre os artigos
 
 
 
-**Acompanhe-nos por [ RSS][14], por [Email][15] ou via [Twitter][16].**  
+
 Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
 
  [1]: http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice

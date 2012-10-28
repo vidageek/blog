@@ -37,7 +37,7 @@ De qualquer forma, sendo possível ou não o desenvolvimento de uma inteligênci
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.kurzweilai.net/meme/frame.html?main=/articles/art0701.html? "   	Artificial General Intelligence: Now Is the Time "

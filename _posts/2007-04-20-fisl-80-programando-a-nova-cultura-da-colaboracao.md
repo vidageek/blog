@@ -44,7 +44,7 @@ Boa leitura.
 
 
 
-**Acompanhe-nos por [ RSS][14], por [Email][15] ou via [Twitter][16].**  
+
 Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
 
  [1]: http://pt.wikipedia.org/wiki/Donald_Rumsfeld

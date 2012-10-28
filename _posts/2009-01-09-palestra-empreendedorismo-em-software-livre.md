@@ -89,7 +89,7 @@ Novamente, excelente palestra. Será disponibilizada em breve no site do [Centro
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://www.cmu.edu/silicon-valley/faculty-staff/wasserman-tony.html

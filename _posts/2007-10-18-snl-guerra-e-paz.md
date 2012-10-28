@@ -48,7 +48,7 @@ Mesmo que você não goste de ler, ou ache que vai morrer antes de terminar, rec
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/War_and_Peace

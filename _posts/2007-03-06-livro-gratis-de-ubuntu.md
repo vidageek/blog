@@ -29,7 +29,7 @@ Hoje o Life Hacker publicou um post sobre o Ubuntu Linux Bible, um livro (obviam
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://ebookspyder.net/index.php/2007/03/03/ubuntu-linux-bible.html "Ubuntu Linux Bible"

@@ -32,7 +32,7 @@ Alguns outros jogos que merecem menção, embora não mudem as regras em si, mas
 
 
 
-**Acompanhe-nos por [ RSS][8], por [Email][9] ou via [Twitter][10].**  
+
 Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/fluxx-150x150.jpg "Fluxx"

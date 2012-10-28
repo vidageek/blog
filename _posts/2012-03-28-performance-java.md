@@ -31,7 +31,7 @@ P.s.: O mais legal é que o site foi feito com [Jekyll][2] e está hospedado no 
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://www.javaperformance.com.br/

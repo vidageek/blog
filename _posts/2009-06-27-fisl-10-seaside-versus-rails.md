@@ -44,7 +44,7 @@ Bom, é isso. Eu espero que as pessoas que compareceram a palestra tenham gostad
 
 
 
-**Acompanhe-nos por [ RSS][7], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://fabiokung.com

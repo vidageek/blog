@@ -30,7 +30,7 @@ E você, o que acha? Essas pessoas, que se dizem eletrossensíveis, sofrem por c
 
 
 
-**Acompanhe-nos por [ RSS][7], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://www.ime.usp.br/~gold

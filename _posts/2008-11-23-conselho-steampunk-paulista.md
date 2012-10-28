@@ -38,7 +38,7 @@ Cândido Ruiz, membro fundador do Conselho Steampunk, redator do Steampunksp.tk 
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/11/conselho-steampunk.jpg

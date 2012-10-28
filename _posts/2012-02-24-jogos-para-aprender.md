@@ -27,7 +27,7 @@ Todo feedback é bem-vindo e fundamental para nós. E se gostou bastante da idé
 
 
 
-**Acompanhe-nos por [ RSS][8], por [Email][9] ou via [Twitter][10].**  
+
 Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Proof_of_concept

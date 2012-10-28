@@ -40,7 +40,7 @@ Tem algo a acrescentar? Concorda/discorda com o que foi dito? Sua colaboração 
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/logoc.thumbnail.jpg

@@ -30,7 +30,7 @@ Depois de rodá-lo (passando a extensão de wifi como parâmetro), ele também c
 
 
 
-**Acompanhe-nos por [ RSS][2], por [Email][3] ou via [Twitter][4].**  
+
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
 

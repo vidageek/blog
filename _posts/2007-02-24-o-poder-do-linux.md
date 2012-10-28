@@ -36,7 +36,7 @@ Vale a pena dar uma olhada.
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.youtube.com/watch?v=_F37WEBBG7s&eurl=http%3A%2F%2Fbr%2Dlinux%2Eorg%2Flinux%2Fvideo%2Dbrasileiro%2Dmostra%2Do%2Ddesktop%2Dlinux

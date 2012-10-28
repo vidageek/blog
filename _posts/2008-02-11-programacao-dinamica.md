@@ -34,7 +34,7 @@ Veja mais exemplos [aqui][2]. Note que, em todos, a idéia é tentar dar um pass
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_din%C3%A2mica

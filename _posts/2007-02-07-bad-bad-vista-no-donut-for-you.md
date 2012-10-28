@@ -41,7 +41,7 @@ Um pouco de humor:
 
 
 
-**Acompanhe-nos por [ RSS][12], por [Email][13] ou via [Twitter][14].**  
+
 Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2007/02/badvista_no_littering.thumbnail.png

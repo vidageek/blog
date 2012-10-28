@@ -79,7 +79,7 @@ Pronto! Você já tem um servidor LAMP rodando na sua máquina. A configuração
 
 
 
-**Acompanhe-nos por [ RSS][9], por [Email][10] ou via [Twitter][11].**  
+
 Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
 
  [1]: http://www.apache.org/ "Apache: Site Oficial"

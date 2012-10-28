@@ -44,7 +44,7 @@ Na minha opinião, a participação da Google nesse FISL deixou um pouco a desej
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.youtube.com/watch?v=jPWHX1ptufM

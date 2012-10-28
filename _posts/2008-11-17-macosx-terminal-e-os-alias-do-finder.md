@@ -42,7 +42,7 @@ Nota, no momento do Post eu não estava conseguindo acessar o theapotek, a [pág
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://farm1.static.flickr.com/116/289043666_3d6ea9f8a6_m.jpg

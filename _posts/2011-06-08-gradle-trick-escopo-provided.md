@@ -52,7 +52,7 @@ O código para o escopo provided ficou mais ou menos assim (eventualmente talvez
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://gradle.org

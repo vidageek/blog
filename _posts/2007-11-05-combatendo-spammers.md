@@ -32,7 +32,7 @@ Quando eu comecei a bloquear não esperava resultados tão rápido. A partir des
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://akismet.com/

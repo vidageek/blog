@@ -35,7 +35,7 @@ No futuro, o objetivo é aumentar esse 60% para que ela realmente se duplique. N
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/reprap.jpg

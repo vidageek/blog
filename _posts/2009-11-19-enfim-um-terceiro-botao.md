@@ -40,7 +40,7 @@ Isso vai fazer com que o script seja reiniciado no minuto 10 de cada hora (a cad
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/2009/11/05/apple-not-that-magic-mouse/

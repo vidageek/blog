@@ -27,7 +27,7 @@ Mais informações: **[Folha Online][1]**.
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www1.folha.uol.com.br/folha/informatica/ult124u21666.shtml

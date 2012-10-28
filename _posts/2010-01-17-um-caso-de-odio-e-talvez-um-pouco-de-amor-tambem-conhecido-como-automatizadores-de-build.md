@@ -66,7 +66,7 @@ Enfim, o que preciso nesse momento é de pessoas que estejam afim de contribuir 
 
 
 
-**Acompanhe-nos por [ RSS][9], por [Email][10] ou via [Twitter][11].**  
+
 Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Continuous_integration

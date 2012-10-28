@@ -42,7 +42,7 @@ Além disso, se você usa algum sistema Unix, pode passar horas a fio lendo o fo
 
 
 
-**Acompanhe-nos por [ RSS][9], por [Email][10] ou via [Twitter][11].**  
+
 Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
 
  [1]: http://www.lysator.liu.se/c/ten-commandments.html

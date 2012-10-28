@@ -52,7 +52,7 @@ Imagem retirada do site <http://esafonsosanches.nonio.uminho.pt/course/view.php?
 
 
 
-**Acompanhe-nos por [ RSS][11], por [Email][12] ou via [Twitter][13].**  
+
 Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
 
  [1]: http://cppjavababoseira.blogspot.com/

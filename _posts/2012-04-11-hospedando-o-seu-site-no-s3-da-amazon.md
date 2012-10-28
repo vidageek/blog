@@ -36,7 +36,7 @@ E pronto. Basta fazer o upload dos arquivos.
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: https://console.aws.amazon.com/s3/home

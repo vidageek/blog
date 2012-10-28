@@ -43,7 +43,7 @@ Pois é… acho que não tem nada que um pouco de criatividade não resolva. Alg
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Extreme_Programming

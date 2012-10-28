@@ -25,7 +25,7 @@ Mais informações: **[Uol ][3]**
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://www.emotiv.com

@@ -64,7 +64,7 @@ Todo feedback é bem vindo!
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Java_%28programming_language%29 "Java (programming language)"

@@ -28,7 +28,7 @@ Muito legal.
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  []: http://vidageek.net/wp-content/uploads/2011/12/Screen-Shot-2011-12-13-at-19.38.29-.png

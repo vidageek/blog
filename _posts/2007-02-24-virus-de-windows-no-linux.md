@@ -25,7 +25,7 @@ A boa notícia é que para esses vírus causarem danos grandes ao sistema, o Win
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://dosesdiarias.seucaminho.com/index.php/2007/02/23/virus-de-windows-no-linux/

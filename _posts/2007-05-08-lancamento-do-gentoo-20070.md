@@ -66,7 +66,7 @@ Você pode escolher sua ISO e baixá-la no [gentoo.org][1] ou em [torrents][2].
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.gentoo.org/main/en/where.xml

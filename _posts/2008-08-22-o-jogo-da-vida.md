@@ -49,7 +49,7 @@ Foto por [rastafabi][14]
 
 
 
-**Acompanhe-nos por [ RSS][16], por [Email][17] ou via [Twitter][18].**  
+
 Veja como ter um desconto no [Dreamhost][19]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/life.jpg

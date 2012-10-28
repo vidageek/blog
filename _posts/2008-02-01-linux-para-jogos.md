@@ -28,7 +28,7 @@ O mercado de jogos está mudando, também. Recentemente, a Electronic Arts lanç
 
 
 
-**Acompanhe-nos por [ RSS][8], por [Email][9] ou via [Twitter][10].**  
+
 Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
 
  [1]: http://fretsonfire.sourceforge.net/

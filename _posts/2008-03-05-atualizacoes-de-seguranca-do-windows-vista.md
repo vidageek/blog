@@ -36,7 +36,7 @@ Recentemente encontrei esta tirinha na internet e gostei tanto que acabei assina
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://myextralife.com

@@ -47,7 +47,7 @@ Como o Ubuntu foi criado para um sistema genérico ele não utiliza os outros (p
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://kerneltrap.org/node/3000 "Kernel Trap - Linux: Tuning Swappiness"

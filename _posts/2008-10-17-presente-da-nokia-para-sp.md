@@ -34,7 +34,7 @@ Enfim, uma proposta muito legal da Nokia. Para escolher qual deles você prefere
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://www.nokiastoresp.com.br/

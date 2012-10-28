@@ -31,7 +31,7 @@ Para quem quer saber mais, existe uma [comunidade no Orkut][4] sobre esse servi√
 
 
 
-**Acompanhe-nos por [ RSS][7], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://farm4.static.flickr.com/3172/3040488009_813dd454ea.jpg "Loja Nokia"

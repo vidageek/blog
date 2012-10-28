@@ -47,7 +47,7 @@ Fora o consumo de energia, todos nós podemos tomar medidas para diminuir nossa 
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/energia.thumbnail.jpg

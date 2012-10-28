@@ -31,7 +31,7 @@ Enfim, parabéns César! Mas vê se contrata uma assessoria de imprensa com um p
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://vidageek.net/2008/08/18/linguagens-de-programacao-c/

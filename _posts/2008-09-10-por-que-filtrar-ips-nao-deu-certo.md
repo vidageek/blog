@@ -38,7 +38,7 @@ Um dia a gente vence essa briga.
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/public_html/no-spam.jpg

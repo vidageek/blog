@@ -43,7 +43,7 @@ Este post foi motivado pelo [Top 5 – Group  Writing Project][1] do [Problogge
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.problogger.net/archives/2007/05/07/top-5-group-writing-project/ "Top 5 Group Writing Project"

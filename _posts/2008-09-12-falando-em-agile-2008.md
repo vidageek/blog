@@ -31,7 +31,7 @@ Vale dizer também que a Caelum não costuma decepcionar nem nas palestras, nem 
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://www.caelum.com.br/falando-em-agile/images/falando-agile-site_06.gif "falando-em-agile-2008"

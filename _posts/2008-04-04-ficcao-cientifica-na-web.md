@@ -34,7 +34,7 @@ Por estas e muitas outras informações, vale a pena dar uma olhada no [io9][2].
 
 
 
-**Acompanhe-nos por [ RSS][9], por [Email][10] ou via [Twitter][11].**  
+
 Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/alien.jpg

@@ -39,7 +39,7 @@ Paro por aqui pois ainda tem muita sujeira por vir.
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/2007/08/03/snl-a-arte-da-guerra/

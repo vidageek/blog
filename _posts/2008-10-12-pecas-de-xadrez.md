@@ -37,7 +37,7 @@ Recentemente publicamos aqui no [GeekStyleOfLife][5] um [*post* sobre o Chess.co
 
 
 
-**Acompanhe-nos por [ RSS][8], por [Email][9] ou via [Twitter][10].**  
+
 Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
 
  [1]: http://artifaqt.com/prdct/prdct_ches_top.html "Artifaqt"

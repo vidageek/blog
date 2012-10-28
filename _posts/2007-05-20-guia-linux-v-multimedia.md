@@ -69,7 +69,7 @@ Bom, acredito que isto cubra praticamente tudo sobre Multimedia no Gentoo. Caso 
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Mplayer "Mplayer na Wikipedia"

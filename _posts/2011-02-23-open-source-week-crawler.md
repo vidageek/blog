@@ -32,7 +32,7 @@ Ah, para os que usam gerenciadores de dependência, como o Maven e Gradle, os ar
 
 
 
-**Acompanhe-nos por [ RSS][7], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Web_crawler

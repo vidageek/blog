@@ -35,7 +35,7 @@ As pessoas acham que só porque o código é aberto ele é inseguro e incompleto
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www1.folha.uol.com.br/folha/informatica/ult124u21711.shtml "Banco do Brasil economiza R$ 20 mi com software livre"

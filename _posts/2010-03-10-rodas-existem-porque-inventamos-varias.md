@@ -31,7 +31,7 @@ Mas é bom lembrar que você não vai poder fazer isso sempre (afinal, não se v
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://projetos.vidageek.net/mirror-pt/mirror

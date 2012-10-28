@@ -43,7 +43,7 @@ Concluindo, a ideia aqui era mostrar rapidamente que nem tudo que se pensa a res
 
 
 
-**Acompanhe-nos por [ RSS][9], por [Email][10] ou via [Twitter][11].**  
+
 Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
 
  [1]: http://www.qconsp.com

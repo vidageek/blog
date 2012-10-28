@@ -42,7 +42,7 @@ Veja a Wikipédia, também! Lá tem artigos para cada uma dessas áreas, com uma
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/01/duvidas.jpg

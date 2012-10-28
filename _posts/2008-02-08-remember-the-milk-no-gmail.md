@@ -36,7 +36,7 @@ Recomendo muito [esse addon][3]. Mesmo que você use algum outro tipo de agenda,
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://calendar.google.com

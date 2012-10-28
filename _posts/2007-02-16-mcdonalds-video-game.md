@@ -39,7 +39,7 @@ Em suma este é um jogo muito viciante, sarcástico e bem feito. Com certeza dá
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.mcvideogame.com/index-eng.html "MacDonald's video Game"

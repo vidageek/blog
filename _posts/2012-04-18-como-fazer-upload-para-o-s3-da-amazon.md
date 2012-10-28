@@ -54,7 +54,7 @@ Como eu não conheço nenhuma ferramenta que me dê o content-type de acordo com
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://www.javaperformance.com.br

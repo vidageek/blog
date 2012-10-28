@@ -31,7 +31,7 @@ Qualquer dúvida, pode também ser enviada para fabricio+lean [at] tailorbirds.c
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.ime.usp.br/verao/index.php?secao=difusao&anoID=1#B.22

@@ -30,7 +30,7 @@ Esse site pode com certeza ser útil, pelo menos nos casos em que você não tem
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  []: http://www.deligio.com/ "Deligio"

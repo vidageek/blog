@@ -38,7 +38,7 @@ Este são poucos dos muitos scripts para Greasemonkey que existem na net. Caso c
 
 
 
-**Acompanhe-nos por [ RSS][8], por [Email][9] ou via [Twitter][10].**  
+
 Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
 
  [1]: http://vidageek.net/2007/02/01/extensoes-do-firefox/

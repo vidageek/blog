@@ -50,7 +50,7 @@ Essas são as extensões que utilizo atualmente. Conforme eu adicionar novas ext
 
 
 
-**Acompanhe-nos por [ RSS][19], por [Email][20] ou via [Twitter][21].**  
+
 Veja como ter um desconto no [Dreamhost][22]: um excelente servidor web.
 
  [1]: http://br.mozdev.org/firefox/

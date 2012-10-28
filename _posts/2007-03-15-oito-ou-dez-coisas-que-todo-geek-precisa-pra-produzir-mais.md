@@ -27,7 +27,7 @@ Uma versão adaptada em português pode ser encontrada aqui.
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://nomadishere.com/2007/03/12/a-note-to-employers-8-things-intelligent-people-geeks-and-nerds-need-to-work-happy/

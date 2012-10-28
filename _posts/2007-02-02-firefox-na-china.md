@@ -32,7 +32,7 @@ Bom, pela minha própria experiência com a cultura chinesa é bem capaz de empl
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www1.folha.uol.com.br/folha/informatica/ult124u21541.shtml "Rival da Microsoft, Mozilla quer "

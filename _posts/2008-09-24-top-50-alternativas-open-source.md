@@ -31,7 +31,7 @@ Foto por [Photo Gallery][5].
 
 
 
-**Acompanhe-nos por [ RSS][7], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/two-ways.jpg

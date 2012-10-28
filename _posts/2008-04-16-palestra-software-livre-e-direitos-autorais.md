@@ -55,7 +55,7 @@ Foto original da [página][8] pessoal de Rishab Aiyer Ghosh na UNU-MERIT.
 
 
 
-**Acompanhe-nos por [ RSS][10], por [Email][11] ou via [Twitter][12].**  
+
 Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/04/ghosh.jpg

@@ -44,7 +44,7 @@ Feito isso, você vai ter que recarregar o módulo do ALSA ou, o que é muito ma
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/2011/01/08/meu-ambiente-de-desenvolvimento-em-7-itens-luiz/

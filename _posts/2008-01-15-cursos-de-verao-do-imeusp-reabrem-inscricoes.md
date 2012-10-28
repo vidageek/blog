@@ -56,7 +56,7 @@ Apesar de o site do IME/USP indicar que as inscrições terminaram em dezembro, 
 
 
 
-**Acompanhe-nos por [ RSS][12], por [Email][13] ou via [Twitter][14].**  
+
 Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
 
  [1]: http://www.ime.usp.br/~verao/difusao.html#B.21

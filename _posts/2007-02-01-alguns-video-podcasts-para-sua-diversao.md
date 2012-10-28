@@ -44,7 +44,7 @@ Espero que esse post servia para levar mais algumas pessoas ao mundo dos podcast
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.apple.com/itunes/

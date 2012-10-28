@@ -68,7 +68,7 @@ Se tiverem alguma dúvida sobre como algo funciona por aqui, é só deixar nos c
 
 
 
-**Acompanhe-nos por [ RSS][8], por [Email][9] ou via [Twitter][10].**  
+
 Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
 
  [1]: http://lh6.ggpht.com/_NXWiXdADC9A/SonUcqhG_QI/AAAAAAAAAaY/fhPAxUlIZl8/s640/08172009473.jpg "Opera Papris"

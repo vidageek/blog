@@ -37,7 +37,7 @@ As inscrições vão até o dia do evento, mas o prazo para comprar com preço r
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://nyquist.sourceforge.net/

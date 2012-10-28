@@ -45,7 +45,7 @@ Mas e se eu quiser produzir uma aplicação portável entre alguns desses sistem
     
     
     
-    **Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
     Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://www.libsdl.org

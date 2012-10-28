@@ -35,7 +35,7 @@ Essa última dica vale também para Flash, Shockwave, Java e qualquer outra func
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][1].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
 

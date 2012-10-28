@@ -195,7 +195,7 @@ A única vez que usei essa estrutura foi quando estava fazendo um leitor de arqu
 
 
 
-**Acompanhe-nos por [ RSS][2], por [Email][3] ou via [Twitter][4].**  
+
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
 

@@ -34,7 +34,7 @@ Por outro lado, ações da Red Hat, SuSE GmbH e Mandriva têm desempenhado bem h
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/04/microsoft_stocks_hit_rock_bottom.jpg

@@ -38,7 +38,7 @@ Se você utiliza muito pacote office vale a pena dar uma olhada no [OpenOffice.o
 
 
 
-**Acompanhe-nos por [ RSS][7], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/projeto-ooo2gd.png

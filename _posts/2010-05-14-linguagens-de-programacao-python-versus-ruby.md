@@ -60,7 +60,7 @@ E você, qual a sua opinião? Quais são suas críticas a cada uma dessas lingua
 
 
 
-**Acompanhe-nos por [ RSS][8], por [Email][9] ou via [Twitter][10].**  
+
 Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
 
  [1]: http://vidageek.net/2008/11/24/linguagens-de-programacao-ruby/

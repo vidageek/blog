@@ -63,7 +63,7 @@ Enfim, numa palestra muito divertida e secundarimente instrutiva, Orkut Buyukkok
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  []: http://vidageek.net/wp-content/uploads/2007/04/autografoorkut.jpg "Autógrafo"

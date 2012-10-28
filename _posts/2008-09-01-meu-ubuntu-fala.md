@@ -42,7 +42,7 @@ e coloque para executar no início da sessão =)
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/sintvoz.jpg "Voz sintetizada"

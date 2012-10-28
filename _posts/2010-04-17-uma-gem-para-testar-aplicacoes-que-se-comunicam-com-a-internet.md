@@ -51,7 +51,7 @@ Em Java também é possível fazer algo parecido com um pouco de magia negra, de
 
 
 
-**Acompanhe-nos por [ RSS][10], por [Email][11] ou via [Twitter][12].**  
+
 Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
 
  [1]: http://pt.wikipedia.org/wiki/Mock_Object

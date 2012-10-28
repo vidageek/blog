@@ -75,7 +75,7 @@ Infelizmente no portage a versão disponível é a 3.6-r1, uma versão bem antig
 
 
 
-**Acompanhe-nos por [ RSS][10], por [Email][11] ou via [Twitter][12].**  
+
 Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Blackdown_Java "Wikipedia: Blackdown"

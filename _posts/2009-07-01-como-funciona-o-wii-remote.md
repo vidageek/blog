@@ -34,7 +34,7 @@ O Wii Remote tem dois sensores: uma câmera, que captura a luz infravermelha emi
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2009/06/nunchuk.jpg "Wii Remote e Nunchuk"

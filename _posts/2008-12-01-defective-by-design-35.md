@@ -44,7 +44,7 @@ Mudando um pouco o assunto, já que falei do Ubuntu, essa semana eu participei d
 
 
 
-**Acompanhe-nos por [ RSS][12], por [Email][13] ou via [Twitter][14].**  
+
 Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
 
  [1]: http://static.fsf.org/dbd/days/01/001-macbook-defective.png

@@ -45,7 +45,7 @@ Da próxima vez que encontrar alguém que tem uma mesa muito bagunçada, desconf
 
 
 
-**Acompanhe-nos por [ RSS][2], por [Email][8] ou via [Twitter][9].**  
+
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://vidageek.net/public/images/mesa.jpg

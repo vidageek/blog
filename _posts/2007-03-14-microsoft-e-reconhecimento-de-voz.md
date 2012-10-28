@@ -28,7 +28,7 @@ Mais informações: **[Uol][1]**.
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://tecnologia.uol.com.br/ultnot/reuters/2007/03/14/ult3949u1181.jhtm

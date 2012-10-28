@@ -26,7 +26,7 @@ Os prêmios para essa competição somam 75 mil reais.
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.google.com/codejamlatinamerica

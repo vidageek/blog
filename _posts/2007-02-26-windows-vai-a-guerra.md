@@ -25,7 +25,7 @@ Mais informações:**[The Register][1]**
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.theregister.co.uk/2007/02/26/windows_boxes_at_sea/

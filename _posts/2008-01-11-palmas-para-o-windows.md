@@ -27,7 +27,7 @@ O mais interessante é o fato de existir um dropdown para escolher quantas palma
 
 
 
-**Acompanhe-nos por [ RSS][4], por [Email][5] ou via [Twitter][6].**  
+
 Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
 
  [1]: http://vidageek.net/2007/12/15/software-util/ "Software Util"

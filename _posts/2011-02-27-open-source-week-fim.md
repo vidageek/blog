@@ -28,7 +28,7 @@ Ah, e se tiver interesse em participar de algum projeto opensource (independente
 
 
 
-**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+
 Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://projetos.vidageek.net/

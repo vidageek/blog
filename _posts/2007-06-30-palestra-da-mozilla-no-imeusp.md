@@ -38,7 +38,7 @@ Apesar de um pouco de eco, é possível ouvir bem a palestra – recomendo fones
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://www.gearthblog.com/blog/archives/2006/08/firefox_crop_ci.html

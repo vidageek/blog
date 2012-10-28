@@ -48,7 +48,7 @@ Outra coisa, quem descobriu o post e a solução foi o [Edmilson Miyasaki, da Ad
 
 
 
-**Acompanhe-nos por [ RSS][8], por [Email][9] ou via [Twitter][10].**  
+
 Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
 
  [1]: http://en.wikipedia.org/wiki/Character_encoding

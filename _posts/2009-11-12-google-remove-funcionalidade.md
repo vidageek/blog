@@ -35,7 +35,7 @@ Pessoalmente eu gostava da funcionalidade, talvez ela tenha ido por uma boa raz√
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/2009/11/05/apple-not-that-magic-mouseapple-not-that-magic-mouse/

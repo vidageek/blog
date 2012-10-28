@@ -85,7 +85,7 @@ E o ambiente de desenvolvimento de vocês, como é? Publiquem seus posts e mande
 
 
 
-**Acompanhe-nos por [ RSS][6], por [Email][7] ou via [Twitter][8].**  
+
 Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
 
  [1]: http://twitter.com/cecifernandes

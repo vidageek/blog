@@ -37,7 +37,7 @@ O que acham disso?
 
 
 
-**Acompanhe-nos por [ RSS][5], por [Email][6] ou via [Twitter][7].**  
+
 Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
 
  [1]: http://vidageek.net/2011/05/16/desafio-de-expressividade-i/
