@@ -63,4 +63,4 @@ Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
  [14]: http://feeds.feedburner.com/VidaGeek
  [15]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
  [16]: http://twitter.com/blogvidageek
- [17]: http://vidageek.net/dreamhost/
+

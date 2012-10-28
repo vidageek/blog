@@ -96,4 +96,4 @@ Em Java, existe um bloco de código que é executado no momento em que o ClassLo
  [2]: http://feeds.feedburner.com/VidaGeek
  [3]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
  [4]: http://twitter.com/blogvidageek
- [5]: http://vidageek.net/dreamhost/
+
