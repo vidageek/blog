@@ -1,0 +1,36 @@
+---
+author: Jonas Abreu
+title: Svn externals e Git Svn
+excerpt:
+layout: post
+category:
+  - Dicas
+  - Programacao
+tags: [ ]
+post_format: [ ]
+---
+No meu post anterior, sobre [git svn shallow cloning][1], acabei deixando de usar git naquele projeto por causa de um pequeno problema.
+
+Depois de efetuado o clone, notei que algumas pastas não vieram. Mais precisamente nenhuma pasta que na verdade era um **svn external**, ou seja, que referenciava um outro repositório svn.
+
+Aparentemente o **git svn** ainda não suporta svn externals. Então em projetos que dependem de svn externals (como era o caso), ainda não dá para usar git. 
+**Posts Relacionados:** 
+*   No related posts
+
+<g:plusone size="medium" count="false" href=""></g:plusone> 
+
+[Tweet][2] 
+
+
+
+
+
+**Acompanhe-nos por [ RSS][3], por [Email][4] ou via [Twitter][5].**  
+Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
+ [1]: http://vidageek.net/2012/05/02/git-svn-shallow-clone/
+ [2]: https://twitter.com/share
+ [3]: http://feeds.feedburner.com/VidaGeek
+ [4]: http://feedburner.google.com/fb/a/mailverify?uri=VidaGeek&loc=pt_BR
+ [5]: http://twitter.com/blogvidageek
+ [6]: http://vidageek.net/dreamhost/
