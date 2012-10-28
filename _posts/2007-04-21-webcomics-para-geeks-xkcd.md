@@ -9,7 +9,7 @@ tags:
   - Humor
   - internet
   - webcomics
-post_format: [ ]
+
 ---
 Muitos já devem ter lido alguma história em quadrinhos (HQ). Alguns devem saber que há tirinhas desenvolvidas exclusivamente para a Internet. Mas não muitos lêem [xkcd][1], cujo slogan (bastante preciso, por sinal) é
 

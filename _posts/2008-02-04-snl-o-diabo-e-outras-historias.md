@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Livros
   - Opiniao
-post_format: [ ]
+
 ---
 Eu acredito que um bom conto seja muito mais difícil de escrever do que um bom romance.
 

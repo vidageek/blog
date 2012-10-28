@@ -10,7 +10,7 @@ tags:
   - eclipse
   - git
   - refresh
-post_format: [ ]
+
 ---
 Depois que eu passei a trabalhar com git, o eclipse começou a me torrar muito a paciência. Toda vez que eu mudava de branch ele perguntava se eu queria atualizar os arquivos abertos. E depois eu tinha que atualizar o projeto para tudo voltar a funcionar.
 

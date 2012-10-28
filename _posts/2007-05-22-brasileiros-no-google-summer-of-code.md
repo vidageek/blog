@@ -11,7 +11,7 @@ tags:
   - Eventos
   - OpenSource
   - Opiniao
-post_format: [ ]
+
 ---
 Segundo o Blog do Google Summer of Code (evento promovido pela Google para incentivar a participação em projetos open-source com uma bolsa associada), a participação brasileira aumentou de 2,5% em 2006 para 4,2%  neste ano. Temos agora 20 mentores, numero muito superior ao do ano passado.
 

@@ -9,7 +9,7 @@ tags:
   - Chess
   - GeekStyleOfLife
   - Xadrez
-post_format: [ ]
+
 ---
 Muitos *Geeks* adoram Xadrez, principalmente por se tratar de um jogo onde a sua única arma é a inteligência e para vencer é necessário ter uma estratégia e um domínio do jogo maior que a de seu oponente. Eu, particularmente, acho o jogo simplesmente incrível apesar do meu limitado conhecimento. 
 

@@ -7,7 +7,7 @@ category:
   - GeekStyleOfLife
 tags:
   - Steampunk
-post_format: [ ]
+
 ---
 ![Conselho Steampunk][1] Fundada sobre a prerrogativa de divulgar e estimular a produção de obras do gênero Steampunk no estado de São Paulo, o Conselho surgiu da iniciativa de admiradores que sentiram a necessidade de uma ‘ponte’ que lhes permitisse a troca de informações e opiniões com maior facilidade. 
 

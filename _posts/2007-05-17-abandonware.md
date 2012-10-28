@@ -10,7 +10,7 @@ tags:
   - abandonware
   - dosbox
   - Software
-post_format: [ ]
+
 ---
 Em (outro) post sobre a filosofia do software, vou falar sobre Abandonware, como fica óbvio pelo título. Isto não é sobre software livre – ou pelo menos não ***ainda***.
 

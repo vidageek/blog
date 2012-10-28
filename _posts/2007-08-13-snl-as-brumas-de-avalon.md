@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Livros
   - Opiniao
-post_format: [ ]
+
 ---
 Acho que todo mundo já ouviu, leu ou assistiu alguma histório relacionada ao Rei Artur e os Cavaleiros da Távola Redonda. Você deve ter notado que o ponto de vista é sempre masculino. As mulheres, embora presentes, aparentam não ser responsáveis pelos acontecimentos no decorrer da história. Esse livro é diferente exatamente nesse ponto. 
 

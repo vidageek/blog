@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Usando maven em outros projetos? Sem problemas.
 

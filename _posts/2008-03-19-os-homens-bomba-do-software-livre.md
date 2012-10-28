@@ -6,7 +6,7 @@ layout: post
 category:
   - Opiniao
 tags: [ ]
-post_format: [ ]
+
 ---
 ![Terrorismo][1]
 

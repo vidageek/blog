@@ -13,7 +13,7 @@ tags:
   - teclado
   - unicode
   - utf-8
-post_format: [ ]
+
 ---
 Sabe aqueles caracteres estranhos que a gente quer colocar de vez em quando num texto ou numa conversa online e que o pessoal no Windows faz com a fonte Windings? Eles estão na tabela [Unicode][1] (UTF-8) de caracteres! Isso significa que você não precisa de nenhuma fonte especial para colocar símbolos matemáticos nos textos ou então [kanji][2] ou letras gregas. Basta que você use uma fonte que suporte todos os caracteres da tabela. E, atualmente, a fonte que vem por padrão no Ubuntu, pelo menos, suporta muito bem.
 

@@ -6,7 +6,7 @@ layout: post
 category:
   - Uncategorized
 tags: [ ]
-post_format: [ ]
+
 ---
 Olá a todos, recentemente decidi sair do VidaGeek.net e começar dois projetos pessoais que acredito que são relevantes para vocês leitores do VidaGeek.net e por isso decidi compartilha-los com vocês.
 

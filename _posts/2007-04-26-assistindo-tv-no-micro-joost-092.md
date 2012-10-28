@@ -7,7 +7,7 @@ category:
   - Software
 tags:
   - Software
-post_format: [ ]
+
 ---
 Muito tempo atrás, [falamos][1] por aqui sobre a nova criação dos desenvolvedores do Skype: o Joost.
 

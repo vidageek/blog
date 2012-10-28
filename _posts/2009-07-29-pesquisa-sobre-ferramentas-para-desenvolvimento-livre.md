@@ -15,7 +15,7 @@ tags:
   - mestrado
   - OpenSource
   - pesquisa
-post_format: [ ]
+
 ---
 Meu nome é Hugo Corbucci e sou aluno de mestrado em Ciências da Computação no IME/USP.  
 Tópicos discutindo a utilidade ou necessidade de uma formação acadêmica completa e de um mestrado já passaram pelo VidaGeek e por muitos outros blogs.

@@ -7,7 +7,7 @@ category:
   - OpenSource
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Foram duas semanas de trabalhos para documentar e lançar esses projetos (alguns já estavam “quase prontos” a mais de 6 meses.).
 

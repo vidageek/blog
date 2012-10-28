@@ -13,7 +13,7 @@ tags:
   - toyota
   - vidageek
   - vimeo
-post_format: [ ]
+
 ---
 Dois artistas, um piloto profissional, um software de captura de imagens e um carro é tudo que você precisa para criar uma fonte. Sim, a idéia chama-se [IQ-Font][1], e foi com ela que escrevi o endereço desse blog aqui embaixo.
 

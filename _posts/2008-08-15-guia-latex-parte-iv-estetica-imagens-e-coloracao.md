@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Latex
   - Tutoriais
-post_format: [ ]
+
 ---
 Continuando o Guia Latex, vamos aprender a colorir e colocar imagens em documentos LaTeX.
 

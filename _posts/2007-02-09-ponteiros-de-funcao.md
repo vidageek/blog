@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Ponteiros talvez sejam uma das maiores causas de desistência da utilização de C quando você está começando a programar. Mas nesse momento, vamos falar apenas de um tipo bem específico: Ponteiros de função.
 

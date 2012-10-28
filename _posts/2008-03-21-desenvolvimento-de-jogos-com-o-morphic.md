@@ -15,7 +15,7 @@ tags:
   - morphic
   - smalltalk
   - squeak
-post_format: [ ]
+
 ---
 Há muito tempo vejo propagandas de ferramentas de desenvolvimento de jogos que se propõem a serem super fáceis de usar, permitindo o desenvolvimento de um jogo simples em pouco tempo. Já experimentei uma ou outra, e nenhum é tão fácil assim de usar, fora que muitas são pagas. Mas, recentemente, descobri um arcabouço para desenvolvimento não só de jogos, mas de interfaces gráficas em geral, baseado em [Smalltalk][1]. Esse arcabouço, chamado Morphic, vem de graça com o [Squeak][2], um ambiente open-source de desenvolvimento e interação em Smalltalk.
 

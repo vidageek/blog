@@ -15,7 +15,7 @@ tags:
   - Programacao
   - Ruby
   - xp
-post_format: [ ]
+
 ---
 Hoje eu estou começando um novo projeto. Nada mais é do que um simples tracker de tarefas (uma todo-list com um pouquinho mais de recursos) escrito em Rails. Estou fazendo isso porque tenho tido várias idéias sobre projetos, mas acabo esquecendo porque não tenho um bom lugar para guardá-las (acabam em uma folha no meio de algum caderno que eu nunca lembro onde está).
 

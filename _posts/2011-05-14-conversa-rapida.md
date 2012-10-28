@@ -7,7 +7,7 @@ category:
   - Eventos
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 No começo da semana passada aconteceu um mini evento na [AdaptWorks][1], organizado por mim, chamado Conversa Rápida.
 

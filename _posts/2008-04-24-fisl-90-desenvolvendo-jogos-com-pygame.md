@@ -15,7 +15,7 @@ tags:
   - PyGame
   - Python
   - PyWeek
-post_format: [ ]
+
 ---
 O colaborador convidado Igor Montagner é bacharelando em Ciências da Computação pelo IME/USP e esteve no FISL 9.0 conosco, onde a palestra sobre PyWeek e PyGame chamou sua atenção. Veja o que ele tem a contar sobre essa palestra!
 

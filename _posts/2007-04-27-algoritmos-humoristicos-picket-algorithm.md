@@ -11,7 +11,7 @@ tags:
   - Humor
   - Opiniao
   - piquete
-post_format: [ ]
+
 ---
 Este algoritmo tem por objetivo sincronizar o acesso de processos a um mesmo recurso (ou instituição):
 

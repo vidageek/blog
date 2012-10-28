@@ -11,7 +11,7 @@ tags:
   - Rails
   - Ruby
   - Summit
-post_format: [ ]
+
 ---
 ![Rails Summit Logo][1]  
 Com a proposta de completar os grandes eventos mundiais de Ruby on Rails, o Rails Summit América Latina foi um sucesso.

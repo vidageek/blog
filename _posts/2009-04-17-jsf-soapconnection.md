@@ -13,7 +13,7 @@ tags:
   - soapconnection
   - soapmessage
   - sobrecarga
-post_format: [ ]
+
 ---
 Continuando com a série Java’s Signal of Failure (JSF), uma saída esperta e preguiçosa.
 

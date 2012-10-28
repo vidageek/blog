@@ -11,7 +11,7 @@ tags:
   - Nokia
   - Nokia Store SP
   - usp
-post_format: [ ]
+
 ---
   
 A Nokia vai abrir uma super loja em São Paulo neste domingo, e pretende dar um presente para a cidade. São três opções: o ConnectBook, o ConnectArt e o ConnectUSP. A partir de domingo (19/10), uma votação será iniciada (provavelmente no [site de divulgação da nova loja][1]) para decidir qual desses presentes a cidade vai ganhar.

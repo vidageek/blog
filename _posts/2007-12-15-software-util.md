@@ -7,7 +7,7 @@ category:
   - Opiniao
 tags:
   - Opiniao
-post_format: [ ]
+
 ---
 Olá a todos! Sou o mais novo membro do VidaGeek. Nesse meu primeiro post vou falar um pouco sobre a utilidade do software.
 

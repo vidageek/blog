@@ -14,7 +14,7 @@ tags:
   - shell
   - terminal
   - Ubuntu
-post_format: [ ]
+
 ---
 ![Terminal][1]  
 Para os iniciantes os comandos de *shell* do linux podem ser um tanto quanto confusos. Isso porque muitos não têm nome intuitivo (como o **cat** – gato em inglês – que mostra um arquivo no terminal) e a quantidade de comandos e parâmetros a decorar para fazer as coisas mais básicas no terminal é muito grande. Apesar de podermos fazer muitas coisas, principalmente por causa dos *pipes*, muito programas são desconhecidos e no fim das contas acabamos reinventado a roda quando não sabemos um deles. Por exemplo, apenas recentemente aprendi a usar o **find** e o **wc** que encontra arquivos e conta palavras/linhas respectivamente. Sugerimos então uma dica para quem gostaria de aprender alguns comandos de terminal já que, ao meu ver, é uma grande perda usar um sistema Linux e não saber os comandos básicos, já que o terminal pode agilizar muito o seu trabalho.

@@ -9,7 +9,7 @@ category:
 tags:
   - Programacao
   - Ruby
-post_format: [ ]
+
 ---
 O blog [Rails Envy][1], obviamente inspirados no video **“I’m a Mac, I’m a Windows”**, criou a série  
 **¨Hi, I’m Ruby on Rails…”** mostrando de forma divertida como **Ruby on Rails** foi criado para resolver problemas classícos de linguagens como o **Java** e o **PHP**.

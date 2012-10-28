@@ -19,7 +19,7 @@ tags:
   - Ubuntu
   - Ubuntu-7.10
   - US-International
-post_format: [ ]
+
 ---
 Guilherme de Almeida Moreira, um amigo nosso, passou pelo problema clássico de colocar para funcionar o cedilha no Ubuntu 7.10. Já que não encontrou informações de como resolver o problema na internet, ele nos enviou sua solução na esperança de ser útil para outras pessoas.
 

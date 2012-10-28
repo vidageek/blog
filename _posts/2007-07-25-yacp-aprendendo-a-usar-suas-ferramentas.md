@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Agora que você já instalou seu compilador, editor de texto favorito e depurador, nada como algumas dicas de como usá-los.
 

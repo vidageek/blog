@@ -20,7 +20,7 @@ tags:
   - produtividade
   - testes
   - unit testing
-post_format: [ ]
+
 ---
 Acho que já passou da hora dos programadores amadurecerem um pouco quanto a necessidade de testes para TODA e QUALQUER aplicação que seja escrita, independente do tamanho. Acho que já passou muito da fase na qual a arrogância era o suficiente para você acreditar que sua aplicação funcionaria sem testes, afinal, você é o melhor programador do mundo.
 

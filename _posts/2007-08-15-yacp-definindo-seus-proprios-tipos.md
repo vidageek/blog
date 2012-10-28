@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 C possui suporte a definição de novos tipos, o que torna o código muitas vezes mais legível e conciso. É possível criar esses novos tipos com **typedef**, **struct**, **enum** e **union**.
 

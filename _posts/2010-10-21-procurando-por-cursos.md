@@ -6,7 +6,7 @@ layout: post
 category:
   - Uncategorized
 tags: [ ]
-post_format: [ ]
+
 ---
 Nos últimos muitos meses eu estive completamente envolvido com o meu trabalho (que vocês devem ter notado pela falta de posts). Mas depois de tanto tempo finalmente o produto foi para o ar.
 

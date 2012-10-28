@@ -11,7 +11,7 @@ tags:
   - Jedi
   - Sci-Fi
   - StarWars
-post_format: [ ]
+
 ---
 ![Star Wars Coin][1]  
 O [Conselho Jedi de São Paulo][2] é um grupo de fãs de ***Star Wars*** bem animado do qual tenho orgulho de fazer parte. Não participo muito ativamente do grupo até porque meu conhecimento sobre o universo de *Star Wars* se restringe aos filmes e algumas outras coisas como jogos e um ou outro livro. 

@@ -14,7 +14,7 @@ tags:
   - Google
   - jogo
   - trabalho
-post_format: [ ]
+
 ---
 *Nota (29/08/2012): a ferramenta a qual se refere esse post foi desativada. Provavelmente eles já aprenderam a classificar as imagens :)*
 

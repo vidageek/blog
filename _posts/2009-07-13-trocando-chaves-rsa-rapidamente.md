@@ -11,7 +11,7 @@ tags:
   - chave
   - github
   - key
-post_format: [ ]
+
 ---
 Não sei se muitas pessoas tem esse problema, mas eu tenho mais de um par de chaves (no caso, tenho a minha para a conta jonasabreu do github e a da conta vidageek, também no github). Como era muito chato troca-las manualmente, fiz um pequeno script em bash para fazer isso para mim.  
 O script assume que as chaves atuais tem o nome de “id\_rsa” e “id\_rsa.pub” e as outras estão com um sufixo qualquer, como “id\_rsa.vidageek” e “id\_rsa.pub.vidageek”. O script deve estar na pasta .ssh .

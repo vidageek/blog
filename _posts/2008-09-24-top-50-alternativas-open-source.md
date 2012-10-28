@@ -10,7 +10,7 @@ tags:
   - CAD
   - Firefox
   - open-source
-post_format: [ ]
+
 ---
 ![Two Ways][1]Recentemente me deparei com este [artigo][2] que explica como substituir 50 programas do dia-a-dia por alternativas *open-source*. O interessante do artigo é que ele vai alem do comum, não apenas citando o substituto mas também explicando os prós e os contras, explicando as alternativas mais famosas para o programas proprietários. 
 

@@ -16,7 +16,7 @@ tags:
   - OLPC
   - Rodrigo
   - XO
-post_format: [ ]
+
 ---
 Numa palestra simples e também sem muitas novidades, o palestrante Rodrigo Padula de Oliveira falou um pouco sobre o que é o XO, os objetivos do projeto, seu hardware e afins. Vale lembrar aqui a parte de fontes de energia alternativas conseguidas para que o XO chegasse a comunidades afastadas:
 

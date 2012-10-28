@@ -16,7 +16,7 @@ tags:
   - RPG
   - Sci-Fi
   - Xadrez
-post_format: [ ]
+
 ---
 ![Geek is not a Crime][1]  
 Caros leitores, alguns assuntos normalmente não são abordados neste blog, como cinema, jogos, séries e outros. Isso porque o tema do blog sempre foi (ou pelo menos tentou ser) programação e computação em geral (com um certo foco em *softwares open-source*). Mas todos aqui no blog são *Geeks* e consequentemente gostamos de coisas “diferentes” do normal (para não dizer estranhas). Decidimos compartilhar com vocês nossos gostos, opiniões e descobertas.

@@ -7,7 +7,7 @@ category:
   - Dicas
   - Opiniao
 tags: [ ]
-post_format: [ ]
+
 ---
 ![][1]
 

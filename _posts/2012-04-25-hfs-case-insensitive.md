@@ -8,7 +8,7 @@ category:
   - Mac
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Fiz uma descoberta bem estranha.
 

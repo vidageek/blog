@@ -7,7 +7,7 @@ category:
   - Jogos
 tags:
   - Jogos
-post_format: [ ]
+
 ---
 Recentemente alguns jogos educativos em Flash me chamaram a atenção. São todos muito bem feitos, divertidos e você acaba aprendendo alguma coisa. Os quatros que me chamaram mais a atenção foram:
 

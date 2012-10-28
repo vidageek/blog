@@ -14,7 +14,7 @@ tags:
   - Google
   - remember_the_milk
   - rtm
-post_format: [ ]
+
 ---
 Eu tenho um problema crônico de memória. Tenho idéia ou preciso fazer algo e cinco minutos mais tarde eu já esqueci. Já tentei usar agenda de papel (não lembrava de dar uma ohada de vez em quando), agendas virtuais (o [Google Calendar][1] está praticamente esquecido.). 
 

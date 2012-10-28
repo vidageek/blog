@@ -8,7 +8,7 @@ category:
 tags:
   - Misc
   - News
-post_format: [ ]
+
 ---
 Algumas notícias interessantes:
 

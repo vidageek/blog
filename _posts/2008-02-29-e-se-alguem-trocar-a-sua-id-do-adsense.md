@@ -12,7 +12,7 @@ tags:
   - adsense
   - injecao
   - javascript
-post_format: [ ]
+
 ---
 Sem dúvida alguma, a maior parte da publicidade online hoje é feita usando-se o [AdSense da Google][1]. Isso não é nenhum problema, afinal o AdSense é uma das ferramentas de anúncios que tem o melhor retorno financeiro para quem a utiliza. Mas e a segurança?
 

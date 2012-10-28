@@ -21,7 +21,7 @@ tags:
   - OO
   - orientação a objetos
   - Ruby
-post_format: [ ]
+
 ---
 Aplicações para a Internet que se comunicam umas com as outras é algo mais do que comum. Ou sua aplicação consome algo que outra produz ou ela produz algo para outra consumir.
 

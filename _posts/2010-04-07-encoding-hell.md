@@ -13,7 +13,7 @@ tags:
   - leitura
   - problema
   - utf-8
-post_format: [ ]
+
 ---
 [Encoding][1] é sempre um inferno. Se você nunca precisou brigar com encoding, pergunte para seus amigos e a cara deles dirá tudo.
 

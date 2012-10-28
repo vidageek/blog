@@ -13,7 +13,7 @@ tags:
   - OpenSource
   - Opiniao
   - Ubuntu
-post_format: [ ]
+
 ---
 Outro dia estava voltando para casa de trêm, quando ouvi uma discussão muito interessante. Dois homens com entre 25 e 30 anos estavam conversando sobre Software Livre. Mais especificamente, sobre a distribuição linux Ubuntu, que um deles tinha instalado em seu micro, gostado, e agora fazia propaganda para o outro. Achei aquela conversa realmente inusitada. Até aquele momento eu não tinha notado até onde o software livre já tinha chegado.
 

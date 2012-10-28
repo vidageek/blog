@@ -9,7 +9,7 @@ category:
 tags:
   - Dicas
   - Google
-post_format: [ ]
+
 ---
 Todos já ouviram falar do Gmail, Orkut e YouTube (adquirido recentemente pela Google). Mas a Google não possui apenas esses três sistemas. Aqui vai uma lista das ferramentas que eu uso (algumas delas ainda estão em fase de desenvolvimento):
 

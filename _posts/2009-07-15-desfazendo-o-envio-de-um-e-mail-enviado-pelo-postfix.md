@@ -12,7 +12,7 @@ tags:
   - mailq
   - postfix
   - sendmail
-post_format: [ ]
+
 ---
 Esses dias estava trabalhando com uma aplicação web que tinha que mandar um e-mail de confirmação de cadastro. Fiz uns testes manuais e, por burrice minha, me cadastrei com um e-mail que existe e que não é meu! Minha sorte é que, na rede em que estava, a porta de envio de e-mails (SMTP) estava bloqueada. Isso fez com que meu e-mail ficasse preso na fila do Postfix para uma nova tentativa de entrega mais tarde. Pesquisando um pouquinho nos manuais do Postfix, descobri algumas coisas interessantes.
 

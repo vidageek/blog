@@ -16,7 +16,7 @@ tags:
   - Latex
   - package
   - título
-post_format: [ ]
+
 ---
 Agora que você já tem o compilador de Tex e o pré-processador de Latex instalados na sua máquina, vamos dar as ferramentas necessárias para escrever documentos simples em Latex, porém já bonitos.
 

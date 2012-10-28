@@ -9,7 +9,7 @@ category:
 tags:
   - Eventos
   - Fisl
-post_format: [ ]
+
 ---
 Guilherme Silveira, o primeiro colocado no Qualifying e um dos ganhadores da Arena de Programação do FISL 8.0, muito gentilmente concordou em nos dar uma entrevista expondo suas opiniões sobre o FISL e falando um pouco da sua experiência. Veja abaixo:
 

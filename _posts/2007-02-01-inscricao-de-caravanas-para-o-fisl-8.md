@@ -7,7 +7,7 @@ category:
   - Eventos
 tags:
   - Eventos
-post_format: [ ]
+
 ---
 Retirado do site [br-linux.org][1]:
 

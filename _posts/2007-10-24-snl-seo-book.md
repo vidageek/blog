@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Livros
   - Opiniao
-post_format: [ ]
+
 ---
 Acredito que esse seja o primeiro livro relacionado a computação que aparece no SNL.
 

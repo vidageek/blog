@@ -12,7 +12,7 @@ tags:
   - Mobile
   - OpenSource
   - Ubuntu
-post_format: [ ]
+
 ---
 O [PCWorld][1] noticiou a intenção dos desenvolvedores Ubuntu de desenvolver uma versão móvel da distribuição.
 

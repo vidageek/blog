@@ -10,7 +10,7 @@ category:
 tags:
   - javascript
   - JQuery
-post_format: [ ]
+
 ---
 O blog SmashingMagazine, o qual já foi citado no nosso [Twitter][1], publicou um [post][2] ontem com dicas e boas práticas de jQuery (também já mencionado [aqui][3] no VidaGeek). Algumas das dicas são muito boas, e não se aplicam somente a jQuery, mas a JavaScript na Internet, em geral. Acho que vale a pena mencionar algumas aqui.
 

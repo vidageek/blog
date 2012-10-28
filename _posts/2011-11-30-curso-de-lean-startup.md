@@ -11,7 +11,7 @@ tags:
   - lean
   - startups
   - verão
-post_format: [ ]
+
 ---
 Para aqueles entre vocês que já pensaram em abrir um próprio negócio, desenvolver um produto, ou até mesmo criar um novo projeto de software livre, gostaria de informá-los sobre o Curso de Lean Startup que será ministrado [no programa de verão do IME][1]. 
 

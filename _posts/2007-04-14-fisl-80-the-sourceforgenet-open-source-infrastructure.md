@@ -11,7 +11,7 @@ tags:
   - Eventos
   - Fisl
   - OpenSource
-post_format: [ ]
+
 ---
 Numa palestra com o gerente geral do SourceForge, Ross Turk, aprendemos um pouco mais sobre o website criado em 1999 cuja meta é disponibilizar espaço para projetos opensource de todo o mundo.
 

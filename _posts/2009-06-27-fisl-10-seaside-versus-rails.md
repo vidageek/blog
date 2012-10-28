@@ -16,7 +16,7 @@ tags:
   - Rails
   - seaside
   - smalltalk
-post_format: [ ]
+
 ---
 Na primeira palestra da qual participei (e a primeira que dei num evento público), falei, junto com o grande [Fabio Kung][1], sobre [Seaside][2], um arcabouço para desenvolvimento de aplicações para a Web escrito em [Smalltalk][3]. O Kung, é claro, falou de Rails.
 

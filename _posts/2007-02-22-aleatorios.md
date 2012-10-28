@@ -13,7 +13,7 @@ tags:
   - Misc
   - OpenSource
   - Programacao
-post_format: [ ]
+
 ---
 Como todo <strike>geek</strike> <strike>nerd</strike> programador está cansado de saber, nem todo random é aleatório.
 

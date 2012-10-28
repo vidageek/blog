@@ -21,7 +21,7 @@ tags:
   - Mac
   - paris
   - wifi
-post_format: [ ]
+
 ---
 ![][1]
 

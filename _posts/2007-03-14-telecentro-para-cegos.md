@@ -11,7 +11,7 @@ tags:
   - Linux
   - News
   - telecentro
-post_format: [ ]
+
 ---
 Um projeto conduzido pela [Apec][1], Associação Pernambucana para Cegos, estreiou um telecentro que usa Linux e outras ferramentas livres, inclusive uma solução que converte texto em mesagens de áudio.  
 O telecentro fica na sede da Apec, em Recife.

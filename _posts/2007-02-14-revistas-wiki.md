@@ -7,7 +7,7 @@ category:
   - Web 2.0
 tags:
   - Web 2.0
-post_format: [ ]
+
 ---
 A companhia [Wikia][1], criadora da popular Wikipedia e outros sites como o Wikiquote e Wikibooks, acostumada a fornecer conteúdo escrito pelos próprios usuários lançou recentemente três novos sites, com o intuito de ser tornarem três revistas eletrônicas, gratuitas e com a opinião dos próprios leitores: [entertainment.wikia][2], [politics.wikia][3] (política americana), [local.wikia][4] (noticías locais, como se fosse um jornal, apenas dos EUA).
 

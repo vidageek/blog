@@ -15,7 +15,7 @@ tags:
   - Rhino
   - Script
   - V8
-post_format: [ ]
+
 ---
   
 ![O que isso tem a ver com Javascript?][1]

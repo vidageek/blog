@@ -13,7 +13,7 @@ tags:
   - Google
   - OpenSource
   - Programacao
-post_format: [ ]
+
 ---
 Dois videos muito interessantes da Google Tech Talks que estão sendo muito comentados: O primeiro, entitulado “**[How Open Source Projects Survive Poisonous People (And You Can Too)][1]**” – Como projetos de código aberto sobrevivem à pessoas venenosas (e você também pode), em português – fala sobre formas de administrar seus projetos livres para evitar problemas causados por pessoas má intencionadas.  
 O Segundo, “**[Human Computation”][2]** – Computação Humana, em português – fala de jogos produzidos com o objetivo de resolver algum problema. Um exemplo é o **[Google Image Labeler][3]**, que usa um jogo para colocar rótulos em imagens (muito útil para sistemas de busca).

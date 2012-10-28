@@ -7,7 +7,7 @@ category:
   - Ruby
 tags:
   - Ruby
-post_format: [ ]
+
 ---
 ![Ruby][1]  
 No livro Test-Driven Development By Example, Kent Beck mostra em um pequeno apêndice como criar a função que calcula o número de Fibonacci de forma recursiva através do Test-Driven Development(TDD, desenvolvimento direcionado por testes). Baseando-me neste exemplo, criei uma versão para Ruby.

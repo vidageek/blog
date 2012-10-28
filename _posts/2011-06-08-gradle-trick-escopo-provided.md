@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Eu tenho brincado bastante com [gradle][1] (pretendo migrar todos meus projetos maven para ele).
 

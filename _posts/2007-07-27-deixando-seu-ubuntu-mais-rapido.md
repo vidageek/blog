@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Linux
   - Ubuntu
-post_format: [ ]
+
 ---
 O Ubuntu é uma distribuição do tipo instale-esqueça, em que usuário iniciantes em Linux podem ter um sistema open-source fácil de usar e capaz de realizar as mesmas coisas que já estão acostumados com sistemas proprietários. Mas existe alguns truques que podem ser feitos para melhorar a eficiência geral do sistema e que por motivos de compatibilidades não estão ativos após a instalação. Segue três itens interessantes sobre este aspecto:
 

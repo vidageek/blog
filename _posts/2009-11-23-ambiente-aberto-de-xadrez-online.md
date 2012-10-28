@@ -15,7 +15,7 @@ tags:
   - OpenSource
   - Programacao
   - Xadrez
-post_format: [ ]
+
 ---
 O Xadrez Livre é um ambiente aberto de ensino e aprendizagem de xadrez criado para servir como apoio ao projeto de ensino de xadrez nas escolas brasileiras.
 

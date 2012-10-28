@@ -18,7 +18,7 @@ tags:
   - Programacao
   - Tutoriais
   - vim
-post_format: [ ]
+
 ---
 Este é o primeiro post de uma série que tem por objetivo ensinar programação em C a alguém que já tem noção do que é programação, mas nunca programou. Programadores menos experientes também encontrarão muito material útil aqui.
 

@@ -17,7 +17,7 @@ tags:
   - OpenSource
   - raymond
   - Software Livre
-post_format: [ ]
+
 ---
 No [QCon][1], evento que ocorreu nos dias 11 e 12 desse mês, dei uma palestra no formato *lightning talk* sobre governança em software livre. Para quem se interessar, coloquei os slides no [Scribd][2].
 

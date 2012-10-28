@@ -9,7 +9,7 @@ tags:
   - beleza
   - computador
   - News
-post_format: [ ]
+
 ---
 Dois Cientistas da Computação da Universidade de Tecnologia de Sydney desenvolveram um software capaz de analizar o rosto de uma mulher e dizer se ela é bonita ou não.  
 Depois de colocar uma foto de uma mulher no software, ele irá respondere com um valor entre 1 e 10, sendo 1 uma mulher feia e 10 uma bonita.  

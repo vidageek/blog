@@ -9,7 +9,7 @@ category:
 tags:
   - GTD
   - Organização
-post_format: [ ]
+
 ---
 [![Diagrama de GTD][2]][2]  
 Desde que entrei na universidade atividades e compromissos cresceram de tal maneira que eu perdi o controle. No primeiro ano eu cheguei até mesmo a esquecer de coisas simples como reuniões de família nos domingos, encontros e até mesmo o aniversário do meu pai. Logo percebi que ia precisar de algum método de organização, e olha, eu usei muitos. Eu fui desde o popular calendário + todo list, passando por escrever o meu proprio software em Ruby, até a escutar conselhos de Randy Pausch, um professor universitário de Carnegie Mellon que tem [uma palestra muito boa sobre gerenciamento de tempo ][2], que vale a pena assistir.

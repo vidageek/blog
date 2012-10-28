@@ -11,7 +11,7 @@ tags:
   - comentário
   - container
   - documentação
-post_format: [ ]
+
 ---
 Em mais uma post da série que tem feito programadores Java perderem o sono, Java’s Signal of Failure (JSF).
 

@@ -8,7 +8,7 @@ category:
   - OpenSource
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Certo, não vai dar uma semana exatamente, mas serão quatro dias em que vou lançar dois projetos novos e versões de outros dois projetos.
 

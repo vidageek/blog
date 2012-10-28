@@ -11,7 +11,7 @@ tags:
   - magic mouse
   - might mouse
   - third button
-post_format: [ ]
+
 ---
 Alguns de vocês devem se lembrar que [eu fiz um post reclamando do novo Apple Magic Mouse][1].
 

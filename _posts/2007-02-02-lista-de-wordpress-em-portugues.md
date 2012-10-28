@@ -9,7 +9,7 @@ category:
 tags:
   - Dicas
   - OpenSource
-post_format: [ ]
+
 ---
 Olá pessoal,
 

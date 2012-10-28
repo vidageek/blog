@@ -14,7 +14,7 @@ tags:
   - mirror
   - release
   - setter
-post_format: [ ]
+
 ---
 Acabei de fazer o release da versão 1.4 do [Mirror][1], do qual [já falei por aqui.][2]
 

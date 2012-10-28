@@ -11,7 +11,7 @@ tags:
   - macdonalds
   - soja
   - vaca_louca
-post_format: [ ]
+
 ---
 O site DownloadSquad publicou hoje um post sobre um incrivel [jogo sobre o MacDonalds][1].
 

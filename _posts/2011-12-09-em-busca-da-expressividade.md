@@ -11,7 +11,7 @@ tags:
   - clean code
   - expressividade
   - literatura
-post_format: [ ]
+
 ---
 Cada vez mais, nós, desenvolvedores ([ou pelo menos aqui do VidaGeek][1]), percebemos que é necessário escrever código expressivo para facilitar sua manutenção e seu uso posteriormente. Mas, para sermos expressivos, é necessário entender direito o que significa expressividade, antes de mais nada. O que vem a seguir é uma tentativa de um programador, e não um escritor ou especialista na área, de analisar esse conceito. Correções e contra-argumentos são mais do que bem-vindos.
 

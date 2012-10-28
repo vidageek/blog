@@ -8,7 +8,7 @@ category:
 tags:
   - estudo
   - trabalho
-post_format: [ ]
+
 ---
 ![Mundo acadêmico?][1]  
 Uma das dúvidas que mais me atormentou (e ainda atormenta) desde que ingressei na graduação é aquele tipo de dúvida que sempre surge perto de uma mudança de fase nas nossas vidas: e depois? No meu caso específico, a dúvida se resumia a escolher: seguir carreira acadêmica ou partir para o mercado de trabalho?

@@ -9,7 +9,7 @@ category:
 tags:
   - Dicas
   - Jogos
-post_format: [ ]
+
 ---
 Durante a estada em Porto Alegre, aprendemos (graças ao [Danilo Sato][1]) a jogar Settlers of Catan, um jogo de tabuleiro baseado em estratégia por turnos.
 

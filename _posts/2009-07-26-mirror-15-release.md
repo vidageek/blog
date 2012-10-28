@@ -13,7 +13,7 @@ tags:
   - matcher
   - mirror
   - reflection
-post_format: [ ]
+
 ---
 A versão 1.5 do [Mirror][1] acaba de ser lançada.
 

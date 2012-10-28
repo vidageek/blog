@@ -14,7 +14,7 @@ tags:
   - free software song
   - microsoft
   - stallman
-post_format: [ ]
+
 ---
 ![RMS e Gil em frene à Microsoft][1]
 

@@ -12,7 +12,7 @@ tags:
   - flash
   - Jogos
   - web
-post_format: [ ]
+
 ---
 ![Word Shoot: Spell Fast or Die!][1]
 

@@ -11,7 +11,7 @@ category:
 tags:
   - Opiniao
   - Programacao
-post_format: [ ]
+
 ---
 Sabe quando você chega na casa de um programador, olha pra mesa dele e vê algo assim:
 

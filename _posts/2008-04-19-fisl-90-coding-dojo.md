@@ -18,7 +18,7 @@ tags:
   - Mariana Bravo
   - romanos
   - tdd
-post_format: [ ]
+
 ---
 A palestra, não exatamente num formato normal, começou com uma votação sobre a linguagem (Ruby, Phyton ou Java) seguido de uma breve explicação sobre o Dojo.
 

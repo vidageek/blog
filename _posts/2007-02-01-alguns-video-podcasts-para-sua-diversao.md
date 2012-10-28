@@ -9,7 +9,7 @@ category:
 tags:
   - Dicas
   - Humor
-post_format: [ ]
+
 ---
 Algumas pessoas ainda não entraram na moda dos Podcasts, talvez por não ter ouvido falar ou por pensar que é somente para donos de iPods. Devo confessar que só os conheci depois que comprei o meu iPod, mas atualmente assisto-os mais no PC do que no aparelho.  
 Um Podcast é basicamente um arquivo que indica a localização de um arquivo de audio ou video com o conteúdo desejado. Ele é atualizado freqüentemente, e o programa que você utilizar irá buscar freqüentemente essas atualizações para baixar o novo conteúdo. Por tanto, você não preciso mais ir no site de vez enquando ver se existe um conteúdo novo de video, basta usar um podcast.  

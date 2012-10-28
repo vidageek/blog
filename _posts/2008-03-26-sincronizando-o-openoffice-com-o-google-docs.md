@@ -16,7 +16,7 @@ tags:
   - OpenSource
   - Software Livre
   - Web 2.0
-post_format: [ ]
+
 ---
 ![Projeto ooo2gd][1]  
 O [Open Office][2] já é famoso entre usuário de Linux e começa a se difundir pelos usuários de Mac e Windows. Trata-se de um excelente pacote office, que é capaz (pelo menos na minha opinião) de substituir o Microsoft Office. Por outro lado, existe o [*Google Docs*][3], bem mais simples mas com outras vantagens como a de manter seus arquivos na internet e portanto os mesmos estão acessíveis a partir de qualquer micro. Mas o interessante é que você pode se aproveitar de ambas as plataformas. 

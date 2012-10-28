@@ -16,7 +16,7 @@ tags:
   - Misc
   - OpenSource
   - Seth-Schoen
-post_format: [ ]
+
 ---
 Numa palestra interessante e, surpreendentemente, em português, o palestrante Seth Schoen expôs seu ponto de vista sobre a Digital Rights Management.
 

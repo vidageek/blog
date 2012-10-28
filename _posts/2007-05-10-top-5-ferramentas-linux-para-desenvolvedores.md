@@ -17,7 +17,7 @@ tags:
   - OpenSource
   - Programacao
   - Software
-post_format: [ ]
+
 ---
 **1. Um (bom) editor de texto (Emacs/GVim):** Um editor de texto bom é essencial para aumentar a produtividade de um programador. Apesar da existência de IDEs poderosas como o Eclipse, Netbeans e RadRails, o domínio de um bom editor é essencial para as tarefas do dia-a-dia, em que linguagens podem variar e os programas são em geral curtos. O Emacs e o GVim cumprem muito bem esse papel, com a capacidade de alterar a cor do texto conforme a sintaxe da linguagem, indentar o texto corretamente, abrir vários arquivos ao mesmo tempo – podendo até mostrar vários arquivos ao mesmo tempo na tela, aceitar plugins para estender as linguagens suportadas e as funcionalidades do editor e executar comandos diretamente do editor, podendo inclusive abrir uma shell para, por exemplo, compilar seu programa.
 

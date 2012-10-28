@@ -13,7 +13,7 @@ tags:
   - Firefox
   - OpenSource
   - Software
-post_format: [ ]
+
 ---
 Na última quarta feira, dia 27 de junho, Asa Dotzler e J. T. Batson deram uma palestra sobre a Mozilla, no IME-USP (Instituto de Matemática e Estatística da Universidade de São Paulo).
 

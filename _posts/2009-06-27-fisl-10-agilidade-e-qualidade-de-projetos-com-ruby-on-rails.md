@@ -17,7 +17,7 @@ tags:
   - fisl 10
   - Rails
   - Ruby on Rails
-post_format: [ ]
+
 ---
 Ontem, [Fabio Akita][1] deu uma palestra no FISL 10 sobre Ruby on Rails. Foi uma palestra lotada e divertida.
 

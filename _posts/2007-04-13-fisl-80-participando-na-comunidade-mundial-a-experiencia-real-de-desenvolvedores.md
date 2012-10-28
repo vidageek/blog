@@ -13,7 +13,7 @@ tags:
   - Fisl
   - OpenSource
   - Programacao
-post_format: [ ]
+
 ---
 É realmente interessante quando o fato de a maior parte dos palestrantes terem faltado acrescenta tanto valor a uma discussão. Na ausência de Gilmar Souza, Vinícius e Yara Senger, o presente Bruno Souza reuniu uma equipe de figuras internacionais importantes para discutir como participar ativamente das comunidades opensource. Eia a lista dos participantes:
 

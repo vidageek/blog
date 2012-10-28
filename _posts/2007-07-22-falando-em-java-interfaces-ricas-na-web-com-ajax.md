@@ -9,7 +9,7 @@ category:
 tags:
   - Eventos
   - Programacao
-post_format: [ ]
+
 ---
 De volta ao Falando em Java, em outra palestra divertida que marcou o início da guerra de IDE’s entre os palestrantes, Fábio Kung apresentou o Ajax – Asynchronous Javascript And XML – como uma solução para a criação de interfaces para a web.
 

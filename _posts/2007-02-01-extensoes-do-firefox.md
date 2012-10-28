@@ -9,7 +9,7 @@ category:
 tags:
   - Dicas
   - Firefox
-post_format: [ ]
+
 ---
 O [Mozilla Firefox][1] é, na minha opinião, de longe o melhor navegador de internet.  
 Conta com o sistema de abas que já existia no Opera, mas só recentemente foi adicionado ao Internet Explorer, inclui algumas coisas muito interessantes como a barra de pesquisa que permite fazer buscas rapidamente em vários sites, a barra de pesquisa que eu utilizo muito e coisas interessantes como limpar todo o seu histórico, cookies, senhas e etc com apenas um atalho (Ctrl+Shift+Del).  

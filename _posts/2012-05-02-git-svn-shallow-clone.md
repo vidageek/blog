@@ -7,7 +7,7 @@ category:
   - Dicas
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Em um projeto que fui trabalhar uma vez e que usava svn para controle de versão, tentei usar git svn para não precisar mudar meu fluxo de trabalho e ter todas as vantagens do git.
 

@@ -6,7 +6,7 @@ layout: post
 category:
   - GeekStyleOfLife
 tags: [ ]
-post_format: [ ]
+
 ---
 ![Gandalf][1]  
 Este jogo é simplesmente incrível. Diferente da maioria do **MMORPGs**, o objetivo deste jogo é fazer a imersão do jogador no fantástico mundo criado por **J.R.R. Tolkien**. Um desafio que não é fácil, mas que foi muito bem executado. 

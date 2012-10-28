@@ -12,7 +12,7 @@ tags:
   - finder
   - osascript
   - symlink
-post_format: [ ]
+
 ---
 ![][1]Essa vai para os usuários de Mac, outro dia faço um post para os usuários de Linux para contra balancear ^.^.
 

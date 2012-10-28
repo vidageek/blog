@@ -7,7 +7,7 @@ category:
   - Opiniao
 tags:
   - Opiniao
-post_format: [ ]
+
 ---
 Alguns leitores perceberam que ontem voltamos a atividade e quiseram saber o porque da ausência de posts nos últimos meses. Decidimos explicar o motivo e comentar o que vocês poderão esperar do blog no futuro.
 

@@ -13,7 +13,7 @@ tags:
   - commit
   - conflito
   - git
-post_format: [ ]
+
 ---
 *O post de hoje é do nosso amigo Lucas Cavalcanti, desenvolvedor da [Caelum][1].*
 

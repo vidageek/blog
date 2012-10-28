@@ -15,7 +15,7 @@ tags:
   - MVC
   - Ruby
   - Ruby on Rails
-post_format: [ ]
+
 ---
 Ao entrar na sala John Maddog Hall, uma das maiores desse FISL, 5 minutos antes do início da palestra, eu esperava muitas coisas, mas certamente não esperava encontrar uma sala de palestras completamente lotada, com até mesmo pessoas de pé para assistir o Fabrício falar.
 

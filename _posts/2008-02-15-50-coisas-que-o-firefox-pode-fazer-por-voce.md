@@ -12,7 +12,7 @@ tags:
   - extensões
   - Firefox
   - plugins
-post_format: [ ]
+
 ---
 ![Firefox][1]  
 Já faz varios anos que utilizo o Firefox. Ele é simplesmente o melhor navegador que já encontrei. Já utilizei Internet Explorer,  

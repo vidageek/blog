@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Semana passada eu comecei a estudar para a certificação de programador Java da Sun (SCJP). Como estou vendo algumas coisas bem diferentes do java-arroz-com-feijão que todo mundo conhece, estarei postando sobre isso nas próximas semanas (e assim eu não serei o único ficando com os cabelos brancos).
 

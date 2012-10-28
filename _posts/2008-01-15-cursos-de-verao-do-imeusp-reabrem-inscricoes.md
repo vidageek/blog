@@ -24,7 +24,7 @@ tags:
   - usp
   - verão
   - xp
-post_format: [ ]
+
 ---
 Uma boa notícia para quem ainda não sabe o que fazer no verão e gostaria de aprender algo ou se atualizar por um preço acessível: os cursos de verão do IME/USP reabriram inscrições para vagas remanescentes.
 

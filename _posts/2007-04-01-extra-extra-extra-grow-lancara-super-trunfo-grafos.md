@@ -13,7 +13,7 @@ tags:
   - News
   - supertrunfo
   - super_trunfo
-post_format: [ ]
+
 ---
 Saudações, caros leitores (e leitoras, também) !
 

@@ -12,7 +12,7 @@ tags:
   - magic mouse
   - might mouse
   - third button
-post_format: [ ]
+
 ---
 Assim como todos os produtos Apple, que quebram depois de certo tempo de uso determinado (2 anos), meu [Apple Might Mouse][1] quebrou. Era um bom mouse, mais por 60 dólares (que foi o que eu paguei por ele em 2007) dava para comprar coisas melhores. Tinha 4 botões e era bluetooth, mas tinhas seus problemas.  Com duas pilhas era bem pesado (funcionava com apenas 1), e a cada 30 dias o scroll ficava inutilizável por conta da sujeira e era preciso aplicar uma técnica ninja de limpeza. Enfim, depois de 2 anos de brigas com o scroll ele finalmente quebrou para sempre. Minha primeira idéia era comprar um mouse com fio para trocar apenas o scroll mas me custaria 49 euros, então eu na minha grande ansiedade de consumidor Apple comprei um Apple Magic Mouse (69 euros). Bonito não?
 

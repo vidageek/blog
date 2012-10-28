@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 ### **Variáveis**
 

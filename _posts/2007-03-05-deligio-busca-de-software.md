@@ -8,7 +8,7 @@ category:
 tags:
   - gimp
   - Software
-post_format: [ ]
+
 ---
 [![Deligio][2]][2]
 

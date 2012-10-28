@@ -10,7 +10,7 @@ tags:
   - berkley
   - grades
   - Integrade
-post_format: [ ]
+
 ---
 ![Integrade][1]  
 Já foi o tempo em que conseguir poder de processamento de centenas de milhares de processadores era algo caro e difícil. Com a criação da computação em grade e o avanço da internet, muitos grupos de pesquisa ao redor do mundo passaram a utilizar o poder de milhares ou até milhões de máquinas domésticas, iguais a esta que você está usando para acessar o vidageek, como fonte de recursos para computação científica de todo tipo.

@@ -11,7 +11,7 @@ tags:
   - Office
   - OpenOffice
   - X11
-post_format: [ ]
+
 ---
 ![Neo Office Logo][1]  
 Uma das maiores frustrações que tive no Mac foi o [OpenOffice][2]. O melhor pacote Office *open-source* é simplesmente uma carroça no meu MacBook. Provavelmente por causa do X11 que funciona de maneira bem estranha e que consome muita memória (até pouco tempo atrás eu não tinha feito um *upgrade* de memória ainda e por isso sofria muito com qualquer aplicação X11 no Mac). Outra questão é que ele não se encaixa na usabilidade do MacOS e é feio (pronto, falei). Ele simplesmente não encaixa. 

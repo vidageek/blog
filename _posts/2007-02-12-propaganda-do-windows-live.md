@@ -7,7 +7,7 @@ category:
   - Opiniao
 tags:
   - Opiniao
-post_format: [ ]
+
 ---
 Fui ontem ao Cinemark, para assistir [A busca da felicidade][1]. E para minha surpresa, além dos traillers e dos agoa comuns comerciais antipirataria da MPA, vi o comercial do Windows Live. Ou seja, finalmente aconteceu, a Microsoft se desesperou e se jogou no buraco.
 

@@ -9,7 +9,7 @@ category:
 tags:
   - Humor
   - Opiniao
-post_format: [ ]
+
 ---
 Para os que não sabem, os problemas computacionais podem ser classificados de acordo com a sua complexidade em Polinomiais (P) e Não Polinomiais (NP). Os problemas NP não possuem algoritmo eficiente para sua resolução. Quer dizer, não possuiam até que as empresas criaram o algoritmo Estagiário.
 

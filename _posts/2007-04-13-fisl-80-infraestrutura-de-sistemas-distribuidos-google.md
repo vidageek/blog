@@ -11,7 +11,7 @@ tags:
   - Eventos
   - Fisl
   - Google
-post_format: [ ]
+
 ---
 A missão autoproclamada da Google todos já conhecem. “Organizar e tornar acessível toda a informação do mundo”. Mas como isso funciona de verdade? Nós também não sabemos, mas essa palestra ilustrou algumas das idéias por trás desse trabalho hercúleo. O GFS, MapReduce e BigTable. 
 

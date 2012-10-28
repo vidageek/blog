@@ -19,7 +19,7 @@ tags:
   - Ruby
   - seaside
   - smalltalk
-post_format: [ ]
+
 ---
 A décima edição do FISL começou ontem, na PUC-RS, em Porto Alegre. A localização não é novidade, mas a data terrível atrapalhou bastante as caravanas das universidades públicas. A citar, o IME-USP que, no ano passado, foi a maior caravana do FISL com mais de 50 pessoas, teve meras 14 pessoas vindo de ônibus conosco.
 

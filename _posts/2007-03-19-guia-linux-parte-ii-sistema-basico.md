@@ -13,7 +13,7 @@ tags:
   - Linux
   - OpenSource
   - Tutoriais
-post_format: [ ]
+
 ---
 Continuando nosso Guia Linux, temos as instruções para você ter um sistema completamente funcional, não apenas terminais de texto como na parte anterior. Um detalhe útil que ficou faltando na parte anterior é o **pciutils**. Com **emerge pciutils** você recebe vários utilitários para analizar o seu hardware. O mais útil é o **lspci** que lista os dispositivos pci do seu micro ([veja o meu aqui][1]).
 

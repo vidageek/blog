@@ -12,7 +12,7 @@ tags:
   - Google Plus
   - Google Reader
   - Redes sociais
-post_format: [ ]
+
 ---
 ![Reader + Plus][1]A Google reformulou recentemente vários de seus serviços. Aparentemente, as mudanças foram principalmente no visual e na integração com a nova rede social deles, o Google Plus, com o intuito, acredito, de alavancar seu uso.
 

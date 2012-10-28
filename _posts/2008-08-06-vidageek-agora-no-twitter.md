@@ -12,7 +12,7 @@ tags:
   - News
   - Twitter
   - Web 2.0
-post_format: [ ]
+
 ---
 ![Twitter][1]  
 O [Twitter][2] é uma ferramenta que vem agitando a internet a algum tempo, principalmente nos Estados Unidos. Trata-se de uma ferramenta de ***micro-blogging***, onde você faz pequenos *posts* de até 140 caracteres.

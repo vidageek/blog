@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Continuando o tutorial, vamos começar agora o feijão-com-arroz da programação. Programação nada mais é do que controlar o fluxo de forma inteligente, para obter os resultados esperados. No próximo post vamos ver os dois controles mais simples, If e Else. Mas antes você precisa saber o que é
 

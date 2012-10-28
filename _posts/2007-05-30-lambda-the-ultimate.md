@@ -7,7 +7,7 @@ category:
   - Blogroll
 tags:
   - Blogroll
-post_format: [ ]
+
 ---
 O “Lambda the Ultimate – Programming Languages Weblog” é um blog em inglês que versa sobre linguagens de programação, com ênfase nas linguagens funcionais – como Haskell, Scheme, Lisp e ML.
 

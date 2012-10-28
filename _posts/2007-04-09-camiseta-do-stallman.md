@@ -7,7 +7,7 @@ category:
   - Humor
 tags:
   - Humor
-post_format: [ ]
+
 ---
 Compre agora sua camiseta do Stallman, a lá Che.
 

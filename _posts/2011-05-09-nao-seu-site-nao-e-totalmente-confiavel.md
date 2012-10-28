@@ -9,7 +9,7 @@ category:
   - Discussões
   - Opiniao
 tags: [ ]
-post_format: [ ]
+
 ---
 “A loja é totalmente confiável e os seus dados estão seguros”. Essa frase me deu calafrios assim que li em um email que recebi.
 

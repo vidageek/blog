@@ -13,7 +13,7 @@ tags:
   - domínio público
   - Fisl
   - OpenSource
-post_format: [ ]
+
 ---
 Numa das melhores palestras que eu assisti nesse FISL inteiro, Carlos Affonso Pereira de Souza falou sobre as leis relativas ao direito autoral e também sobre a legislação sobre domínio público. Não que software livre esteja intimamente ligado ao tema, mas foi interessante saber da visão jurídica sobre software.
 

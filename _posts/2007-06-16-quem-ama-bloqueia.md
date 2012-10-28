@@ -9,7 +9,7 @@ category:
 tags:
   - OpenSource
   - Opiniao
-post_format: [ ]
+
 ---
 Nessa semana aconteceu algo muito raro. Eu assisti televisão. Na verdade, estava esperando começar a minissérie baseada em “O Romance da Pedra do Reino”, de Ariano Suassuna, quando um comercial me chamou muito a atenção. Tinha um monte de gente algemada a outras pessoas vestidas com camisetas brancas escrito operadora. Era um comercial da Oi, operadora de telefonia celular que agora está vendendo celulares desbloqueados.
 

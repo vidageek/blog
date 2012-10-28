@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Já faz um bom tempo em que venho pensando em como criar formas de exercitar diversas técnicas de programação.
 

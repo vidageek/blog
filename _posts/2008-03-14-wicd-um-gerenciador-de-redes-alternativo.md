@@ -13,7 +13,7 @@ tags:
   - wicd
   - wifi
   - wireless
-post_format: [ ]
+
 ---
 Quem usa o Ubuntu deve conhecer o gerenciador de redes do Gnome, que vem instalado por padrão desde a versão 7.04 da distribuição. O papel desse gerenciador é facilitar a configuração de redes, especialmente as sem fio. Afinal, configurar uma rede sem fio utilizando o terminal não é simples.
 

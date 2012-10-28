@@ -14,7 +14,7 @@ tags:
   - Opiniao
   - sistemas legados
   - Tecnologia
-post_format: [ ]
+
 ---
 ![Crista da Onda][1]  
 Ultimamente tenho trabalhado bastante com tecnologias ainda pouco maduras, por exemplo RESTful WebServices com Java. Isso me fez perceber alguns problemas e algumas vantagens de se trabalhar no comecinho ou na crista da onda da tecnologia. Digo onda porque, se formos fazer um gráfico de como uma tecnologia evolui com o tempo (velocidade de surgimento de novos produtos, ou base de usuários), teremos algo parecido com uma onda: no começo, quase ninguém usa; depois de um tempo, todo mundo usa, e aí surgem novos produtos com uma velocidade absurda; no fim, sobram um monte de sistemas legados e alguns desenvolvedores para dar manutenção neles.

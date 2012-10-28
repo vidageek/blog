@@ -7,7 +7,7 @@ category:
   - Dicas
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Eu gosto muito de usar [Vim][1] e uma coisa que preciso com frequência é modificar um arquivo que está em uma máquina remota.
 

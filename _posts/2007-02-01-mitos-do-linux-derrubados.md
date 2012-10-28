@@ -14,7 +14,7 @@ tags:
   - open-source
   - OpenSource
   - Ubuntu
-post_format: [ ]
+
 ---
 O ótimo site [Download Squad][1] postou uma matéria incrivel sobre como muitos dos mitos relacionados ao Linux são mentira.
 

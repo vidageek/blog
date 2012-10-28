@@ -14,7 +14,7 @@ tags:
   - Linux
   - Ubuntu
   - windows
-post_format: [ ]
+
 ---
 Recentemente encontrei esta tirinha na internet e gostei tanto que acabei assinando o *feed* do [Extralife][1] para poder ler as novas publicações. O autor não é tão genial quanto o do [xkcd][2] mas nem por isso é ruim, apenas o **xkcd** que é excepcional.
 

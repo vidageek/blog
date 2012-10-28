@@ -8,7 +8,7 @@ category:
   - OpenSource
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Para finalizar os lançamentos de projetos essa semana, a versão 1.6 do [Mirror][1] finalmente foi lançada.
 

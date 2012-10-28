@@ -11,7 +11,7 @@ tags:
   - Lego
   - Mindstorm
   - "Rubik's Cube"
-post_format: [ ]
+
 ---
 ![Resolvendo o Cubo Mágico][1]  
    JP Brown é um Geek com G maiúsculo. Em sua página (JP Brown’s Serious LEGO) ele mostra inúmeros projetos de Lego Mindstorm, o famoso pacote de robótica para Lego. Dentre os seus projetos mais interessantes está o da figura ao lado, capaz de resolver o Cubo Mágico (Rubik’s Cube). 

@@ -13,7 +13,7 @@ tags:
   - JQuery
   - News
   - Programacao
-post_format: [ ]
+
 ---
 Ultimamente estou correndo atrás de bastante coisa sobre design. 
 

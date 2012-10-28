@@ -15,7 +15,7 @@ tags:
   - Jornalismo livre
   - liberdade
   - licensas
-post_format: [ ]
+
 ---
 Essa palestra iniciou com a motivação do tema: o jornalismo deveria ter os mesmos preceitos do software livre: colaboração, participação da comunidade, estudo e reuso de material, etc. Para isso, discutiu-se como ordenar uma colaboração do público de forma não autoritária e descentralizada.
 

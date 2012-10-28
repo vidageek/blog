@@ -11,7 +11,7 @@ tags:
   - Eventos
   - Fisl
   - OpenSource
-post_format: [ ]
+
 ---
 Nessa palestra, Demi Getschko, um dos percussores da Internet no Brasil e, de acordo com o outro palestrante, a pessoa que ligou os primeiros cabos da Internet na FAPESP nos anos 80, propôs discutirmos os principios de privacidade x liberdade. Falou sobre os aspectos humanos, tais como privacidade X acesso a dados, intrusãoo X propaganda, dados pessoais x segurança.  
 Citou, como exemplo alguns sites e frases que ilustraram muito bem o tema:

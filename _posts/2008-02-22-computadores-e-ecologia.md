@@ -13,7 +13,7 @@ tags:
   - economia
   - meio ambiente
   - Notebook
-post_format: [ ]
+
 ---
 ![Energia elétrica][1]Recentemente, assisti o documentário “Uma Verdade Inconveniente”, do Al Gore (uma vez candidato à presidência dos EUA). Isso me inspirou a escrever esse artigo, comentando sobre algumas coisas que nós, computeiros computólogos, podemos fazer pelo nosso meio ambiente.
 

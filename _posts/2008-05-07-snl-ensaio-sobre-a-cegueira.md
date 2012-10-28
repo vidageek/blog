@@ -12,7 +12,7 @@ tags:
   - Dicas
   - Livros
   - saramago
-post_format: [ ]
+
 ---
 [José Saramago][1] teve uma ótima idéia para um livro, e usou seu talento muito bem para escrever “Ensaio sobre a cegueira”.
 

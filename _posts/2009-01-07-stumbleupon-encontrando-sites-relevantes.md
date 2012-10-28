@@ -8,7 +8,7 @@ category:
 tags:
   - StumbleUpon
   - Web 2.0
-post_format: [ ]
+
 ---
 ![Stumbleupon Logo][1]  
 Todos sabem que a Internet contém uma quantidade absurda de informação e que, consequentemente, encontrar sites relevantes é difícil. Normalmente encontramos um site interessante através de buscas ou indicações de amigos através listas de discussão, [Twitter][2], blogs, fórums, etc. 

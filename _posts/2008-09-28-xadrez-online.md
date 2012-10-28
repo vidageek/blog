@@ -9,7 +9,7 @@ tags:
   - Chess.com
   - GeekStyleOfLife
   - Xadrez
-post_format: [ ]
+
 ---
 ![Chess][1]  
 Recentemente o Luiz (autor aqui do *blog*) me apresentou o [Chess.com][2], um *site* incrível para os fãs de xadrez. Imagine um *Orkut* voltado totalmente ao xadrez. 

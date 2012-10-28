@@ -11,7 +11,7 @@ tags:
   - compiz
   - News
   - OpenSource
-post_format: [ ]
+
 ---
 Foi confirmado no blog do [Compiz][1] que a fusão com o Beryl irá realmente acontecer. Com isso, o sistema de desktop 3D livre irá ficar ainda melhor. (para os que não usaram o Beryl ainda, vale a pena experimentar).
 

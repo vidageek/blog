@@ -9,7 +9,7 @@ category:
 tags:
   - Google
   - Opiniao
-post_format: [ ]
+
 ---
 Semanas atrás (desculpe-me pela demora), recebi um e-mail com um pergunta interessante. Existe alguma forma de evitar que alguém clique milhares de vezes nos seus anúncios do AdSense (serão marcados como cliques inválidos) e você tenha sua conta do AdSense bloqueada?
 

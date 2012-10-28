@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 O que acontece quando uma classe sua implementa duas interfaces que tem um método com o mesmo nome? Compila!
 

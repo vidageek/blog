@@ -7,7 +7,7 @@ category:
   - Dicas
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Eu achava que ia ser mais complicado, mas no fim é bem fácil.
 

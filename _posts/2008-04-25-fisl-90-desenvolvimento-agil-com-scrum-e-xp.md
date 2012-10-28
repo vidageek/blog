@@ -15,7 +15,7 @@ tags:
   - Metodologias-Ágeis
   - Scrum
   - xp
-post_format: [ ]
+
 ---
 Novamente uma palestra surpreendentemente cheia. Não houve muitas novidades para quem já conhecia metodologias ágeis, mas o palestrante Guilherme Chapiewski abordou os temas básicos e gastou os primeiros 5 minutos de palestra em convencer o mercado de que o uso de metodologias ágeis não é loucura da cabeça de poucos, mas sim algo funcional e mais adequado à dinamicidade do mercado atual.
 

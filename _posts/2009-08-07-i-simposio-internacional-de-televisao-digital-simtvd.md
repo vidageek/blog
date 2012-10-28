@@ -10,7 +10,7 @@ tags:
   - simtvd
   - tv digital
   - unesp
-post_format: [ ]
+
 ---
 A pedidos da organização do evento, estamos divulgando a seguinte mensagem:
 

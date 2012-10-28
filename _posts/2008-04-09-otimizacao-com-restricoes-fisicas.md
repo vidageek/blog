@@ -6,7 +6,7 @@ layout: post
 category:
   - News
 tags: [ ]
-post_format: [ ]
+
 ---
 Recentemente andei procurando alguns vídeos que pudessem ser úteis para os leitores do **VidaGeek**. Não consegui encontrar muitos que fossem úteis para os nossos leitores, mas encontrei um que me impressionou. O projeto [PICO][1] (*Physical Intervention in Computational Optimization*) tem como objetivo permitir leigos em computação criar restrições em problemas de otimização. 
 

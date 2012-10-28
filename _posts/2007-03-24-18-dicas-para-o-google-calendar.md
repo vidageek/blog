@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Google
   - Web 2.0
-post_format: [ ]
+
 ---
 O blog [Web Worker Daily][1] publicou guia muito útil de como melhorar o seu uso com o Google Calendar. Apesar de muito útil,  o Google Calendar anda meio abandonado pela Google e suprimido por várias ferramentas Web 2.0 que tem surgido. Uma das coisas que mais me irrita é o fato de não existir uma lista de tarefas, apenas eventos que irão durar todo o dia. Uma das dicas dessa matéria é a integração do Google Calendar com o [Remember the Milk][2], que gerencia muito bem suas tarefas.
 

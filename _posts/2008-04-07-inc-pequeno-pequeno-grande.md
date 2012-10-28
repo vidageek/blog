@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Continuando meu passeio pelas entranhas do Java, mais uma surpresa.
 

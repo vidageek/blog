@@ -8,7 +8,7 @@ category:
   - Dicas
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Tempos atrás precisei reunir várias referências sobre desenvolvimento ágil. Depois de buscar muito no Google e sofrer um pouco para filtrar os resultados, resolvi criar um [Google Custom Search Engine][1] com alguns sites para facilitar a minha vida.
 

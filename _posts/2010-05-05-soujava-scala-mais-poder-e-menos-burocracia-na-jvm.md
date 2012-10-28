@@ -6,7 +6,7 @@ layout: post
 category:
   - Uncategorized
 tags: [ ]
-post_format: [ ]
+
 ---
 Dia 19/05/2010 o [Rafael Ferreira][1] dará uma palestra na reunião do [SouJava][2]. 
 

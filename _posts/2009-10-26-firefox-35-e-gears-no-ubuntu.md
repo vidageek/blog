@@ -15,7 +15,7 @@ tags:
   - Google
   - shiretoko
   - Ubuntu
-post_format: [ ]
+
 ---
 ![Firefox 3.5, aqui vamos nós][1]  
 Apenas muito recentemente consegui fazer o Firefox 3.5 do Ubuntu, também conhecido como Shiretoko, funcionar com o plug-in Google Gears. Foram, basicamente, duas bobagens que impediram a instalação e o uso desse plug-in com facilidade.

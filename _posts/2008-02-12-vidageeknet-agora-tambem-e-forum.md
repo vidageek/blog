@@ -11,7 +11,7 @@ category:
   - Programacao
 tags:
   - forum
-post_format: [ ]
+
 ---
 Acabamos de colocar no ar (definitivamente. Estivemos fazendo testes por algum tempo) o [fórum do VidaGeek][1]. 
 

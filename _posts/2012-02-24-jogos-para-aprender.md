@@ -7,7 +7,7 @@ category:
   - Jogos
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Nas últimas 4 semanas, alguns amigos e eu resolvemos desafiar um tabu bem comum. Como ensinar pessoas de forma mais eficiente e divertida do que em uma sala de aula.
 

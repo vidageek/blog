@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Linux
   - OpenSource
-post_format: [ ]
+
 ---
 Muitas vezes os novos usuários de Linux não conseguem ver ganhos significativos de performance nas suas máquinas, geralmente porque usaram a intalação default de algumas distribuições, que carregam muitos drivers e programas para garantir suporte à uma maior variedade de equipamentos e usuários. Este **[video][1]** mostra um Duron 1.2, 512 Mb e uma Geforce 2MX PCI 64Mb executando os seguintes programas:  
 - Enlightenment E17;  

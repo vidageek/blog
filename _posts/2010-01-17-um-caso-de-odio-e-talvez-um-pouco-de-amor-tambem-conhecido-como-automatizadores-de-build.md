@@ -21,7 +21,7 @@ tags:
   - deploy
   - mvn
   - test
-post_format: [ ]
+
 ---
 Eu sou um grande fã de automatização de tarefas repetitivas. Odeio ter que repetir tarefas.
 

@@ -14,7 +14,7 @@ tags:
   - Latex
   - Links
   - Tutoriais
-post_format: [ ]
+
 ---
 Após passar pelas outras partes desse tutorial, chegamos ao ponto em que gostaríamos de criar links externos ou internos para nossa aplicação e referências bibliográficas.
 

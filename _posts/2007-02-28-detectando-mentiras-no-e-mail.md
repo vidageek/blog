@@ -10,7 +10,7 @@ tags:
   - e-mail
   - News
   - pesquisa
-post_format: [ ]
+
 ---
 A Universidade de Cornell desenvolveu um software que, analisando repetiçoes, errolações e ambiguidades, acerta com 70% de chance se o escritor de um e-mail está mentindo ou não:
 

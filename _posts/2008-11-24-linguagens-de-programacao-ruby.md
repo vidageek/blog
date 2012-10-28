@@ -17,7 +17,7 @@ tags:
   - iphone
   - Mac
   - won
-post_format: [ ]
+
 ---
 ![Ruby][1] Ruby foi criada no Japão, por [Yukihiro Matsumoto][2] que teve como objetivos na sua obra o enfoque nos programadores e não nos computadores, afinal nós somos os mestres e eles são os escravos. 
 

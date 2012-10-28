@@ -14,7 +14,7 @@ tags:
   - ponteiros
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Enfim chegamos ao assunto que causa dor de cabeça à maioria dos programadores iniciantes (e à muitos veteranos também). É complicado trabalhar com a referência ao invés de trabalhar com o objeto.
 

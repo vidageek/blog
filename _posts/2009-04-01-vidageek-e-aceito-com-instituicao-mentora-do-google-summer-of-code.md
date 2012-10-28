@@ -14,7 +14,7 @@ tags:
   - grafos
   - gsoc
   - method_finder
-post_format: [ ]
+
 ---
 ![][1]Muito obrigado pessoal! O Vidageek vai participar do Google Summer of Code. Estamos muito felizes, o GSoC é um evento importante e não teríamos conseguido sem o apoio de vocês. Mas mais do que isso, não só fomos o primeiro blog brasileiro a conseguir esse feito, como todos os nosso escritores serão mentores, e teremos uma boa quantidade de projetos.
 

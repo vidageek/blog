@@ -15,7 +15,7 @@ tags:
   - scire
   - software_livre
   - unix
-post_format: [ ]
+
 ---
 Quem acompanha o blog já pode perceber que eu sou apaixonado pelo Gentoo Linux. Recentemente comecei um esforço, ainda não terminado, para indicar o caminho das pedras para ter um sistema completo e funcional: o Guia Linux ([Parte I][1] e [Parte II][2]).
 

@@ -9,7 +9,7 @@ category:
 tags:
   - Google
   - Opiniao
-post_format: [ ]
+
 ---
 A cada dia que passa, a Google diversifica ainda mais seus produtos. Por um lado, isso é ótimo. São produtos de incrível qualidade (alguns muito melhores do que seus concorrentes, como o gMail). Eu, por exemplo, uso os seguintes produtos da google:
 

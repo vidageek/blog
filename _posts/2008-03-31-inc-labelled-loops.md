@@ -9,7 +9,7 @@ category:
   - Opiniao
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Quem disse que java é bonito? C pelo menos tem a coragem de assumir que tem **goto**. Java disfarça na estrutura que chamamaram de Labelled Loops.
 

@@ -11,7 +11,7 @@ tags:
   - imprensa
   - paulista
   - sujeira
-post_format: [ ]
+
 ---
 Este post nada tem a ver com [nossa última polêmica][1] ;) .
 

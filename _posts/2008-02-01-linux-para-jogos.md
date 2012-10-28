@@ -8,7 +8,7 @@ category:
   - Jogos
   - Linux
 tags: [ ]
-post_format: [ ]
+
 ---
 Recentemente minhas experiências com jogos têm sido melhores no Linux do que no Windows. Os jogos no Linux rodaram mais rápido e não travaram, o que já não posso dizer sobre os jogos do Windows (droga, perdi uma cidade linda no SimCity!). Consegui rodar [Frets on Fire][1] no Linux, mas não no Windows. Fora que muitos [abandonwares][2] rodam melhor no [DOSBox][3] do que no Windows, e o DOSBox roda muito bem no Linux.
 

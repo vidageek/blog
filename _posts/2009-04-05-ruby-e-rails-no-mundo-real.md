@@ -12,7 +12,7 @@ tags:
   - Opiniao
   - Rails
   - Ruby
-post_format: [ ]
+
 ---
 ![Rer 2009][1]  
 O **Ruby e Rails no Mundo Real** aconteceu em São Paulo neste sábado (04/04/09) em São Paulo. O evento começou com uma grande decepção: um evento com 130 programadores Ruby/Rails mas sem internet Wireless, ou seja, nada de Twitter, E-mails e instalação de gems. As tomadas também eram poucas e foi preciso revezar entre três notes (eu, Fabsn e Flores). 

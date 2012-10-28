@@ -7,7 +7,7 @@ category:
   - Discussões
   - Opiniao
 tags: [ ]
-post_format: [ ]
+
 ---
 Muito se alardeia sobre os benefícios da comunicação sem fio e sua rápida evolução mas, com exceção da tecnologia celular (cuja segurança já foi bastante discutida, principalmente pelos moradores próximos às antenas), pouco se comenta sobre os riscos que as tecnoplogias envolvidas podem representar para o meio-ambiente e, em especial, para o ser humano.  
 

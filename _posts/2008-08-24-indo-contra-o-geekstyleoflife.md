@@ -10,7 +10,7 @@ tags:
   - iaido
   - ler
   - nei_kung
-post_format: [ ]
+
 ---
 Tempos atrás, escrevi sobre [algumas doenças bem características de programadores][1]. 
 

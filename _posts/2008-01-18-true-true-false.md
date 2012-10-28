@@ -11,7 +11,7 @@ tags:
   - C
   - Dicas
   - Programacao
-post_format: [ ]
+
 ---
 Quando estamos programando, é muito comum precisarmos de um tipo booleano. Infelizmente o padrão Ansi C (isoc89) não possui um tipo primitivo para representar verdadeiro ou falso.
 

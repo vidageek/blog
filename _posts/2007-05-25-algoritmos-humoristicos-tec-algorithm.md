@@ -9,7 +9,7 @@ category:
 tags:
   - Humor
   - Opiniao
-post_format: [ ]
+
 ---
 Após analizar algorítmos como [Trainee][1] e [Picket][2], vou falar um pouco sobre estratégia de **C**orreção de **E**rros **T**emporários (**CET** para abreviar).
 

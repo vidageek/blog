@@ -14,7 +14,7 @@ tags:
   - filo
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Provavelmente você ja deve ter ouvido falar de FILO, first in last out (primeiro a entrar é o ultimo a sair). Muitas (talvez todas) linguagens de programação usam uma estrutura FILO para controlar chamadas de funções e alocações de variáveis. Uma estrutura FILO também é chamada de pilha.
 

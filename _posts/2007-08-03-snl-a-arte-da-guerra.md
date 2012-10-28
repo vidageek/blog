@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Livros
   - Opiniao
-post_format: [ ]
+
 ---
 Tempos atrás recebi um e-mail de um professor dizendo que a maioria dos alunos não tem o costume de ler. Senti-me sinceramente ofendido com o e-mail. Mesmo que o professor não tenha falado que todos os alunos não lêem, acredito que ele esteja errado. Parece ser moda nacional falar que brasileiro não tem costume de ler. Isso não é verdade nem o motivo de discussão aqui no momento. 
 

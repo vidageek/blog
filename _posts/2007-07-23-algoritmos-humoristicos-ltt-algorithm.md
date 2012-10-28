@@ -9,7 +9,7 @@ category:
 tags:
   - Humor
   - Opiniao
-post_format: [ ]
+
 ---
 Recentemente falei sobre o [ algoritmo CET (Correção de Erros Temporários)][1]. Agora vou apresentar uma generalização desse algorítmo, empregada recentemente com resultados explosivos.  
 Este é um algoritmo que possui uma idéia semelhante à Lazy Systems (Sistemas preguiçosos), com a diferença que não possui um momento determinado para ser executado.

@@ -15,7 +15,7 @@ tags:
   - Python
   - Ruby
   - zen
-post_format: [ ]
+
 ---
 Aqui na nossa série de linguagens de programação (sem posts já faz um tempo), já falamos de [Ruby][1], mas ainda não de Python. O ideal seria falar de Python antes mas, graças a uma [palestra interessante][2] que assisti online, resolvi fazer alguns comentários e críticas a cada uma delas.
 

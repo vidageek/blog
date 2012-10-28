@@ -12,7 +12,7 @@ tags:
   - artificial_intelligence
   - Google
   - IA
-post_format: [ ]
+
 ---
 Neste Google Tech Talk, o Dr. Ben Goertzel explica suas visões de como o ramo de Inteligência Artificial deve ser explorado para alcançar o tão sonhado objetivo de criar programas com uma capacidade de aprendizado verossímil a de um ser humano.
 

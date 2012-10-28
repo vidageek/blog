@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Latex
   - Tutoriais
-post_format: [ ]
+
 ---
 Após um período de recesso, o Guia Latex segue. Dessa vez, veremos marcação de texto básica e as maneiras mais comuns e simples de se estruturar uma página, com seções e subseções, listas e, por fim, tabelas.
 

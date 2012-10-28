@@ -9,7 +9,7 @@ category:
 tags:
   - Humor
   - OpenSource
-post_format: [ ]
+
 ---
 ![Bad Vista][1]A Free Software Fundation, Fundação do Softare Livre mantenedora da GPL, criou a campanha **Bad Vista**, com o intuito de barra a evolução dos Sistemas Operacionais da Microsoft. A campanha consiste em mostrar o lado podre do novo sistema operacional através da internet pelos próprios usuários.
 

@@ -11,7 +11,7 @@ tags:
   - C
   - cppunit
   - testes
-post_format: [ ]
+
 ---
 ![CppUnit Logo by Luiz][1]
 

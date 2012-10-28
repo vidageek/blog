@@ -12,7 +12,7 @@ tags:
   - Heurística
   - IA
   - Opiniao
-post_format: [ ]
+
 ---
 ![Somos máquinas?][1]
 Somos máquinas?

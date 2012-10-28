@@ -6,7 +6,7 @@ layout: post
 category:
   - Uncategorized
 tags: [ ]
-post_format: [ ]
+
 ---
 [][1]Vivo uma relação de amor e ódio com o meu leitor de RSS. Por um tempo leio de maneira ávida, por outro deixo empoeirado, muitas vezes decido que ler feed é perda de tempo, outras que é extremamente essencial para o meu dia dia…
 

@@ -9,7 +9,7 @@ category:
   - Opiniao
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Enquanto eu resolvia o [primeiro desafio de expressividade][1], eu notei uma coisa relacionada ao [código das minhas classes][2].
 

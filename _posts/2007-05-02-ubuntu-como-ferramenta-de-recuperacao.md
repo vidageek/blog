@@ -9,7 +9,7 @@ category:
 tags:
   - Dicas
   - Linux
-post_format: [ ]
+
 ---
 Um problema um pouco recorrente no Linux é que, quando uma atualização é feita, em geral, algo para de funcionar. Isso aconteceu comigo hoje, quando fiz um update do meu Gentoo (aquele do [Guia Linux][1]) e os drivers de Wireless foram atualizados. Para resumir, quando vim para a faculdade descobri que não conseguia conectar meu micro.
 

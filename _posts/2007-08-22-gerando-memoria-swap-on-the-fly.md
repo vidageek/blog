@@ -11,7 +11,7 @@ tags:
   - Gentoo
   - Linux
   - Ubuntu
-post_format: [ ]
+
 ---
 No Linux (qualquer distribuição) é possível aumentar a sua memória** swap** (responsável por armazenar partes da sua RAM no disco) com uma pequena série, bem simples, de comandos. Isso é útil para não precisar reparticionar seu disco por falta de swap.
 

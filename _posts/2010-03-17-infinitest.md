@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Lembro que em pelo menos [ um post anterior][1] eu comentei sobre o [Infinitest][2].
 

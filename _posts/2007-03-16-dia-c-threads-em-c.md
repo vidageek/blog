@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Para deixar um sistema mais rápido (e muitas vezes mais “macio”) é necessário que você execute várias coisas ao mesmo tempo. Você não precisa fazer com que seu programa simplesmente pare de fazer algo simplesmente porque o usuário clicou em outro botão. Você também pode estar querendo aproveitar um segundo processador da máquina ou mesmo aumentar o número de acessos ao processador (é difícil fazer um jogo rodar quando o Windows come metade do sistema e o anti-vírus mastiga o resto). O que fazer então? Bom, você poderia pedir pro usuário fechar o anti-vírus (o que ele não vai fazer) ou mandar ele apelar pro bom senso e desligar o tocador de mp3, Word, Messenger, Internet Explorer e todas as tranqueiras que ele tem em stand-by para então rodar o seu programa. Esquece… Isso não vai acontecer. O que nós programadores podemos fazer, então? Simples. Podemos dividir o nosso programa em várias threads e aumentar a prioridade delas, aumentando o nosso acesso ao(s) processador(es) e diminuindo o dos outros programas. Mas vamos com calma.
 

@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Enfim chegamos à parte que todos esperavam. Como extrair ou últimos ciclos do seu processador. Como evitar fazer qualquer coisa que não seja realmente necessária ao seu código. Mas antes de começar a carnificina, algumas considerações:
 

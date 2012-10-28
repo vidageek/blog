@@ -12,7 +12,7 @@ tags:
   - Google
   - joshua_bloch
   - tech_talk
-post_format: [ ]
+
 ---
 ![Java][1]
 

@@ -15,7 +15,7 @@ tags:
   - OpenSource
   - Tutoriais
   - Ubuntu
-post_format: [ ]
+
 ---
 O Terminal é uma das ferramentas mais interessantes do Linux, e mesmo que você tenha o X instalado, dominar o bash é muito útil para realizar tarefas de forma muito mais rápida. Programadores normalmente usam mais o terminal do que a interface gráfica, sendo que já presenciei um amigo usar o lynx por ser mais rápido do que abrir o firefox e entrar numa determinada página na qual ele não precisava visualizar imagens.
 

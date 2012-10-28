@@ -10,7 +10,7 @@ tags:
   - Firefox
   - mozilla
   - noticias
-post_format: [ ]
+
 ---
 Uma matéria saiu hoje na Folha Online na sessão de Informática, dizendo que a Mozilla decidiu abrir um escritório na China para divulgar o Firefox, sendo que a China é hoje o segundo maior mercado de Web do mundo. Segue abaixo alguns trechos:
 

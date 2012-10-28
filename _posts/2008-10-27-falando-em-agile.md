@@ -7,7 +7,7 @@ category:
   - Agile
   - Eventos
 tags: [ ]
-post_format: [ ]
+
 ---
 ![Falando em Agile][1]  
 Continuando a minha saga de eventos do mês ,([Rails Summit][2], o [Encontro Ágil][3]), aconteceu em São paulo na quinta e na sexta o Falando em Agile, um evento sobre métodos ágeis bastante instrutivo e muito bem organizado.

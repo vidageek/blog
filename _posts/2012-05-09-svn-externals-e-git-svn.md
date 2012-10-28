@@ -7,7 +7,7 @@ category:
   - Dicas
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 No meu post anterior, sobre [git svn shallow cloning][1], acabei deixando de usar git naquele projeto por causa de um pequeno problema.
 

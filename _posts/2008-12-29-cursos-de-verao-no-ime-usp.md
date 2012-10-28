@@ -6,7 +6,7 @@ layout: post
 category:
   - Uncategorized
 tags: [ ]
-post_format: [ ]
+
 ---
 Todo ano, o Instituto de Matemática e Estatística da USP promove diversos cursos de matemática, estatística e computação para acadêmicos E não-acadêmicos interessados nessas áreas.
 

@@ -10,7 +10,7 @@ tags:
   - Jogos
   - nomic
   - regras
-post_format: [ ]
+
 ---
 ![Fluxx, um jogo de cartas no qual as regras mudam][1] Uma idéia bastante terna a qualquer geek que a conheça é a recursão e, por extensão, a auto-referência e a metalinguagem. E muitos gostam bastante de jogos. Então, o que acontece quando se faz um jogo cujas regras envolvem mudar as próprias regras? Aparentemente, [Nomic][2].
 

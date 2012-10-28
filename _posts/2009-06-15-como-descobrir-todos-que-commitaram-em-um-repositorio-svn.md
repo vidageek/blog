@@ -18,7 +18,7 @@ tags:
   - svn
   - uniq
   - usuario
-post_format: [ ]
+
 ---
 Recentemente escrevi um post sobre [como migrar seu repositório svn para o git][1]. Em um dos passos falo pra você criar uma lista de mapeamento dos seus usuários do svn para os do git. O único problema disso é descobrir quem são eles. Aqui vai um one-liner de bash que resolve isso :)
 

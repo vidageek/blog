@@ -15,7 +15,7 @@ tags:
   - OpenSource
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Nessa parte de nossa guia vamos abordar um assunto específico, mas muito interessante: Linguagens de Programação. O intuito desse guia não é abordar como se tornar um **programador** (para isso existem os cursos **Técnicos e Tecnológicos em Informática**) e nem um **Computólog**o (para isso existe o** Bacharelado em Ciência da Computação**), você verá como instalar algumas linguagens no Gentoo.
 

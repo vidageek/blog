@@ -9,7 +9,7 @@ category:
 tags:
   - Google
   - Programacao
-post_format: [ ]
+
 ---
 Essa é mais uma feature que o Google possui que está acelerando o processo de calvicie em mim.
 

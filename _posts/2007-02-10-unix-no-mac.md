@@ -12,7 +12,7 @@ tags:
   - Mac
   - OpenSource
   - port
-post_format: [ ]
+
 ---
 Para aqueles que ainda não sabem, o MacOS X é um sistema operacional derivado do Unix (Um dos melhores e mais seguros sistemas operacionais). Essa radical mudança de arquitetura permite que programas Unix sejam “portados” para MacOS X com facilidade (quando comparado com o MacOS 9 – Classic).  
 Existem diversos grupos que estão trabalhando para que aplicações Unix rodem em Mac. Dois dos principais são:

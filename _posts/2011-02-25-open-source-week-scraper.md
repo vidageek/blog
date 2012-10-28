@@ -8,7 +8,7 @@ category:
   - OpenSource
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 O Terceiro lançamento é o [Scraper][1].
 

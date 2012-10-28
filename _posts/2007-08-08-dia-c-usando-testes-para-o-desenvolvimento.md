@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 Ultimamente tenho ouvido falar muito sobre desenvolvimento orientado a testes (Test Driven Development). Uma grande vantagem dessa forma de produzir código é que você consegue garantir a consistência do seu sistema. Quando possuímos bons casos de teste, caso um bug seja inserido durante o desenvolvimento, identificamos o problema assim que rodarmos os casos de teste. Ou seja, trocamos dezenas de horas de debug por alguns segundos (ou talvez minutos) de testes rodando. Assim você acaba produzindo software em um tempo muito menor e provavelmente a qualidade do seu sistema será melhor também. 
 

@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Livros
   - Opiniao
-post_format: [ ]
+
 ---
 Voltando um pouco a escrever sobre livros (temos tido pouco tempo pra escrever nas últimas semanas) resolvi escrever sobre um livro que eu considero o mais bem escrito que já li.
 

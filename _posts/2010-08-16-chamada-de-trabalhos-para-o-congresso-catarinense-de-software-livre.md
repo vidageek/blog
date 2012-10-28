@@ -13,7 +13,7 @@ tags:
   - palestra
   - SC
   - solisc
-post_format: [ ]
+
 ---
 A **Associação Software Livre Santa Catarina** – SoLiSC – informa a abertura da chamada de trabalhos para o 5º SoLiSC – Congresso Catarinense de Software Livre.
 

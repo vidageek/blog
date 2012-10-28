@@ -9,7 +9,7 @@ category:
 tags:
   - Humor
   - Opiniao
-post_format: [ ]
+
 ---
 Depois de um bom tempo sem postar nada (fim de ano é complicado….), dei de cara com alguns sites que merecem ter sua engenhosidade (no uso do algoritmo Picareta) exposta como exemplo. 
 

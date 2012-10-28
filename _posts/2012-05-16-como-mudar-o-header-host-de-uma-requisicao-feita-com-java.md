@@ -10,7 +10,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Não sei exatamente em qual update do JDK 6 alguns headers Http, como o HOST, tiveram a sua modificação proibida por padrão, o que fez um amigo meu perder alguns dias de trabalho caçando um bug que surgiu repentinamente no cluster de produção.
 

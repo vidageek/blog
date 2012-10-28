@@ -9,7 +9,7 @@ tags:
   - Mac
   - Nokia
   - Vivo
-post_format: [ ]
+
 ---
 ![Nokia 5200][1]  
 Recentemente aproveitei a promoção da Vivo para cliente do serviço pós-pago que permitia comprar um celular novo por apenas R$10,00. Optei pelo modelo **Nokia 5200**, já que tendo usado Nokia, Motorola e Samsung, o Nokia me pareceu ter a melhor usabilidade. Mas infelizmente não fui capaz de sincroniza-lo com o meu **MacBook** através do **iSync**. Pesquisei um pouco e encontrei algumas soluções bizarras para resolver o problema. Por fim, me apareceu um blog que resolveu definitivamente o meu problema, fornecendo um ***plugin* para o iSync** para que ele suporte sem problemas o Nokia 5200. 

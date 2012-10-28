@@ -11,7 +11,7 @@ tags:
   - GeekStyleOfLife
   - Humor
   - RPG
-post_format: [ ]
+
 ---
 ![Caverna do Dragao][1] O desenho **Caverna do Dragão** é possivelmente o mais famoso da televisão brasileira. Baseado no RPG *Dungeons & Dragons* (que alias é o nome da série em inglês), o seriado trata sobre a ida de jovens comuns a um mundo de fantasia medieval, onde recebem as instruções do **Mestre dos Magos** e buscam ao mesmo tempo derrotar o **Vingador** e encontrar o caminho de volta para casa, o que provavelmente todos os nossos leitores já sabem. 
 

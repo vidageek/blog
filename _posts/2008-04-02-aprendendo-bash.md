@@ -20,7 +20,7 @@ tags:
   - SuSE
   - terminal
   - Ubuntu
-post_format: [ ]
+
 ---
 ![Terminal][1]  
 O **Bash** (Bourne Again Shell) é, com certeza, o *shell* mais utilizado no mundo. Ele é utilizado por padrão em todas as distribuições **linux** que conheço e também no **MacOSX**. Portanto o domínio de sua linguagem e comandos é essencial para os programadores que não utilizam exclusivamente o ambiente **Windows**. Na verdade, com o [cygwin][2] é possível ter todo poder do bash e outras ferramentas **GNU** no Windows, aumentando muito a produtividade do desenvolvedor.

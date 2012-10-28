@@ -8,7 +8,7 @@ category:
   - OpenSource
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 O segundo lançamento é da versão 0.5 do [I18n, lançado ano passado][1]. Essa versão resolve o problema que tivemos para lidar  
 com mensagens muito grandes (ficava muito ruim no .properties).

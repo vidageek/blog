@@ -11,7 +11,7 @@ tags:
   - iphone
   - Mac
   - Twitter
-post_format: [ ]
+
 ---
 ![Fa gdgt List][1]Seja você fanático ou não por dispositivos eletrônicos vai adorar a mais nova comunidade feita para esses maravilhas da tecnologia moderna, [gdgt.com][2].
 

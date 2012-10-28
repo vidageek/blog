@@ -11,7 +11,7 @@ tags:
   - lifehacker
   - Linux
   - Ubuntu
-post_format: [ ]
+
 ---
 Apesar de eu ser um grande fã de Gentoo, e pelo o que me falaram o Ubuntu não vem com o gcc (???), tenho que admitir que o Ubuntu é uma distribuição em constante crescimento e que pode ser uma alternativa fácil para pessoas que desejam migrar do Windows para o Linux e não são programadores ou *heavy-users*.
 

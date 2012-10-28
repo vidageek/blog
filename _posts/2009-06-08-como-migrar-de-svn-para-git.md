@@ -11,7 +11,7 @@ tags:
   - git
   - github
   - svn
-post_format: [ ]
+
 ---
 Sei que tem um monte de tutoriais por aí de como migrar de svn para git, mas não achei nenhum com tudo que eu precisasse e em português. Então aqui vai o meu :)
 

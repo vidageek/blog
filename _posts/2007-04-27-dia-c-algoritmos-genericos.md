@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 A construção de algoritmos genéricos é útil pois evita que você tenha que reescrever código muito semelhante para trabalhar com dados diferentes. Bons exemplos de algoritmos genéricos são o qsort e bsearch, ambos da stdlib.h . Eles são implementações de um algoritmo de ordenação e de busca em vetores de qualquer tipo de dado. Eles funcionam mais ou menos assim:  
 - Além das informações óbvias, como o vetor a ser ordenado (base) ou item a ser procurado (key) e o tamanho deste vetor (nmemb), eles também pedem que você passe o tamanho em bytes de um item do vetor (size) e uma função de comparação para esses itens (comp). É aqui que começa a parte genérica do algorítmo.

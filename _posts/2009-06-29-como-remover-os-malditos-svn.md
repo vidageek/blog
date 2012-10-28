@@ -13,7 +13,7 @@ tags:
   - rm
   - svn
   - xargs
-post_format: [ ]
+
 ---
 Uma das coisas que mais me atrapalhava com o svn era quando eu queria gerar um snapshot do que tinha no repositório, mas sem os .svn .
 

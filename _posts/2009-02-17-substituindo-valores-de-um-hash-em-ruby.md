@@ -14,7 +14,7 @@ tags:
   - Rails
   - Rspec
   - Ruby
-post_format: [ ]
+
 ---
 ![Ruby Logo][1]
 

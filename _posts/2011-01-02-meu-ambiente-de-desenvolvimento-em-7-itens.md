@@ -21,7 +21,7 @@ tags:
   - malabarismo
   - rhythmbox
   - Ubuntu
-post_format: [ ]
+
 ---
 Nesse fim de 2010, começo de 2011, uma brincadeira circula entre os desenvolvedores que conheço e resolvi entrar na roda. É um tanto simples: cada um descreve seu ambiente de trabalho em 7 ítens. Então, aí vai o meu:
 

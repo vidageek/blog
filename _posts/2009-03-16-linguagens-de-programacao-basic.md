@@ -13,7 +13,7 @@ tags:
   - linguagens de programação
   - Quick Basic
   - visual-basic
-post_format: [ ]
+
 ---
 Voltando hoje com a nossa série “Linguagens de Programação”, temos um post de um de nossos leitores: André Luis Zary Mariano da Silva. André tem 17 anos, mora em Porto Alegre e é estudante do primeiro ano do ensino médio, técnico em informática e programador freelancer. Também escreve o [blog][1] “C, C++, Java e baboseiras”.
 

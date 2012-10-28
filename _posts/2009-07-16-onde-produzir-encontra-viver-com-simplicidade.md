@@ -22,7 +22,7 @@ tags:
   - moleskine
   - wikonomics
   - won
-post_format: [ ]
+
 ---
 Já não dá mais para chamar de nova a idéia de que o atual avanço tecnológico tornou mais fácil produzir todo tipo de conteúdo. A literatura está farta de títulos que desmantelam o assunto, tanto densos como o famoso Wealth of Networks de Yochai Benkler (Riqueza das Redes em português) até os mais “mastigados” como em Wikonomics de Don Tapscot, tentam explicar como temos avançado na produção de cultura, principalmente de maneira colaborativa e distribuída.
 

@@ -9,7 +9,7 @@ category:
   - Discussões
   - Opiniao
 tags: [ ]
-post_format: [ ]
+
 ---
 Uma coisa que me incomoda desde o fim do ensino médio é a faculdade. Tem piorado bastante conforme eu vejo que ela não acrescenta muito a minha vida.  
 Tenho certeza que tem muita gente pensando “Poxa, será que devo me matar de estudar para fazer uma faculdade? Ou devo tentar investir em mim e me preparar para o mercado?”.

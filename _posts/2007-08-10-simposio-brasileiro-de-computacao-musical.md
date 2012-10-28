@@ -14,7 +14,7 @@ tags:
   - IME
   - Nyquist
   - usp
-post_format: [ ]
+
 ---
 Nos dias 1 a 4 de setembro, o IME/USP será sede do 11º Simpósio Brasileiro de Computação Musical.
 

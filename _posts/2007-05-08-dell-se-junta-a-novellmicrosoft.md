@@ -16,7 +16,7 @@ tags:
   - OpenSource
   - SuSE
   - windows
-post_format: [ ]
+
 ---
 Saiu no jornal Estado de São Paulo, o anúncio da união da Dell a Novell e Microsoft pela maior interação entre Linux SuSE e Windows.
 

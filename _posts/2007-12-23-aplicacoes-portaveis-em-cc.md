@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Linux
   - Programacao
-post_format: [ ]
+
 ---
 Um requisito cada vez mais importante hoje em dia para uma aplicação é a portabilidade. Com cada vez mais sistemas diferentes no mercado, com configurações e necessidades específicas, fica mais difícil atingir esse objetivo.
 

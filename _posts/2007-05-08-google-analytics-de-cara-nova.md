@@ -9,7 +9,7 @@ category:
 tags:
   - Google
   - News
-post_format: [ ]
+
 ---
 O [Google Analytics][1] acaba de reformular sua interface de relatórios. No lugar dos quatro gráficos (realmente muito informativos) do painel inicial, existem diversos relatórios. E o melhor, você pode definir quais são eles.  
 Além da maioria desses relatórios possuirem links diretos para exibição de maiores detalhes (algo difícil de se fazer na versão anterior), você ainda pode:

@@ -9,7 +9,7 @@ category:
 tags:
   - Gentoo
   - Linux
-post_format: [ ]
+
 ---
 O Guilherme, um dos nossos leitores mandou, através de um comentário no [Guia Linux – Parte I: Introdução][1], uma dúvida sobre a relação entre o **Udev** e o **Coldplug** no Gentoo basicamente sobre qual utilizar (pois a um conflito no portage entre os dois), quais eram as conseqüências de não instalar o Coldplug e qual era a funcionalidade do Udev.
 

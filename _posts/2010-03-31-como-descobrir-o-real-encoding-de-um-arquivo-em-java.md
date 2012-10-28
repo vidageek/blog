@@ -14,7 +14,7 @@ tags:
   - encoding
   - icu
   - unicode
-post_format: [ ]
+
 ---
 Um dos grandes problemas que enfrentamos no meu atual projeto na [AdaptWorks][1] foi descobrir qual o real encoding de páginas html arbitrárias.
 

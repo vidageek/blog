@@ -13,7 +13,7 @@ tags:
   - Formacao
   - Programacao
   - Software
-post_format: [ ]
+
 ---
 ![Dúvidas?][1]
 

@@ -11,7 +11,7 @@ tags:
   - Google
   - Humor
   - Linux
-post_format: [ ]
+
 ---
 Como de praxe, vários sites da área publicaram notícias “pegadinha” em todo o mundo. Nesse exercício de criatividade extrema, separamos alguns destaques e seus melhores trechos:
 

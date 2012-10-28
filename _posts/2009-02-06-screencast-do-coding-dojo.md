@@ -10,7 +10,7 @@ tags:
   - Eventos
   - Programacao
   - tdd
-post_format: [ ]
+
 ---
 O Bruno Pedroso publicou hoje um screencast do Coding Dojo – evento que ocorre em diversas cidades do país para desenvolver técnicas de Test Driven Development (TDD). 
 

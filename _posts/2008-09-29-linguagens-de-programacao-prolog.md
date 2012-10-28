@@ -16,7 +16,7 @@ tags:
   - Programação Declarativa
   - Programação Lógica
   - prolog
-post_format: [ ]
+
 ---
 ![Coloração de mapas][1]  
 Continuando com nossa série sobre linguagens de programação, vou falar um pouco sobre um linguagem um tanto estranha, mas muito poderosa: Prolog. Ao contrário das outras linguagens já abordadas (vide acima), [Prolog][2] não é uma [linguagem imperativa][3], na qual você “dá ordens” para o computador, mas sim uma [linguagem declarativa][4], na qual você “diz” para o computador como é o problema que seu programa deve resolver.

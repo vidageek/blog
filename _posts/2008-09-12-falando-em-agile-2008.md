@@ -6,7 +6,7 @@ layout: post
 category:
   - Uncategorized
 tags: [ ]
-post_format: [ ]
+
 ---
 ![Falando em Agile 2008][1]
 Falando em Agile 2008

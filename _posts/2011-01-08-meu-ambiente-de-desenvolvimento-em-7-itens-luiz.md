@@ -25,7 +25,7 @@ tags:
   - typeracer
   - vim
   - wordsquared
-post_format: [ ]
+
 ---
 Assim como a Cecilia, eu também resolvi entrar na brincadeira, convidado pelo [David Paniz][1].
 

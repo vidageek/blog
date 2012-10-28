@@ -13,7 +13,7 @@ tags:
   - grimm
   - Livros
   - News
-post_format: [ ]
+
 ---
 O sistema de busca em livros da [Google Book Search][1] ganhou forte apoio da biblioteca do Estado Bávaro, uma das maiores do mundo em língua alemã. A biblioteca sediada em Munique pretende disponibilizar 1 milhão (dos seus 9 milhões) para serem digitalizados, incluindo clássicos de Goethe e os contos de fadas dos Irmãos Grimm.  
 Além dessa biblioteca, várias universidades dos Estados Unidos estão apoiando o projeto.

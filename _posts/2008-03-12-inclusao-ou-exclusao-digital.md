@@ -7,7 +7,7 @@ category:
   - OpenSource
   - Opiniao
 tags: [ ]
-post_format: [ ]
+
 ---
 ![Exclusão Digital][1]  
 Uma constante preocupação surge entre os educadores e políticos ligados ao bem-estar social: a **inclusão digital**. Infelizmente o que vemos na prática esta muito além do que gostaríamos. Um exemplo é a minha cidade natal, já que **Bauru** (interior de São Paulo) implantou a um ano um projeto de inclusão digital com algumas características bem discutíveis. Uma revista local menciona que a [Planeta Educação][2] foi contratada por licitação para implantar o projeto [Click Inclusão][3] em todas as 15 escolas municipais de Ensino Fundamental de Bauru, composto de 284 computadores e 18 títulos de *softwares* educacionais e beneficia dez mil alunos. [1]  

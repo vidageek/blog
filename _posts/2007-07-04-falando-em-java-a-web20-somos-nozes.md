@@ -13,7 +13,7 @@ tags:
   - Philip-Calçado
   - Web 2.0
   - web2.0
-post_format: [ ]
+
 ---
 Após enfrentar longas horas de aeroporto (e acabar vindo de ônibus), [Philip Calçado][1] ainda teve pique para dar uma palestra divertida e focada na desambiguação do termo “Web2.0″.
 

@@ -7,7 +7,7 @@ category:
   - Dicas
 tags:
   - Dicas
-post_format: [ ]
+
 ---
 Eu odeio spam. Fico realmente incomodado em receber centenas de comentários spam por dia. Mesmo com o [Akismet][1] segurando quase tudo (de vez em quando um passa por ele), eu gostaria de um controle mais rígido. Num mundo ideal eu gostaria de nem receber esses spam.
 

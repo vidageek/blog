@@ -13,7 +13,7 @@ tags:
   - Java
   - linguagens de programação
   - orientação a objetos
-post_format: [ ]
+
 ---
 ![C++][1]Não tenho tanta experiência com C++, mas a que tenho já é suficiente para mim.
 

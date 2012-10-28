@@ -13,7 +13,7 @@ tags:
   - lucene
   - search
   - textual
-post_format: [ ]
+
 ---
 Semanas atrás eu apanhei bastante do [Hibernate Search][1]. Na verdade, não foi dele que eu apanhei, mas de não entender algo fundamental sobre ele.
 

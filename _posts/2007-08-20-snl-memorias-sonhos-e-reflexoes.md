@@ -11,7 +11,7 @@ tags:
   - Dicas
   - Livros
   - Opiniao
-post_format: [ ]
+
 ---
 Seguindo com nossa série sobre livros, aqui vai um dos meus preferidos.
 

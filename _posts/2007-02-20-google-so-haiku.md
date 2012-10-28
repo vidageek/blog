@@ -10,7 +10,7 @@ tags:
   - Google
   - haiku
   - OpenSource
-post_format: [ ]
+
 ---
 O [Haiku][1] é um Sistema Operacional que utiliza a licença MIT e é baseado no BeOS (Be Operative System), extinto em 18 de agosto de 2001. Ele surgiu exatamente com o desaparecer do BeOS e apesar de pequeno, ainda tem muitos erros a corrigir.
 

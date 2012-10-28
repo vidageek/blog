@@ -17,7 +17,7 @@ tags:
   - patentes
   - rishab
   - Software Livre
-post_format: [ ]
+
 ---
 ![Rishab Aiyer Ghosh][1]
 

@@ -11,7 +11,7 @@ tags:
   - lean
   - poli
   - startup
-post_format:
+
   - Standard
 ---
 [![20111214-161430.jpg][2]][2] A [PopTask][3] é uma plataforma de engajamento de usuários e potenciais clientes, que incentiva a participação ativa na criação da propaganda pela realização de tarefas e desafios, através dos quais os usuários, produzem e consomem o conteúdo de maneira criativa, colaborativa e divertida. 

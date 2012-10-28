@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Em Java, existe um bloco de código que é executado no momento em que o ClassLoader pega a sua classe e carrega ela. Isso ocorre antes de existir uma instância da sua classe.
 

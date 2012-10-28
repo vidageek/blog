@@ -16,7 +16,7 @@ tags:
   - OpenSource
   - php
   - Tutoriais
-post_format: [ ]
+
 ---
 Hoje em dia com o crescimento dos aplicativos rodando exclusivamente na Web todo programador acaba eventualmente aprendendo uma linguagem de programação de scripts que possa ser executada e tranformada num HTML. Antigamente o **PHP** e o Microsoft** ASP** dominavam o mercado, apesar de existirem outras linguagens como o **ColdFusion** e o **Perl** (através dos **CGIs**). Hoje **Ruby on Rails** e **Java EE** vão ganhando espaço, mas a maior parte dos sistemas ainda são em PHP. Tanto que foi criada a sigla **LAMP** (**L**inux + **A**pache + **M**ySQL + **P**HP) para representar um bom sistema completamente open-source para o PHP. Aqui damos algumas dicas de como instalar um LAMP no seu **Gentoo**.
 

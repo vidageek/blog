@@ -8,7 +8,7 @@ category:
 tags:
   - Humor
   - Math
-post_format: [ ]
+
 ---
 ![Avoid Pi][1]  
 Recentemente me deparei com um [texto][2] falando porque não devemos calcular PI em binário. Existe uma conjectura que PI é um numero normal, e portanto contém todas seqüências finitas de *bits*. Portanto, caso você calcule PI (eu sei que ele é um número não periódico, já que é irracional e portanto não tem como calcula-lo até o final) você violará várias leis, para citar algumas: 

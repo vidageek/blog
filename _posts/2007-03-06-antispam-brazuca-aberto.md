@@ -7,7 +7,7 @@ category:
   - OpenSource
 tags:
   - OpenSource
-post_format: [ ]
+
 ---
 Uma notícia muito boa para o Software Livre nacional:
 

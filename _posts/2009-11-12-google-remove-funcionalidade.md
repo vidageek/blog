@@ -11,7 +11,7 @@ tags:
   - docs
   - funcionalidades
   - Google
-post_format: [ ]
+
 ---
 Continuando a série de coisas que funcionavam e não funcionam mais, depois da frustração com o novo [Apple Magic Mouse][1], vamos falar do Google Docs.
 

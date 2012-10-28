@@ -15,7 +15,7 @@ tags:
   - mirror
   - Programming
   - reflection
-post_format: [ ]
+
 ---
 Alguns devem ter notado que faz alguns meses que não escrevo para o VG com frequencia. Um dos motivos disso foi este projeto.
 

@@ -13,7 +13,7 @@ tags:
   - privacidade
   - São Paulo
   - spam
-post_format: [ ]
+
 ---
 Geeks não são exatamente adeptos de política, mas quando a política é forçada garganta abaixo, é preciso dizer o que pensamos. 
 

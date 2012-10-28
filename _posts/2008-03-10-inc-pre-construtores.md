@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Java possui um bloco de código que é executado antes dos contrutores da sua classe, mas depois que sua classe já está carregada para a memória.
 

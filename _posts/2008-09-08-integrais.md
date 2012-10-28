@@ -12,7 +12,7 @@ tags:
   - Dicas
   - integral
   - Wolfram
-post_format: [ ]
+
 ---
 ![Integral? Socorro!][1]
 

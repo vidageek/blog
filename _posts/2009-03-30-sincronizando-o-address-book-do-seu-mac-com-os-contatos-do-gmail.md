@@ -13,7 +13,7 @@ tags:
   - hack
   - lifehacker
   - Mac
-post_format: [ ]
+
 ---
 ![synronize-with-google][1]
 

@@ -13,7 +13,7 @@ tags:
   - Misc
   - OpenSource
   - Uncategorized
-post_format: [ ]
+
 ---
 Após a palestra sobre Wireless Meshing com OLPC, conversamos brevemente com o palestrante da apresentação anterior, “Meshy Communications with the OLPC XO”.
 

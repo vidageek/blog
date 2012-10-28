@@ -16,7 +16,7 @@ tags:
   - JVM
   - Mainstream
   - Sun
-post_format: [ ]
+
 ---
 ![Duke][1]
 Duke: O mascote oficial de JavaJava é uma das linguagens 

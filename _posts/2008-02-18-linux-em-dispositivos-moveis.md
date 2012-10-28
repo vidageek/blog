@@ -14,7 +14,7 @@ tags:
   - Linux
   - Notebook
   - Ubuntu
-post_format: [ ]
+
 ---
 ![Linux num laptop][1]  
 Quem já instalou alguma distribuição Linux além do **Ubuntu** (e as vezes até o mesmo) sabe como pode ocorrer vários problemas para fazer alguns dispositivos funcionarem. Aparentemente isso é ainda mais complicado em caso de ***notebooks***, que variam muito a características de hardware. Outro problema é, se você deseja comprar um novo *notebook*, será que ele é **Linux-friendly**, ou seja, será que você vai instalar alguma distribuição e, mesmo que de trabalho, você conseguirá que tudo funcione nele? 

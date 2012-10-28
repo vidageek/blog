@@ -12,7 +12,7 @@ tags:
   - gpl
   - Impressora
   - RepRap
-post_format: [ ]
+
 ---
 ![RepRap][1]
 

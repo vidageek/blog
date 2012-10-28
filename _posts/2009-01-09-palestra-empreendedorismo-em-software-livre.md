@@ -20,7 +20,7 @@ tags:
   - palestra
   - Software
   - Wasserman
-post_format: [ ]
+
 ---
 Começando o ano com o pé direito, já na primeira segunda-feira, fomos assistir uma palestra no IME/USP sobre Empreendedorismo em Software Livre. O palestrante é o professor e entuasiasta de software livre [Anthony Wasserman][1], da Carnegie Mellon West – o campus do Vale do Silício de [uma das melhores universidades em Ciência da Computação][2].
 

@@ -10,7 +10,7 @@ tags:
   - key
   - permissão
   - ssh
-post_format: [ ]
+
 ---
 Uma vez por semestre (pelo menos) eu passo por um problema bizarro quando eu preciso configurar login utilizando chaves de criptografia.
 

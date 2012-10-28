@@ -9,7 +9,7 @@ tags:
   - Nokia
   - usp
   - wireless
-post_format: [ ]
+
 ---
 ![][1]
 

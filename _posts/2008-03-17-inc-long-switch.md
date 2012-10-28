@@ -8,7 +8,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Uma peculiaridade estranha do switch do java é que ele não funciona para o tipo long.
 

@@ -9,7 +9,7 @@ category:
 tags:
   - Linux
   - Tutoriais
-post_format: [ ]
+
 ---
 Este aqui é o primeiro post de uma espécie de guia sobre ferramentas da shell e um pouco de scripts (aqui darei ênfase na **B**ourne **A**gain **Sh**ell – Bash). A cada post (provavelmente farei mais de um por semana) falarei de cerca de três ou quatro ferramentas, começando pelas ferramentas mais básicas (cd, cp, rm, etc) até chegar aos scripts. Não pretendo cobrir todas as ferramentas, mas dar uma boa base para aqueles que estão começando a conhecer e a se apaixonar por sistemas Unix.
 

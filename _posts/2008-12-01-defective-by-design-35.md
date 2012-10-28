@@ -18,7 +18,7 @@ tags:
   - iphone
   - Mac
   - won
-post_format: [ ]
+
 ---
 ![][1]
 

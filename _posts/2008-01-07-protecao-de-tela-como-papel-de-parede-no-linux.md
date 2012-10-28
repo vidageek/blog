@@ -14,7 +14,7 @@ tags:
   - gnome
   - Linux
   - proteção_de_tela
-post_format: [ ]
+
 ---
 Segue uma dica que achei na internet e é bem interessante. É possível colocar uma proteção de tela como papel de parede do Linux, por exemplo a animação do Matrix.  
 ![Proteção de Tela no Nautilus][1]Isso pode ser feito de maneira bem fácil, mas infelizmente não funciona com o Compiz Fusion.Inicialmente, configuramos o Nautilus para não mostrar o desktop tradicional:

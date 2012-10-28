@@ -14,7 +14,7 @@ tags:
   - ps1
   - sed
   - terminal
-post_format: [ ]
+
 ---
 Umas das coisas legais que bash tem é uma variável que define como deve ser o prompt da linha de comando. Essa variavel de ambiente se chama PS1. Um dos usos mais incríveis que já vi dela foi o de mostrar em qual branch do git você está (e não mostrar nada quando você não está em um repositório).
 

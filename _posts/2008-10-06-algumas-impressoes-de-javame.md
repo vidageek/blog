@@ -14,7 +14,7 @@ tags:
   - JavaME
   - Mobile
   - Portabilidade
-post_format: [ ]
+
 ---
 ![][1]  
 Recentemente desenvolvi, em parceria com o Rafael, autor aqui do blog, uma aplicação simples em Java para celular. A aplicação é um jogo de batalha naval, que pode ser jogado contra o computador ou contra outro celular, via internet. Vou comentar, aqui, algumas dificuldades que encontrei pelo caminho.

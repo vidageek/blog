@@ -15,7 +15,7 @@ tags:
   - linguagens de programação
   - Linux
   - máquinas virtuais
-post_format: [ ]
+
 ---
 C é uma das linguagens mais famosas e utilizadas que existem. Também, é bastante antiga, já que sua primeira versão é de 1972. Apesar da idade, ainda é muito utilizada devido à sua generalidade e velocidade. Aqui no VidaGeek, já publicamos uma série de posts sobre C (vide [Dia C][1]), então não vou falar sobre a sintaxe de C. Mas vou dar minha opinião sobre ela.
 

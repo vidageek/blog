@@ -9,7 +9,7 @@ category:
 tags:
   - Gentoo
   - Linux
-post_format: [ ]
+
 ---
 Esta é a primeira parte de um guia que pretende mostrar como instalar uma distribuição Linux em sua máquina, possibilitando que você tenha um sistema completamente funcional, com todas as ferramentas que você pode precisar e sem nenhum custo, exceto, talvez algumas horas de aprendizado.
 

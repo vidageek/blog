@@ -11,7 +11,7 @@ tags:
   - ICPC
   - IME/USP
   - Maratona de Programação
-post_format: [ ]
+
 ---
 Nesta quarta, a final da Maratona de Programação [ACM-ICPC][1] desse ano reuniu, em Banff, Canadá, os 98 melhores times de programação, vindos de diversos países.
 

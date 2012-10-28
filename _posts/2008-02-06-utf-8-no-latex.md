@@ -13,7 +13,7 @@ tags:
   - texlive
   - utf-8
   - utf8
-post_format: [ ]
+
 ---
 Recentemente tive um problema com uma mudança de pacotes no Ubuntu. O antigo TeTex foi substituido pelo TeXLive, que possui uma pequena incompatibilidade no uso de arquivos com encoding UTF-8 (e quando você manda instalar o TeTex, ele instala o TeXLive).
 

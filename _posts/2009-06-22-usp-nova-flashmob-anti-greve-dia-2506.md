@@ -10,7 +10,7 @@ tags:
   - flashmob
   - greve
   - usp
-post_format: [ ]
+
 ---
 Começo esse post pedindo desculpas aos nossos leitores que não fazem parte da USP, mas algumas causas exigem que mesmo quem não gosta de se manifestar em questões políticas faça algo a respeito.
 

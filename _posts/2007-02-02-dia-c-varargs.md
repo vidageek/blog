@@ -13,7 +13,7 @@ tags:
   - Dicas
   - Programacao
   - Tutoriais
-post_format: [ ]
+
 ---
 A partir de hoje, toda sexta-feira será o dia “C”, dia em que eu irei postar aqui no blog dicas sobre programação na linguagem C (sim, puro C, nada de C++, C#, Objective-C ou outros).  
 Antes de mais nada, é bom avisar que os posts não são destinados a quem começou a aprender C agora (nada impede que leiam, mas vai ser difícil de entender) e sim para pessoas que já têm alguma experiência (por exemplo, conseguem fazer um jogo de sudoku). Dados esses avisos, vamos começar.

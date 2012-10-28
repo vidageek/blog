@@ -13,7 +13,7 @@ tags:
   - News
   - OpenSource
   - venezuela
-post_format: [ ]
+
 ---
 Por motivações ideológicas Cuba e Venezuela uniram-se com objetivo de migrar os computadores do governo para Linux. Também haviam sido levantadas suspeitas sobre a colaboração da Microsoft com o governo dos Estados Unidos.  
 Essa parece ser a tendência de diversos governos (embora a maioria seja movida por questões financeiras) pois Brasil, China e outros também estão migrando (ou tentando migrar) seus sistemas para Software Livre.  

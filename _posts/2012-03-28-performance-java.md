@@ -7,7 +7,7 @@ category:
   - Java
   - Programacao
 tags: [ ]
-post_format: [ ]
+
 ---
 Desde o ano passado tenho trabalhado com um foco bem forte em performance e otimização de aplicações Java.
 

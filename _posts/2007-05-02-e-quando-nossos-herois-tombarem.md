@@ -18,7 +18,7 @@ tags:
   - pianola
   - richard_stallman
   - software_livre
-post_format: [ ]
+
 ---
 O FISL já terminou faz algumas semanas e eu ainda não consegui escrever sobre uma palestra: “Why is Software Livre! like a Pianola”, de John “Maddog” Hall.
 

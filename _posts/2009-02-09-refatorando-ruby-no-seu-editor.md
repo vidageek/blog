@@ -11,7 +11,7 @@ tags:
   - Refatoração
   - Ruby
   - TextMate
-post_format: [ ]
+
 ---
 Recentemente, o [Fabio Kung][1] (um dos gurus brasileiros de Ruby) publicou em seu blog um [post][2] sobre a nova ferramenta que está desenvolvendo: o Rfactor. 
 

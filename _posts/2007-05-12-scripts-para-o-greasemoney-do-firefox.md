@@ -12,7 +12,7 @@ tags:
   - Google
   - greasemonkey
   - scripts
-post_format: [ ]
+
 ---
 Há algum tempo atrás [analisamos][1] no nosso blog algumas das extensões mais interessantes para o Firefox. Uma das mais interessantes é o Greasemonkey que permite inserir códigos nas páginas visitadas, adicionando funcionalidades no mesmo. Abaixo estão os scripts que atualmente uso:
 

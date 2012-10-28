@@ -16,7 +16,7 @@ tags:
   - Summer of Code
   - Umit
   - Winter of Code
-post_format: [ ]
+
 ---
 A palestra da Google sobre o Summer of Code se ateve ao básico: apresentaram o projeto e as motivações do projeto, tanto para a Google quanto para os estudantes participantes.
 

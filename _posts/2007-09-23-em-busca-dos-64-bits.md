@@ -13,7 +13,7 @@ tags:
   - Firefox
   - Linux
   - Ubuntu
-post_format: [ ]
+
 ---
 Já não é novidade pra ninguém que o mundo está sendo tomado pelos processadores com 64 bits. Qualquer micro novo que você compre vem com um processador dual core 64 bits. Mas, como ainda estamos em processo de migração dos 32 para os 64 bits, vários problemas acontecem.
 

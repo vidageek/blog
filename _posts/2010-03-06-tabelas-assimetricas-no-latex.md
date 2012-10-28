@@ -12,7 +12,7 @@ tags:
   - multirow
   - span
   - tabela assimétrica
-post_format: [ ]
+
 ---
 O post de hoje tem, novamente, a colaboração do nosso leitor Cacio Gazola. Mas desta vez foi ele que escreveu a base. Segue o texto adaptado:
 

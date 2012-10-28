@@ -8,7 +8,7 @@ category:
 tags:
   - Life
   - Math
-post_format: [ ]
+
 ---
 ![Life][1]  
   

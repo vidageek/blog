@@ -9,7 +9,7 @@ tags:
   - arte
   - Humor
   - Uncategorized
-post_format: [ ]
+
 ---
 Mais sobre o diretor de Pulp Fiction no [imdb][1].
 

@@ -15,7 +15,7 @@ tags:
   - infravermelho
   - interface
   - wii
-post_format: [ ]
+
 ---
 ![Wii Remote e Nunchuk][1]  
 Esse post eu devo ao Marcos Bonci Cavalca, aluno de iniciação científica orientado pelo mesmo orientador que eu ([prof. Marcel Jackowski][2]). O Marcos está pesquisando interfaces para programas de imagens médicas e pretende usar o Wii Remote na interface que está desenvolvendo. Com as reuniões periódicas do grupo de pesquisa, eu acabei aprendendo um pouco também e resolvi contar aqui.

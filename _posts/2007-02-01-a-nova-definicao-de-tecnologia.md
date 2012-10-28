@@ -10,7 +10,7 @@ tags:
   - Humor
   - itunes
   - podcast
-post_format: [ ]
+
 ---
 O sempre engraçado [Strong Bad][1] nos dá uma palestra sobre o que é Tecnologia nesse [episódio][2] (em inglês).
 

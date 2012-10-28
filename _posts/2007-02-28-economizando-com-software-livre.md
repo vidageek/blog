@@ -9,7 +9,7 @@ category:
 tags:
   - OpenSource
   - Opiniao
-post_format: [ ]
+
 ---
 Uma notícia da Folha Oline sobre Softwate Livre:
 

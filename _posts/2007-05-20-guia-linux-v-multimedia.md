@@ -14,7 +14,7 @@ tags:
   - mplayer
   - rhythmbox
   - totem
-post_format: [ ]
+
 ---
 Nessa parte do Guia Linux iremos abordar como utilizar o seu Gentoo para assistir filmes e escutar música no seu computador. Começamos ensinando como escutar MP3s e então abordaremos a visualização de filmes em vários formatos.
 

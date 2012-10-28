@@ -9,7 +9,7 @@ tags:
   - Ficção Ciêntifica
   - Sci-Fi
   - The Day
-post_format: [ ]
+
 ---
 ![Abdução][1]  
 Como muitos dos Geeks são adeptos de Sci-Fi, hoje tenho uma dica para nossos leitores. Trata-se do blog [io9][2], que notícia muito bem esse gênero. Através do mesmo pude descobrir coisas incríveis como: 

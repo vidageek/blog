@@ -13,7 +13,7 @@ tags:
   - khaled
   - literatura
   - pipas
-post_format: [ ]
+
 ---
 ![][1]
 

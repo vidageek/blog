@@ -19,7 +19,7 @@ tags:
   - Programacao
   - Sérgio-Lopes
   - Web 2.0
-post_format: [ ]
+
 ---
 Neste sábado, 30/07, aconteceu o evento Falando em Java da [Caelum][1] no Centro Universitário da FEI.
 

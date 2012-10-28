@@ -10,7 +10,7 @@ tags:
   - Mac
   - Mac OSX
   - Ruby
-post_format: [ ]
+
 ---
 ![Rubygems][1]  
 Recentemente fui iniciar um projeto pessoal utilizando Ruby on Rails. Meu objetivo era utilizar o Cucumber para fazer teste de integração e desenvolvimento dirigido por comportamento. Ao tentar utilizar o “rake features” para gerar os arquivos do Cucumber, obtive o seguinte resultado: 

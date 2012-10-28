@@ -13,7 +13,7 @@ tags:
   - Linux
   - News
   - OpenSource
-post_format: [ ]
+
 ---
 O Gentoo enfim liberou sua versão 2007.0 para download e publicou um press release explicando as principais diferenças de cada iso e arquitetura, comparada à versão anterior (2006.1).
 
