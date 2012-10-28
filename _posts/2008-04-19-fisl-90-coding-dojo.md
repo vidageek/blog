@@ -1,24 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Coding Dojo'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - Java
-  - Programacao
-  - Software
-tags:
-  - ágil
-  - dinâmico
-  - dojo
-  - FISL 9.0
-  - Hugo Corbucci
-  - Mariana Bravo
-  - romanos
-  - tdd
-
 ---
 A palestra, não exatamente num formato normal, começou com uma votação sobre a linguagem (Ruby, Phyton ou Java) seguido de uma breve explicação sobre o Dojo.
 
@@ -33,32 +16,16 @@ Definitivamente em baby-steps, começamos a implementação dos testes e do mét
 
 Algumas perguntas particularmente relevantes surgiram, também:
 
-*   Quantas pessoas no máximo participam de um Dojo? 
-    Tantas quantas forem possíveis mantendo o foco do grupo e o aprendizado. Quantos mais pessoas, menos o grupo, como um todo, aprende.</li> 
-    *   Como são escolhidos os problemas para o Dojo? 
-        Normalmente, pega-se problemas prontos como em ACM-UVA arbitrariamente, de acordo com o grupo.</li> </ul> 
-        E também uma observação interessante:
-        
-        *“Em vivência acadêmica, temos contato com a maratona de programação, onde o foco é resolver rapidamente e sem se preocupar com beleza de código. O Dojo vai exatamente pelo lado contrário, se preocupando com a beleza do código e os testes e não com o tempo gasto ou com a completude do problema.”*
-        
-        Desculpe a citação não literal, mas acho que passei a idéia corretamente. 
-        **Posts Relacionados:** 
+* Quantas pessoas no máximo participam de um Dojo? 
+* Tantas quantas forem possíveis mantendo o foco do grupo e o aprendizado. Quantos mais pessoas, menos o grupo, como um todo, aprende.
+* Como são escolhidos os problemas para o Dojo? 
+* Normalmente, pega-se problemas prontos como em ACM-UVA arbitrariamente, de acordo com o grupo.
 
-        
-        <g:plusone size="medium" count="false" href=""></g:plusone> 
-        
-        [Tweet][2] 
-        
-        
-        
-        
-        
+E também uma observação interessante:
 
+* “Em vivência acadêmica, temos contato com a maratona de programação, onde o foco é resolver rapidamente e sem se preocupar com beleza de código. O Dojo vai exatamente pelo lado contrário, se preocupando com a beleza do código e os testes e não com o tempo gasto ou com a completude do problema.”*
 
+Desculpe a citação não literal, mas acho que passei a idéia corretamente. 
 
- [1]: http://dojo.epistemol.net
-
-
-
-
+[1]: http://dojo.epistemol.net
 
