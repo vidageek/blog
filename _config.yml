@@ -4,3 +4,5 @@ name: VidaGeek.net
 description: >
   Linux, Open-source, Programação e
   Produtividade
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
