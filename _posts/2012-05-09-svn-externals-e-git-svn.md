@@ -26,7 +26,7 @@ Aparentemente o **git svn** ainda não suporta svn externals. Então em projetos
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2012/05/02/git-svn-shallow-clone/
 

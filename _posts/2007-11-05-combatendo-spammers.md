@@ -33,7 +33,7 @@ Quando eu comecei a bloquear não esperava resultados tão rápido. A partir des
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://akismet.com/
  [2]: http://en.wikipedia.org/wiki/IP_address

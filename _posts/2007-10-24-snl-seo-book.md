@@ -32,7 +32,7 @@ No livro são apresentadas diversas dicas de como deixar seu site mais otimizado
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Aaron_Wall
  [2]: http://www.seobook.com/

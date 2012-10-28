@@ -37,7 +37,7 @@ Se você é um programador e está trabalhando na plataforma MacOS X, são dois 
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

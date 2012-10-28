@@ -43,7 +43,7 @@ Assim, por mais elegante que seja a solução do Github, ela não é acessível.
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://github.com
  [2]: https://github.com/blog/1106-say-hello-to-octicons

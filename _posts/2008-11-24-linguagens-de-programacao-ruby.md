@@ -50,7 +50,7 @@ Foto por [elliottcable][7].
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/11/ruby.jpg
  [2]: http://en.wikipedia.org/wiki/Yukihiro_Matsumoto

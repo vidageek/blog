@@ -43,7 +43,7 @@ Agradecimentos ao Fabrício, à Mariana V. Bravo e ao Hugo Corbucci.
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

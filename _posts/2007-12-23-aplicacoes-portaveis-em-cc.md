@@ -36,7 +36,7 @@ Então, se você for escrever uma aplicação um pouco mais complexa do que um �
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://www.gnu.org/software/autoconf
  [2]: http://www.cmake.org

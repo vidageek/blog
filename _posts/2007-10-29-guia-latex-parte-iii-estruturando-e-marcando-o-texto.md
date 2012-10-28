@@ -113,7 +113,7 @@ Na próxima parte desse tutorial, veremos como colocar imagens em latex, importa
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

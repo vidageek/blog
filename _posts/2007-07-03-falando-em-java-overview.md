@@ -60,7 +60,7 @@ Nos posts a seguir, um resumo de cada palestra.
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://www.caelum.com.br
  [2]: http://blog.fragmental.com.br/

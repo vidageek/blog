@@ -28,7 +28,7 @@ Nos próximos meses pretendemos realizar alguns mini-projetos para melhorar a qu
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

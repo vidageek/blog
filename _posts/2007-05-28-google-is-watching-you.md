@@ -56,7 +56,7 @@ Vemos extremistas em todos os lugares, mas uma reação comparando uma ferrament
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/DoubleClick
  [2]: http://en.wikipedia.org/wiki/Nineteen_Eighty-Four

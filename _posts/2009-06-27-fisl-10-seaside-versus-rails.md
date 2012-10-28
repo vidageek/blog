@@ -45,7 +45,7 @@ Bom, é isso. Eu espero que as pessoas que compareceram a palestra tenham gostad
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://fabiokung.com
  [2]: http://www.seaside.st

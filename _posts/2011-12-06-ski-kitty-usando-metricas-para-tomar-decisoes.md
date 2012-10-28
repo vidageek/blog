@@ -40,7 +40,7 @@ Se você tem um dispositivo Android, recomendo testar o [SkiKitty][6], e observa
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  []: https://market.android.com/details?id=br.com.watermelongames.skikitty
  [2]: https://market.android.com/details?id=br.com.watermelongames.skikitty

@@ -51,7 +51,7 @@ Você ainda poderia modificar um pouco o código e fazer com que o método da cl
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

@@ -40,7 +40,7 @@ Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://ruby-br.org/wp-content/uploads/2008/08/railssummit.jpg
  [2]: http://rspec.info/

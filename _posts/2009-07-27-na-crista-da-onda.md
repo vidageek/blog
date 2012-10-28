@@ -42,7 +42,7 @@ Imagem via [Flickr][2]
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2009/07/onda-300x222.jpg "Crista da Onda"
  [2]: http://www.flickr.com/photos/sotto1/988556230/

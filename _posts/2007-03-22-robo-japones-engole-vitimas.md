@@ -27,7 +27,7 @@ Mais informações: [Uol][1]
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://wnews.uol.com.br/site/techguru/ver.php?origem=1&idConteudo=1800
 

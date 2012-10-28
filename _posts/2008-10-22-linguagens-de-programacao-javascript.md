@@ -50,7 +50,7 @@ Graças às características da linguagem, o código fica elegante e razoavelmen
 
 
 
-Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/10/rhino50-300x150.jpg "O que isso tem a ver com Javascript? Se você não sabe, leia :)"
  [2]: http://en.wikipedia.org/wiki/Prototype-based_programming

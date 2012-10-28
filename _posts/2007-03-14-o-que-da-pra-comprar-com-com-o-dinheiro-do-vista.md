@@ -30,7 +30,7 @@ O blog [Na Mira do Linux][1] publicou diversas coisas que podem ser compradas co
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://my.opera.com/angelight/blog/2007/03/11/o-que-pode-ser-comprado-com-o-dinheiro-do-windows-vista
 

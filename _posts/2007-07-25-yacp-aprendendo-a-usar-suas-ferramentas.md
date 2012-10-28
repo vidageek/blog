@@ -97,7 +97,7 @@ Já o emacs possui apenas um modo e uso. Inserção. Isso significa que você n�
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

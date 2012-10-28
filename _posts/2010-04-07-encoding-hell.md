@@ -49,7 +49,7 @@ Outra coisa, quem descobriu o post e a solução foi o [Edmilson Miyasaki, da Ad
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Character_encoding
  [2]: http://en.wikipedia.org/wiki/Utf8

@@ -39,7 +39,7 @@ Vale lembrar que esse provavelmente é o algoritmo mais utilizado pela maioria d
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2007/05/25/algoritmos-humoristicos-tec-algorithm/
 

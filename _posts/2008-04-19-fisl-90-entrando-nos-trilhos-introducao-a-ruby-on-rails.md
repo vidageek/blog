@@ -37,7 +37,7 @@ De passo em passo, de erro em erro e passando, eventualmente, pelo scaffold uma 
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://eclipse.ime.usp.br:3000/perguntas
 

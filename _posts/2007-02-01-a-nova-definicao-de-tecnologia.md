@@ -37,7 +37,7 @@ Existe também um podcast para que você receba todo novo episódio que sair de 
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Strong_Bad "Strong Bad na Wikipedia"
  [2]: http://www.homestarrunner.com/sbemail143.html "Technology"

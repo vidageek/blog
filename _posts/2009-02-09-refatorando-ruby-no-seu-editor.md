@@ -33,7 +33,7 @@ Inicialmente, o projeto realiza apenas o “Extract Method” e já pode ser usa
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://fabiokung.com/ "Fabio Kung"
  [2]: http://fabiokung.com/2009/02/04/rfactor-ruby-refactoring-for-your-loved-editor/ "post"

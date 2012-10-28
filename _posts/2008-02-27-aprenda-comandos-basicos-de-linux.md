@@ -36,7 +36,7 @@ Para os iniciantes os comandos de *shell* do linux podem ser um tanto quanto con
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/terminal.png
  [2]: http://homepage.powerup.com.au/~squadron/linux_manual_new.pdf "The One Page Linux Manual"

@@ -40,7 +40,7 @@ Agora, alguns elogios: foi bem fácil fazer uma interface gráfica com as classe
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/10/javame-136x300.gif "JavaME"
 

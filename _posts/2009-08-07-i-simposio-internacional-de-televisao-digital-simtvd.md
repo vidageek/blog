@@ -50,7 +50,7 @@ A pedidos da organização do evento, estamos divulgando a seguinte mensagem:
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://www.faac.unesp.br/simtvd
 

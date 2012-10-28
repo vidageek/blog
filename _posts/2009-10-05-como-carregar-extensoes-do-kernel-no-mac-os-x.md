@@ -31,7 +31,7 @@ Depois de rodá-lo (passando a extensão de wifi como parâmetro), ele também c
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

@@ -48,7 +48,7 @@ Próxima semana, modificadores de variáveis e funções e as extensões GNUC.
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

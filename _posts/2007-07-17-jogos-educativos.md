@@ -38,7 +38,7 @@ Recentemente alguns jogos educativos em Flash me chamaram a atenção. São todo
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2007/07/stopdisasters.thumbnail.PNG
  [2]: http://www.stopdisastersgame.org/home.html "Stop Disasters Game"

@@ -52,7 +52,7 @@ Em Java também é possível fazer algo parecido com um pouco de magia negra, de
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://pt.wikipedia.org/wiki/Mock_Object
  [2]: http://pt.wikipedia.org/wiki/Inje%C3%A7%C3%A3o_de_depend%C3%AAncia

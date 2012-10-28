@@ -58,7 +58,7 @@ Mas isso raramente é feito de forma efetiva (quando é feito…), o que resulta
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://adsense.google.com
  [2]: http://en.wikipedia.org/wiki/Search_Engine_Optimization

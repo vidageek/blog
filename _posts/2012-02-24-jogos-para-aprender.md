@@ -28,7 +28,7 @@ Todo feedback é bem-vindo e fundamental para nós. E se gostou bastante da idé
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Proof_of_concept
  [2]: http://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice

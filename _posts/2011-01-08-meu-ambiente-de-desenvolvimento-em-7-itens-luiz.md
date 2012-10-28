@@ -84,7 +84,7 @@ Acho que agora tá melhor.
 
 
 
-Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
+
 
  [1]: http://www.davidpaniz.com/blog/2010/12/29/meu-ambiente-de-desenvolvimento-em-7-itens/
  [2]: https://github.com/luiz

@@ -46,7 +46,7 @@ Para saber mais (e ver fotos), há a [entrada para Settlers Of Catan][5] no [Boa
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://www.dtsato.com/blog/default/
  [2]: http://www.jsettlers.com/

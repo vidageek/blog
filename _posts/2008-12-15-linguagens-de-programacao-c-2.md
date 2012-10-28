@@ -43,7 +43,7 @@ Eu, particularmente, gosto bastante de programar em C. Ter controle sobre os mí
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/series/
  [2]: http://vidageek.net/2008/08/18/linguagens-de-programacao-c/

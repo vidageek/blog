@@ -32,7 +32,7 @@ P.s.: O mais legal é que o site foi feito com [Jekyll][2] e está hospedado no 
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://www.javaperformance.com.br/
  [2]: https://github.com/mojombo/jekyll

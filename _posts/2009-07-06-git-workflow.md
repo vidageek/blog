@@ -88,7 +88,7 @@ Me atrapalhei um pouco no começo por não entender os conceitos por trás de re
                         
                         
 
-                        Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://fabiokung.com
 

@@ -51,7 +51,7 @@ Achou interessante? Não gostou? Discorda de alguma coisa? Quer adicionar mais a
 
 
 
-Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/sqlogo.gif
  [2]: http://pt.wikipedia.org/wiki/Smalltalk

@@ -196,7 +196,7 @@ A única vez que usei essa estrutura foi quando estava fazendo um leitor de arqu
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

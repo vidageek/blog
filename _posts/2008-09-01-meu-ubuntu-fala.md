@@ -43,7 +43,7 @@ e coloque para executar no início da sessão =)
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/sintvoz.jpg "Voz sintetizada"
 

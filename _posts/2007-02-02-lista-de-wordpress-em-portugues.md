@@ -28,7 +28,7 @@ Vocês podem acessa-la por aqui: [http://groups.google.com.br/group/wordpress-br
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://groups.google.com.br/group/wordpress-brasil "WordPress Brasil Lista"
 

@@ -35,7 +35,7 @@ Enfim, uma proposta muito legal da Nokia. Para escolher qual deles você prefere
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://www.nokiastoresp.com.br/
  [2]: http://www.nokiastoresp.com.br/site/connectbook

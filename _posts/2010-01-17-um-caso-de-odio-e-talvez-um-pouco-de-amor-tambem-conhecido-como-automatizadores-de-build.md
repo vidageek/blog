@@ -67,7 +67,7 @@ Enfim, o que preciso nesse momento é de pessoas que estejam afim de contribuir 
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Continuous_integration
  [2]: http://en.wikipedia.org/wiki/Software_testing

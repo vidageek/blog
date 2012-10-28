@@ -32,7 +32,7 @@ Qualquer dúvida, pode também ser enviada para fabricio+lean [at] tailorbirds.c
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.ime.usp.br/verao/index.php?secao=difusao&anoID=1#B.22
  [2]: http://www.ime.usp.br/verao/index.php?secao=horario

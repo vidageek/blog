@@ -25,7 +25,7 @@ Durante as últimas semanas, Steve Ballmer afirmou que o Linux viola propriedade
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://showusthecode.com
 

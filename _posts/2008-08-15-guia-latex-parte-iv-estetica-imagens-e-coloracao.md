@@ -81,7 +81,7 @@ Com isso, você já é capaz de tratar figuras em LaTeX e colorir seu texto. Se 
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

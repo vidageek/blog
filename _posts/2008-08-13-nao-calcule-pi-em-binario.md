@@ -38,7 +38,7 @@ Imagem modificada de [WorldIslandInfo.com][3]
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/avoid-pi.jpg
  [2]: http://everything2.net/index.pl?node_id=1302963 "texto"

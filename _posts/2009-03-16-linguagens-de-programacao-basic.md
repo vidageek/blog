@@ -53,7 +53,7 @@ Imagem retirada do site <http://esafonsosanches.nonio.uminho.pt/course/view.php?
 
 
 
-Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
+
 
  [1]: http://cppjavababoseira.blogspot.com/
  [2]: http://vidageek.net/wp-content/uploads/2009/03/vb_logo_01-300x265.gif "Visual Basic Logo"

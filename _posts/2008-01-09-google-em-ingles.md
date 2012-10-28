@@ -34,7 +34,7 @@ Só não sei o que significa ncr.
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://labs.google.com
  [2]: http://www.google.com/ncr

@@ -33,7 +33,7 @@ Eu particularmente já aproveitei várias dessas dicas, a maior parte delas são
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://www.dumblittleman.com
  [2]: http://www.dumblittleman.com/

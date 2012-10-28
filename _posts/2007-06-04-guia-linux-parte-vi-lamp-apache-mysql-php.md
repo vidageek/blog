@@ -80,7 +80,7 @@ Pronto! Você já tem um servidor LAMP rodando na sua máquina. A configuração
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://www.apache.org/ "Apache: Site Oficial"
  [2]: http://gentoo-wiki.com/Apache2_Install "Apache2 Install"

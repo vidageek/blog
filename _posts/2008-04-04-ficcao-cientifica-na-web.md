@@ -35,7 +35,7 @@ Por estas e muitas outras informações, vale a pena dar uma olhada no [io9][2].
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/alien.jpg
  [2]: http://io9.com/ "io9"

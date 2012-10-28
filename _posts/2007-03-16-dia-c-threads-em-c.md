@@ -46,7 +46,7 @@ Mas e se eu quiser produzir uma aplicação portável entre alguns desses sistem
     
     
 
-    Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.libsdl.org
  [2]: http://www.gnu.org/software/pth/

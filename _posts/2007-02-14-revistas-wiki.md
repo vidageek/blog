@@ -28,7 +28,7 @@ A Wikipedia e seus “filhos” são realmente muito interessantes para quem nav
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://www.wikia.com/wiki/Wikia "Wikia"
  [2]: http://entertainment.wikia.com/index.php?title=Main_Page "entertainment.wikia"

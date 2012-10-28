@@ -46,7 +46,7 @@ Idéias: Oferecer um algoritmo para tri-colorir um grafo em C++ com uma interfac
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://upload.wikimedia.org/wikipedia/en/1/1f/GSOC_198x128.png "GSoC"
  [2]: http://vidageek.net/2009/03/09/ruby-method-finder/

@@ -34,7 +34,7 @@ Este é um algoritmo ainda muito usado, especialmente em softwares públicos, qu
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

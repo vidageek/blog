@@ -34,7 +34,7 @@ Foto modificada da original de [Gabriel Lopes][5].
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/nokia-5200.jpg
  [2]: http://vidageek.net/public/Nokia-5200.phoneplugin.zip "arquivo"

@@ -53,7 +53,7 @@ A solução eu obtive por sorte. Apenas pra ver o que acontecia resolvi retirar 
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

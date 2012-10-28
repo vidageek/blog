@@ -38,7 +38,7 @@ Explicando um pouco mais, parece que basta que o arquivo com.apple.iPhod.plist t
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2009/03/synronize-with-google.jpg "synronize-with-google"
  [2]: http://lifehacker.com/393855/enable-google-contact-sync-without-an-iphone-or-ipod-touch

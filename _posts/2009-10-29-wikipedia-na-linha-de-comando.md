@@ -40,7 +40,7 @@ Uma mão na roda :-). [Para quem quer a fonte de onde encontrei isso, aqui vai.]
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://lifehacker.com/5329014/search-wikipedia-from-the-command-line
 

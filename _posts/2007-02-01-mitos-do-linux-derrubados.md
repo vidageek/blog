@@ -58,7 +58,7 @@ Espero que esse texto possa ajudar a diminuir o preconceito das pessoas em rela√
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://www.downloadsquad.com "Download Squad"
  [2]: http://www.getautomatix.com/ "Automatix"

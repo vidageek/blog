@@ -45,7 +45,7 @@ Perceba como cada uma pressupõe um certo conhecimento prévio do leitor. A prim
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2011/05/16/desafio-de-expressividade-i/
  [2]: http://pt.wikipedia.org/wiki/Seno

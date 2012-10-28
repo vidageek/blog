@@ -40,7 +40,7 @@ Embora os cinco contos sejam incriveis, os dois últimos contos (“Falso cupom�
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Leo_Tolstoy
  [2]: http://vidageek.net/2007/10/18/snl-guerra-e-paz/

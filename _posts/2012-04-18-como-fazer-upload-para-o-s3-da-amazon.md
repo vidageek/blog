@@ -55,7 +55,7 @@ Como eu não conheço nenhuma ferramenta que me dê o content-type de acordo com
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://www.javaperformance.com.br
  [2]: http://aws.amazon.com/s3/

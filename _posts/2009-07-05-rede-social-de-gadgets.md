@@ -32,7 +32,7 @@ Se você quer saber mais sobre [gdgt.com][2], recomendo o vídeo de [Verônica B
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2009/07/image-4.png "Fa gdgt List"
  [2]: http://gdgt.com

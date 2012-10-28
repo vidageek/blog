@@ -76,7 +76,7 @@ Infelizmente no portage a versão disponível é a 3.6-r1, uma versão bem antig
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Blackdown_Java "Wikipedia: Blackdown"
  [2]: http://www.gentoo-wiki.com/HOWTO_Framebuffer:Bootsplash:Grubsplash "Gentoo Wiki: How To Framebuffer"

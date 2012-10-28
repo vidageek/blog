@@ -47,7 +47,7 @@ Um perdão para todos que tem acompanhado o RSS e os emails, estou tentando usar
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://www.openbeach.org.br/
  [2]: http://vidageek.net/wp-content/uploads/2008/12/beach-blog.jpg

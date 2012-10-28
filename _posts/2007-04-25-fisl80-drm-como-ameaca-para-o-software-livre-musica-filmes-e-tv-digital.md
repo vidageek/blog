@@ -51,7 +51,7 @@ Claramente, Seth Schoen se levanta contra as licensas abusivamente restritivas e
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://www.eff.org
 

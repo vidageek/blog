@@ -42,7 +42,7 @@ Se não acreditar, desabilite o javascript no seu browser (Não aqui, no site de
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://eyebulb.com/public/dropshadow.htm
  [2]: http://vidageek.net/public/images/dropshadow.png

@@ -38,7 +38,7 @@ P.S.: Procure no Flickr por “LOTR Lego” para muitas risadas.
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/10/gandalf.jpg
  [2]: http://vidageek.net/2008/08/17/mmorpgs-city-of-heroes/ "City of Heroes"

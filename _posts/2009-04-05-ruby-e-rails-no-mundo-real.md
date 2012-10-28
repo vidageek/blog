@@ -37,7 +37,7 @@ Uma cobertura mais detalhada pode ser encontrada no [Ruby Inside Brasil][4] (ape
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2009/04/rer-2009.png
  [2]: http://www.slideshare.net/fabiokung/ruby-muito-mais-que-reflexivo "palestra"

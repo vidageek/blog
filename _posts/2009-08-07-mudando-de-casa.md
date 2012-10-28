@@ -58,7 +58,7 @@ Até mais!
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://mafagrafos.com "Mafagrafos"
  [2]: http://feeds.feedburner.com/mafagrafos

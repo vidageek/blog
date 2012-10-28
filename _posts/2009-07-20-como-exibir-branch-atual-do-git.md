@@ -69,7 +69,7 @@ Não testei, mas deve ter o mesmo efeito. Explicando um pouco da mágica:
         
         
 
-        Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/public/images/sem_branch.png
  [2]: http://vidageek.net/public/images/com_branch.png

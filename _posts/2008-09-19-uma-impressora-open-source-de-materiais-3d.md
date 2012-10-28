@@ -36,7 +36,7 @@ No futuro, o objetivo é aumentar esse 60% para que ela realmente se duplique. N
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/reprap.jpg
  [2]: http://dev.www.reprap.org/bin/view/Main/WebHome "site oficial da RepRap"

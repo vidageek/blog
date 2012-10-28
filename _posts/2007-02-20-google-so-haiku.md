@@ -31,7 +31,7 @@ Assim que for possivel, irei instalar a versão de testes e fornecerei mais deta
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://haiku-os.org/ "Haiku OS"
  [2]: http://http://video.google.com/videoplay?docid=236331448076587879 " Google Tech Talks February 13, 2007"

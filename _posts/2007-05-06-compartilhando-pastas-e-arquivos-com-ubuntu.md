@@ -27,7 +27,7 @@ Segue abaixo um video tutorial (em inglês) muito interessante sobre como compar
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

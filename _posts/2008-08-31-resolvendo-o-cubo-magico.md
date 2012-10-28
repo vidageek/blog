@@ -37,7 +37,7 @@ Se você se interessou pelo o Lego Mindstorm, procure alguém que possa traze-lo
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/07/resolvendo-o-cubo-magico.jpg
  [2]: http://jpbrown.i8.com/hanoisolver.html "Torres de Hanoi"

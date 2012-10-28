@@ -37,7 +37,7 @@ Recomendo muito [esse addon][3]. Mesmo que você use algum outro tipo de agenda,
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://calendar.google.com
  [2]: http://www.rememberthemilk.com

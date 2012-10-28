@@ -46,7 +46,7 @@ Se alguém tiver mais dicas de como sobrevivermos à profissão, por favor coloq
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

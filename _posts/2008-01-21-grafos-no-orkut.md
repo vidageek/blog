@@ -40,7 +40,7 @@ O que é mais possível, então? Uma boa Heurística. Hoje mesmo eu notei que t�
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://www.orkut.com/Community.aspx?cmm=44400470
  [2]: http://vidageek.net/public/images/grafo_orkut.png

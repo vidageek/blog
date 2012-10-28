@@ -41,7 +41,7 @@ Imagem por [kagey_b][5]
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/herois.jpg
  [2]: http://www.cityofheroes.com/trial/index.html "período de testes de 14 dias"

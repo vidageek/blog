@@ -38,7 +38,7 @@ Aos outros escritores desse blog, o que acham de usarmos essa fonte para o nome 
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://nl.toyota.be/iqfont
  [2]: http://vidageek.net/wp-content/uploads/2009/07/picture-7.png "vida-geek-car-font"

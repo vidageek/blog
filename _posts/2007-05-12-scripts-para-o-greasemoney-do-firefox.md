@@ -39,7 +39,7 @@ Este são poucos dos muitos scripts para Greasemonkey que existem na net. Caso c
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2007/02/01/extensoes-do-firefox/
  [2]: http://engtech.wordpress.com/2007/04/24/greasemonkey-script-stumble-wordpresscom-blogs-random-post/ "Greasemonkey Script - Stumbling Through WordPress.com Blogs"

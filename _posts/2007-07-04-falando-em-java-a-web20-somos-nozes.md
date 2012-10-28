@@ -45,7 +45,7 @@ Aguardamos a publicação dos slides dessa palestra, com as tirinhas do Dilbert 
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://blog.fragmental.com.br%3E/
 

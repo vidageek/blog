@@ -50,7 +50,7 @@ Tem tamb√©m o [**LavaRnd**][2], onde eles usam um [sensor CCD][3] (como o que h√
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://random.org
  [2]: http://www.lavarnd.org/what/how-it-works.html

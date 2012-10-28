@@ -40,7 +40,7 @@ O teste que não passava era um teste que simulava o comportamento do usuário, 
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: https://www.hibernate.org/410.html
  [2]: http://lucene.apache.org/

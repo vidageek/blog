@@ -52,7 +52,7 @@ Datas Importantes:
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://www.solisc.org.br
 

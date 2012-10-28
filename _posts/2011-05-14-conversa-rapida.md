@@ -35,7 +35,7 @@ Feedback é muito bem vindo :)
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://www.adaptworks.com.br
  [2]: http://www.youtube.com/user/adaptworks

@@ -32,7 +32,7 @@ Na materia existem muitas outras dicas interessantes para você.
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://webworkerdaily.com/ "Web Worker Daily"
  [2]: http://www.rememberthemilk.com "Remeber the Milk"

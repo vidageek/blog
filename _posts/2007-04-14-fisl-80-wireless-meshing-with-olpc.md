@@ -46,7 +46,7 @@ Após a grande sessão de aplausos, a palestra se encerrou.
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

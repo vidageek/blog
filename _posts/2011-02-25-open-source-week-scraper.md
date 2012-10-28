@@ -43,7 +43,7 @@ Ah, infelizmente ainda não disponível em um repositório maven (vou resolver i
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://projetos.vidageek.net/scraper
  [2]: http://en.wikipedia.org/wiki/Web_scraping

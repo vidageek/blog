@@ -74,7 +74,7 @@ Para instalar no Windows, acesse o [site do Emacs][3] e pegue o pacote de arquiv
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://www.vim.org
  [2]: http://www.gnu.org/software/emacs/ "Site do Emacs"

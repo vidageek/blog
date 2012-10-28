@@ -52,7 +52,7 @@ Espero que essa dica possa ajuda-lo. Até mais!
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2009/02/rubygems.png
  [2]: http://blog.libinpan.com/2008/04/update-rubygems-to-new-version-on-leopard/ "post"

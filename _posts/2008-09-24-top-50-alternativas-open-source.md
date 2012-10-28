@@ -32,7 +32,7 @@ Foto por [Photo Gallery][5].
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/two-ways.jpg
  [2]: http://whdb.com/2008/the-top-50-proprietary-programs-that-drive-you-crazy-and-their-open-source-alternatives/ "artigo"

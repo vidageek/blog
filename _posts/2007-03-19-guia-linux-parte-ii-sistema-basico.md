@@ -104,7 +104,7 @@ A **ALSA** (**A**dvanced **L**inux **S**ound **A**rchitecture) é a biblioteca m
 
 
 
-Veja como ter um desconto no [Dreamhost][22]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/public/guialinux/lspci.out "Meu lspci"
  [2]: http://www.gentoo-wiki.com/HOWTO_X.org "Gentoo Wiki: HowTo X"

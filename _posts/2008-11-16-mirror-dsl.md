@@ -65,7 +65,7 @@ Todo feedback é bem vindo!
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Java_%28programming_language%29 "Java (programming language)"
  [2]: http://en.wikipedia.org/wiki/Application_programming_interface "Application programming interface"

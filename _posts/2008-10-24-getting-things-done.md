@@ -39,7 +39,7 @@ Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  []: http://vidageek.net/wp-content/uploads/2008/10/diagrama_gtd.gif
  [2]: http://video.google.com/videoplay?docid=-5784740380335567758 "Time Management"

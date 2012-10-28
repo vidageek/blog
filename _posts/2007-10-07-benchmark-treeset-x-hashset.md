@@ -112,7 +112,7 @@ Em uma máquina com menos disponibilidade de mémoria (a que eu usei para o test
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Hash_table
  [2]: http://en.wikipedia.org/wiki/Perfect_hash_function

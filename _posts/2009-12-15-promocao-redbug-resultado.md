@@ -23,7 +23,7 @@ Temos um ganhador! José Souza, parabéns! Você foi o sorteado. A RedBug entrar
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

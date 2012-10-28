@@ -319,7 +319,7 @@ Obrigado a todos os nossos leitores. Desejamos a todos um **feliz 2009**.
 
 
 
-Veja como ter um desconto no [Dreamhost][101]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2008/01/30/ate-o-numero-de-cliques/
  [2]: http://vidageek.net/2008/01/28/futuro-dos-jogos/

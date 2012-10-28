@@ -86,7 +86,7 @@ E o ambiente de desenvolvimento de vocês, como é? Publiquem seus posts e mande
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://twitter.com/cecifernandes
  [2]: http://www.caelum.com.br

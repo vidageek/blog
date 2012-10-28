@@ -87,7 +87,7 @@ Mas ainda bem que no padrão isoc99 existe o tipo bool. Vai evitar muitos proble
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

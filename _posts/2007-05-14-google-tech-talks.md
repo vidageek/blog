@@ -107,7 +107,7 @@ Se você acha muito interessante algum Google Tech Talk que não esteja na lista
 
 
 
-Veja como ter um desconto no [Dreamhost][23]: um excelente servidor web.
+
 
  [1]: http://video.google.com/videoplay?docid=-8246463980976635143
  [2]: http://video.google.com/videoplay?docid=-7910406883328902493

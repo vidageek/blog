@@ -46,7 +46,7 @@ Esses são apenas os casos de sucesso que eu conheço. Garanto que existem muito
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://www.querotrabalharcomjava.com.br
  [2]: http://www.giraldo.org

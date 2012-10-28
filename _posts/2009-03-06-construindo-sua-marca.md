@@ -40,7 +40,7 @@ Por último, ignore tudo que falei acima quando quiser ou achar que faz sentido.
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://blog.jayfields.com/2008/08/be-your-start-up.html
 

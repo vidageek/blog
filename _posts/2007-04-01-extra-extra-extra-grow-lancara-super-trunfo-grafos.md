@@ -41,7 +41,7 @@ O resto é balela.
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  []: http://vidageek.net/wp-content/uploads/2007/04/supertrunfo.jpg
 

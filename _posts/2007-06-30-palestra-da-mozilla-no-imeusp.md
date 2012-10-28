@@ -39,7 +39,7 @@ Apesar de um pouco de eco, é possível ouvir bem a palestra – recomendo fones
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://www.gearthblog.com/blog/archives/2006/08/firefox_crop_ci.html
  [2]: http://www.vidageek.net/wp-content/public_html/palestraMozillaIMEUSP.wav

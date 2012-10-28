@@ -44,7 +44,7 @@ Próximo post: Tunning
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

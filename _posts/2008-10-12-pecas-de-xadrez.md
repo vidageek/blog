@@ -38,7 +38,7 @@ Recentemente publicamos aqui no [GeekStyleOfLife][5] um [*post* sobre o Chess.co
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://artifaqt.com/prdct/prdct_ches_top.html "Artifaqt"
  [2]: http://vidageek.net/wp-content/uploads/2008/07/conjunto-sul-americano.jpg

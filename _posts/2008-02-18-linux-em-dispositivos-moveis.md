@@ -39,7 +39,7 @@ Como uma última dica, para quem tem um **iPod**, sugiro dar uma olhada no [iPod
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/linux-em-laptop.jpg
  [2]: http://www.linux-on-laptops.com/

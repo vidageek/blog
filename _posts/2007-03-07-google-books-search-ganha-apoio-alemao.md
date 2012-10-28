@@ -32,7 +32,7 @@ Mais informações: **[Uol][2]**.
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://books.google.com
  [2]: http://tecnologia.uol.com.br/ultnot/reuters/2007/03/07/ult3949u1130.jhtm

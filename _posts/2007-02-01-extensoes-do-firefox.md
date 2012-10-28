@@ -51,7 +51,7 @@ Essas são as extensões que utilizo atualmente. Conforme eu adicionar novas ext
 
 
 
-Veja como ter um desconto no [Dreamhost][22]: um excelente servidor web.
+
 
  [1]: http://br.mozdev.org/firefox/
  [2]: https://addons.mozilla.org/firefox/3780/

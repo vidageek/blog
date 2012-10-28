@@ -33,7 +33,7 @@ Mais informações podem ser obtidas no [site oficial do Coding Dojo São Paulo]
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://vimeo.com/3040507
  [2]: http://vimeo.com/user1241366

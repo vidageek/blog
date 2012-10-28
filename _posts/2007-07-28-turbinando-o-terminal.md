@@ -132,7 +132,7 @@ Adaptado do [LifeHacker][4]
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/public/VidaGeek_bashrc_gentoo "VidaGeek_bashrc para gentoo"
  [2]: http://vidageek.net/public/VidaGeek_bashrc_ubuntu "VidaGeek_bashrc para Ubuntu"

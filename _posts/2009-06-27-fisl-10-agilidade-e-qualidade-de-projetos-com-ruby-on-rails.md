@@ -53,7 +53,7 @@ Assim que der tempo falo sobre as outras três palestras que assisti ontem, apes
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://akitaonrails.com
  [2]: http://github.com/FooBarWidget/rubystein/tree/master

@@ -42,7 +42,7 @@ Erro feio esse! O que será que acontece se eu passar um Long pro método? Excep
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

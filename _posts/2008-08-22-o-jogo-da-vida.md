@@ -50,7 +50,7 @@ Foto por [rastafabi][14]
 
 
 
-Veja como ter um desconto no [Dreamhost][19]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/life.jpg
  [2]: http://vidageek.net/wp-content/uploads/2008/07/regra-de-nascimento.gif

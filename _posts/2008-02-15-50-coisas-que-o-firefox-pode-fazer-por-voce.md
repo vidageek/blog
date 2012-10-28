@@ -89,7 +89,7 @@ Apesar de conhecer várias extensões, encontrei recentemente esta lista na inte
 
 
 
-Veja como ter um desconto no [Dreamhost][57]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/02/firefox1.jpg
  [2]: http://p2.forumforfree.com/releases-vf3-adblockplus.html

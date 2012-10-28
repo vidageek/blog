@@ -28,7 +28,7 @@ O navegador Mozilla Firefox já é o navegador mais usado na Eslovênia e Finlâ
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

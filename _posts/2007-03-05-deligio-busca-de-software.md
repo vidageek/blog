@@ -31,7 +31,7 @@ Esse site pode com certeza ser útil, pelo menos nos casos em que você não tem
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  []: http://www.deligio.com/ "Deligio"
  [2]: http://en.wikipedia.org/wiki/GIMP "GIMP na Wikipedia"

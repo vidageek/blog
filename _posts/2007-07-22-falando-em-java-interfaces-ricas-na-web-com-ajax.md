@@ -38,7 +38,7 @@ Ainda outras alternativas ao Ajax foram citadas. Entre elas: [JBoss com Ajax4jsf
 
 
 
-Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
+
 
  [1]: http://jquery.com/
  [2]: http://www.prototypejs.org/

@@ -52,7 +52,7 @@ Release notes completo pode ser encontrado [aqui][2].
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://projetos.vidageek.net/mirror-pt
  [2]: http://projetos.vidageek.net/mirror-pt/projeto/release-notes/

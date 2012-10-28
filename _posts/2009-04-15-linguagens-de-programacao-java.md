@@ -44,7 +44,7 @@ Para concluir esse post (mas não necessariamente o assunto), podemos dizer que 
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2009/03/duke_java.gif "Duke"
  [2]: http://vidageek.net/2009/04/10/jsf-javas-sinal-of-failure/

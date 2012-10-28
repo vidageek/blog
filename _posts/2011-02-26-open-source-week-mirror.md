@@ -33,7 +33,7 @@ Essa versão trás muitas pequenas melhorias para o dia a dia (como refletir um 
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://projetos.vidageek.net/mirror-pt
  [2]: http://code.google.com/p/objenesis/

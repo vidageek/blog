@@ -42,7 +42,7 @@ Você usa outros aplicativos interessantes para Linux? Deixe seu comentário e p
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2007/03/19/guia-linux-parte-ii-sistema-basico/ "Guia Linux - Parte II: Sistema Básico"
  [2]: http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf "The not so short introduction to Latex"

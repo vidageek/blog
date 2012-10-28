@@ -47,7 +47,7 @@ Post por Carla Rizzotto.
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://xadrezlivre.c3sl.ufpr.br/
  [2]: http://git.c3sl.ufpr.br/gitweb

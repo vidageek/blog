@@ -36,7 +36,7 @@ O principal problema em usar esses caracteres é a demora para encontrá-los na 
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://pt.wikipedia.org/wiki/Unicode
  [2]: http://pt.wikipedia.org/wiki/Kanji

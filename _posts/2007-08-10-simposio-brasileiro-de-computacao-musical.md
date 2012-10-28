@@ -38,7 +38,7 @@ As inscrições vão até o dia do evento, mas o prazo para comprar com preço r
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://nyquist.sourceforge.net/
  [2]: http://gsd.ime.usp.br/sbcm/2007/portugues/inscricao.html

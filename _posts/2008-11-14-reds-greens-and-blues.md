@@ -44,7 +44,7 @@ Vocês podem deixar comentários sobre o que acham que poderia acontecer, e agen
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://farm2.static.flickr.com/1324/1083879077_21980d0b48.jpg
  [2]: http://www.congo-education.net/wealth-of-networks/ch-05.htm

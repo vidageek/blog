@@ -68,7 +68,7 @@ Faremos uma série de posts, aqui no VidaGeek, comentando mais sobre cada lingua
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/lingprog.gif
  [2]: http://pt.wikipedia.org/wiki/Anexo:Lista_de_linguagens_de_programa%C3%A7%C3%A3o

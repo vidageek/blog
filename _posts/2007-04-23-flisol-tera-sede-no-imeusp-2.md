@@ -31,7 +31,7 @@ Para mais informações acesse: [www.linux.ime.usp.br/flisol][2]
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.installfest.info/
  [2]: http://www.linux.ime.usp.br/flisol

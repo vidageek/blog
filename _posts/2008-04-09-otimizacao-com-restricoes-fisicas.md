@@ -31,7 +31,7 @@ O sistema permite que o especialista na área assuma o controle, impondo as devi
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.jamespatten.com/pico/ "PICO"
  [2]: http://www.5min.com/Video/What-is-PICO-6905

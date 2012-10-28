@@ -44,7 +44,7 @@ Concluindo, a ideia aqui era mostrar rapidamente que nem tudo que se pensa a res
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://www.qconsp.com
  [2]: http://www.scribd.com/doc/37302982/QCon-Lightning-Talk-Governanca-em-Software-Livre

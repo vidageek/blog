@@ -71,7 +71,7 @@ Fiz o código bem feio pra deixar bem claro que embora exista, isso não deve se
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

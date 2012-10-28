@@ -52,7 +52,7 @@ Se você ficou interessado no assunto, recomendo o livro [The Lean Startup][10] 
 
 
 
-Veja como ter um desconto no [Dreamhost][16]: um excelente servidor web.
+
 
  [1]: http://www.manualdastartup.com.br/blog/o-que-e-a-lean-startup/
  [2]: http://www.startuplessonslearned.com/2008/09/lean-startup.html

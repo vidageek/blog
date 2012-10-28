@@ -28,7 +28,7 @@ Mais informações:**[Uol][3]**.
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://www.unesp.br
  [2]: http://www.capes.gov.br

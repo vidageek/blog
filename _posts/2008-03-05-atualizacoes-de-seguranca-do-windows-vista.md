@@ -37,7 +37,7 @@ Recentemente encontrei esta tirinha na internet e gostei tanto que acabei assina
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://myextralife.com
  [2]: http://vidageek.net/2007/04/21/webcomics-para-geeks-xkcd/ "Webcomics para Geeks: xkcd"

@@ -45,7 +45,7 @@ Essa é a lista original publicada no post, com os comentários sobre os artigos
 
 
 
-Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
+
 
  [1]: http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice
  [2]: http://sunnyday.mit.edu/16.355/parnas-criteria.html

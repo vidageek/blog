@@ -46,7 +46,7 @@ Fonte: [Prashanth Ellina Blog – Matrix Desktop][2]
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.prashanthellina.com/images/matrix_desktop.gif
  [2]: http://blog.prashanthellina.com/2007/08/22/matrix-desktop/ "Matrix Desktop"

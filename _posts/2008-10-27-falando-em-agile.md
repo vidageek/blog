@@ -43,7 +43,7 @@ Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro
 
 
 
-Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/10/falando-agile-site_06.gif "Falando em Agile"
  [2]: http://vidageek.net/2008/10/24/getting-things-done/

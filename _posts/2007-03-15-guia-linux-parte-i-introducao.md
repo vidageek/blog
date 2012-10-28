@@ -62,7 +62,7 @@ Se você optou pelo LiveCD, você tem agora uma instalação quase completamente
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://www.gentoo.org/ "Site Oficial do Gentoo"
  [2]: http://www.gentoo.org/main/en/where.xml "Imagens do Gentoo"

@@ -42,7 +42,7 @@ Um pouco de humor:
 
 
 
-Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2007/02/badvista_no_littering.thumbnail.png
  [2]: http://badvista.fsf.org "Bad Vista"

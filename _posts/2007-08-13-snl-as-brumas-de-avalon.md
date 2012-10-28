@@ -32,7 +32,7 @@ Era um livro para o qual eu não dava muito valor, mas que surpreendeu-me muito.
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

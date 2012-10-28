@@ -29,7 +29,7 @@ Ah, e se tiver interesse em participar de algum projeto opensource (independente
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://projetos.vidageek.net/
 

@@ -30,7 +30,7 @@ Mais informações:**[Linux Devices][2]**, em inglês.
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.mono-project.com
  [2]: http://www.linuxdevices.com/news/NS9725385854.html

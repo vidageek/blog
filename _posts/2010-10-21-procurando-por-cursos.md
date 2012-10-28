@@ -33,7 +33,7 @@ Acho que essas são as novidades. Mencionei que com a redução do rítmo do pro
 
 
 
-Veja como ter um desconto no [Dreamhost][16]: um excelente servidor web.
+
 
  [1]: http://www.procurandocursos.com
  [2]: http://en.wikipedia.org/wiki/Vertical_search

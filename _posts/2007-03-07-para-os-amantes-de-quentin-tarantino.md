@@ -26,7 +26,7 @@ Mais sobre o diretor de Pulp Fiction no [imdb][1].
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://imdb.com/name/nm0000233/ "Quentin Tarantino"
  [2]: http://desta.ca/pratica/2007/03/07/pulp-fiction-em-tipografia/ "Pulp Fiction em Tipografia"

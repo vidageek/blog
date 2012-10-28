@@ -50,7 +50,7 @@ Já o Guia Linux – Parte III, bom, esse é sério! Sem pegadinhas, só dicas �
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://www.itwire.com.au/content/view/10977/1090/
  [2]: http://br-linux.org/linux/trackback/8371

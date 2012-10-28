@@ -37,7 +37,7 @@ E pronto. Basta fazer o upload dos arquivos.
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: https://console.aws.amazon.com/s3/home
  [2]: /public/criar_bucket.png

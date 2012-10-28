@@ -56,7 +56,7 @@ Com direito a output colorido.
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.gradle.org/maven_plugin.html
  [2]: http://www.practicalgradle.org/blog/2010/11/gradle-daemon/

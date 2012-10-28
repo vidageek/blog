@@ -31,7 +31,7 @@ Mais videos da Google Tech Talks: **[Google Video][4]**
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://video.google.com/videoplay?docid=-4216011961522818645
  [2]: http://video.google.com/videoplay?docid=-8246463980976635143

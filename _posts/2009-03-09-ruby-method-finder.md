@@ -50,7 +50,7 @@ Ainda não suporta blocos, bem como preciso fazer um gem disso eventualmente. Co
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2009/03/picture-7.png
  [2]: http://www.smalltalk.org/main/

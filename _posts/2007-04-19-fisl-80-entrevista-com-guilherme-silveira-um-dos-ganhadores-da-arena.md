@@ -64,7 +64,7 @@ Muito obrigado, Guilherme. Parabéns por mais essa vitória!
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://xstream.codehaus.org/
  [2]: http://paranamer.codehaus.org/

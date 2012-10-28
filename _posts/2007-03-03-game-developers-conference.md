@@ -26,7 +26,7 @@ Mais informações: **[game Developers Conference][1]**, em inglês.
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://www.gdconf.com
 

@@ -44,7 +44,7 @@ Pois é… acho que não tem nada que um pouco de criatividade não resolva. Alg
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Extreme_Programming
 

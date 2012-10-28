@@ -45,7 +45,7 @@ Fonte: [Simples Ideias][5]
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://railsenvy.com/ "Rails Envy"
  [2]: http://www.rubyonrails.org/ "Ruby on Rails"

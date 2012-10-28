@@ -33,7 +33,7 @@ Em particular, uma das empresas que mais usa groupwares é o Google. Já reparou
 
 
 
-Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
+
 
  [1]: http://upload.wikimedia.org/wikipedia/commons/9/9b/Tom-Rodden-Espa%C3%A7o-Colaborativo.jpg "Sistemas Colaborativos"
  [2]: http://blog.rodrigoflores.org

@@ -45,7 +45,7 @@ Boa leitura.
 
 
 
-Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
+
 
  [1]: http://pt.wikipedia.org/wiki/Donald_Rumsfeld
  [2]: http://pt.wikipedia.org/wiki/Universidade_de_Princeton

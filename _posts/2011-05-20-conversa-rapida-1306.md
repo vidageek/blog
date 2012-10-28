@@ -24,7 +24,7 @@ A [edição passada][3] foi bem divertida. Se tiver interesse em participar, man
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://www.adaptworks.com.br
  [2]: http://www.adaptworks.com.br/blog/2011/05/18/conversa-rapida-junho/

@@ -36,7 +36,7 @@ Para saber mais: [Interação Humano-Computador][1]
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://pt.wikipedia.org/wiki/Intera%C3%A7%C3%A3o_homem-computador
 

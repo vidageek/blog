@@ -36,7 +36,7 @@ Essa última dica vale também para Flash, Shockwave, Java e qualquer outra func
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
 
  [2]: http://www.smashingmagazine.com/2008/09/16/jquery-examples-and-best-practices/

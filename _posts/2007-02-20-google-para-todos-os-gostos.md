@@ -48,7 +48,7 @@ Mais informações sobre essas e diversas outras ferramentas (incluindo todas as
 
 
 
-Veja como ter um desconto no [Dreamhost][16]: um excelente servidor web.
+
 
  [1]: http://www.google.com/alerts
  [2]: http://analytics.google.com

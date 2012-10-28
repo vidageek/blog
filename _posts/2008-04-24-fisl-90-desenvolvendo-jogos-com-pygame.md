@@ -54,7 +54,7 @@ Simultaneamente a essa palestra, estive na palestra sobre “Desenvolvimento ág
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.pygame.org
  [2]: http://www.pyweek.org

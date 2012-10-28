@@ -35,7 +35,7 @@ Enfim, se gostou da idéia, [veja o código][6].
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://www.adaptworks.com.br/treinamento/CSD-Scrum-Developer-Skills
  [2]: http://www.scrumalliance.org/CSD

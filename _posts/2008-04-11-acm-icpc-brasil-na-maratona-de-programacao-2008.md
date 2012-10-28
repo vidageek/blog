@@ -39,7 +39,7 @@ Veja a [lista completa de resultados][3] e as [fotos e vídeos][4] do evento.
 
 
 
-Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
+
 
  [1]: http://icpc.baylor.edu/icpc/v2/
  [2]: http://icpc.baylor.edu/icpc/Finals/2008WorldFinalsProblemSet.pdf

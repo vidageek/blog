@@ -32,7 +32,7 @@ Para quem quer saber mais, existe uma [comunidade no Orkut][4] sobre esse servi√
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://farm4.static.flickr.com/3172/3040488009_813dd454ea.jpg "Loja Nokia"
  [2]: http://www.nokia.com.br/loja/nokia-store-sp

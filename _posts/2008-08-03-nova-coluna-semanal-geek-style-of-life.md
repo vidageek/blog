@@ -38,7 +38,7 @@ Imagem por [illusiondevivre][5]
 
 
 
-Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/07/geek-is-not-a-crime1.jpg
  [2]: http://vidageek.net/tags/humor/ "Humor"

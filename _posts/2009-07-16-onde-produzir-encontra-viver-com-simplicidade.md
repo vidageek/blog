@@ -55,7 +55,7 @@ Se você já fez alguma troca como essa, conte para nós nos comentários. Pesso
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://revistaepoca.globo.com/Revista/Epoca/0,,EMI20408-15223-1,00-VIVER+BEM+COM+POUCO.html
  [2]: http://culinaria.epistemol.net/Noite_da_Culinaria/Bem_Vindo!.html

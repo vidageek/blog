@@ -39,7 +39,7 @@ Portanto, se você tiver tempo, souber programar, amar o software livre igual os
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2007/03/15/guia-linux-parte-i-introducao/ "Guia Linux - Parte II: Sistema Básico"
  [2]: http://vidageek.net/2007/03/19/guia-linux-parte-ii-sistema-basico/ "Guia Linux - Parte I: Introdução"

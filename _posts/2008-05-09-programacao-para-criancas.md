@@ -45,7 +45,7 @@ Foto: [C-Jump Factory][2]
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://www.c-jump.com "Caixa do Jogo C-Jump"
  [2]: http://www.c-jump.com

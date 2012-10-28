@@ -32,7 +32,7 @@ E outras tantas bastante boas, como [Lisp][4], [Pillar][5] e [Ninja Turtles][6],
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://xkcd.com
  [2]: http://creativecommons.org/licenses/by-nc/2.5/

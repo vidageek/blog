@@ -35,7 +35,7 @@ Gostaria de enfatizar a grande inteligência por trás desse algoritmo. Com o ga
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.vidageek.net/2007/04/30/algoritmos-humoristicos-trainee-algorithm/
  [2]: http://www.vidageek.net/2007/04/27/algoritmos-humoristicos-picket-algorithm/

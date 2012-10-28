@@ -32,7 +32,7 @@ Aproveitando, estamos lançando uma promoção: **As três pessoas que mandarem 
 
 
 
-Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2007/02/21/os-criadores-do-skype-atacam-novamente/ "Os criadores do Skype atacam novamente…"
 

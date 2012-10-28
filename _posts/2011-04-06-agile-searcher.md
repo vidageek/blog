@@ -29,7 +29,7 @@ Qualquer dúvida, sugestão ou angustia, envie um email para agilesearcher@vidag
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.google.com/cse
  [2]: http://www.agilesearcher.com

@@ -70,7 +70,7 @@ Bom, acredito que isto cubra praticamente tudo sobre Multimedia no Gentoo. Caso 
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/Mplayer "Mplayer na Wikipedia"
  [2]: http://en.wikipedia.org/wiki/Ogle_DVD_Player "Ogle na Wikipedia"

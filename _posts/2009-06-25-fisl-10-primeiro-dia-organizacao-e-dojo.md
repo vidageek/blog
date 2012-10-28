@@ -55,7 +55,7 @@ Muitos por quês e muitas críticas. Fica uma sugestão: colocar mais pessoas de
 
 
 
-Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
+
 
  [1]: http://groups.google.com/group/dojo_sp/
  [2]: http://agileandart.blogspot.com/

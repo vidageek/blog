@@ -36,7 +36,7 @@ Com os treinos minha musculatura está voltando vagarosamente a um ponto razoáv
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/2007/08/29/o-mal-dos-programadores/
  [2]: http://www.bodhidharma.com.br/portugues/iaido.htm

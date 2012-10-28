@@ -36,7 +36,7 @@ Com tantos diretórios e subdiretórios, e ainda a possibilidade de pacotes em v
 
 
 
-Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
+
 
  [1]: http://www.tug.org
  [2]: http://www.tug.org/texinfohtml/tds.html#Top_002dlevel-directories

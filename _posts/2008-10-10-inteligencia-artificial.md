@@ -47,7 +47,7 @@ Este artigo visa apenas a mostrar dar uma introdução à minha opinião sobre o
 
 
 
-Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
+
 
  [1]: http://vidageek.net/wp-content/uploads/2008/10/ia-300x265.jpg "IA"
  [2]: http://pt.wikipedia.org/wiki/Np-completo

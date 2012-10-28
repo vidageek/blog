@@ -53,7 +53,7 @@ Vale a pena dar uma boa olhada e talvez investir uma ou duas semanas do seu ver�
 
 
 
-Veja como ter um desconto no [Dreamhost][28]: um excelente servidor web.
+
 
  [1]: http://www.ime.usp.br/~verao/index.php?secao=difusao&anoID=1#B.2 "clique aqui para ver descrição da disciplina"
  [2]: http://www.ime.usp.br/~verao/index.php?secao=difusao&anoID=1#B.3 "clique aqui para ver descrição da disciplina"

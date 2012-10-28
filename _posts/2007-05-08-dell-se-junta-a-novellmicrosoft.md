@@ -47,7 +47,7 @@ Pode-se questionar as intenções da Dell, assim como questiona-se as da Novell.
 
 
 
-Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
+
 
 
 

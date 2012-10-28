@@ -56,7 +56,7 @@ Algumas notícias interessantes:
 
 
 
-Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
+
 
  [1]: http://www.theinquirer.net/default.aspx?article=39159
  [2]: http://engtech.wordpress.com/2007/04/21/best-of-feeds-36-links-humor-programming-code-tips-gmail-seo/

@@ -49,7 +49,7 @@ Mesmo que você não goste de ler, ou ache que vai morrer antes de terminar, rec
 
 
 
-Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
+
 
  [1]: http://en.wikipedia.org/wiki/War_and_Peace
  [2]: http://en.wikipedia.org/wiki/Leo_Tolstoy
