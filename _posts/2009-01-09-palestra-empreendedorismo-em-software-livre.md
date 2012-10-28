@@ -1,27 +1,9 @@
 ---
 author: Cecilia Fernandes
 title: 'Palestra: Empreendedorismo em Software Livre'
-
-  |
-    Começando o ano com o pé direito, já na primeira segunda-feira, fomos assistir uma palestra no IME/USP sobre Empreendedorismo em Software Livre. O palestrante é o professor e entuasiasta de software livre Anthony Wasserman, da Carnegie Mellon West - o campus do Vale do Silício de uma das melhores universidades em Ciência da Computação.
-    
-    Numa palestra interessantíssima, o professor fez uma breve introdução à evolução do software livre e explicou, um a um, os modelos de negócio existentes nessa vertente crescente do produção de software.
 layout: post
-category:
-  - Google
-  - OpenSource
-  - Software
-tags:
-  - Carnegie Mellon
-  - empreendedorismo
-  - Eventos
-  - Google
-  - OpenSource
-  - palestra
-  - Software
-  - Wasserman
-
 ---
+
 Começando o ano com o pé direito, já na primeira segunda-feira, fomos assistir uma palestra no IME/USP sobre Empreendedorismo em Software Livre. O palestrante é o professor e entuasiasta de software livre [Anthony Wasserman][1], da Carnegie Mellon West – o campus do Vale do Silício de [uma das melhores universidades em Ciência da Computação][2].
 
 Numa palestra interessantíssima, o professor fez uma breve introdução à evolução do software livre e explicou, um a um, os modelos de negócio existentes nessa vertente crescente do produção de software. Segue na sequência um resumo da palestra.

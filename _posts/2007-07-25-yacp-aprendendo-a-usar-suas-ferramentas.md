@@ -1,20 +1,9 @@
 ---
 author: Jonas Abreu
 title: 'YACP - Aprendendo a usar suas ferramentas'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-
 ---
+
 Agora que você já instalou seu compilador, editor de texto favorito e depurador, nada como algumas dicas de como usá-los.
 
 ### **Usando o GCC**
@@ -53,20 +42,20 @@ Existem vários outros mas esses devem ser os mais usados.
 O Vim possui vários modos de utilização. Vamos nos focar no modo de comando (padrão) e de inserção. No modo de comando não aparece nada escrito no canto inferior esquerdo da tela (a não ser mensagens de erro em vermelho. Você vai notar.) Neste modo é possível salvar seu arquivo, abrir um novo, fechar o Vim, etc.  
 Aqui vão alguns dos comandos mais usados:
 
-*   :sav nome\_arquivo – Salva o arquivo atual em nome\_arquivo
-*   :w – Escreve o arquivo atual
-*   :q – Fecha o Vim
-*   :x – Escreve o arquivo e fecha o Vim
-*   :e nome\_arquivo – Abre o arquivo nome\_arquivo (cria um novo se não existir arquivo com o nome
-*   a – Muda para o modo de inserção (não tem ‘:’ antes do ‘a’)
-*   u (no modo de comando) – desfazer
-*   :syn on – Ativa o modo de coloração (muito útil quando programando)
-*   :set ai – Ativa a autoindentação
-*   :set cindent – Ativa o modo de indentação para C
-*   :set nu – Coloca numeração nas linhas do seu programa
-*   :set ruler – Coloca indicador de linha e coluna de inde o cursor está
-*   :set keymap=accents – Se seu teclado não estiver bem configurado, no Vim ele colocará acentos
-*   :set noexpandtab (Veja os comentários)
+	:sav nome\_arquivo – Salva o arquivo atual em nome\_arquivo
+	:w – Escreve o arquivo atual
+	:q – Fecha o Vim
+	:x – Escreve o arquivo e fecha o Vim
+	:e nome\_arquivo – Abre o arquivo nome\_arquivo (cria um novo se não existir arquivo com o nome
+	a – Muda para o modo de inserção (não tem ‘:’ antes do ‘a’)
+	u (no modo de comando) – desfazer
+	:syn on – Ativa o modo de coloração (muito útil quando programando)
+	:set ai – Ativa a autoindentação
+	:set cindent – Ativa o modo de indentação para C
+	:set nu – Coloca numeração nas linhas do seu programa
+	:set ruler – Coloca indicador de linha e coluna de inde o cursor está
+	:set keymap=accents – Se seu teclado não estiver bem configurado, no Vim ele colocará acentos
+	:set noexpandtab (Veja os comentários)
 
 Os últimos 6 comandos podem ser colocados em um arquivo especial chamado .vimrc (_vimrc no Vim para Windows e .vimrc no cygwin). Esse arquivo possui comandos que serão executados sempre que você abrir o Vim/GVim. Assim não é necessário digitá-los toda vez que for programar. Este arquivo costuma se localizar na sua home.
 
@@ -76,31 +65,12 @@ O modo de inserção serve para você modificar o texto do arquivo. Para voltar 
 
 Já o emacs possui apenas um modo e uso. Inserção. Isso significa que você não precisa fazer nada antes de começar a digitar seu programa. Aqui vão alguns comandos úteis (embora você possa fazer tudo com o menu):
 
-*   ctrl-x+ctrl-f – abre um arquivo
-*   ctrl-x+ctrl-s – salva o arquivo
-*   ctrl-x+ctrl-c – sai do emacs
-*   ctrl-espaço – seleciona texto
-*   alt-w – copia texto selecionado
-*   ctrl-w – recorta texto selecionado
-*   ctrl-y – cola o texto previamente copiado
-*   ctrl-_ – desfazer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	ctrl-x+ctrl-f – abre um arquivo
+	ctrl-x+ctrl-s – salva o arquivo
+	ctrl-x+ctrl-c – sai do emacs
+	ctrl-espaço – seleciona texto
+	alt-w – copia texto selecionado
+	ctrl-w – recorta texto selecionado
+	ctrl-y – cola o texto previamente copiado
+	ctrl-_ – desfazer
 
