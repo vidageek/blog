@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://www.thinkgeek.com/blog/2008/08/the-shape-of-things-to-come.html "assunto"
  [4]: http://en.wikipedia.org/wiki/Skynet_(Terminator) "Skynet na Wikipedia"
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

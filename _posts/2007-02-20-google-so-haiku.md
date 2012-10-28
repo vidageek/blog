@@ -37,7 +37,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://http://video.google.com/videoplay?docid=236331448076587879 " Google Tech Talks February 13, 2007"
  [3]: http://www.webtuga.com/2007/02/18/tecnologia/haiku-sistema-operativo-do-google.php/ " Haiku - Sistema Operativo do Google?"
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://hibernate.org
  [4]: http://code.google.com/p/selenium
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

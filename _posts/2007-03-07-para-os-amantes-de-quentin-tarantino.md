@@ -31,7 +31,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://imdb.com/name/nm0000233/ "Quentin Tarantino"
  [2]: http://desta.ca/pratica/2007/03/07/pulp-fiction-em-tipografia/ "Pulp Fiction em Tipografia"
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -67,7 +67,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [7]: http://www.stanford.edu/group/floss-us/stats/q7.html
  [8]: http://www.merit.unu.edu/about/profile.php?id=24
  [9]: https://twitter.com/share
- [10]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

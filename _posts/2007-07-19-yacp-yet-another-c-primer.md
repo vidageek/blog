@@ -80,7 +80,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.gnu.org/software/emacs/ "Site do Emacs"
  [3]: http://www.gnu.org/software/emacs/windows/faq2.html#where-precompiled "Site do Emacs"
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -58,7 +58,7 @@ Algumas perguntas particularmente relevantes surgiram, também:
 
  [1]: http://dojo.epistemol.net
  [2]: https://twitter.com/share
- [3]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

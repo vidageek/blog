@@ -70,7 +70,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://paranamer.codehaus.org/
  [3]: http://vraptor.org/
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

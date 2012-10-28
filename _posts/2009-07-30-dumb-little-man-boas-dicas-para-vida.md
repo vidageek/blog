@@ -42,7 +42,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [5]: http://www.dumblittleman.com/2009/07/how-to-write-when-you-think-you-cant.html
  [6]: http://www.dumblittleman.com/2009/07/eight-reasons-to-read-fiction.html
  [7]: https://twitter.com/share
- [8]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

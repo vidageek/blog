@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://extensions.services.openoffice.org/project/ooo2gd
  [5]: http://docs.google.com
  [6]: https://twitter.com/share
- [7]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

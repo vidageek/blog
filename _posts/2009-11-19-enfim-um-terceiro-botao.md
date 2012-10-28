@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.akitaonrails.com/
  [3]: http://clement.beffa.org/labs/projects/middleclick/
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -71,7 +71,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [5]: http://www.gentoo.org/doc/pt_br/handbook/ "Manual Minimal em Português"
  [6]: http://www.gentoo.org/doc/en/handbook/2006.1/handbook-x86.xml "Manual LiveCD em Inglês"
  [7]: https://twitter.com/share
- [8]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

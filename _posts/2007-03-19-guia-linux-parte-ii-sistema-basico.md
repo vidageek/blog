@@ -124,7 +124,7 @@ Veja como ter um desconto no [Dreamhost][22]: um excelente servidor web.
  [16]: http://http://www.linux-on-laptops.com/hosted/tsa65.html "Gentoo Linux on a Toshiba Sattelite A65"
  [17]: http://gentoo-wiki.com/HOWTO_MadWifi_Install "Gentoo Wiki: HowTo MadWifi Install"
  [18]: https://twitter.com/share
- [19]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

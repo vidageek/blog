@@ -65,7 +65,7 @@ Isso garante que todas as ancestrais da sua classe estejam inicializadas antes d
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -53,7 +53,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://kerneltrap.org/node/3000 "Kernel Trap - Linux: Tuning Swappiness"
  [2]: http://vidageek.net/2007/07/21/analisando-o-boot-do-ubuntu-com-o-bootchart/ "VidaGeek.net: Analisando o boot do Ubuntu com o Bootchart"
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -36,7 +36,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://local.wikia.com/index.php?title=Main_Page "local.wikia"
  [5]: http://slashdot.org/articles/07/02/13/1621259.shtml " Wikipedia Founder Introduces Wiki Magazine Sites"
  [6]: https://twitter.com/share
- [7]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

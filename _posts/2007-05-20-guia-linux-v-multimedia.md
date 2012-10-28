@@ -75,7 +75,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://en.wikipedia.org/wiki/Mplayer "Mplayer na Wikipedia"
  [2]: http://en.wikipedia.org/wiki/Ogle_DVD_Player "Ogle na Wikipedia"
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

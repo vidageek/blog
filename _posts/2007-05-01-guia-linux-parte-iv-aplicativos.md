@@ -48,7 +48,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf "The not so short introduction to Latex"
  [3]: http://pt.wikipedia.org/wiki/GIMPshop "GIMPshop na Wikipedia"
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

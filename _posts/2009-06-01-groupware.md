@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][14]: um excelente servidor web.
  [8]: http://xmpp.org/
  [9]: http://www.gnomemeeting.org/
  [10]: https://twitter.com/share
- [11]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

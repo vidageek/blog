@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://images.google.com/imagelabeler
  [4]: http://video.google.com/videosearch?q=google+tech+talk
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

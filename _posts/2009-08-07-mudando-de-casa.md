@@ -68,7 +68,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [6]: http://feeds.feedburner.com/rafaelschouery
  [7]: http://feedburner.google.com/fb/a/mailverify?uri=rafaelschouery&loc=pt_BR
  [8]: https://twitter.com/share
- [9]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -49,7 +49,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://blog.rafaelferreira.net/
  [2]: http://www.soujava.org.br
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

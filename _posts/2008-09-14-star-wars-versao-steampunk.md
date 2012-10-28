@@ -46,7 +46,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [5]: http://vidageek.net/2008/08/10/conselho-jedi-sp-uma-comunidade-para-os-fas-de-star-wars/ "Conselho Jedi São Paulo"
  [6]: http://en.wikipedia.org/wiki/Castle_Falkenstein_(role-playing_game) "Castelo Falkenstein"
  [7]: https://twitter.com/share
- [8]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

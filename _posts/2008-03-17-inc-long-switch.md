@@ -50,7 +50,7 @@ O que parece estranho é o long usar 64 bits enquanto que o float usa só 32. Ma
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

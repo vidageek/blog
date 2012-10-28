@@ -48,7 +48,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://vidageek.net/public/images/dropshadow.png
  [3]: https://addons.mozilla.org/en-US/firefox/addon/1843
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

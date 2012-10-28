@@ -67,7 +67,7 @@ Veja como ter um desconto no [Dreamhost][19]: um excelente servidor web.
  [13]: http://vidageek.net/2008/08/13/nao-calcule-pi-em-binario/ "calcular PI e porque não se deve fazer isso"
  [14]: http://flickr.com/photos/rastafabi/490403800/ "rastafabi"
  [15]: https://twitter.com/share
- [16]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

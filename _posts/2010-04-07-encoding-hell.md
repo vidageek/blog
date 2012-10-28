@@ -58,7 +58,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [5]: http://webcache.googleusercontent.com/search?q=cache:pTzer_xns3YJ:happygiraffe.net/blog/2009/09/24/java-platform-encoding/+happygiraffe.net/blog/2009/09/24/java-platform-encoding/&hl=en&strip=1
  [6]: http://www.adaptworks.com.br
  [7]: https://twitter.com/share
- [8]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -91,7 +91,7 @@ Existe um outro operador, chamado Ou Exclusivo. As expressões formadas por ele 
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -32,7 +32,7 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://nomadishere.com/2007/03/12/a-note-to-employers-8-things-intelligent-people-geeks-and-nerds-need-to-work-happy/
  [2]: https://twitter.com/share
- [3]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

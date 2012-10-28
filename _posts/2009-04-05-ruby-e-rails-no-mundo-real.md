@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://www.rubyinside.com.br/cobertura-ruby-rails-no-mundo-real-2009-977 "Ruby Inside Brasil"
  [5]: http://www.guru-sp.org/ "GURU-SP"
  [6]: https://twitter.com/share
- [7]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

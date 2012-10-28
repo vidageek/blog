@@ -44,7 +44,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://www.chess.com/members/view/schouery "Meu usuário no Chess.com"
  [4]: http://flickr.com/photos/sobriquet/461494772/ "sobriquet.net"
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

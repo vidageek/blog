@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://vidageek.net/wp-content/uploads/2011/12/google-reader-logo-300x142.png "Reader + Plus"
  [2]: https://twitter.com/share
- [3]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

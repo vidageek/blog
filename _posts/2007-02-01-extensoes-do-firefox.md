@@ -71,7 +71,7 @@ Veja como ter um desconto no [Dreamhost][22]: um excelente servidor web.
  [16]: https://addons.mozilla.org/firefox/1419/
  [17]: https://addons.mozilla.org/firefox/3199/
  [18]: https://twitter.com/share
- [19]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

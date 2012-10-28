@@ -44,7 +44,7 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: https://www.google.com/adsense/static/pt_BR/LocalizedTerms.html?hl=pt_BR
  [2]: https://twitter.com/share
- [3]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

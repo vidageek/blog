@@ -51,7 +51,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://www.ioccc.org/
  []: http://vidageek.net/wp-content/uploads/2008/12/codigo1.gif
  [6]: https://twitter.com/share
- [7]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

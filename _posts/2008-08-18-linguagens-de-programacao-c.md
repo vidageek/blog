@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://forum.vidageek.net
  [3]: http://mastermod.wordpress.com/2007/11/02/se-amigo-de-c/
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

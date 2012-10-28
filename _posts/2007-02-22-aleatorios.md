@@ -57,7 +57,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://www.lavarnd.org/image/ccd-closeup2.jpg
  [4]: http://sourceforge.net/projects/lavarnd
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

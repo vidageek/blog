@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.openoffice.org/ "OpenOffice"
  [3]: http://www.neooffice.org/neojava/en/index.php "NeoOffice"
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

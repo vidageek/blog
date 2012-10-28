@@ -50,7 +50,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [7]: http://bargiel.home.pl/iGTD/
  [8]: http://cemshost.com.br/~fabsn/dev/doku.php "Faz tempo que não Atualiza!"
  [9]: https://twitter.com/share
- [10]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

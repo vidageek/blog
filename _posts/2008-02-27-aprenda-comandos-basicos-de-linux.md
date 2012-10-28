@@ -42,7 +42,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://homepage.powerup.com.au/~squadron/linux_manual_new.pdf "The One Page Linux Manual"
  [3]: http://lifehacker.com/software/linux/learn-linux-with-basic-commands-329146.php "Learn Linux with Basic Commands"
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -66,7 +66,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://blog.fragmental.com.br/
  [3]: http://www.mundojava.com.br/NovoSite/default.jsp
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

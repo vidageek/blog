@@ -144,7 +144,7 @@ Veja como ter um desconto no [Dreamhost][57]: um excelente servidor web.
  [51]: https://addons.mozilla.org/firefox/469/
  [52]: http://www.techdo.com/things-that-firefox-can-do-for-you/ "Things that Firefox Can Do for You"
  [53]: https://twitter.com/share
- [54]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

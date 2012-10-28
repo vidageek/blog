@@ -45,7 +45,7 @@ Agradeço desde já pela ajuda de todos e espero que façam um bem para a comuni
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

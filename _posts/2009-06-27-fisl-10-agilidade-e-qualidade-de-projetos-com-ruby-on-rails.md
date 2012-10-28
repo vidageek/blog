@@ -64,7 +64,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [7]: http://github.com/akitaonrails/fisl_10_demo/tree
  [8]: http://www.slideshare.net/akitaonrails/fisl-10
  [9]: https://twitter.com/share
- [10]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

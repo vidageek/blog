@@ -44,7 +44,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: /public/habilitar_site.png
  [4]: http://wwwizer.com/naked-domain-redirect
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -31,7 +31,7 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.joost.com
  [2]: https://twitter.com/share
- [3]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

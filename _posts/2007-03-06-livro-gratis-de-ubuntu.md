@@ -35,7 +35,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://ebookspyder.net/index.php/2007/03/03/ubuntu-linux-bible.html "Ubuntu Linux Bible"
  [2]: http://lifehacker.com/software/ubuntu/learn-ubuntu-linux-with-freely-available-ebook-241847.php "Learn Ubuntu Linux with freely available e-book"
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

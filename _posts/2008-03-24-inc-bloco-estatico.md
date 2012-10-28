@@ -93,7 +93,7 @@ Em Java, existe um bloco de código que é executado no momento em que o ClassLo
     Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

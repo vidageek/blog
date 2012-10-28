@@ -47,7 +47,7 @@ Veja como ter um desconto no [Dreamhost][16]: um excelente servidor web.
  [10]: http://twitter.com/#!/grazigrandi
  [11]: http://www.adaptworks.com.br
  [12]: https://twitter.com/share
- [13]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

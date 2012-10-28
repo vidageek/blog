@@ -36,7 +36,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://www.youtube.com/watch?v=5F1IFCOl8TA&feature=player_embedded
  [4]: http://vidageek.net/wp-content/uploads/2011/12/Screen-Shot-2011-12-13-at-19.39.2--300x122.png "Escolha Proporções"
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

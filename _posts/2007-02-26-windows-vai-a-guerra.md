@@ -30,7 +30,7 @@ Veja como ter um desconto no [Dreamhost][6]: um excelente servidor web.
 
  [1]: http://www.theregister.co.uk/2007/02/26/windows_boxes_at_sea/
  [2]: https://twitter.com/share
- [3]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

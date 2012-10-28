@@ -35,7 +35,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://www.mono-project.com
  [2]: http://www.linuxdevices.com/news/NS9725385854.html
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

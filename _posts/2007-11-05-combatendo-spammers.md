@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://en.wikipedia.org/wiki/IP_address
  [3]: http://httpd.apache.org/docs/1.3/howto/htaccess.html
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

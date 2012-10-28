@@ -41,7 +41,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [5]: http://xkcd.com/c32.html
  [6]: http://xkcd.com/c197.html
  [7]: https://twitter.com/share
- [8]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

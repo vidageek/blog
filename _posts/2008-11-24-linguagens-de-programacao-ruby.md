@@ -60,7 +60,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [6]: http://blog.rodrigoflores.org "Rodrigo Flores"
  [7]: http://flickr.com/photos/elliottcable/ "elliotcable"
  [8]: https://twitter.com/share
- [9]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

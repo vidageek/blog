@@ -96,7 +96,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://grad-schools.usnews.rankingsandreviews.com/grad/com/search/order+c_avg_acad_rep_score-desc
  [3]: http://ccsl.ime.usp.br
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

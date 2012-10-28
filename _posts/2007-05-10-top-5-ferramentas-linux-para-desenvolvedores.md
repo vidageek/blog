@@ -49,7 +49,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://www.problogger.net/archives/2007/05/07/top-5-group-writing-project/ "Top 5 Group Writing Project"
  [2]: http://www.problogger.net/ "Problogger"
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

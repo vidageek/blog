@@ -51,7 +51,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://pt.wikipedia.org/wiki/SVG "Scalable Vector Graphics"
  [5]: http://caniuse.com/#search=svg
  [6]: https://twitter.com/share
- [7]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

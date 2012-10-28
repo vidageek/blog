@@ -58,7 +58,7 @@ Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
  [11]: http://2008.latinoware.org/
  [12]: http://cemshost.com.br/~fabsn/dev/doku.php "Faz tempo que não Atualiza!"
  [13]: https://twitter.com/share
- [14]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

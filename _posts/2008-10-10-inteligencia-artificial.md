@@ -62,7 +62,7 @@ Veja como ter um desconto no [Dreamhost][17]: um excelente servidor web.
  [11]: http://www.overmundo.com.br/blogs/inteligencia-artificial
  [12]: http://forum.vidageek.net/viewtopic.php?f=12&t=25
  [13]: https://twitter.com/share
- [14]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

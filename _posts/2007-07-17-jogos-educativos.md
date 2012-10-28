@@ -49,7 +49,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [7]: http://vidageek.net/wp-content/uploads/2007/07/costoflife_banner_180x150.thumbnail.gif
  [8]: http://www.unicef.org/voy/explore/rights/explore_3142.html "Ayiti: The Cost of Life"
  [9]: https://twitter.com/share
- [10]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

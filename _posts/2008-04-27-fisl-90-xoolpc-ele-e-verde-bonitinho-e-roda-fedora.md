@@ -51,7 +51,7 @@ Antes de investir num projeto desse nível e custo, deveríamos mudar a proposta
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

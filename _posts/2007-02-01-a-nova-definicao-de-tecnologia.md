@@ -44,7 +44,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://www.homestarrunner.com/ "HomeStarRunner"
  [4]: http://en.wikipedia.org/wiki/Homestarrunner "HomeStarRunner na Wikipedia"
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

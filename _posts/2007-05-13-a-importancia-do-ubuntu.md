@@ -43,7 +43,7 @@ Acredito que todo o movimento do software livre pode aprender com os passos do U
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

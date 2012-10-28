@@ -77,7 +77,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [6]: http://ant.apache.org/
  [7]: http://maven.apache.org/
  [8]: https://twitter.com/share
- [9]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

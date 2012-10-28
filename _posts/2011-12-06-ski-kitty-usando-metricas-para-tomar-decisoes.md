@@ -49,7 +49,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  []: http://vidageek.net/wp-content/uploads/2011/12/Screen-Shot-2011-12-06-at-16.36.50-.png
  [6]: http://vidageek.net/2011/12/06/ski-kitty-usando-metricas-para-tomar-decisoes/?preview=true&preview_id=1325&preview_nonce=be7a77b387
  [7]: https://twitter.com/share
- [8]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

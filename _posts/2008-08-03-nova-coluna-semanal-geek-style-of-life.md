@@ -46,7 +46,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://vidageek.net/tags/livros/ "Livros"
  [5]: http://flickr.com/photos/illusiondevivre/2491531471/ "illusiondevivre"
  [6]: https://twitter.com/share
- [7]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

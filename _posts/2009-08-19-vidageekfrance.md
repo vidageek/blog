@@ -78,7 +78,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [5]: www.dtsato.com
  [6]: http://pt.wikipedia.org/wiki/Jardim_das_Plantas_de_Paris
  [7]: https://twitter.com/share
- [8]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

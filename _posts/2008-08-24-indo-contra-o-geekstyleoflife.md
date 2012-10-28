@@ -42,7 +42,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.bodhidharma.com.br/portugues/iaido.htm
  [3]: http://www.bodhidharma.com.br/portugues/neikung.htm
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

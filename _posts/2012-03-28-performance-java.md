@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: https://github.com/mojombo/jekyll
  [3]: http://aws.amazon.com/s3/
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

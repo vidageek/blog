@@ -52,7 +52,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://vidageek.net/2009/03/09/ruby-method-finder/
  [3]: http://www.ime.usp.br/~pf/algoritmos_em_grafos/aulas/v-coloring.html
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

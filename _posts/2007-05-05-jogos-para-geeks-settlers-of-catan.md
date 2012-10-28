@@ -55,7 +55,7 @@ Veja como ter um desconto no [Dreamhost][11]: um excelente servidor web.
  [5]: http://www.boardgamegeek.com/game/13
  [6]: http://www.boardgamegeek.com
  [7]: https://twitter.com/share
- [8]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

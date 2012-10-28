@@ -46,7 +46,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://icpc.baylor.edu/icpc/Finals/v2/default.asp?page=results
  [4]: http://icpc.baylor.edu/dmt/
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

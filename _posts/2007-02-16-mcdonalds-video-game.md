@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://www.mcvideogame.com/index-eng.html "MacDonald's video Game"
  [2]: http://www.downloadsquad.com/2007/02/15/mcdonalds-todays-time-waster/ "McDonald's Video Game - Today's Time-Waster"
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

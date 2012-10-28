@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://infinitest.org
  [3]: http://projetos.vidageek.net/mirror-pt/mirror
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

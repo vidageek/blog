@@ -41,7 +41,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.gnu.org/music/free-software-song.html
  [3]: https://www.fsf.org/associate/support_freedom/donate/index_html
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

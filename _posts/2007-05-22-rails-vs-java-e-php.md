@@ -53,7 +53,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://media.rubyonrails.org/video/flickr-rails-ajax.mov "Putting Flickr on Rails"
  [5]: http://simplesideias.com.br/ "Simples Ideias"
  [6]: https://twitter.com/share
- [7]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

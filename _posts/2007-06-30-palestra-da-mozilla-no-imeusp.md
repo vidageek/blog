@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.vidageek.net/wp-content/public_html/palestraMozillaIMEUSP.wav
  [3]: http://www.vidageek.net/wp-content/public_html/palestraMozillaIMEUSP.mp3
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

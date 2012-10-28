@@ -33,7 +33,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://compiz.blogspot.com/2007/04/official-announcement-of-merge.html
  [2]: http://br-linux.org/linux/desktop-3d-beryl-e-compiz-vao-mesmo-se-unir#comment-63149
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

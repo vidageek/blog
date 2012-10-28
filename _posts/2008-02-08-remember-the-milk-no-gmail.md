@@ -43,7 +43,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://www.rememberthemilk.com
  [3]: http://blog.rememberthemilk.com/2007/12/rtm-gmail-task-management-goodness.html
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://en.wikipedia.org/wiki/Apple_Mighty_Mouse
  [2]: http://images.apple.com/magicmouse/images/hero_1_20091020.jpg "Magic Mouse"
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

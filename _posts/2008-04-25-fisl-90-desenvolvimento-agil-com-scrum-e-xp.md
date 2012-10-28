@@ -47,7 +47,7 @@ Se o foco era uma palestra introdutória, como os temas abordados sugerem, eu es
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

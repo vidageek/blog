@@ -38,7 +38,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://www.redbug.com.br
  [2]: http://www.redbug.com.br/index?page=shop/novidades&parceiro=VidaGeek
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

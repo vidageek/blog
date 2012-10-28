@@ -39,7 +39,7 @@ Veja como ter um desconto no [Dreamhost][7]: um excelente servidor web.
  [1]: http://www.techcrunch.com/2007/05/23/100-million-payday-for-feedburner-this-deal-is-confirmed/ "TechCrunch"
  [2]: http://www.johnchow.com/going-once-going-twice-sold-for-100-million/ "John Chow dot Com"
  [3]: https://twitter.com/share
- [4]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

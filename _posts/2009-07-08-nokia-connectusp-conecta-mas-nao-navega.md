@@ -40,7 +40,7 @@ Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
  [4]: http://www.orkut.com.br/Main#Community.aspx?cmm=71886945
  [5]: http://www.jornaldocampus.usp.br/index.php/2009/03/connect-usp-entenda-os-testes-realizados-em-43-pontos-da-cidade-universitaria/
  [6]: https://twitter.com/share
- [7]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -43,7 +43,7 @@ Na seção de perguntas, Ross ainda afirmou que o SourceForge pretende, agora, s
 Veja como ter um desconto no [Dreamhost][5]: um excelente servidor web.
 
  [1]: https://twitter.com/share
- [2]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

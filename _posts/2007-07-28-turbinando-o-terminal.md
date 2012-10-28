@@ -139,7 +139,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://vidageek.net/public/VidaGeek_bashrc_all "VidaGeek_bashrc para qualquer distribuição"
  [4]: http://lifehacker.com/software/how-to/turbocharge-your-terminal-274317.php "How To Life Hacker - How To: Turbocharge your terminal"
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

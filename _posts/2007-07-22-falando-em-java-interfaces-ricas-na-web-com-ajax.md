@@ -49,7 +49,7 @@ Veja como ter um desconto no [Dreamhost][13]: um excelente servidor web.
  [7]: http://tapestry.apache.org/
  [8]: http://www.codyfauser.com/2005/12/05/rjs-templates-plugin-subversion-repository
  [9]: https://twitter.com/share
- [10]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

@@ -44,7 +44,7 @@ Veja como ter um desconto no [Dreamhost][9]: um excelente servidor web.
  [3]: http://www.myextralife.com/strips/05-03-2007.jpg
  [4]: http://myextralife.com/archive.php?date=2007-05-03
  [5]: https://twitter.com/share
- [6]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

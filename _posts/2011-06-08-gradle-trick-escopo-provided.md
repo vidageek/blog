@@ -59,7 +59,7 @@ Veja como ter um desconto no [Dreamhost][8]: um excelente servidor web.
  [2]: http://issues.gradle.org/browse/GRADLE-784
  [3]: http://caelum.com.br
  [4]: https://twitter.com/share
- [5]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

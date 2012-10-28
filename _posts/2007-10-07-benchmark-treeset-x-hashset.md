@@ -122,7 +122,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [6]: http://java.sun.com/j2se/1.5.0/docs/api/java/util/HashSet.html#HashSet()
  [7]: http://en.wikipedia.org/wiki/Data_structure
  [8]: https://twitter.com/share
- [9]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

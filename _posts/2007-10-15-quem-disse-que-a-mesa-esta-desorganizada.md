@@ -49,7 +49,7 @@ Da próxima vez que encontrar alguém que tem uma mesa muito bagunçada, desconf
 Veja como ter um desconto no [Dreamhost][10]: um excelente servidor web.
 
  [1]: http://vidageek.net/public/images/mesa.jpg
- [2]: http://feeds.feedburner.com/VidaGeek
+
  [3]: http://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
  [4]: http://en.wikipedia.org/wiki/Splay_tree
  [5]: http://en.wikipedia.org/wiki/Cache

@@ -45,7 +45,7 @@ Veja como ter um desconto no [Dreamhost][12]: um excelente servidor web.
  [6]: http://io9.com/345292/seven-addictive-scifi-comic-books-free-online "Seven Addictive Scifi Comic Books Free Online"
  [7]: http://flickr.com/photos/maliceinspookyland/1890325566/
  [8]: https://twitter.com/share
- [9]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

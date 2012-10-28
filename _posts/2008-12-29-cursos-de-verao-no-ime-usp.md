@@ -79,7 +79,7 @@ Veja como ter um desconto no [Dreamhost][28]: um excelente servidor web.
  [22]: http://www.caelum.com.br
  [23]: http://agilcoop.incubadora.fapesp.br/portal
  [24]: https://twitter.com/share
- [25]: http://feeds.feedburner.com/VidaGeek
+
 
 
 

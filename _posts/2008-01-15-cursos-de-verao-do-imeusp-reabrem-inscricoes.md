@@ -70,7 +70,7 @@ Veja como ter um desconto no [Dreamhost][15]: um excelente servidor web.
  [9]: http://www.ime.usp.br/~verao/horarios.html
  [10]: http://www.ime.usp.br/~verao/insc.html
  [11]: https://twitter.com/share
- [12]: http://feeds.feedburner.com/VidaGeek
+
 
 
 
