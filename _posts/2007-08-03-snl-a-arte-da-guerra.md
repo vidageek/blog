@@ -50,7 +50,7 @@ Meus preferidos são “Os nove tipos de terreno” e “O ataque pelo fogo”.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

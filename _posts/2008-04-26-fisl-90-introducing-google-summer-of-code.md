@@ -36,7 +36,7 @@ Na minha opinião, a participação da Google nesse FISL deixou um pouco a desej
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

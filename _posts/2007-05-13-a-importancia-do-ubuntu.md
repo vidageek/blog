@@ -31,7 +31,7 @@ Acredito que todo o movimento do software livre pode aprender com os passos do U
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

@@ -35,7 +35,7 @@ Essa é uma palestra que recomendo muito. Não apenas por gostar de scala, mas p
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

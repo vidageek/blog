@@ -24,7 +24,7 @@ BigTable, como o próprio nome já diz, é uma tabela grande. Mas como estamos f
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

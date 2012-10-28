@@ -26,7 +26,7 @@ O Wii Remote tem dois sensores: uma câmera, que captura a luz infravermelha emi
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

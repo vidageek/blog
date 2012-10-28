@@ -37,7 +37,7 @@ Após a grande sessão de aplausos, a palestra se encerrou.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

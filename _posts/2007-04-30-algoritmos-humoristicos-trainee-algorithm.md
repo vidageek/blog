@@ -22,7 +22,7 @@ Para os que não sabem, os problemas computacionais podem ser classificados de a
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

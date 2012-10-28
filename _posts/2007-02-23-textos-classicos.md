@@ -16,7 +16,7 @@ O site **[Babar Kazar][1]**colocou no ar uma coletânea de publicações sobre C
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

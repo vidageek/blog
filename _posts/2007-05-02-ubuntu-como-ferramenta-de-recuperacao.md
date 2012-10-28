@@ -32,7 +32,7 @@ Portanto, fica como dica, mesmo que não use o Ubuntu carregue consigo o CD de i
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

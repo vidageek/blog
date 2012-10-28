@@ -33,7 +33,7 @@ Você usa outros aplicativos interessantes para Linux? Deixe seu comentário e p
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

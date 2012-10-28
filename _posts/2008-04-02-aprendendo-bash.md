@@ -39,7 +39,7 @@ Além deste *sites*, nos já publicamos alguns *posts* sobre o bash. O [“Apren
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][9] 
 

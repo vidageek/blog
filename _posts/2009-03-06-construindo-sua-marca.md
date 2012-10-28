@@ -31,7 +31,7 @@ Por último, ignore tudo que falei acima quando quiser ou achar que faz sentido.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

@@ -38,7 +38,7 @@ Ah, uma outra coisa legal de comentar, é que ganhamos essa semana o concurso se
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

@@ -22,7 +22,7 @@ E você, o que acha? Essas pessoas, que se dizem eletrossensíveis, sofrem por c
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][6] 
 

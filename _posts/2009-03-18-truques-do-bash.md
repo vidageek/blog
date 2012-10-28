@@ -43,7 +43,7 @@ Bom, esses e outros comandos estão disponíveis em [command line fu][1]. Convid
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

@@ -27,7 +27,7 @@ Então, se você for escrever uma aplicação um pouco mais complexa do que um �
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

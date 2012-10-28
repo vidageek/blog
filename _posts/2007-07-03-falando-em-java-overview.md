@@ -51,7 +51,7 @@ Nos posts a seguir, um resumo de cada palestra.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

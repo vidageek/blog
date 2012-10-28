@@ -44,7 +44,7 @@ Imagem retirada do site <http://esafonsosanches.nonio.uminho.pt/course/view.php?
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][10] 
 

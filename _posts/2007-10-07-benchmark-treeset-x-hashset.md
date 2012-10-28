@@ -103,7 +103,7 @@ Em uma máquina com menos disponibilidade de mémoria (a que eu usei para o test
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][8] 
 

@@ -22,7 +22,7 @@ Vale a pena dar uma olhada nesta ótima ferramenta, mas cuidado para não perder
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

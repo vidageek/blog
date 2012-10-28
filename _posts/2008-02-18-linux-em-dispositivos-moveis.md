@@ -30,7 +30,7 @@ Como uma última dica, para quem tem um **iPod**, sugiro dar uma olhada no [iPod
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][9] 
 

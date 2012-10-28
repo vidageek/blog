@@ -15,7 +15,7 @@ A [edição passada][3] foi bem divertida. Se tiver interesse em participar, man
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

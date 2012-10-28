@@ -62,7 +62,7 @@ Fiz o código bem feio pra deixar bem claro que embora exista, isso não deve se
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

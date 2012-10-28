@@ -28,7 +28,7 @@ Em suma, o livro é muito interessante. Dá asas à imaginação sem sair do mun
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

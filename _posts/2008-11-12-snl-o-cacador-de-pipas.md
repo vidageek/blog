@@ -33,7 +33,7 @@ Esse livro é do tipo que marca , que deixa seu enredo cravado em algum canto da
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

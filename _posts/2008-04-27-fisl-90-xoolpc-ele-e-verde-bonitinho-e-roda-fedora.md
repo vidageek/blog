@@ -39,7 +39,7 @@ Antes de investir num projeto desse nível e custo, deveríamos mudar a proposta
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

@@ -26,7 +26,7 @@ Enfim, uma proposta muito legal da Nokia. Para escolher qual deles você prefere
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

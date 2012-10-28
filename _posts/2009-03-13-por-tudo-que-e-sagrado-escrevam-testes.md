@@ -57,7 +57,7 @@ Programadores n√£o podem ter medo de aprender coisas novas. O novo, em programa√
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

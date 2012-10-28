@@ -30,7 +30,7 @@ Vale lembrar que esse provavelmente é o algoritmo mais utilizado pela maioria d
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

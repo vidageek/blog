@@ -31,7 +31,7 @@ Curiosamente, para isso temos contra-exemplo! O projeto Archimedes dos alunos IM
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

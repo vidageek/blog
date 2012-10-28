@@ -19,7 +19,7 @@ A Wikipedia e seus “filhos” são realmente muito interessantes para quem nav
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][6] 
 

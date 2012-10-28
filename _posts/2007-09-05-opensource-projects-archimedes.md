@@ -34,7 +34,7 @@ Agradecimentos ao Fabrício, à Mariana V. Bravo e ao Hugo Corbucci.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

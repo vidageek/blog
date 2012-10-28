@@ -36,7 +36,7 @@ Aguardamos a publicação dos slides dessa palestra, com as tirinhas do Dilbert 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

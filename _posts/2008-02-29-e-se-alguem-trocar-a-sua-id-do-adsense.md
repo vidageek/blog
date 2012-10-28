@@ -49,7 +49,7 @@ Mas isso raramente é feito de forma efetiva (quando é feito…), o que resulta
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

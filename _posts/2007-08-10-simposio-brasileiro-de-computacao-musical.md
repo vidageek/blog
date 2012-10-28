@@ -29,7 +29,7 @@ As inscrições vão até o dia do evento, mas o prazo para comprar com preço r
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

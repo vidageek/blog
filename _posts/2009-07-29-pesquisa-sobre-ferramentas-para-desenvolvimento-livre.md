@@ -33,7 +33,7 @@ Agradeço desde já pela ajuda de todos e espero que façam um bem para a comuni
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

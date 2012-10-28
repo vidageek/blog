@@ -32,7 +32,7 @@ Isso vai fazer com que o script seja reiniciado no minuto 10 de cada hora (a cad
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

@@ -80,7 +80,7 @@ Apesar de conhecer várias extensões, encontrei recentemente esta lista na inte
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][53] 
 

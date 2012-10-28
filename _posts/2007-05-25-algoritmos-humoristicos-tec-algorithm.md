@@ -26,7 +26,7 @@ Gostaria de enfatizar a grande inteligência por trás desse algoritmo. Com o ga
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

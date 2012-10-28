@@ -31,7 +31,7 @@ Paro por aqui pois ainda tem muita sujeira por vir.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

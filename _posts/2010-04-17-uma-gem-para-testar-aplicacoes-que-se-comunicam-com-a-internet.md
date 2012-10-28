@@ -43,7 +43,7 @@ Em Java também é possível fazer algo parecido com um pouco de magia negra, de
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][9] 
 

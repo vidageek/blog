@@ -26,7 +26,7 @@ Enfim, se gostou da idéia, [veja o código][6].
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

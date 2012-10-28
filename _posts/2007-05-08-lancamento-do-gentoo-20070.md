@@ -58,7 +58,7 @@ Você pode escolher sua ISO e baixá-la no [gentoo.org][1] ou em [torrents][2].
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

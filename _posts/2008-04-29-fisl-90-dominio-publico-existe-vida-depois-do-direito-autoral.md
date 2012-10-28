@@ -39,7 +39,7 @@ Como leitura recomendada na palestra, fica a página da [Wikipedia][2] sobre dom
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

@@ -44,7 +44,7 @@ Assim que der tempo falo sobre as outras três palestras que assisti ontem, apes
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][9] 
 

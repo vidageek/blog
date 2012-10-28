@@ -28,7 +28,7 @@ Recentemente encontrei esta tirinha na internet e gostei tanto que acabei assina
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

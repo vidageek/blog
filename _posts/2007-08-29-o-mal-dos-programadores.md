@@ -37,7 +37,7 @@ Se alguém tiver mais dicas de como sobrevivermos à profissão, por favor coloq
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

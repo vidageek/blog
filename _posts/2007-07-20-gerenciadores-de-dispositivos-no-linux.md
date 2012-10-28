@@ -30,7 +30,7 @@ O Udev tem o propósito de resolver esses problemas criados pelo Devfs, criando 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

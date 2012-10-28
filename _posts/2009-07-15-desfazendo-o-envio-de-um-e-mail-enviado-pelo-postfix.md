@@ -35,7 +35,7 @@ Ufa! Quase lotei a caixa de e-mails de alguém…
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

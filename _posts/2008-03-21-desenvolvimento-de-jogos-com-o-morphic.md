@@ -29,7 +29,7 @@ Se você ficou curioso em conhecer mais sobre o Morphic, recomendo a leitura do 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

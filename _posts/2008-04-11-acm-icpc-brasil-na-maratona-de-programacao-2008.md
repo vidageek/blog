@@ -30,7 +30,7 @@ Veja a [lista completa de resultados][3] e as [fotos e vídeos][4] do evento.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

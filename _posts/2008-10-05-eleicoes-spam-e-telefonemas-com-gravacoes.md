@@ -37,7 +37,7 @@ E não estou bem certa dos aspectos legais de se fazer esse tipo de ação. Se d
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

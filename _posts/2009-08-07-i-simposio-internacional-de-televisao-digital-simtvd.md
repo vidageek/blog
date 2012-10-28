@@ -41,7 +41,7 @@ A pedidos da organização do evento, estamos divulgando a seguinte mensagem:
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

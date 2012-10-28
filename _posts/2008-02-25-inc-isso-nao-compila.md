@@ -42,7 +42,7 @@ Você ainda poderia modificar um pouco o código e fazer com que o método da cl
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

@@ -49,7 +49,7 @@ Espero que esse texto possa ajudar a diminuir o preconceito das pessoas em rela√
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

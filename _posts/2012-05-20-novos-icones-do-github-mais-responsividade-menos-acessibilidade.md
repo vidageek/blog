@@ -34,7 +34,7 @@ Assim, por mais elegante que seja a solução do Github, ela não é acessível.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][6] 
 

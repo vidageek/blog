@@ -31,7 +31,7 @@ Em suma este é um jogo muito viciante, sarcástico e bem feito. Com certeza dá
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

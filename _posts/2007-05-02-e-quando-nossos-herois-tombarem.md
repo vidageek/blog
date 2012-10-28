@@ -40,7 +40,7 @@ O Software Livre já se consolidou como uma alternativa, mas ele tem potencial p
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

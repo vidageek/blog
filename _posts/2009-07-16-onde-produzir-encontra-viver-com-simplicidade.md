@@ -46,7 +46,7 @@ Se você já fez alguma troca como essa, conte para nós nos comentários. Pesso
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

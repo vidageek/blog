@@ -21,7 +21,7 @@ Esse comercial mostra uma provável mudança de tendência sobre os DRM (Digital
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

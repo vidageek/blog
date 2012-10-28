@@ -40,7 +40,7 @@ Outra coisa, quem descobriu o post e a solução foi o [Edmilson Miyasaki, da Ad
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

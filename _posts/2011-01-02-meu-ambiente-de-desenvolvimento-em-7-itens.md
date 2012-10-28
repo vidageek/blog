@@ -77,7 +77,7 @@ E o ambiente de desenvolvimento de vocês, como é? Publiquem seus posts e mande
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

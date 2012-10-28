@@ -26,7 +26,7 @@ Feedback é muito bem vindo :)
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][9] 
 

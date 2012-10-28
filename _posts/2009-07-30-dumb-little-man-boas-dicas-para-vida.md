@@ -24,7 +24,7 @@ Eu particularmente já aproveitei várias dessas dicas, a maior parte delas são
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

@@ -23,7 +23,7 @@ E outras tantas bastante boas, como [Lisp][4], [Pillar][5] e [Ninja Turtles][6],
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

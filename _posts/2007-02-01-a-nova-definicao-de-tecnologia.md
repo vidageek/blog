@@ -28,7 +28,7 @@ Existe também um podcast para que você receba todo novo episódio que sair de 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

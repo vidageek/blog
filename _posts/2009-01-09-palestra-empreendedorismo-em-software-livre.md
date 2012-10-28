@@ -81,7 +81,7 @@ Novamente, excelente palestra. Será disponibilizada em breve no site do [Centro
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

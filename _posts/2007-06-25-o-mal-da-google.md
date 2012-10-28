@@ -42,7 +42,7 @@ O outro problema é que eu passo cerca de oito horas logado em sistemas Google. 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

@@ -86,7 +86,7 @@ Temos agora os testes passando e podemos generalizar para obter o resultado espe
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

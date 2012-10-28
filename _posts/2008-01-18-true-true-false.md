@@ -78,7 +78,7 @@ Mas ainda bem que no padrão isoc99 existe o tipo bool. Vai evitar muitos proble
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

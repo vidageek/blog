@@ -31,7 +31,7 @@ O teste que não passava era um teste que simulava o comportamento do usuário, 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

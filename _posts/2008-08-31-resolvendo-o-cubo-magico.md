@@ -28,7 +28,7 @@ Se você se interessou pelo o Lego Mindstorm, procure alguém que possa traze-lo
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

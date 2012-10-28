@@ -34,7 +34,7 @@ e coloque para executar no início da sessão =)
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

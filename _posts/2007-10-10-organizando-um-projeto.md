@@ -35,7 +35,7 @@ Pois é… acho que não tem nada que um pouco de criatividade não resolva. Alg
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

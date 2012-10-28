@@ -18,7 +18,7 @@ Segue abaixo um video tutorial (em inglês) muito interessante sobre como compar
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

@@ -36,7 +36,7 @@ Feito isso, você vai ter que recarregar o módulo do ALSA ou, o que é muito ma
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

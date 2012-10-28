@@ -34,7 +34,7 @@ Além disso, se você usa algum sistema Unix, pode passar horas a fio lendo o fo
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][8] 
 

@@ -35,7 +35,7 @@ Se o foco era uma palestra introdutória, como os temas abordados sugerem, eu es
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

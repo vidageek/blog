@@ -34,7 +34,7 @@ Veja a Wikipédia, também! Lá tem artigos para cada uma dessas áreas, com uma
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

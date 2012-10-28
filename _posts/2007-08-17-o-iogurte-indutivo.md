@@ -24,7 +24,7 @@ Da próxima vez, em O Iogurte Recursivo, a explicação será um pouco mais apro
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

@@ -26,7 +26,7 @@ Por outro lado, ações da Red Hat, SuSE GmbH e Mandriva têm desempenhado bem h
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

@@ -21,7 +21,7 @@ O blog [Na Mira do Linux][1] publicou diversas coisas que podem ser compradas co
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

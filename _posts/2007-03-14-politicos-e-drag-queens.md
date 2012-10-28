@@ -17,7 +17,7 @@ O site [Worth1000][1] abriu um concurso para fotomontagens de políticos drag qu
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

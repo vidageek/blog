@@ -29,7 +29,7 @@ Recentemente publicamos aqui no [GeekStyleOfLife][5] um [*post* sobre o Chess.co
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

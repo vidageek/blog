@@ -25,7 +25,7 @@ Foto modificada da original de [Gabriel Lopes][5].
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][6] 
 

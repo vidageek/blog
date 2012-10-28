@@ -22,7 +22,7 @@ O sistema permite que o especialista na área assuma o controle, impondo as devi
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

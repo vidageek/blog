@@ -31,7 +31,7 @@ Se você tem um dispositivo Android, recomendo testar o [SkiKitty][6], e observa
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

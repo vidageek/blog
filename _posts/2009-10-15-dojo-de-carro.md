@@ -23,7 +23,7 @@ Alguém tem alguma boa idéia de como misturar dojos com outras atividades?
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

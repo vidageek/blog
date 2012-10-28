@@ -19,7 +19,7 @@ Todo feedback é bem-vindo e fundamental para nós. E se gostou bastante da idé
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

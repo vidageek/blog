@@ -44,7 +44,7 @@ A solução eu obtive por sorte. Apenas pra ver o que acontecia resolvi retirar 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

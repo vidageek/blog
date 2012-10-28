@@ -67,7 +67,7 @@ Essas aqui eu só acreditei na hora em que o compilador simplesmente não reclam
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

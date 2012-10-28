@@ -36,7 +36,7 @@ Essa é a lista original publicada no post, com os comentários sobre os artigos
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][13] 
 

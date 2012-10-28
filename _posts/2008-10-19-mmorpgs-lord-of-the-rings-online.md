@@ -29,7 +29,7 @@ P.S.: Procure no Flickr por “LOTR Lego” para muitas risadas.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

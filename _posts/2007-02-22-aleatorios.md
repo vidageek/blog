@@ -41,7 +41,7 @@ Tem tamb√©m o [**LavaRnd**][2], onde eles usam um [sensor CCD][3] (como o que h√
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

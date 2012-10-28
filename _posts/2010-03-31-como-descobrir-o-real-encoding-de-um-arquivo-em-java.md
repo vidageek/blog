@@ -35,7 +35,7 @@ Ele é meio chato de usar, mas vale a pena.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

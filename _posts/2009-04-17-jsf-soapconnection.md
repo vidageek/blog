@@ -33,7 +33,7 @@ Erro feio esse! O que será que acontece se eu passar um Long pro método? Excep
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

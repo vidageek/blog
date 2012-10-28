@@ -23,7 +23,7 @@ Era um livro para o qual eu não dava muito valor, mas que surpreendeu-me muito.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

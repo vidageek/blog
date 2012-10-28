@@ -23,7 +23,7 @@ Enfim, parabéns César! Mas vê se contrata uma assessoria de imprensa com um p
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

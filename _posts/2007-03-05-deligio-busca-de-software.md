@@ -22,7 +22,7 @@ Esse site pode com certeza ser útil, pelo menos nos casos em que você não tem
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

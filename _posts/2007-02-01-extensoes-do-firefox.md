@@ -42,7 +42,7 @@ Essas são as extensões que utilizo atualmente. Conforme eu adicionar novas ext
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][18] 
 

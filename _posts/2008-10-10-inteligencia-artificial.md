@@ -38,7 +38,7 @@ Este artigo visa apenas a mostrar dar uma introdução à minha opinião sobre o
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][13] 
 

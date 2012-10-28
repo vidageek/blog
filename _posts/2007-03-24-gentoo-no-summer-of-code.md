@@ -30,7 +30,7 @@ Portanto, se você tiver tempo, souber programar, amar o software livre igual os
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

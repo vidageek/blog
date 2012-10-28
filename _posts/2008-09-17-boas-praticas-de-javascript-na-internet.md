@@ -27,7 +27,7 @@ Essa última dica vale também para Flash, Shockwave, Java e qualquer outra func
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

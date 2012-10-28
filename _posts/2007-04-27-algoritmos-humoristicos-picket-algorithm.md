@@ -25,7 +25,7 @@ Este é um algoritmo ainda muito usado, especialmente em softwares públicos, qu
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

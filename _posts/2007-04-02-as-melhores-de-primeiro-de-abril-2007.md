@@ -41,7 +41,7 @@ Já o Guia Linux – Parte III, bom, esse é sério! Sem pegadinhas, só dicas �
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

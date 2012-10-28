@@ -27,7 +27,7 @@ Com os treinos minha musculatura está voltando vagarosamente a um ponto razoáv
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

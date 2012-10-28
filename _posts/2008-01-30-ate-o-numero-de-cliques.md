@@ -33,7 +33,7 @@ Já estou melhor depois desse desabafo. Mas ainda assusta.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

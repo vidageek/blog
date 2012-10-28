@@ -72,7 +72,7 @@ Com isso, você já é capaz de tratar figuras em LaTeX e colorir seu texto. Se 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

@@ -35,7 +35,7 @@ Este post foi motivado pelo [Top 5 – Group  Writing Project][1] do [Problogge
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

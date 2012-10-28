@@ -19,7 +19,7 @@ O navegador Mozilla Firefox já é o navegador mais usado na Eslovênia e Finlâ
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

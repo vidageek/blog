@@ -28,7 +28,7 @@ Uma cobertura mais detalhada pode ser encontrada no [Ruby Inside Brasil][4] (ape
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][6] 
 

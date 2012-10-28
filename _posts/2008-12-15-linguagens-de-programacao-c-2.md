@@ -34,7 +34,7 @@ Eu, particularmente, gosto bastante de programar em C. Ter controle sobre os mí
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][6] 
 

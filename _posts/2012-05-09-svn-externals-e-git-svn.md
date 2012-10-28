@@ -17,7 +17,7 @@ Aparentemente o **git svn** ainda não suporta svn externals. Então em projetos
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

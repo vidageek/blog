@@ -23,7 +23,7 @@ A interface antiga ainda continuará sendo acessível por pelo menos um mês.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

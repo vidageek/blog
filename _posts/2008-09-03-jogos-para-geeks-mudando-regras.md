@@ -24,7 +24,7 @@ Alguns outros jogos que merecem menção, embora não mudem as regras em si, mas
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

@@ -44,7 +44,7 @@ Vale a pena dar uma boa olhada e talvez investir uma ou duas semanas do seu ver√
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][24] 
 

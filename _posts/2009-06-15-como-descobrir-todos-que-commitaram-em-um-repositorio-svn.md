@@ -40,7 +40,7 @@ Tentei fazer usando o comando **cut** no lugar do sed, mas o cut desistia no mei
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

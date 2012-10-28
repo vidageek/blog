@@ -19,7 +19,7 @@ P.S.: Este artigo não está relacionado aos outros posts de primeiro de abril.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

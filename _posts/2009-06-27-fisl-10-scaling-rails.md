@@ -36,7 +36,7 @@ O começo da palestra foi interessante, mas minha impressão final é de que o p
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

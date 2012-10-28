@@ -95,7 +95,7 @@ A **ALSA** (**A**dvanced **L**inux **S**ound **A**rchitecture) é a biblioteca m
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][18] 
 

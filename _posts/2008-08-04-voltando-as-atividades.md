@@ -19,7 +19,7 @@ Nos próximos meses pretendemos realizar alguns mini-projetos para melhorar a qu
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

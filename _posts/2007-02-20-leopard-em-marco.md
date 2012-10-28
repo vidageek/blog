@@ -21,7 +21,7 @@ Mais informações: **[Think Secret][1]**, em inglês.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

@@ -34,7 +34,7 @@ Ah, infelizmente ainda não disponível em um repositório maven (vou resolver i
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][9] 
 

@@ -98,7 +98,7 @@ Se você acha muito interessante algum Google Tech Talk que não esteja na lista
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][19] 
 

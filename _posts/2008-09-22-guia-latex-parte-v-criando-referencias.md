@@ -77,7 +77,7 @@ Então, agora, você já sabe colocar links internos, externos e até mesmo gera
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

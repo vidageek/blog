@@ -30,7 +30,7 @@ Montagem tosca por mim mesmo, utilizando os ícones do Firefox 3.0, do Shiretoko
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

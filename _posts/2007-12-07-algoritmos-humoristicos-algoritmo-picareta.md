@@ -37,7 +37,7 @@ Esses são apenas os casos de sucesso que eu conheço. Garanto que existem muito
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

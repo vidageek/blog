@@ -26,7 +26,7 @@ Resumindo em poucas palavras, tenho saudades do Google Reader antigo e da facili
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

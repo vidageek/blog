@@ -53,7 +53,7 @@ Isso garante que todas as ancestrais da sua classe estejam inicializadas antes d
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

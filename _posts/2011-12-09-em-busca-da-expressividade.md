@@ -36,7 +36,7 @@ Perceba como cada uma pressupõe um certo conhecimento prévio do leitor. A prim
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

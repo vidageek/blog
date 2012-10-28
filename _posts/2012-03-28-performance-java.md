@@ -23,7 +23,7 @@ P.s.: O mais legal é que o site foi feito com [Jekyll][2] e está hospedado no 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

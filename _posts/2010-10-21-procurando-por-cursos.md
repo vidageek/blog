@@ -24,7 +24,7 @@ Acho que essas são as novidades. Mencionei que com a redução do rítmo do pro
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][12] 
 

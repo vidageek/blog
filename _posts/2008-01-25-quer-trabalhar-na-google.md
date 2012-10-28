@@ -30,7 +30,7 @@ Aviso: é viciante (mesmo para quem não é workaholic)!
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

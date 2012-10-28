@@ -29,7 +29,7 @@ Explicando um pouco mais, parece que basta que o arquivo com.apple.iPhod.plist t
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

@@ -28,7 +28,7 @@ Por último, se você é RPGista (ou pretende se torna um) e gostou da ambienta�
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

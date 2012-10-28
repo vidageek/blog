@@ -19,7 +19,7 @@ O mais interessante é o fato de existir um dropdown para escolher quantas palma
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

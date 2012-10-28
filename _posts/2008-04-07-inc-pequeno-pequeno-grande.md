@@ -65,7 +65,7 @@ Isso compila porque você força o cast e assume toda a responsabilidade por qua
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

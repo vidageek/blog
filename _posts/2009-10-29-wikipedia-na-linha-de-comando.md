@@ -31,7 +31,7 @@ Uma mão na roda :-). [Para quem quer a fonte de onde encontrei isso, aqui vai.]
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

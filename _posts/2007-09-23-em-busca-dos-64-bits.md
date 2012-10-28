@@ -33,7 +33,7 @@ Triste fim para uma tarde. Mas faz parte do processo de mudança. Até processad
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

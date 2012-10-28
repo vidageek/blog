@@ -48,7 +48,7 @@ A organização do evento informa que todos os palestrantes aprovados terão ise
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

@@ -22,7 +22,7 @@ Depois de rodá-lo (passando a extensão de wifi como parâmetro), ele também c
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

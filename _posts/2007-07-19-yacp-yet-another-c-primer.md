@@ -65,7 +65,7 @@ Para instalar no Windows, acesse o [site do Emacs][3] e pegue o pacote de arquiv
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

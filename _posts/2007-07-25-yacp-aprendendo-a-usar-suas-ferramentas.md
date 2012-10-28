@@ -88,7 +88,7 @@ Já o emacs possui apenas um modo e uso. Inserção. Isso significa que você n�
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

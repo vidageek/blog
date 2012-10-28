@@ -25,7 +25,7 @@ Se você programa em C++ e não quer mudar para Java ou outra linguagem que dê 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

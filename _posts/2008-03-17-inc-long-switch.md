@@ -38,7 +38,7 @@ O que parece estranho é o long usar 64 bits enquanto que o float usa só 32. Ma
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

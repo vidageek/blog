@@ -61,7 +61,7 @@ Bom, acredito que isto cubra praticamente tudo sobre Multimedia no Gentoo. Caso 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

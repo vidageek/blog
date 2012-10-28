@@ -29,7 +29,7 @@ Ainda outras alternativas ao Ajax foram citadas. Entre elas: [JBoss com Ajax4jsf
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][9] 
 

@@ -60,7 +60,7 @@ Se tiverem alguma dúvida sobre como algo funciona por aqui, é só deixar nos c
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

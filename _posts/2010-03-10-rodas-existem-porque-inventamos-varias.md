@@ -23,7 +23,7 @@ Mas é bom lembrar que você não vai poder fazer isso sempre (afinal, não se v
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

@@ -48,7 +48,7 @@ Apesar de o site do IME/USP indicar que as inscrições terminaram em dezembro, 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][11] 
 

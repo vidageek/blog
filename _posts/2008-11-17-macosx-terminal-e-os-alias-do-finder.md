@@ -34,7 +34,7 @@ Nota, no momento do Post eu não estava conseguindo acessar o theapotek, a [pág
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

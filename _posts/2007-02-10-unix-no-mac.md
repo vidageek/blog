@@ -28,7 +28,7 @@ Se você é um programador e está trabalhando na plataforma MacOS X, são dois 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

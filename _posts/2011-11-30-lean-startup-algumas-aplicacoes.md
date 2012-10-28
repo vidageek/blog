@@ -43,7 +43,7 @@ Se você ficou interessado no assunto, recomendo o livro [The Lean Startup][10] 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][12] 
 

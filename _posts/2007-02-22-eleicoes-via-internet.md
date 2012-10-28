@@ -19,7 +19,7 @@ Mais informações: **[Folha Online][1]**.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

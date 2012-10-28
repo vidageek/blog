@@ -19,7 +19,7 @@ Vocês podem acessa-la por aqui: [http://groups.google.com.br/group/wordpress-br
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

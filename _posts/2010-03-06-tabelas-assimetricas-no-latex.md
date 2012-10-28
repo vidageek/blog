@@ -47,7 +47,7 @@ O post de hoje tem, novamente, a colaboração do nosso leitor Cacio Gazola. Mas
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

@@ -61,7 +61,7 @@ Troca as chaves atuais jonas pelas que estão com a terminação vidageek .
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

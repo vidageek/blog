@@ -30,7 +30,7 @@ Este post foi escrito por um convidado: **Fabricio de Sousa Nascimento**, membro
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][9] 
 

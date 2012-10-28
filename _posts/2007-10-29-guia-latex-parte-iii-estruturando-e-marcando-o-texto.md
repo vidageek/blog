@@ -104,7 +104,7 @@ Na próxima parte desse tutorial, veremos como colocar imagens em latex, importa
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

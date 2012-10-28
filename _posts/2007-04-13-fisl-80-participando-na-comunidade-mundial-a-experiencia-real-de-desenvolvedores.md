@@ -40,7 +40,7 @@ Numa discussão extremamente interessante e descontraída, os convidados aumenta
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

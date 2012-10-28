@@ -39,7 +39,7 @@ Como o Ubuntu foi criado para um sistema genérico ele não utiliza os outros (p
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][3] 
 

@@ -28,7 +28,7 @@ De passo em passo, de erro em erro e passando, eventualmente, pelo scaffold uma 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

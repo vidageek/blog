@@ -52,7 +52,7 @@ E você, qual a sua opinião? Quais são suas críticas a cada uma dessas lingua
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][7] 
 

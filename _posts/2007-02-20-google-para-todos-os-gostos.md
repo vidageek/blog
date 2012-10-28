@@ -39,7 +39,7 @@ Mais informações sobre essas e diversas outras ferramentas (incluindo todas as
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][12] 
 

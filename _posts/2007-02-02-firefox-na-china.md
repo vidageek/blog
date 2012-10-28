@@ -24,7 +24,7 @@ Bom, pela minha própria experiência com a cultura chinesa é bem capaz de empl
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

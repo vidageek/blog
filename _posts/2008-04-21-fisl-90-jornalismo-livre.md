@@ -31,7 +31,7 @@ Em opinião pessoal e em defesa de blogs muito bons que vemos pela internet, ach
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

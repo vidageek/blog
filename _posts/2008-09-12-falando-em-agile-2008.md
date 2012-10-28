@@ -23,7 +23,7 @@ Vale dizer também que a Caelum não costuma decepcionar nem nas palestras, nem 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

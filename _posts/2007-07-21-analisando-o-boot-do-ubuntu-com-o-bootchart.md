@@ -22,7 +22,7 @@ Depois basta reiniciar a máquina para que o gráfico seja gerado e então vá a
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

@@ -17,7 +17,7 @@ A boa notícia é que para esses vírus causarem danos grandes ao sistema, o Win
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

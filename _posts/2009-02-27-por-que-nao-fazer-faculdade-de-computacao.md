@@ -30,7 +30,7 @@ Como tudo em computação, você vai ter que pesar as vantagens e desvantagens e
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

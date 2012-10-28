@@ -42,7 +42,7 @@ Achou interessante? Não gostou? Discorda de alguma coisa? Quer adicionar mais a
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][10] 
 

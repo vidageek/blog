@@ -39,7 +39,7 @@ Fora o consumo de energia, todos nós podemos tomar medidas para diminuir nossa 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][5] 
 

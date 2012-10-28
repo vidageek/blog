@@ -23,7 +23,7 @@ Você fica sem parte do histórico, mas em geral acabo usando pouco o histórico
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

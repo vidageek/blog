@@ -52,7 +52,7 @@ Chegue às suas próprias conclusões… e lembre-se sempre do nome desse Senado
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

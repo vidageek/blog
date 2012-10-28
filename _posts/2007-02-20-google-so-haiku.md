@@ -22,7 +22,7 @@ Assim que for possivel, irei instalar a versão de testes e fornecerei mais deta
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][4] 
 

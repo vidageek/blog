@@ -34,7 +34,7 @@ Com isso encerro a série Dia C. Espero que tenham gostado.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

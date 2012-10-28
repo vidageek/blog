@@ -27,7 +27,7 @@ Esperamos que cadastrem-se e aproveitem para aprender e ensinar usando o fórum.
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 

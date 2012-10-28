@@ -79,7 +79,7 @@ Existe um outro operador, chamado Ou Exclusivo. As expressões formadas por ele 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][1] 
 

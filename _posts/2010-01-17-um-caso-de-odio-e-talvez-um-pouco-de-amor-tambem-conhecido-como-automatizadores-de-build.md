@@ -58,7 +58,7 @@ Enfim, o que preciso nesse momento é de pessoas que estejam afim de contribuir 
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][8] 
 

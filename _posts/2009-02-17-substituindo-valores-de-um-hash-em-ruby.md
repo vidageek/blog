@@ -51,7 +51,7 @@ O método merge de um hash permite a fusão de um segundo hash ao primeiro, adic
 **Posts Relacionados:** 
 *   No related posts
 
-<g:plusone size="medium" count="false" href=""></g:plusone> 
+
 
 [Tweet][2] 
 
