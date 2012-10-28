@@ -67,7 +67,7 @@ Para instalar no Windows, acesse o [site do Emacs][3] e pegue o pacote de arquiv
 
 
 
-[Tweet][4] 
+
 
 
 

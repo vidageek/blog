@@ -21,7 +21,7 @@ Todo feedback é bem-vindo e fundamental para nós. E se gostou bastante da idé
 
 
 
-[Tweet][7] 
+
 
 
 

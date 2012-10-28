@@ -30,7 +30,7 @@ Existe também um podcast para que você receba todo novo episódio que sair de 
 
 
 
-[Tweet][5] 
+
 
 
 

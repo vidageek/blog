@@ -35,7 +35,7 @@ Esse livro é do tipo que marca , que deixa seu enredo cravado em algum canto da
 
 
 
-[Tweet][2] 
+
 
 
 

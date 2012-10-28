@@ -42,7 +42,7 @@ Tentei fazer usando o comando **cut** no lugar do sed, mas o cut desistia no mei
 
 
 
-[Tweet][2] 
+
 
 
 

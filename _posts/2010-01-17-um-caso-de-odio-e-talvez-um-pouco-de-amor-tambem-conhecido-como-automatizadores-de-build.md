@@ -60,7 +60,7 @@ Enfim, o que preciso nesse momento é de pessoas que estejam afim de contribuir 
 
 
 
-[Tweet][8] 
+
 
 
 

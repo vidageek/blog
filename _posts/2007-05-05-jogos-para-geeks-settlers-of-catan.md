@@ -39,7 +39,7 @@ Para saber mais (e ver fotos), há a [entrada para Settlers Of Catan][5] no [Boa
 
 
 
-[Tweet][7] 
+
 
 
 

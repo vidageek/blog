@@ -30,7 +30,7 @@ De passo em passo, de erro em erro e passando, eventualmente, pelo scaffold uma 
 
 
 
-[Tweet][2] 
+
 
 
 

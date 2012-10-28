@@ -29,7 +29,7 @@ O principal problema em usar esses caracteres é a demora para encontrá-los na 
 
 
 
-[Tweet][4] 
+
 
 
 

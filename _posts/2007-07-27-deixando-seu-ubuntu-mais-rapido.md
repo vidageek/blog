@@ -41,7 +41,7 @@ Como o Ubuntu foi criado para um sistema genérico ele não utiliza os outros (p
 
 
 
-[Tweet][3] 
+
 
 
 

@@ -30,7 +30,7 @@ Por último, se você é RPGista (ou pretende se torna um) e gostou da ambienta�
 
 
 
-[Tweet][7] 
+
 
 
 

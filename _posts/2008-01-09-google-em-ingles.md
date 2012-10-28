@@ -27,7 +27,7 @@ Só não sei o que significa ncr.
 
 
 
-[Tweet][3] 
+
 
 
 

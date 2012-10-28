@@ -25,7 +25,7 @@ Você fica sem parte do histórico, mas em geral acabo usando pouco o histórico
 
 
 
-[Tweet][1] 
+
 
 
 

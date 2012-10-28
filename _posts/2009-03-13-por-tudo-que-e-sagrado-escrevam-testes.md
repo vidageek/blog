@@ -59,7 +59,7 @@ Programadores n√£o podem ter medo de aprender coisas novas. O novo, em programa√
 
 
 
-[Tweet][3] 
+
 
 
 

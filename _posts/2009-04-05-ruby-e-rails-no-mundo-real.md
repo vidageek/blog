@@ -30,7 +30,7 @@ Uma cobertura mais detalhada pode ser encontrada no [Ruby Inside Brasil][4] (ape
 
 
 
-[Tweet][6] 
+
 
 
 

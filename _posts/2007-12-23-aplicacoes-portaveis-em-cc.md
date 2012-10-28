@@ -29,7 +29,7 @@ Então, se você for escrever uma aplicação um pouco mais complexa do que um �
 
 
 
-[Tweet][5] 
+
 
 
 

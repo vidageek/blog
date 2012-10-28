@@ -26,7 +26,7 @@ Da próxima vez, em O Iogurte Recursivo, a explicação será um pouco mais apro
 
 
 
-[Tweet][1] 
+
 
 
 

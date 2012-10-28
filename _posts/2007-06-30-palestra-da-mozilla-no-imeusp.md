@@ -32,7 +32,7 @@ Apesar de um pouco de eco, é possível ouvir bem a palestra – recomendo fones
 
 
 
-[Tweet][4] 
+
 
 
 

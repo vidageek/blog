@@ -21,7 +21,7 @@ Vocês podem acessa-la por aqui: [http://groups.google.com.br/group/wordpress-br
 
 
 
-[Tweet][2] 
+
 
 
 

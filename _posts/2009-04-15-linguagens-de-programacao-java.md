@@ -37,7 +37,7 @@ Para concluir esse post (mas não necessariamente o assunto), podemos dizer que 
 
 
 
-[Tweet][7] 
+
 
 
 

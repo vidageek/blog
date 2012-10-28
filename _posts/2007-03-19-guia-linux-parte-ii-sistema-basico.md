@@ -97,7 +97,7 @@ A **ALSA** (**A**dvanced **L**inux **S**ound **A**rchitecture) é a biblioteca m
 
 
 
-[Tweet][18] 
+
 
 
 

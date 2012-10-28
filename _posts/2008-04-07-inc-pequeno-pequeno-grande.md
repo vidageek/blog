@@ -67,7 +67,7 @@ Isso compila porque você força o cast e assume toda a responsabilidade por qua
 
 
 
-[Tweet][1] 
+
 
 
 

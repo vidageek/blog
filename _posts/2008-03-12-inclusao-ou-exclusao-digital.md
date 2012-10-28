@@ -32,7 +32,7 @@ Atualmente vemos muito discussões sobre a OLPC permitir ou não o Windows no XO
 
 
 
-[Tweet][5] 
+
 
 
 

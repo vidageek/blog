@@ -29,7 +29,7 @@ No futuro, o objetivo é aumentar esse 60% para que ela realmente se duplique. N
 
 
 
-[Tweet][5] 
+
 
 
 

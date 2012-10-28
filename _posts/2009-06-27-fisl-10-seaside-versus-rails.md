@@ -38,7 +38,7 @@ Bom, é isso. Eu espero que as pessoas que compareceram a palestra tenham gostad
 
 
 
-[Tweet][6] 
+
 
 
 

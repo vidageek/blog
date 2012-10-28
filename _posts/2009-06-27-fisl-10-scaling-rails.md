@@ -38,7 +38,7 @@ O começo da palestra foi interessante, mas minha impressão final é de que o p
 
 
 
-[Tweet][4] 
+
 
 
 

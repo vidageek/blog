@@ -53,7 +53,7 @@ O método merge de um hash permite a fusão de um segundo hash ao primeiro, adic
 
 
 
-[Tweet][2] 
+
 
 
 

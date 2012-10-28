@@ -40,7 +40,7 @@ Pode-se questionar as intenções da Dell, assim como questiona-se as da Novell.
 
 
 
-[Tweet][1] 
+
 
 
 

@@ -24,7 +24,7 @@ Mais informações: **[Uol Tecnologia][1]**
 
 
 
-[Tweet][2] 
+
 
 
 

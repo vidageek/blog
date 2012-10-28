@@ -41,7 +41,7 @@ Fora o consumo de energia, todos nós podemos tomar medidas para diminuir nossa 
 
 
 
-[Tweet][5] 
+
 
 
 

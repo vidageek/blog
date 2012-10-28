@@ -29,7 +29,7 @@ Pessoalmente eu gostava da funcionalidade, talvez ela tenha ido por uma boa raz√
 
 
 
-[Tweet][4] 
+
 
 
 

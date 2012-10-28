@@ -19,7 +19,7 @@ Mais informações: **[game Developers Conference][1]**, em inglês.
 
 
 
-[Tweet][2] 
+
 
 
 

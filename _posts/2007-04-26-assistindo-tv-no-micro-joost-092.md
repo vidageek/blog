@@ -25,7 +25,7 @@ Aproveitando, estamos lançando uma promoção: **As três pessoas que mandarem 
 
 
 
-[Tweet][2] 
+
 
 
 

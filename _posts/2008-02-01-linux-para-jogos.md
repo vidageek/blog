@@ -22,7 +22,7 @@ O mercado de jogos está mudando, também. Recentemente, a Electronic Arts lanç
 
 
 
-[Tweet][7] 
+
 
 
 

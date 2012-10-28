@@ -43,7 +43,7 @@ A pedidos da organização do evento, estamos divulgando a seguinte mensagem:
 
 
 
-[Tweet][2] 
+
 
 
 

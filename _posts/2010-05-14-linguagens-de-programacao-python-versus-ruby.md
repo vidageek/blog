@@ -54,7 +54,7 @@ E você, qual a sua opinião? Quais são suas críticas a cada uma dessas lingua
 
 
 
-[Tweet][7] 
+
 
 
 

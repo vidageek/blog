@@ -27,7 +27,7 @@ Mas a pior coisa é eu perdi 2 botões. Eu já esperava não encontrar o quarto 
 
 
 
-[Tweet][3] 
+
 
 
 

@@ -25,7 +25,7 @@ Foto por [Photo Gallery][5].
 
 
 
-[Tweet][6] 
+
 
 
 

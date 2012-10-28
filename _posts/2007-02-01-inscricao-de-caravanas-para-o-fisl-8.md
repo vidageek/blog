@@ -19,7 +19,7 @@ Para os alunos do IME-USP haverá um ônibus pago pelo instituto que sairá de S
 
 
 
-[Tweet][3] 
+
 
 
 

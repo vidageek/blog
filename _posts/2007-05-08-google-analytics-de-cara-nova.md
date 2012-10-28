@@ -25,7 +25,7 @@ A interface antiga ainda continuará sendo acessível por pelo menos um mês.
 
 
 
-[Tweet][2] 
+
 
 
 

@@ -26,7 +26,7 @@ Quando eu comecei a bloquear não esperava resultados tão rápido. A partir des
 
 
 
-[Tweet][4] 
+
 
 
 

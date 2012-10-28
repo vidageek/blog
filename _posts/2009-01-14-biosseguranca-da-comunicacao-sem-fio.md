@@ -24,7 +24,7 @@ E você, o que acha? Essas pessoas, que se dizem eletrossensíveis, sofrem por c
 
 
 
-[Tweet][6] 
+
 
 
 

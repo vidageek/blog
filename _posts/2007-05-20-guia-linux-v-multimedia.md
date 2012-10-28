@@ -63,7 +63,7 @@ Bom, acredito que isto cubra praticamente tudo sobre Multimedia no Gentoo. Caso 
 
 
 
-[Tweet][3] 
+
 
 
 

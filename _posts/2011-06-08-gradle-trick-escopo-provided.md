@@ -46,7 +46,7 @@ O código para o escopo provided ficou mais ou menos assim (eventualmente talvez
 
 
 
-[Tweet][4] 
+
 
 
 

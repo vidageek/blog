@@ -30,7 +30,7 @@ Se você é um programador e está trabalhando na plataforma MacOS X, são dois 
 
 
 
-[Tweet][1] 
+
 
 
 

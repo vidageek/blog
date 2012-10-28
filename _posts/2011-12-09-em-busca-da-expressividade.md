@@ -38,7 +38,7 @@ Perceba como cada uma pressupõe um certo conhecimento prévio do leitor. A prim
 
 
 
-[Tweet][3] 
+
 
 
 

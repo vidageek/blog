@@ -24,7 +24,7 @@ Depois basta reiniciar a máquina para que o gráfico seja gerado e então vá a
 
 
 
-[Tweet][2] 
+
 
 
 

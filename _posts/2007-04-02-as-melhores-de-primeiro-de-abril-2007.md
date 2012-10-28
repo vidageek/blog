@@ -43,7 +43,7 @@ Já o Guia Linux – Parte III, bom, esse é sério! Sem pegadinhas, só dicas �
 
 
 
-[Tweet][5] 
+
 
 
 

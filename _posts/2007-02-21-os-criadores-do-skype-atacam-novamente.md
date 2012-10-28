@@ -20,7 +20,7 @@ Mais informações e inscrições para a versão de testes do Joost:**[Joost][1]
 
 
 
-[Tweet][2] 
+
 
 
 

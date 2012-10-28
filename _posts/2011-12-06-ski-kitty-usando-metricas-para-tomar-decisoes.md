@@ -33,7 +33,7 @@ Se você tem um dispositivo Android, recomendo testar o [SkiKitty][6], e observa
 
 
 
-[Tweet][7] 
+
 
 
 

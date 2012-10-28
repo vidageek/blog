@@ -24,7 +24,7 @@ Para mais informações acesse: [www.linux.ime.usp.br/flisol][2]
 
 
 
-[Tweet][3] 
+
 
 
 

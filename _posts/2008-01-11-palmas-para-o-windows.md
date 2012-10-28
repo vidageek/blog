@@ -21,7 +21,7 @@ O mais interessante é o fato de existir um dropdown para escolher quantas palma
 
 
 
-[Tweet][3] 
+
 
 
 

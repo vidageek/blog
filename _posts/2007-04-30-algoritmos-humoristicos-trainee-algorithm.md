@@ -24,7 +24,7 @@ Para os que não sabem, os problemas computacionais podem ser classificados de a
 
 
 
-[Tweet][1] 
+
 
 
 

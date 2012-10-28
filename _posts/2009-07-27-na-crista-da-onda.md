@@ -35,7 +35,7 @@ Imagem via [Flickr][2]
 
 
 
-[Tweet][3] 
+
 
 
 

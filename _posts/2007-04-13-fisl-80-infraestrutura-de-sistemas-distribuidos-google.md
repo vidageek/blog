@@ -26,7 +26,7 @@ BigTable, como o próprio nome já diz, é uma tabela grande. Mas como estamos f
 
 
 
-[Tweet][1] 
+
 
 
 

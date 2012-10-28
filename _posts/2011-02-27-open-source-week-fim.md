@@ -22,7 +22,7 @@ Ah, e se tiver interesse em participar de algum projeto opensource (independente
 
 
 
-[Tweet][2] 
+
 
 
 

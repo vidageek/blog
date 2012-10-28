@@ -27,7 +27,7 @@ Fonte: [John Chow dot Com][2]
 
 
 
-[Tweet][3] 
+
 
 
 

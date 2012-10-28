@@ -44,7 +44,7 @@ Claramente, Seth Schoen se levanta contra as licensas abusivamente restritivas e
 
 
 
-[Tweet][2] 
+
 
 
 

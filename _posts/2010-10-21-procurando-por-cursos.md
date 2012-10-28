@@ -26,7 +26,7 @@ Acho que essas são as novidades. Mencionei que com a redução do rítmo do pro
 
 
 
-[Tweet][12] 
+
 
 
 

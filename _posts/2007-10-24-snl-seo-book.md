@@ -25,7 +25,7 @@ No livro são apresentadas diversas dicas de como deixar seu site mais otimizado
 
 
 
-[Tweet][4] 
+
 
 
 

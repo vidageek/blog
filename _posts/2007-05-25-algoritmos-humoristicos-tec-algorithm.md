@@ -28,7 +28,7 @@ Gostaria de enfatizar a grande inteligência por trás desse algoritmo. Com o ga
 
 
 
-[Tweet][3] 
+
 
 
 

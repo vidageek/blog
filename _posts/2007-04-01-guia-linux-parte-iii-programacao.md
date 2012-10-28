@@ -69,7 +69,7 @@ Infelizmente no portage a versão disponível é a 3.6-r1, uma versão bem antig
 
 
 
-[Tweet][9] 
+
 
 
 

@@ -30,7 +30,7 @@ Recomendo muito [esse addon][3]. Mesmo que você use algum outro tipo de agenda,
 
 
 
-[Tweet][4] 
+
 
 
 

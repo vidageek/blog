@@ -44,7 +44,7 @@ Achou interessante? Não gostou? Discorda de alguma coisa? Quer adicionar mais a
 
 
 
-[Tweet][10] 
+
 
 
 

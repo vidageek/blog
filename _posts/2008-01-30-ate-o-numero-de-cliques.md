@@ -35,7 +35,7 @@ Já estou melhor depois desse desabafo. Mas ainda assusta.
 
 
 
-[Tweet][2] 
+
 
 
 

@@ -38,7 +38,7 @@ Aguardamos a publicação dos slides dessa palestra, com as tirinhas do Dilbert 
 
 
 
-[Tweet][2] 
+
 
 
 

@@ -49,7 +49,7 @@ Vemos extremistas em todos os lugares, mas uma reação comparando uma ferrament
 
 
 
-[Tweet][3] 
+
 
 
 

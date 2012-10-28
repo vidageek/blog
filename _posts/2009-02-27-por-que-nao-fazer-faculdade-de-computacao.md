@@ -32,7 +32,7 @@ Como tudo em computação, você vai ter que pesar as vantagens e desvantagens e
 
 
 
-[Tweet][1] 
+
 
 
 

@@ -35,7 +35,7 @@ Você usa outros aplicativos interessantes para Linux? Deixe seu comentário e p
 
 
 
-[Tweet][4] 
+
 
 
 

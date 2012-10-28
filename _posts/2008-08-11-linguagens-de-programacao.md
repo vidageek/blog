@@ -61,7 +61,7 @@ Faremos uma série de posts, aqui no VidaGeek, comentando mais sobre cada lingua
 
 
 
-[Tweet][5] 
+
 
 
 

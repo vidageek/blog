@@ -26,7 +26,7 @@ Inicialmente, o projeto realiza apenas o “Extract Method” e já pode ser usa
 
 
 
-[Tweet][4] 
+
 
 
 

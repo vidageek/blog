@@ -34,7 +34,7 @@ Por causa disso, o ssh checa quais são as permissões do diretório .ssh . Se o
 
 
 
-[Tweet][1] 
+
 
 
 

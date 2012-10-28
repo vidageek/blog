@@ -45,7 +45,7 @@ Release notes completo pode ser encontrado [aqui][2].
 
 
 
-[Tweet][3] 
+
 
 
 

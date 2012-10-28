@@ -37,7 +37,7 @@ Essa é uma palestra que recomendo muito. Não apenas por gostar de scala, mas p
 
 
 
-[Tweet][3] 
+
 
 
 

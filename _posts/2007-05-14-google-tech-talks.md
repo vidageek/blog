@@ -100,7 +100,7 @@ Se você acha muito interessante algum Google Tech Talk que não esteja na lista
 
 
 
-[Tweet][19] 
+
 
 
 

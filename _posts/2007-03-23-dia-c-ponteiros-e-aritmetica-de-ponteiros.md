@@ -45,7 +45,7 @@ Próxima semana: Algoritmos genéricos em C
 
 
 
-[Tweet][1] 
+
 
 
 

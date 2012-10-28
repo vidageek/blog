@@ -51,7 +51,7 @@ Mas isso raramente é feito de forma efetiva (quando é feito…), o que resulta
 
 
 
-[Tweet][3] 
+
 
 
 

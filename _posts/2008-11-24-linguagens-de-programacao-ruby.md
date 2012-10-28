@@ -43,7 +43,7 @@ Foto por [elliottcable][7].
 
 
 
-[Tweet][8] 
+
 
 
 

@@ -29,7 +29,7 @@ Com os treinos minha musculatura está voltando vagarosamente a um ponto razoáv
 
 
 
-[Tweet][4] 
+
 
 
 

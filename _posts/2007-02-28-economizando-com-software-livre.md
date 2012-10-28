@@ -29,7 +29,7 @@ As pessoas acham que só porque o código é aberto ele é inseguro e incompleto
 
 
 
-[Tweet][2] 
+
 
 
 

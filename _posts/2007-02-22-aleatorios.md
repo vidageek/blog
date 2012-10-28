@@ -43,7 +43,7 @@ Tem tamb√©m o [**LavaRnd**][2], onde eles usam um [sensor CCD][3] (como o que h√
 
 
 
-[Tweet][5] 
+
 
 
 

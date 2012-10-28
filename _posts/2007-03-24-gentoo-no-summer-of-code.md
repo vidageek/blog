@@ -32,7 +32,7 @@ Portanto, se você tiver tempo, souber programar, amar o software livre igual os
 
 
 
-[Tweet][7] 
+
 
 
 

@@ -38,7 +38,7 @@ Mudando um pouco o assunto, já que falei do Ubuntu, essa semana eu participei d
 
 
 
-[Tweet][11] 
+
 
 
 

@@ -36,7 +36,7 @@ Veja a Wikipédia, também! Lá tem artigos para cada uma dessas áreas, com uma
 
 
 
-[Tweet][4] 
+
 
 
 

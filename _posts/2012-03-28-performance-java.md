@@ -25,7 +25,7 @@ P.s.: O mais legal é que o site foi feito com [Jekyll][2] e está hospedado no 
 
 
 
-[Tweet][4] 
+
 
 
 

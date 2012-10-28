@@ -29,7 +29,7 @@ Veja também o site oficial: <http://glade.gnome.org/>
 
 
 
-[Tweet][2] 
+
 
 
 

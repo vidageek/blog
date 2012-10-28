@@ -17,7 +17,7 @@ O verdadeiro geek, aquele que realmente gosta de aprender, está pronto para apr
 
 
 
-[Tweet][1] 
+
 
 
 

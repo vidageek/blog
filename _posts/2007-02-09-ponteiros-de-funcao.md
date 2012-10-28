@@ -41,7 +41,7 @@ Próxima semana, modificadores de variáveis e funções e as extensões GNUC.
 
 
 
-[Tweet][1] 
+
 
 
 

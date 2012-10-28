@@ -42,7 +42,7 @@ Outra coisa, quem descobriu o post e a solução foi o [Edmilson Miyasaki, da Ad
 
 
 
-[Tweet][7] 
+
 
 
 

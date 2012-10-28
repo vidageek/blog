@@ -25,7 +25,7 @@ Se você quer saber mais sobre [gdgt.com][2], recomendo o vídeo de [Verônica B
 
 
 
-[Tweet][6] 
+
 
 
 

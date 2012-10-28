@@ -21,7 +21,7 @@ O navegador Mozilla Firefox já é o navegador mais usado na Eslovênia e Finlâ
 
 
 
-[Tweet][1] 
+
 
 
 

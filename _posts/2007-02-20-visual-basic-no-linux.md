@@ -23,7 +23,7 @@ Mais informações:**[Linux Devices][2]**, em inglês.
 
 
 
-[Tweet][3] 
+
 
 
 

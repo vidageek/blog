@@ -24,7 +24,7 @@ O comando é bem simples:
 
 
 
-[Tweet][2] 
+
 
 
 

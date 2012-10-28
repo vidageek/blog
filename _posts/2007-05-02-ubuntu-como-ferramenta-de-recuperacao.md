@@ -34,7 +34,7 @@ Portanto, fica como dica, mesmo que não use o Ubuntu carregue consigo o CD de i
 
 
 
-[Tweet][3] 
+
 
 
 

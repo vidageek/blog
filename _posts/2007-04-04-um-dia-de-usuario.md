@@ -36,7 +36,7 @@ Além disso, se você usa algum sistema Unix, pode passar horas a fio lendo o fo
 
 
 
-[Tweet][8] 
+
 
 
 

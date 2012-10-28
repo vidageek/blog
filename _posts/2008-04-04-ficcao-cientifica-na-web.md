@@ -28,7 +28,7 @@ Por estas e muitas outras informações, vale a pena dar uma olhada no [io9][2].
 
 
 
-[Tweet][8] 
+
 
 
 

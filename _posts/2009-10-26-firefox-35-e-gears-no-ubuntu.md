@@ -32,7 +32,7 @@ Montagem tosca por mim mesmo, utilizando os ícones do Firefox 3.0, do Shiretoko
 
 
 
-[Tweet][2] 
+
 
 
 

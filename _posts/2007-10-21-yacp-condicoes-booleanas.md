@@ -81,7 +81,7 @@ Existe um outro operador, chamado Ou Exclusivo. As expressões formadas por ele 
 
 
 
-[Tweet][1] 
+
 
 
 

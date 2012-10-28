@@ -23,7 +23,7 @@ O blog [Na Mira do Linux][1] publicou diversas coisas que podem ser compradas co
 
 
 
-[Tweet][2] 
+
 
 
 

@@ -22,7 +22,7 @@ Qualquer dúvida, sugestão ou angustia, envie um email para agilesearcher@vidag
 
 
 
-[Tweet][3] 
+
 
 
 

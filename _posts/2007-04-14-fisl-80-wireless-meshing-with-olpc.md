@@ -39,7 +39,7 @@ Após a grande sessão de aplausos, a palestra se encerrou.
 
 
 
-[Tweet][1] 
+
 
 
 

@@ -28,7 +28,7 @@ Resumindo em poucas palavras, tenho saudades do Google Reader antigo e da facili
 
 
 
-[Tweet][2] 
+
 
 
 

@@ -32,7 +32,7 @@ Enfim, esta é uma ferramenta essencial para aqueles que estão cursando cálcul
 
 
 
-[Tweet][4] 
+
 
 
 

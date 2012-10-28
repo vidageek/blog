@@ -40,7 +40,7 @@ Na próxima semana: Pilha do C.
 
 
 
-[Tweet][1] 
+
 
 
 

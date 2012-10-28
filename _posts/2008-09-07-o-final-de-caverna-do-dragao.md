@@ -30,7 +30,7 @@ Imagem por [DraXus][4].
 
 
 
-[Tweet][5] 
+
 
 
 

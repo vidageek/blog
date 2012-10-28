@@ -39,7 +39,7 @@ Da próxima vez que encontrar alguém que tem uma mesa muito bagunçada, desconf
 
 
 
-[Tweet][7] 
+
 
 
 

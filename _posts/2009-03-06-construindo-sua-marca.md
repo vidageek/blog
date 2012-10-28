@@ -33,7 +33,7 @@ Por último, ignore tudo que falei acima quando quiser ou achar que faz sentido.
 
 
 
-[Tweet][2] 
+
 
 
 

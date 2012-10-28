@@ -31,7 +31,7 @@ Recentemente publicamos aqui no [GeekStyleOfLife][5] um [*post* sobre o Chess.co
 
 
 
-[Tweet][7] 
+
 
 
 

@@ -25,7 +25,7 @@ A nova versão do OpenOffice para Mac não precisará do X11 e, portanto, o futu
 
 
 
-[Tweet][4] 
+
 
 
 

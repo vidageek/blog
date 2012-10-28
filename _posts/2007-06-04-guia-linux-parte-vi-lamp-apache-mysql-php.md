@@ -73,7 +73,7 @@ Pronto! Você já tem um servidor LAMP rodando na sua máquina. A configuração
 
 
 
-[Tweet][8] 
+
 
 
 

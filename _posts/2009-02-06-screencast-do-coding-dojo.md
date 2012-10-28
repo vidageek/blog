@@ -26,7 +26,7 @@ Mais informações podem ser obtidas no [site oficial do Coding Dojo São Paulo]
 
 
 
-[Tweet][6] 
+
 
 
 

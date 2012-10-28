@@ -24,7 +24,7 @@ Mais videos da Google Tech Talks: **[Google Video][4]**
 
 
 
-[Tweet][5] 
+
 
 
 

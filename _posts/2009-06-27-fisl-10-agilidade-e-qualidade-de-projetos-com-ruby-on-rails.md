@@ -46,7 +46,7 @@ Assim que der tempo falo sobre as outras três palestras que assisti ontem, apes
 
 
 
-[Tweet][9] 
+
 
 
 

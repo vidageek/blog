@@ -32,7 +32,7 @@ Cândido Ruiz, membro fundador do Conselho Steampunk, redator do Steampunksp.tk 
 
 
 
-[Tweet][3] 
+
 
 
 

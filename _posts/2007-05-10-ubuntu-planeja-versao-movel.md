@@ -30,7 +30,7 @@ O lançamento da versão móvel de Ubuntu está previsto para outubro deste ano.
 
 
 
-[Tweet][2] 
+
 
 
 

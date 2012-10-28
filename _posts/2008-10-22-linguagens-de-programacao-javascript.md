@@ -43,7 +43,7 @@ Graças às características da linguagem, o código fica elegante e razoavelmen
 
 
 
-[Tweet][10] 
+
 
 
 

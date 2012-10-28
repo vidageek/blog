@@ -54,7 +54,7 @@ Chegue às suas próprias conclusões… e lembre-se sempre do nome desse Senado
 
 
 
-[Tweet][1] 
+
 
 
 

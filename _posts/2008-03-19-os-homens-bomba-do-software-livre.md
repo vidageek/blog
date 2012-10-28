@@ -29,7 +29,7 @@ Em suma, apoio o software livre, utilizo o Linux a muito tempo (desde do **Slack
 
 
 
-[Tweet][3] 
+
 
 
 

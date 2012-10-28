@@ -41,7 +41,7 @@ Como leitura recomendada na palestra, fica a página da [Wikipedia][2] sobre dom
 
 
 
-[Tweet][3] 
+
 
 
 

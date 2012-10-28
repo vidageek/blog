@@ -33,7 +33,7 @@ Acredito que todo o movimento do software livre pode aprender com os passos do U
 
 
 
-[Tweet][1] 
+
 
 
 

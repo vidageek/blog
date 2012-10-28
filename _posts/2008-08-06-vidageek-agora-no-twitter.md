@@ -27,7 +27,7 @@ Para acompanhar nossas mensagens neste serviço, basta visitar a nossa [conta][4
 
 
 
-[Tweet][5] 
+
 
 
 

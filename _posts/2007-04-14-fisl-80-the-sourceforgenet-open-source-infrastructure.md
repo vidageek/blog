@@ -33,7 +33,7 @@ Na seção de perguntas, Ross ainda afirmou que o SourceForge pretende, agora, s
 
 
 
-[Tweet][1] 
+
 
 
 

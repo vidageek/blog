@@ -38,7 +38,7 @@ Na minha opinião, a participação da Google nesse FISL deixou um pouco a desej
 
 
 
-[Tweet][2] 
+
 
 
 

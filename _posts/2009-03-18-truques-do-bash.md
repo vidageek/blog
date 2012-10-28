@@ -45,7 +45,7 @@ Bom, esses e outros comandos estão disponíveis em [command line fu][1]. Convid
 
 
 
-[Tweet][2] 
+
 
 
 

@@ -18,7 +18,7 @@ Durante as últimas semanas, Steve Ballmer afirmou que o Linux viola propriedade
 
 
 
-[Tweet][2] 
+
 
 
 

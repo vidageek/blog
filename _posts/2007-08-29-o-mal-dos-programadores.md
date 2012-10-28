@@ -39,7 +39,7 @@ Se alguém tiver mais dicas de como sobrevivermos à profissão, por favor coloq
 
 
 
-[Tweet][1] 
+
 
 
 

@@ -24,7 +24,7 @@ Depois de rodá-lo (passando a extensão de wifi como parâmetro), ele também c
 
 
 
-[Tweet][1] 
+
 
 
 

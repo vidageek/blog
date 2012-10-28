@@ -48,7 +48,7 @@ Muitos por quês e muitas críticas. Fica uma sugestão: colocar mais pessoas de
 
 
 
-[Tweet][7] 
+
 
 
 

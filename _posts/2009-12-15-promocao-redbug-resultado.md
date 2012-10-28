@@ -16,7 +16,7 @@ Temos um ganhador! José Souza, parabéns! Você foi o sorteado. A RedBug entrar
 
 
 
-[Tweet][1] 
+
 
 
 

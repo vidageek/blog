@@ -33,7 +33,7 @@ Em suma este é um jogo muito viciante, sarcástico e bem feito. Com certeza dá
 
 
 
-[Tweet][3] 
+
 
 
 

@@ -36,7 +36,7 @@ Eu, particularmente, gosto bastante de programar em C. Ter controle sobre os mí
 
 
 
-[Tweet][6] 
+
 
 
 

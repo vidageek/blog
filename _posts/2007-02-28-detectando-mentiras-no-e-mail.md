@@ -25,7 +25,7 @@ O sistema ainda tem que melhorar, mas deverá ser lançado comercialmente em 200
 
 
 
-[Tweet][2] 
+
 
 
 

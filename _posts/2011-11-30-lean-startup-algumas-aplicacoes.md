@@ -45,7 +45,7 @@ Se você ficou interessado no assunto, recomendo o livro [The Lean Startup][10] 
 
 
 
-[Tweet][12] 
+
 
 
 

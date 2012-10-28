@@ -36,7 +36,7 @@ Com isso encerro a série Dia C. Espero que tenham gostado.
 
 
 
-[Tweet][2] 
+
 
 
 

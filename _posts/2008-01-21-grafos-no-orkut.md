@@ -33,7 +33,7 @@ O que é mais possível, então? Uma boa Heurística. Hoje mesmo eu notei que t�
 
 
 
-[Tweet][4] 
+
 
 
 

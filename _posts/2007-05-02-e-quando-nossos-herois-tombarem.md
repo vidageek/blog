@@ -42,7 +42,7 @@ O Software Livre já se consolidou como uma alternativa, mas ele tem potencial p
 
 
 
-[Tweet][1] 
+
 
 
 

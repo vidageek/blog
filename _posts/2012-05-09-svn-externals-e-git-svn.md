@@ -19,7 +19,7 @@ Aparentemente o **git svn** ainda não suporta svn externals. Então em projetos
 
 
 
-[Tweet][2] 
+
 
 
 

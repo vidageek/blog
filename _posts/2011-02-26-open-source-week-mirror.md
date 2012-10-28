@@ -26,7 +26,7 @@ Essa versão trás muitas pequenas melhorias para o dia a dia (como refletir um 
 
 
 
-[Tweet][5] 
+
 
 
 

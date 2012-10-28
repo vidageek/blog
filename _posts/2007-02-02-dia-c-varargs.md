@@ -48,7 +48,7 @@ Próxima semana, ponteiros de funções.
 
 
 
-[Tweet][1] 
+
 
 
 

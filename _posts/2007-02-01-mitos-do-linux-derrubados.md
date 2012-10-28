@@ -51,7 +51,7 @@ Espero que esse texto possa ajudar a diminuir o preconceito das pessoas em rela√
 
 
 
-[Tweet][7] 
+
 
 
 

@@ -25,7 +25,7 @@ Enfim, parabéns César! Mas vê se contrata uma assessoria de imprensa com um p
 
 
 
-[Tweet][2] 
+
 
 
 

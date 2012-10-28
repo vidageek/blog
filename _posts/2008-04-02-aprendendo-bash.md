@@ -41,7 +41,7 @@ Além deste *sites*, nos já publicamos alguns *posts* sobre o bash. O [“Apren
 
 
 
-[Tweet][9] 
+
 
 
 

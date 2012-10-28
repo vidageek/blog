@@ -23,7 +23,7 @@ Mais informações: **[Think Secret][1]**, em inglês.
 
 
 
-[Tweet][2] 
+
 
 
 

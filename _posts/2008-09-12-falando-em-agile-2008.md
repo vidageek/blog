@@ -25,7 +25,7 @@ Vale dizer também que a Caelum não costuma decepcionar nem nas palestras, nem 
 
 
 
-[Tweet][5] 
+
 
 
 

@@ -55,7 +55,7 @@ Se você optou pelo LiveCD, você tem agora uma instalação quase completamente
 
 
 
-[Tweet][7] 
+
 
 
 

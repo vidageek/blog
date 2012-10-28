@@ -26,7 +26,7 @@ Fica a dica para os que costumam trabalhar com midias em formatos estranhos (ou 
 
 
 
-[Tweet][2] 
+
 
 
 

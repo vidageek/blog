@@ -29,7 +29,7 @@ Para saber mais: [Interação Humano-Computador][1]
 
 
 
-[Tweet][2] 
+
 
 
 

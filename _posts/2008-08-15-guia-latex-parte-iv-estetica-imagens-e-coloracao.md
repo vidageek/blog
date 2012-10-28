@@ -74,7 +74,7 @@ Com isso, você já é capaz de tratar figuras em LaTeX e colorir seu texto. Se 
 
 
 
-[Tweet][1] 
+
 
 
 

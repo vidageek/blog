@@ -37,7 +37,7 @@ Se o foco era uma palestra introdutória, como os temas abordados sugerem, eu es
 
 
 
-[Tweet][1] 
+
 
 
 

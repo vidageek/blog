@@ -26,7 +26,7 @@ Alguns outros jogos que merecem menção, embora não mudem as regras em si, mas
 
 
 
-[Tweet][7] 
+
 
 
 

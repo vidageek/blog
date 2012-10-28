@@ -60,7 +60,7 @@ Você pode escolher sua ISO e baixá-la no [gentoo.org][1] ou em [torrents][2].
 
 
 
-[Tweet][3] 
+
 
 
 

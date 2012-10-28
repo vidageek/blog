@@ -20,7 +20,7 @@ Obrigado pela compreensão.
 
 
 
-[Tweet][2] 
+
 
 
 

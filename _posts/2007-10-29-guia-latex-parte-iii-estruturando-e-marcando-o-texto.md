@@ -106,7 +106,7 @@ Na próxima parte desse tutorial, veremos como colocar imagens em latex, importa
 
 
 
-[Tweet][1] 
+
 
 
 

@@ -38,7 +38,7 @@ Feito isso, você vai ter que recarregar o módulo do ALSA ou, o que é muito ma
 
 
 
-[Tweet][4] 
+
 
 
 

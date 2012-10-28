@@ -44,7 +44,7 @@ O outro problema é que eu passo cerca de oito horas logado em sistemas Google. 
 
 
 
-[Tweet][1] 
+
 
 
 

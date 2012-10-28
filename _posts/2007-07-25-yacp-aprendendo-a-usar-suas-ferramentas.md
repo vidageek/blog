@@ -90,7 +90,7 @@ Já o emacs possui apenas um modo e uso. Inserção. Isso significa que você n�
 
 
 
-[Tweet][1] 
+
 
 
 

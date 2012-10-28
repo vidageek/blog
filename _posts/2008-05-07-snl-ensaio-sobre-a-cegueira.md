@@ -30,7 +30,7 @@ Em suma, o livro é muito interessante. Dá asas à imaginação sem sair do mun
 
 
 
-[Tweet][2] 
+
 
 
 

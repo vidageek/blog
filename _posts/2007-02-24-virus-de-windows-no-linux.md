@@ -19,7 +19,7 @@ A boa notícia é que para esses vírus causarem danos grandes ao sistema, o Win
 
 
 
-[Tweet][2] 
+
 
 
 

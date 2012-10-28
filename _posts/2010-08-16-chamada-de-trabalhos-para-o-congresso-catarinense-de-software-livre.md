@@ -50,7 +50,7 @@ A organização do evento informa que todos os palestrantes aprovados terão ise
 
 
 
-[Tweet][1] 
+
 
 
 

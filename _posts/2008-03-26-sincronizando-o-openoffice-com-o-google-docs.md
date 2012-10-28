@@ -32,7 +32,7 @@ Se você utiliza muito pacote office vale a pena dar uma olhada no [OpenOffice.o
 
 
 
-[Tweet][6] 
+
 
 
 

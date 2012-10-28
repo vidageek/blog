@@ -53,7 +53,7 @@ Nos posts a seguir, um resumo de cada palestra.
 
 
 
-[Tweet][4] 
+
 
 
 

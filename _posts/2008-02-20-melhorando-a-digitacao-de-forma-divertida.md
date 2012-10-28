@@ -25,7 +25,7 @@ O jogo começa com palavras de três letras e com o passar do tempo sua dificuld
 
 
 
-[Tweet][3] 
+
 
 
 

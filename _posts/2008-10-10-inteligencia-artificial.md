@@ -40,7 +40,7 @@ Este artigo visa apenas a mostrar dar uma introdução à minha opinião sobre o
 
 
 
-[Tweet][13] 
+
 
 
 

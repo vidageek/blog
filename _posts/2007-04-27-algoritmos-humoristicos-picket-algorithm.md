@@ -27,7 +27,7 @@ Este é um algoritmo ainda muito usado, especialmente em softwares públicos, qu
 
 
 
-[Tweet][1] 
+
 
 
 

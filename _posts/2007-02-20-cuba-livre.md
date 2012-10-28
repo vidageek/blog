@@ -25,7 +25,7 @@ Mais informações: **[USA Today][1]**, em inglês.
 
 
 
-[Tweet][2] 
+
 
 
 

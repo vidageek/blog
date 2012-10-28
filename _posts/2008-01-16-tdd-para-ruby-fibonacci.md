@@ -88,7 +88,7 @@ Temos agora os testes passando e podemos generalizar para obter o resultado espe
 
 
 
-[Tweet][2] 
+
 
 
 

@@ -27,7 +27,7 @@ Antes do código que modifica o header.
 
 
 
-[Tweet][1] 
+
 
 
 

@@ -32,7 +32,7 @@ Vale lembrar que esse provavelmente é o algoritmo mais utilizado pela maioria d
 
 
 
-[Tweet][2] 
+
 
 
 

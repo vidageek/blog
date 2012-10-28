@@ -26,7 +26,7 @@ Em particular, uma das empresas que mais usa groupwares é o Google. Já reparou
 
 
 
-[Tweet][10] 
+
 
 
 

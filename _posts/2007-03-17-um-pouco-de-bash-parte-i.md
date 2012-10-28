@@ -95,7 +95,7 @@ Próximo post: mkdir, cp, mv, rm e rmdir.
 
 
 
-[Tweet][1] 
+
 
 
 

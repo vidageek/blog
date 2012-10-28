@@ -30,7 +30,7 @@ Foto por [sobriquet.net][4].
 
 
 
-[Tweet][5] 
+
 
 
 

@@ -19,7 +19,7 @@ Mais informações:**[The Register][1]**
 
 
 
-[Tweet][2] 
+
 
 
 

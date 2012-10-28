@@ -35,7 +35,7 @@ Triste fim para uma tarde. Mas faz parte do processo de mudança. Até processad
 
 
 
-[Tweet][1] 
+
 
 
 

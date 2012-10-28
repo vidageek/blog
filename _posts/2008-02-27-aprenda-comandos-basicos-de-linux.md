@@ -29,7 +29,7 @@ Para os iniciantes os comandos de *shell* do linux podem ser um tanto quanto con
 
 
 
-[Tweet][4] 
+
 
 
 

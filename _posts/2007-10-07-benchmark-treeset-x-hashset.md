@@ -105,7 +105,7 @@ Em uma máquina com menos disponibilidade de mémoria (a que eu usei para o test
 
 
 
-[Tweet][8] 
+
 
 
 

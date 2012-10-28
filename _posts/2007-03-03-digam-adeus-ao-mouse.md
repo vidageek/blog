@@ -17,7 +17,7 @@ Mais informações:**[Programming Musings][1]**, em inglês.
 
 
 
-[Tweet][2] 
+
 
 
 

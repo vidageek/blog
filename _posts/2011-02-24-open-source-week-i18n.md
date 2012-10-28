@@ -21,7 +21,7 @@ Mais informações em <http://projetos.vidageek.net/i18n>.
 
 
 
-[Tweet][2] 
+
 
 
 

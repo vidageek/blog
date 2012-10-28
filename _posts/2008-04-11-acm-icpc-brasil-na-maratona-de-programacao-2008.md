@@ -32,7 +32,7 @@ Veja a [lista completa de resultados][3] e as [fotos e vídeos][4] do evento.
 
 
 
-[Tweet][5] 
+
 
 
 

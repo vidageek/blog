@@ -21,7 +21,7 @@ Uma versão adaptada em português pode ser encontrada aqui.
 
 
 
-[Tweet][2] 
+
 
 
 

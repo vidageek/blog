@@ -37,7 +37,7 @@ Concluindo, a ideia aqui era mostrar rapidamente que nem tudo que se pensa a res
 
 
 
-[Tweet][8] 
+
 
 
 

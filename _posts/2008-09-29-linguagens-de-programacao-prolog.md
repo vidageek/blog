@@ -61,7 +61,7 @@ Resumindo, Prolog é uma linguagem interessante de se aprender; estimula um tipo
 
 
 
-[Tweet][10] 
+
 
 
 

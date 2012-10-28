@@ -33,7 +33,7 @@ O teste que não passava era um teste que simulava o comportamento do usuário, 
 
 
 
-[Tweet][5] 
+
 
 
 

@@ -27,7 +27,7 @@ Mais informações no [Blog do Google Summer of Code][1].
 
 
 
-[Tweet][2] 
+
 
 
 

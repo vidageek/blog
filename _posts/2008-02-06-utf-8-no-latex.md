@@ -46,7 +46,7 @@ A solução eu obtive por sorte. Apenas pra ver o que acontecia resolvi retirar 
 
 
 
-[Tweet][1] 
+
 
 
 

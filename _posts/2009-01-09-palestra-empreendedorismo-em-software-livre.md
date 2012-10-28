@@ -83,7 +83,7 @@ Novamente, excelente palestra. Será disponibilizada em breve no site do [Centro
 
 
 
-[Tweet][4] 
+
 
 
 

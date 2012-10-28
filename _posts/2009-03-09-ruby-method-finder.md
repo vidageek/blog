@@ -43,7 +43,7 @@ Ainda não suporta blocos, bem como preciso fazer um gem disso eventualmente. Co
 
 
 
-[Tweet][8] 
+
 
 
 

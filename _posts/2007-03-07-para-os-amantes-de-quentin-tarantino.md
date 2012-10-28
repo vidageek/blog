@@ -19,7 +19,7 @@ Mais sobre o diretor de Pulp Fiction no [imdb][1].
 
 
 
-[Tweet][3] 
+
 
 
 

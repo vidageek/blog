@@ -31,7 +31,7 @@ Veja mais no site do projeto: <http://wicd.sourceforge.net/>
 
 
 
-[Tweet][2] 
+
 
 
 

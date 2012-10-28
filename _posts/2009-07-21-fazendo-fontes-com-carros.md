@@ -31,7 +31,7 @@ Aos outros escritores desse blog, o que acham de usarmos essa fonte para o nome 
 
 
 
-[Tweet][6] 
+
 
 
 

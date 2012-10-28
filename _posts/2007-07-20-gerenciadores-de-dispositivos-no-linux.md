@@ -32,7 +32,7 @@ O Udev tem o propósito de resolver esses problemas criados pelo Devfs, criando 
 
 
 
-[Tweet][3] 
+
 
 
 

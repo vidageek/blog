@@ -20,7 +20,7 @@ Os prêmios para essa competição somam 75 mil reais.
 
 
 
-[Tweet][2] 
+
 
 
 
