@@ -1,17 +1,9 @@
 ---
 author: convidados
 title: Firefox na China
-
 layout: post
-category:
-  - Firefox
-tags:
-  - china
-  - Firefox
-  - mozilla
-  - noticias
-
 ---
+
 Uma matéria saiu hoje na Folha Online na sessão de Informática, dizendo que a Mozilla decidiu abrir um escritório na China para divulgar o Firefox, sendo que a China é hoje o segundo maior mercado de Web do mundo. Segue abaixo alguns trechos:
 
 > “Minha meta principal é que as pessoas saibam que existe escolha –que entrar na Internet não acontece apenas clicando no ‘e’ azul.” A afirmação é de John Lilly, vice-presidente de operações da Mozilla, empresa que produz o browser de código aberto Firefox.
@@ -22,22 +14,5 @@ Bom, pela minha própria experiência com a cultura chinesa é bem capaz de empl
 
 [Via [Folha Online-Informática][1]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://www1.folha.uol.com.br/folha/informatica/ult124u21541.shtml "Rival da Microsoft, Mozilla quer "
-
-
-
-
+[1]: http://www1.folha.uol.com.br/folha/informatica/ult124u21541.shtml "Rival da Microsoft, Mozilla quer "
 

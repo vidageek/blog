@@ -1,16 +1,10 @@
 ---
 author: convidados
 title: Bad Bad Vista, no donut for you...
-
 layout: post
-category:
-  - Humor
-  - OpenSource
-tags:
-  - Humor
-  - OpenSource
 
 ---
+
 ![Bad Vista][1]A Free Software Fundation, Fundação do Softare Livre mantenedora da GPL, criou a campanha **Bad Vista**, com o intuito de barra a evolução dos Sistemas Operacionais da Microsoft. A campanha consiste em mostrar o lado podre do novo sistema operacional através da internet pelos próprios usuários.
 
 Para isso ela criou o site [http://badvista.fsf.org ][2], o pedido que o site faz é bem simples, ele pede que as notícias criadas por eles sejam adicionadas ao del.icio.us, ao digg e ao Technorati.
@@ -31,31 +25,14 @@ Um pouco de humor:
 ![Satira com o Vista][9]  
 [Via [WebTuga][10]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://vidageek.net/wp-content/uploads/2007/02/badvista_no_littering.thumbnail.png
- [2]: http://badvista.fsf.org "Bad Vista"
- [3]: http://vidageek.net/?p=15 "Mac Widgets"
- [4]: http://info.abril.com.br/aberto/infonews/022007/05022007-7.shl
- [5]: http://blogs.zdnet.com/threatchaos/?p=311
- [6]: http://www.downloadsquad.com/2007/02/03/apple-tells-windows-itunes-users-not-to-install-vista/
- [7]: http://www1.folha.uol.com.br/folha/informatica/ult124u21551.shtml
- [8]: http://www.linuxgenuineadvantage.org/ "Linux Genuine Advantage"
- [9]: http://cache.gizmodo.com/assets/resources/2007/02/pavista.jpg
- [10]: http://www.webtuga.com/2007/02/06/microsoft/comprar-o-windows-vista-pode-ser-um-pesadelo.php/
-
-
-
-
+[1]: http://vidageek.net/wp-content/uploads/2007/02/badvista_no_littering.thumbnail.png
+[2]: http://badvista.fsf.org "Bad Vista"
+[3]: http://vidageek.net/?p=15 "Mac Widgets"
+[4]: http://info.abril.com.br/aberto/infonews/022007/05022007-7.shl
+[5]: http://blogs.zdnet.com/threatchaos/?p=311
+[6]: http://www.downloadsquad.com/2007/02/03/apple-tells-windows-itunes-users-not-to-install-vista/
+[7]: http://www1.folha.uol.com.br/folha/informatica/ult124u21551.shtml
+[8]: http://www.linuxgenuineadvantage.org/ "Linux Genuine Advantage"
+[9]: http://cache.gizmodo.com/assets/resources/2007/02/pavista.jpg
+[10]: http://www.webtuga.com/2007/02/06/microsoft/comprar-o-windows-vista-pode-ser-um-pesadelo.php/
 

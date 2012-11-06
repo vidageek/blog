@@ -1,17 +1,9 @@
 ---
 author: convidados
 title: A nova definição de Tecnologia
-
 layout: post
-category:
-  - Humor
-tags:
-  - flash
-  - Humor
-  - itunes
-  - podcast
-
 ---
+
 O sempre engraçado [Strong Bad][1] nos dá uma palestra sobre o que é Tecnologia nesse [episódio][2] (em inglês).
 
 Algumas das frases mais engraçadas do epsódio são:
@@ -26,25 +18,8 @@ Este é o[ site oficial][3] do Strong Bad que faz parte do [HomeStarRunner.][4]
 
 Existe também um podcast para que você receba todo novo episódio que sair de forma automática que pode ser encontrado na iTunes Store. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://en.wikipedia.org/wiki/Strong_Bad "Strong Bad na Wikipedia"
- [2]: http://www.homestarrunner.com/sbemail143.html "Technology"
- [3]: http://www.homestarrunner.com/ "HomeStarRunner"
- [4]: http://en.wikipedia.org/wiki/Homestarrunner "HomeStarRunner na Wikipedia"
-
-
-
-
+[1]: http://en.wikipedia.org/wiki/Strong_Bad "Strong Bad na Wikipedia"
+[2]: http://www.homestarrunner.com/sbemail143.html "Technology"
+[3]: http://www.homestarrunner.com/ "HomeStarRunner"
+[4]: http://en.wikipedia.org/wiki/Homestarrunner "HomeStarRunner na Wikipedia"
 

@@ -1,16 +1,10 @@
 ---
 author: convidados
 title: Alguns Video Podcasts para sua diversão
-
 layout: post
-category:
-  - Dicas
-  - Humor
-tags:
-  - Dicas
-  - Humor
 
 ---
+
 Algumas pessoas ainda não entraram na moda dos Podcasts, talvez por não ter ouvido falar ou por pensar que é somente para donos de iPods. Devo confessar que só os conheci depois que comprei o meu iPod, mas atualmente assisto-os mais no PC do que no aparelho.  
 Um Podcast é basicamente um arquivo que indica a localização de um arquivo de audio ou video com o conteúdo desejado. Ele é atualizado freqüentemente, e o programa que você utilizar irá buscar freqüentemente essas atualizações para baixar o novo conteúdo. Por tanto, você não preciso mais ir no site de vez enquando ver se existe um conteúdo novo de video, basta usar um podcast.  
 Eu particularmente utilizo o [iTunes][1] para pegar os arquivos. Existem muitas outras opções, inclusive para Linux, mas eu ainda não usei nenhuma delas.  
@@ -34,23 +28,6 @@ Agora eles tem um Video Podcast, que até pouco tempo exibia pequenas animaçõe
 
 Espero que esse post servia para levar mais algumas pessoas ao mundo dos podcasts. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://www.apple.com/itunes/
- [2]: http://en.wikipedia.org/wiki/Strong_bad
-
-
-
-
+[1]: http://www.apple.com/itunes/
+[2]: http://en.wikipedia.org/wiki/Strong_bad
 

@@ -1,19 +1,7 @@
 ---
 author: convidados
 title: Mitos do Linux derrubados
-
 layout: post
-category:
-  - Linux
-  - OpenSource
-tags:
-  - banco-de-dados
-  - desktop_3d
-  - gimp
-  - Linux
-  - open-source
-  - OpenSource
-  - Ubuntu
 
 ---
 O ótimo site [Download Squad][1] postou uma matéria incrivel sobre como muitos dos mitos relacionados ao Linux são mentira.
@@ -32,8 +20,6 @@ Segundo o autor, para a maior parte dos videos as distribuições do Linux já c
 
 O [Beryl][3] permite que você tenha um desktop da nova geração no seu Linux.
 
-
-
 **Se eu usar o Linux não poderei rodar o Word, Photoshop, Internet Explorer, etc…**
 
 O Projeto [Crossover Linux][4] permite de uma forma fácil que você instale seus softwares preferidos do Windows no seu Linux.  
@@ -47,27 +33,10 @@ Espero que esse texto possa ajudar a diminuir o preconceito das pessoas em rela�
 
 [via [DownloadSquad][6]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://www.downloadsquad.com "Download Squad"
- [2]: http://www.getautomatix.com/ "Automatix"
- [3]: http://www.beryl-project.org/ "Beryl"
- [4]: http://www.codeweavers.com/ "Crossover Linux"
- [5]: http://www.codeweavers.com/compatibility/browse/rank/ "Lista de Compatibilidade do Crossover Linux"
- [6]: http://www.downloadsquad.com/2007/01/31/common-linux-myths-dispelled/ "Common Linux Myths Dispelled"
-
-
-
-
+[1]: http://www.downloadsquad.com "Download Squad"
+[2]: http://www.getautomatix.com/ "Automatix"
+[3]: http://www.beryl-project.org/ "Beryl"
+[4]: http://www.codeweavers.com/ "Crossover Linux"
+[5]: http://www.codeweavers.com/compatibility/browse/rank/ "Lista de Compatibilidade do Crossover Linux"
+[6]: http://www.downloadsquad.com/2007/01/31/common-linux-myths-dispelled/ "Common Linux Myths Dispelled"
 
