@@ -1,12 +1,7 @@
 ---
 author: Jonas Abreu
 title: Vim em uma máquina remota
-
 layout: post
-category:
-  - Dicas
-  - Programacao
-tags: [ ]
 
 ---
 Eu gosto muito de usar [Vim][1] e uma coisa que preciso com frequência é modificar um arquivo que está em uma máquina remota.
@@ -19,23 +14,5 @@ O comando é bem simples:
 
     vim scp://USER@HOST//path/para/arquivo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://www.vim.org/
-
-
-
-
 
