@@ -2,7 +2,7 @@ body {
 	background-color: #FDFDFD;
 }
 
-div#content p, div#content li, div#content code{
+div#content p, div#content li, div#content code, span.description {
 	line-height: 1.7em;
 	margin: 1.2em 0;
 	font-size: 140%;
@@ -13,9 +13,19 @@ div#content {
 	margin: 40px auto;
 }
 
-.logo {
-	display: inline-block;
+a.logo {
 	color: #000;
 	font-size: 40px;
-	margin-left: 60px;
+	margin-top: 25px;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+img.logo {
+	height: 85px;
+	float: left;
+}
+
+span.description {
+	margin-left: 45px;
 }
