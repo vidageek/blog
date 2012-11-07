@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% for page in site.posts limit:4 %}
+	{% include post-begin.html %}
+	{{ page.content | unindent | markdownify }}
+	{% include post-end.html %}
+	
+	<hr />
+{% endfor %}
+
+

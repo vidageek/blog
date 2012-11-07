@@ -9,7 +9,7 @@ div#content p, div#content li, div#content code, span.description {
 }
 
 div#content {
-	width: 65%;
+	max-width: 705px;
 	margin: 40px auto;
 }
 
@@ -28,4 +28,16 @@ img.logo {
 
 span.description {
 	margin-left: 45px;
+}
+
+div#related {
+	margin-top: 20px;
+}
+
+hr {
+	margin: 25px 0;
+}
+
+h1 a {
+	color: #333;
 }

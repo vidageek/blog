@@ -1,6 +1,6 @@
 
 <div class="post">
-	<h1> {{ page.title }} </h1>
+	<h1><a href="{{ page.url }}"> {{ page.title }}</a> </h1>
 	{% if site.plusid[page.author] %}
 		<a href="https://plus.google.com/{{ site.plusid[page.author] }}?rel=author">{{ page.author }}</a>
 	{% else %}
@@ -8,6 +8,3 @@
 	{% endif %} 
 	em {{ page.date | date: "%d/%m/%Y"  }}
 	<br />
-	{{ content }}
-</div>
- 

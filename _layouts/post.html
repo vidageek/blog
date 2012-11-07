@@ -2,7 +2,10 @@
 layout: default
 ---
 
-{% include post-content.html %}
+{% include post-begin.html %}
+{{ page.content | unindent | markdownify }}
+{% include post-end.html %}
+
 
 {% if site.related_posts.size > 0 %}
 <div id="related">
