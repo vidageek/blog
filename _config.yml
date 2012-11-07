@@ -6,6 +6,10 @@ markdown: rdiscount
 
 permalink: /:year/:month/:day/:title/
 
+email: contato@vidageek.net
+
+authors: 'Breno, Ceci, Fabs, Jonas e Luiz'
+
 plusid:
   'Jonas Abreu': 117877159392350438099
 

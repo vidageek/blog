@@ -18,6 +18,16 @@ layout: default
 </div>
 {% endif %}
 
+<div class="postnav">
+	{% if page.previous %}
+	<div class="prev">Anterior: <a href="{{ page.previous.url }}" rel="prev">{{ page.previous.title }}</a></div>
+	{% endif %}
+	{% if page.next %}
+	<div class="next">Pr&oacute;ximo: <a href="{{ page.next.url }}" rel="prev">{{ page.next.title }}</a></div>
+	{% endif %}
+</div>
+
+
 {% if site.disqus %}
 <div id="comments">
   <div id="disqus_thread"></div>
