@@ -8,6 +8,10 @@ div#content p, div#content li, div#content code, span.description {
 	font-size: 140%;
 }
 
+div#content code {
+	font-size: 100%;
+}
+
 div#content {
 	max-width: 705px;
 	margin: 40px auto;
@@ -31,7 +35,7 @@ span.description {
 }
 
 div#related {
-	margin-top: 20px;
+	margin-top: 50px;
 }
 
 hr {
