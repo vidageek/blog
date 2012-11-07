@@ -41,3 +41,18 @@ hr {
 h1 a {
 	color: #333;
 }
+
+div#sidebar {
+	position: fixed;
+	top: 175px;
+	left: 15px;
+	max-width: 140px;
+}
+
+div#sidebar li {
+	list-style: none;
+}
+
+div#sidebar ul {
+	margin-left: 15px;
+}

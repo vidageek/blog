@@ -8,10 +8,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <link rel="stylesheet" media="screen" href="/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" media="screen" href="/css/style.css" type="text/css" />
-    {% if site.feedburner %}
     <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
-    {% endif %}
-    {% if site.google_analytics %}
     <!-- google analytics async -->
     <script type="text/javascript">
       var _gaq = _gaq || [];
@@ -23,15 +20,32 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     </script>
-    {% endif %}
   </head>
   <body>
 	<div id="content">
-		<img class="logo" src="/images/logo.png" alt="VidaGeek.net" />
+		<img class="logo" width="85px" src="/images/logo.png" alt="VidaGeek.net" />
 		<a class="logo" href="http://www.vidageek.net">VidaGeek.net</a> <br />
 		<span class="description">{{ site.description }}</span>
 		<hr />
 		{{ content }}
+	</div>
+	<div id="sidebar">
+		<h3>VidaGeek.net</h3>
+		<ul>
+			<li><a href="http://www.vidageek.net">Blog</a></li>
+			<li><a href="http://games.vidageek.net">Games</a></li>
+			<li><a href="http://projetos.vidageek.net">Projetos</a></li>
+		</ul>
+		<h3>Links</h3>
+		<ul>
+			<li><a href="http://blog.caelum.com.br" target="_blank">Caelum</a></li>
+			<li><a href="http://chronosbox.org/blog/" target="_blank">Chronos Box</a></li>
+			<li><a href="http://fabiokung.com/" target="_blank">Fabio Kung</a></li>
+			<li><a href="http://fragmental.tw/" target="_blank">Fragmental</a></li>
+			<li><a href="http://agilenomundoreal.com.br/" target="_blank">Guilherme Silveira</a></li>
+			<li><a href="http://pacman.blog.br/" target="_blank">O Peczenyj</a></li>
+			<li><a href="http://www.javaperformance.com.br/" target="_blank">Performance Java</a></li>
+		</ul>
 	</div>
   </body>
 </html>
