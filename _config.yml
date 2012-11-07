@@ -1,8 +1,17 @@
-domain: www.vidageek.net
 url: http://www.vidageek.net
 name: VidaGeek.net
-description: >
-  Linux, Open-source, Programação e
-  Produtividade
+description: 'Linux, Open-source, Programação e Produtividade'
+
 markdown: rdiscount
+
 permalink: /:year/:month/:day/:title/
+
+feedburner:
+  id: VidaGeek
+
+google_analytics:
+  account: UA-1275516-1
+
+#disqus:
+#  id: vidageeknet
+
