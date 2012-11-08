@@ -8,6 +8,14 @@ layout: default
 	{% include post-end.html %}
 	
 	<hr />
-{% endfor %}
 
+	{% if forloop.last %}
+	<div class="postnav">
+		<div class="prev">
+			Anterior: <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+		</div>
+	</div>
+	{% endif %}
+
+{% endfor %}
 
