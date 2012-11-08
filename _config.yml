@@ -19,6 +19,6 @@ feedburner:
 google_analytics:
   account: UA-1275516-1
 
-#disqus:
-#  id: vidageeknet
+disqus:
+  id: vidageeknet
 
