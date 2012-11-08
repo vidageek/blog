@@ -64,3 +64,13 @@ div#sidebar li {
 div#sidebar ul {
 	margin-left: 15px;
 }
+
+div#sidebar img {
+	height: 15px;
+	margin-left: -15px;
+}
+
+div#sidebar a {
+	display: inline-block;
+	margin-left: 5px;
+}
