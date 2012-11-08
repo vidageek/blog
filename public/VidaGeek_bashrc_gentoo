@@ -1,0 +1,35 @@
+alias inst="sudo emerge"
+alias remp="emerge -C"
+alias search="emerge -s"
+
+alias ls="ls -al"
+alias c="clear"
+alias up="cd .."
+alias home="cd ~"
+alias disk="cd /"
+alias trash="rm -fr ~/.Trash"
+
+alias rm="rm -i"
+alias mv="mv -i"
+
+alias ansi-gcc="gcc -Wall -ansi -pedantic"
+alias ansi-gcc="g++ -Wall -ansi -pedantic"
+
+HISTFILESIZE=100000000
+HISTSIZE=100000
+
+encrypt ()
+{
+gpg -ac --no-options "$1"
+}
+decrypt ()
+{
+gpg --no-options "$1"
+}
+
+clear
+echo -ne "Hoje e "; date
+echo -e ""; cal ;
+fortune
+
+PS1="[\t \u \W]\\$ "
