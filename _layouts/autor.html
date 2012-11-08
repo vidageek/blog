@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="autor">
+	<div class="autor-info">
+		{% if page.picture %}
+			<img src="{{ page.picture }}" />
+		{% else %}
+			<img src="/images/noimage.jpg" />
+		{% endif %}
+		<h1>{{ page.view-name }}</h1>
+	</div>
+
+	<div class="bio">
+		{{ content }}
+	</div>
+
+	
+	<h2>Links</h2>
+	<ul id="autor-links">
+		{% if page.twitter %}
+			<li><img src="/images/twitter.jpg" /><a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>
+		{% endif %}
+		{% if page.github %}
+			<li><img src="/images/github.ico" /><a href="https://github.com/{{ page.github }}">{{ page.github }}</a>
+		{% endif %}
+	</ul>
+	<h2>Posts escritos</h2>
+	<ul>
+		{% for post in site.posts %}
+			{% if post.author == page.author %}
+				<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+
+	</ul>
+
+</div>
+
