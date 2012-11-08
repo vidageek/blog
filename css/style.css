@@ -18,7 +18,12 @@ div#content pre code {
 
 div#content {
 	max-width: 705px;
-	margin: 40px auto;
+	margin: 40px;
+	float: right;
+}
+
+div#wrapper {
+	max-width: 950px;
 }
 
 a.logo {
@@ -51,10 +56,9 @@ h1 a {
 }
 
 div#sidebar {
-	position: fixed;
-	top: 175px;
-	left: 15px;
 	max-width: 140px;
+	float:left;
+	margin: 175px 0px 0px 15px;
 }
 
 div#sidebar li {
