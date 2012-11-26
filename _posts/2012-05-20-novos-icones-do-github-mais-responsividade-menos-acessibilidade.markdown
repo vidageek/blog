@@ -1,20 +1,7 @@
 ---
 author: Luiz
 title: 'Novos ícones do Github: mais responsividade, menos acessibilidade'
-
 layout: post
-category:
-  - Discussões
-  - Mobile
-  - Web Design
-tags:
-  - acessibilidade
-  - css3
-  - design responsivo
-  - github
-  - Mobile
-  - svg
-
 ---
 Recentemente, o [Github][1] lançou uma nova série de ícones para seu site. São ícones em geral muito bonitos e que, em alguns casos, ainda passam informações extras que não eram passadas antes (ou simplesmente não eram percebidas por mim). Por exemplo, os ícones de repositórios públicos são diferentes para repositórios originais ou *forkados*.
 
