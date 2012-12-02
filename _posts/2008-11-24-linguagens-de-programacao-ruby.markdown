@@ -1,23 +1,7 @@
 ---
 author: convidados
 title: 'Linguagens de programação - Ruby'
-
 layout: post
-category:
-  - Opiniao
-  - Programacao
-tags:
-  - apple
-  - benkler
-  - DMCA
-  - DRM
-  - foss
-  - fsf
-  - IME
-  - iphone
-  - Mac
-  - won
-
 ---
 ![Ruby][1] Ruby foi criada no Japão, por [Yukihiro Matsumoto][2] que teve como objetivos na sua obra o enfoque nos programadores e não nos computadores, afinal nós somos os mestres e eles são os escravos. 
 
@@ -37,26 +21,11 @@ Esse post foi escrito por Rodrigo Flores, um aluno de ciência da computação d
 
 Foto por [elliottcable][7].  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://vidageek.net/wp-content/uploads/2008/11/ruby.jpg
  [2]: http://en.wikipedia.org/wiki/Yukihiro_Matsumoto
  [3]: http://www.ruby-lang.org/en/ "Ruby Oficial"
  [4]: http://poignantguide.net/ruby/
- [5]: The Pragmatic Programmer's Guide
+ [5]: http://www.ruby-doc.org/docs/ProgrammingRuby/
  [6]: http://blog.rodrigoflores.org "Rodrigo Flores"
  [7]: http://flickr.com/photos/elliottcable/ "elliotcable"
 

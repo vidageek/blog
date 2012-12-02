@@ -1,27 +1,7 @@
 ---
 author: fabs
 title: Vidageek@France
-
 layout: post
-category:
-  - Diversão
-  - Europe
-  - GeekStyleOfLife
-  - Linux
-  - Mac
-  - OpenSource
-  - Opiniao
-  - Ubuntu
-tags:
-  - 3g
-  - dtsato
-  - eeepc
-  - freewifi
-  - Linux
-  - Mac
-  - paris
-  - wifi
-
 ---
 ![][1]
 
@@ -58,27 +38,10 @@ Bom, por hoje só essas coisinhas do cotidiano. Em breve devo ir ao Dojo aqui em
 
 Se tiverem alguma dúvida sobre como algo funciona por aqui, é só deixar nos comentários. Abraços. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://lh6.ggpht.com/_NXWiXdADC9A/SonUcqhG_QI/AAAAAAAAAaY/fhPAxUlIZl8/s640/08172009473.jpg "Opera Papris"
  [2]: http://fabriciosn.com
  [3]: http://picasaweb.google.com/shemsuheru
  [4]: http://bblfish.net/tmp/2004_09_29/titanium_azerty_keyboard.jpg "AZERTY"
- [5]: www.dtsato.com
+ [5]: http://www.dtsato.com
  [6]: http://pt.wikipedia.org/wiki/Jardim_das_Plantas_de_Paris
-
-
-
-
 
