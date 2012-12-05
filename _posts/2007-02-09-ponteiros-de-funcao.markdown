@@ -1,19 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Ponteiros de Função'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-
 ---
 Ponteiros talvez sejam uma das maiores causas de desistência da utilização de C quando você está começando a programar. Mas nesse momento, vamos falar apenas de um tipo bem específico: Ponteiros de função.
 
@@ -36,22 +24,4 @@ Este é mais um recurso de C que não é muito bem aproveitado (provavelmente po
 Mais informações: ponteiro de função -> Google
 
 Próxima semana, modificadores de variáveis e funções e as extensões GNUC. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

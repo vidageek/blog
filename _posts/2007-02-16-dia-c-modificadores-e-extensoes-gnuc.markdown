@@ -1,19 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Modificadores e extensões GNUC'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-
 ---
 Normalmente, quando estamos aprendendo a programar, acabamos lendo código já escrito por outros programadores (as vezes, alguns dos melhores programadores do mundo). Uma das primeiras coisas que notamos é que eles usam modificadores em funções e variáveis. Aqui vou explicar os modificadores que estão no padrão ANSI C (ISOC 1989).
 
@@ -48,22 +36,4 @@ Mais informações: C Keywords -> Google
 
 Próxima semana: Estratégias de Depuração. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://tigcc.ticalc.org/doc/gnuexts.html
-
-
-
-
-
+[1]: http://tigcc.ticalc.org/doc/gnuexts.html

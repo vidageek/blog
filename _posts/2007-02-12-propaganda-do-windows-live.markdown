@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: Propaganda do Windows Live
-
 layout: post
-category:
-  - Opiniao
-tags:
-  - Opiniao
-
 ---
 Fui ontem ao Cinemark, para assistir [A busca da felicidade][1]. E para minha surpresa, além dos traillers e dos agoa comuns comerciais antipirataria da MPA, vi o comercial do Windows Live. Ou seja, finalmente aconteceu, a Microsoft se desesperou e se jogou no buraco.
 
@@ -19,23 +13,6 @@ Particularmente eu acho uma campanha despreparada para um produto superflúo. Os
 
 Minha dica é: Vá assistir esse maravilhoso filme do Will Smith, e aproveite para ir comprar pipoca na hora do comercial do Windows Live. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://imdb.com/title/tt0454921/ "The Pursuit of Happyness"
- [2]: http://www.reflexoesdigitais.com.br/blog/2007/02/07/gmail-para-todos/ "Gmail para todos!"
-
-
-
-
+[1]: http://imdb.com/title/tt0454921/ "The Pursuit of Happyness"
+[2]: http://www.reflexoesdigitais.com.br/blog/2007/02/07/gmail-para-todos/ "Gmail para todos!"
 

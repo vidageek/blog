@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: Revistas Wiki
-
 layout: post
-category:
-  - Web 2.0
-tags:
-  - Web 2.0
-
 ---
 A companhia [Wikia][1], criadora da popular Wikipedia e outros sites como o Wikiquote e Wikibooks, acostumada a fornecer conteúdo escrito pelos próprios usuários lançou recentemente três novos sites, com o intuito de ser tornarem três revistas eletrônicas, gratuitas e com a opinião dos próprios leitores: [entertainment.wikia][2], [politics.wikia][3] (política americana), [local.wikia][4] (noticías locais, como se fosse um jornal, apenas dos EUA).
 
@@ -17,26 +11,9 @@ A Wikipedia e seus “filhos” são realmente muito interessantes para quem nav
 
 [Via [Slashdot][5]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://www.wikia.com/wiki/Wikia "Wikia"
- [2]: http://entertainment.wikia.com/index.php?title=Main_Page "entertainment.wikia"
- [3]: http://politics.wikia.com/index.php?title=Main_Page "politics.wikia"
- [4]: http://local.wikia.com/index.php?title=Main_Page "local.wikia"
- [5]: http://slashdot.org/articles/07/02/13/1621259.shtml " Wikipedia Founder Introduces Wiki Magazine Sites"
-
-
-
-
+[1]: http://www.wikia.com/wiki/Wikia "Wikia"
+[2]: http://entertainment.wikia.com/index.php?title=Main_Page "entertainment.wikia"
+[3]: http://politics.wikia.com/index.php?title=Main_Page "politics.wikia"
+[4]: http://local.wikia.com/index.php?title=Main_Page "local.wikia"
+[5]: http://slashdot.org/articles/07/02/13/1621259.shtml " Wikipedia Founder Introduces Wiki Magazine Sites"
 

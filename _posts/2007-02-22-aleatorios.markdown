@@ -1,19 +1,7 @@
 ---
 author: Breno Franco
 title: Aleatórios
-
 layout: post
-category:
-  - Programacao
-tags:
-  - aleatoriedade
-  - aleatorio
-  - caos
-  - geek
-  - Misc
-  - OpenSource
-  - Programacao
-
 ---
 Como todo <strike>geek</strike> <strike>nerd</strike> programador está cansado de saber, nem todo random é aleatório.
 
@@ -39,25 +27,8 @@ Se você não quiser ter todo esse trabalho, o pessoal do **[random.org][1]** fo
 
 Tem também o [**LavaRnd**][2], onde eles usam um [sensor CCD][3] (como o que há em uma webcam) como fonte caótica, e têm um [projeto no Sourceforge][4] que contará com o código fonte necessário para todo mundo gerar seus próprios bits aleatórios. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://random.org
- [2]: http://www.lavarnd.org/what/how-it-works.html
- [3]: http://www.lavarnd.org/image/ccd-closeup2.jpg
- [4]: http://sourceforge.net/projects/lavarnd
-
-
-
-
+[1]: http://random.org
+[2]: http://www.lavarnd.org/what/how-it-works.html
+[3]: http://www.lavarnd.org/image/ccd-closeup2.jpg
+[4]: http://sourceforge.net/projects/lavarnd
 

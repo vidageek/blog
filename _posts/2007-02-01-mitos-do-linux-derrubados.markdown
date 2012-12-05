@@ -6,9 +6,9 @@ layout: post
 ---
 O ótimo site [Download Squad][1] postou uma matéria incrivel sobre como muitos dos mitos relacionados ao Linux são mentira.
 
-**Linux é ótimo, pena que não existem boas aplicações.  
-***-ou-***  
-No Linux você não pode abrir arquivos que recebe. **
+**Linux é ótimo, pena que não existem boas aplicações.** 
+ou
+**No Linux você não pode abrir arquivos que recebe.**
 
 O autor cita programas como Gimp ou GimpShop (para arquivos do Photoshop) e OpenOffice para arquivos do Microsoft Office. Ele explica também que as funções as quais estamos acostumados podem ser feitas no Linux, como por exemplo, edição de audio, usar sua biblioteca de mp3, controle de arquivos, banco de dados, mensagens intantânea, etc…
 

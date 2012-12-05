@@ -1,15 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google para todos os gostos
-
 layout: post
-category:
-  - Dicas
-  - Google
-tags:
-  - Dicas
-  - Google
-
 ---
 Todos já ouviram falar do Gmail, Orkut e YouTube (adquirido recentemente pela Google). Mas a Google não possui apenas esses três sistemas. Aqui vai uma lista das ferramentas que eu uso (algumas delas ainda estão em fase de desenvolvimento):
 
@@ -37,32 +29,15 @@ A grande vantagem das ferramentas Google é que elas estão todas interligadas, 
 
 Mais informações sobre essas e diversas outras ferramentas (incluindo todas as ferramentas ainda em desenvolvimento na Google) no **[Google Labs][11]**. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://www.google.com/alerts
- [2]: http://analytics.google.com
- [3]: http://www.blogger.com
- [4]: http://calendar.google.com
- [5]: http://docs.google.com
- [6]: http://mail.google.com
- [7]: http://www.google.com/notebook
- [8]: http://www.orkut.com
- [9]: http://pages.google.com
- [10]: http://reader.google.com
- [11]: http://labs.google.com
-
-
-
-
+[1]: http://www.google.com/alerts
+[2]: http://analytics.google.com
+[3]: http://www.blogger.com
+[4]: http://calendar.google.com
+[5]: http://docs.google.com
+[6]: http://mail.google.com
+[7]: http://www.google.com/notebook
+[8]: http://www.orkut.com
+[9]: http://pages.google.com
+[10]: http://reader.google.com
+[11]: http://labs.google.com
 
