@@ -1,20 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Pilha do C'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - filo
-  - Programacao
-  - Tutoriais
-
 ---
 Provavelmente você ja deve ter ouvido falar de FILO, first in last out (primeiro a entrar é o ultimo a sair). Muitas (talvez todas) linguagens de programação usam uma estrutura FILO para controlar chamadas de funções e alocações de variáveis. Uma estrutura FILO também é chamada de pilha.
 
@@ -27,22 +14,4 @@ Apenas para complementar o post sobre VarArgs, agora que você conhece o funcion
 Mais informações: Introduction To Algorithms, de Cormem, Leiserson, Rivest e Stein (CLRS) ou pilha -> Google
 
 Próxima sexta: Recursão 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

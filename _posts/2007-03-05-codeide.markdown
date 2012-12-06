@@ -1,18 +1,7 @@
 ---
 author: convidados
 title: CodeIDE
-
 layout: post
-category:
-  - C
-tags:
-  - C
-  - emacs
-  - IDE
-  - lisp
-  - pascal
-  - Programacao
-
 ---
 O [CodeIDE][1] é uma ferramenta incrivel. Ele fornece pelo site a possibilidade de rodar várias linguagens de programação, como o Basic, Pascal, C++ (e consequentemente C), Perl, JavaScript, HTML (não que isso seja uma linguagem de programação), entre outras.
 
@@ -26,24 +15,7 @@ Só é uma pena que Lisp ainda não esteja disponível.
 
 [Via [WebTuga][3]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://www.codeide.com/ "CodeIDE"
  [2]: http://en.wikipedia.org/wiki/Emacs "Emacs na Wikipedia"
  [3]: http://www.webtuga.com/2007/03/05/programacao/codeide-programar-online.php/ " CodeIDE - Programar Online"
-
-
-
-
 

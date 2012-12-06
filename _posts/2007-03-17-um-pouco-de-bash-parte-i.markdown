@@ -1,15 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Um pouco de Bash - Parte I'
-
 layout: post
-category:
-  - Linux
-  - Tutoriais
-tags:
-  - Linux
-  - Tutoriais
-
 ---
 Este aqui é o primeiro post de uma espécie de guia sobre ferramentas da shell e um pouco de scripts (aqui darei ênfase na **B**ourne **A**gain **Sh**ell – Bash). A cada post (provavelmente farei mais de um por semana) falarei de cerca de três ou quatro ferramentas, começando pelas ferramentas mais básicas (cd, cp, rm, etc) até chegar aos scripts. Não pretendo cobrir todas as ferramentas, mas dar uma boa base para aqueles que estão começando a conhecer e a se apaixonar por sistemas Unix.
 
@@ -90,22 +82,4 @@ Como usei alguns termos que talvez você não conheça, aqui vão umas pequenas 
 *   **(3)**: O caractere ‘~’ é um alias para a sua pasta raiz. Digite ‘echo ~’ para ver.
 
 Próximo post: mkdir, cp, mv, rm e rmdir. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

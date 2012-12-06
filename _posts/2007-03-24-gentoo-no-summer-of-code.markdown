@@ -1,21 +1,7 @@
 ---
 author: convidados
 title: Gentoo no Summer of Code
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-tags:
-  - Gentoo
-  - Google
-  - Linux
-  - open-source
-  - OpenSource
-  - scire
-  - software_livre
-  - unix
-
 ---
 Quem acompanha o blog já pode perceber que eu sou apaixonado pelo Gentoo Linux. Recentemente comecei um esforço, ainda não terminado, para indicar o caminho das pedras para ter um sistema completo e funcional: o Guia Linux ([Parte I][1] e [Parte II][2]).
 
@@ -28,27 +14,10 @@ Portanto, se você tiver tempo, souber programar, amar o software livre igual os
 
 [Via [Gentoo News][6]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://vidageek.net/2007/03/15/guia-linux-parte-i-introducao/ "Guia Linux - Parte II: Sistema Básico"
  [2]: http://vidageek.net/2007/03/19/guia-linux-parte-ii-sistema-basico/ "Guia Linux - Parte I: Introdução"
  [3]: http://www.gentoo.org/ "Gentoo News"
  [4]: http://code.google.com/soc/ "Google Summer of Code"
  [5]: http://www.gentoo.org/proj/en/userrel/soc/ "Gentoo Summer of Code"
  [6]: http://www.gentoo.org/news/20070323-soc.xml "Gentoo Linux no Google Summer of Code"
-
-
-
-
 

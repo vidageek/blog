@@ -1,19 +1,7 @@
 ---
 author: Breno Franco
 title: 'EXTRA, EXTRA, EXTRA: Grow lançará Super Trunfo: Grafos'
-
 layout: post
-category:
-  - Jogos
-  - News
-tags:
-  - grafos
-  - grow
-  - Jogos
-  - News
-  - supertrunfo
-  - super_trunfo
-
 ---
 Saudações, caros leitores (e leitoras, também) !
 
@@ -25,27 +13,7 @@ Uma fonte, que pediu para não ser identificada, afirmou que a tradução da ver
   
 [![supertrunfo][2]][2]  
 
-
-  
 O resto é balela.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  []: http://vidageek.net/wp-content/uploads/2007/04/supertrunfo.jpg
-
-
-
-
 

@@ -1,19 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Estratégias de depuração (debug)'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-
 ---
 Um dos maiores problemas que um programador encontra é a fase de testes do software. Praticamente sempre algum bug (erro) sintático, conceitual ou lógico está no meio do código muito bem disfarçado. Em C esse problema é ainda maior porque após a compilação do código, C gera pouquissímos erros e assim fica realmente complicado descobrir o que está acontecendo. Um simples ‘*’ pode tomar algumas horas do programador antes de ser corrigido. Essas horas perdidas significam que o projeto pode estar ficando atrasado, o que não é bom independente se o projeto é de software proprietário ou livre. Aqui vão algumas dicas para lidar com esses erros:
 
@@ -35,22 +23,4 @@ O primeiro possui uma curva de aprendizado de 30 segundos. Basta saber usar o pr
 Mais informações: gdb -> Google
 
 Na próxima semana: Pilha do C. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

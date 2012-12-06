@@ -1,21 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte III: Programação'
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-  - OpenSource
-  - Programacao
-  - Tutoriais
-tags:
-  - Gentoo
-  - Linux
-  - OpenSource
-  - Programacao
-  - Tutoriais
-
 ---
 Nessa parte de nossa guia vamos abordar um assunto específico, mas muito interessante: Linguagens de Programação. O intuito desse guia não é abordar como se tornar um **programador** (para isso existem os cursos **Técnicos e Tecnológicos em Informática**) e nem um **Computólog**o (para isso existe o** Bacharelado em Ciência da Computação**), você verá como instalar algumas linguagens no Gentoo.
 
@@ -65,19 +51,6 @@ O [GDB][5](Gnu Debugger) é extremamente útil, pois é um poderoso **debbuger p
 **O **Netbeans** é um **IDE** criada pela Sun para o desenvolvimento em Java. Ele é o concorrente direto do Eclipse que muitos adoram. Eu, particularmente, simpatizei mais com essa IDE que agora, em sua versão 5.5, está muito poderosa.  
 Infelizmente no portage a versão disponível é a 3.6-r1, uma versão bem antiga e pouco poderosa. Por isso eu sugiro a instalação manual. No site [http://www.netbeans.org/][7] é possivel encontrar um instalador para Linux. Mas você precisará da [bc][8] (basic calculator, uma calculadora gnu poderosa ) para instalação, portanto execute um **emerge bc**. Para instalar, estando como **root** e de preferência no **X**, execute **chmod +x <arquivo>** e então **./<arquivo>** onde <arquivo> é o nome do pacote de instalação. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://en.wikipedia.org/wiki/Blackdown_Java "Wikipedia: Blackdown"
  [2]: http://www.gentoo-wiki.com/HOWTO_Framebuffer:Bootsplash:Grubsplash "Gentoo Wiki: How To Framebuffer"
  [3]: http://www.gnu.org/software/emacs/ "Site Oficial Emacs"
@@ -86,8 +59,4 @@ Infelizmente no portage a versão disponível é a 3.6-r1, uma versão bem antig
  [6]: http://www.cs.dal.ca/studentservices/refcards/gdbref.pdf "GDB Quick Reference"
  [7]: http://www.netbeans.org/ "Site Oficial NetBeans"
  [8]: http://en.wikipedia.org/wiki/Bc_%28Unix%29 "bc na Wikipedia"
-
-
-
-
 

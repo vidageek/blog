@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: Antispam brazuca aberto
-
 layout: post
-category:
-  - OpenSource
-tags:
-  - OpenSource
-
 ---
 Uma notícia muito boa para o Software Livre nacional:
 
@@ -15,22 +9,5 @@ Uma notícia muito boa para o Software Livre nacional:
 
 [Via [BrLinux][1]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://br-linux.org/linux/programa-antispam-brasileiro-e-premiado-nos-estados-unidos "Programa antispam brasileiro em código aberto é premiado nos Estados Unidos"
-
-
-
-
 

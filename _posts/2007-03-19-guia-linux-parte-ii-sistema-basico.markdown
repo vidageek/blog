@@ -1,19 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte II: Sistema Básico'
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-  - OpenSource
-  - Tutoriais
-tags:
-  - Gentoo
-  - Linux
-  - OpenSource
-  - Tutoriais
-
 ---
 Continuando nosso Guia Linux, temos as instruções para você ter um sistema completamente funcional, não apenas terminais de texto como na parte anterior. Um detalhe útil que ficou faltando na parte anterior é o **pciutils**. Com **emerge pciutils** você recebe vários utilitários para analizar o seu hardware. O mais útil é o **lspci** que lista os dispositivos pci do seu micro ([veja o meu aqui][1]).
 
@@ -92,20 +80,6 @@ A **ALSA** (**A**dvanced **L**inux **S**ound **A**rchitecture) é a biblioteca m
 *   Um problema quase geral de placas wifi é que normalmente existe um pedaço de código proprietário em suas bibliotecas. Isso significa que você ainda tem um sistema 100% grátis, mas **não 100% open source**.
 *   **EDITADO: **Na primeira instalação do meu sistema tudo ocorreu como dito anteriormente, mas numa instalação mais recente tive problemas com o **udev** que carregava automáticamente o **ath_pci** e dessa forma o **ath0 não era criado automáticamente**. Na verdade era necessário descarregar o módulo e recarrega-lo para que funcionasse. Isso foi corrigido inicialmente alterando o **/etc/conf.d/rc** setando **RC_COLDPLUG=”no”**. Mas essa solução não é muito boa, na verdade, aós alguma pesquisa, descobri que a origem do problema era a falta da opção **Automatic kernel module loading** em **Loadable module support**, nas configurações do kernel.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://vidageek.net/public/guialinux/lspci.out "Meu lspci"
  [2]: http://www.gentoo-wiki.com/HOWTO_X.org "Gentoo Wiki: HowTo X"
  [3]: http://http://gentoo-wiki.com/HOWTO_Gnome_Desktop_for_the_End-User "Gentoo Wiki: HowTo Gnome Desktop for the End-User"
@@ -123,8 +97,4 @@ A **ALSA** (**A**dvanced **L**inux **S**ound **A**rchitecture) é a biblioteca m
  [15]: http://www.linuxreality.com/podcast/episode-52-wireless-networking-basics/ "Wireless Networking Basics"
  [16]: http://http://www.linux-on-laptops.com/hosted/tsa65.html "Gentoo Linux on a Toshiba Sattelite A65"
  [17]: http://gentoo-wiki.com/HOWTO_MadWifi_Install "Gentoo Wiki: HowTo MadWifi Install"
-
-
-
-
 

@@ -1,15 +1,7 @@
 ---
 author: convidados
 title: Economizando com Software Livre
-
 layout: post
-category:
-  - OpenSource
-  - Opiniao
-tags:
-  - OpenSource
-  - Opiniao
-
 ---
 Uma notícia da Folha Oline sobre Softwate Livre:
 
@@ -25,22 +17,5 @@ As pessoas acham que só porque o código é aberto ele é inseguro e incompleto
 
 [Via [Folha Online][1]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://www1.folha.uol.com.br/folha/informatica/ult124u21711.shtml "Banco do Brasil economiza R$ 20 mi com software livre"
-
-
-
-
 

@@ -1,37 +1,11 @@
 ---
 author: Jonas Abreu
 title: CeBIT
-
 layout: post
-category:
-  - Eventos
-tags:
-  - cebit
-  - Eventos
-  - hannover
-
 ---
 A mega feira [CeBIT][1], que começa amanhã e vai até dia 21 de março, este ano está sendo sediada em Hannover, Alemanha. Considerada o maior evento de negócios digital do mundo, terá esse ano pelo menos 11 empresas brasileiras da área de tecnologia, como a ItauTec e 3Corp technology.
 
 Mais informações: **[CeBIT][1]**, em inglês.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://www.cebit.de
-
-
-
-
 

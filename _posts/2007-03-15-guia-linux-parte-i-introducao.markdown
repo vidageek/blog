@@ -1,15 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte I: Introdução'
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-tags:
-  - Gentoo
-  - Linux
-
 ---
 Esta é a primeira parte de um guia que pretende mostrar como instalar uma distribuição Linux em sua máquina, possibilitando que você tenha um sistema completamente funcional, com todas as ferramentas que você pode precisar e sem nenhum custo, exceto, talvez algumas horas de aprendizado.
 
@@ -51,27 +43,10 @@ Problemas:
 
 Se você optou pelo LiveCD, você tem agora uma instalação quase completamente funcional. Se você escolheu o minimal, deve ainda instalar o ambiente gráfico. Outros itens de hardware também devem ser instalados, como placa de som, placa wireless (possivelmente), etc. Algumas coisas também precisam ser configuradas. Na próxima parte do guia irei abordar esses assuntos. Uma coisa interessante agora seria usar o ***emerge –update world*** para atualizar o seu sistema (isso pode fazer seu sistema quebrar se você usou o LiveCD). 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://www.gentoo.org/ "Site Oficial do Gentoo"
  [2]: http://www.gentoo.org/main/en/where.xml "Imagens do Gentoo"
  [3]: http://www.gentoo.org/doc/pt_br/handbook/handbook-x86.xml?part=1&chap=2 "Diferenças entre as opções de Instalação"
  [4]: http://www.gentoo.org/doc/en/handbook/index.xml "Manual Minimal em Inglês"
  [5]: http://www.gentoo.org/doc/pt_br/handbook/ "Manual Minimal em Português"
  [6]: http://www.gentoo.org/doc/en/handbook/2006.1/handbook-x86.xml "Manual LiveCD em Inglês"
-
-
-
-
 

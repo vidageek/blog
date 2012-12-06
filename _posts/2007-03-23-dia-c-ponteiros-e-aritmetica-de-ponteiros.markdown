@@ -1,20 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Ponteiros e Aritmética de Ponteiros.'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - ponteiros
-  - Programacao
-  - Tutoriais
-
 ---
 Enfim chegamos ao assunto que causa dor de cabeça à maioria dos programadores iniciantes (e à muitos veteranos também). É complicado trabalhar com a referência ao invés de trabalhar com o objeto.
 
@@ -40,22 +27,4 @@ Com tudo isso, é possível fazer algumas “bizarrices” não recomendadas, ma
 *   Da pra fazer várias outras mágicas com ponteiros em C, mas com essas três já é possível fazer muita coisa.
 
 Próxima semana: Algoritmos genéricos em C 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,14 +1,7 @@
 ---
 author: convidados
 title: 'Deligio: Busca de Software'
-
 layout: post
-category:
-  - Software
-tags:
-  - gimp
-  - Software
-
 ---
 [![Deligio][2]][2]
 
@@ -20,24 +13,7 @@ Esse site pode com certeza ser útil, pelo menos nos casos em que você não tem
 
 [Via [WebTuga][3]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  []: http://www.deligio.com/ "Deligio"
  [2]: http://en.wikipedia.org/wiki/GIMP "GIMP na Wikipedia"
  [3]: http://www.webtuga.com/2007/03/05/sites/deligio-descubra-e-partilhe-software.php/ " deligio - Descubra e partilhe software"
-
-
-
-
 

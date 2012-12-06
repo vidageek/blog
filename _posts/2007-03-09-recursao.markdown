@@ -1,19 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Recursão'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-
 ---
 Recursão é um assunto bem complexo. Aqui, não camos entrar nas questões sobre o design de algoritmos recursivos ou como uma solução recursiva pode ser melhor ou pior que uma solução iterativa. O ponto que será tratado aqui é a relação da recursão com a pilha do C.
 
@@ -29,22 +17,4 @@ Portanto usem e abusem de recursão. E não se preocupem com preconceitos como �
 Maiores informações: recursão -> Google, recursão -> Wiki.
 
 Próxima semana, Threads em C. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
