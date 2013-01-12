@@ -1,24 +1,8 @@
 ---
 author: Jonas Abreu
-title: >
-  Como descobrir todos que commitaram em
-  um repositório SVN
-
+title: Como descobrir todos que commitaram em um repositório SVN
 layout: post
-category:
-  - Dicas
-  - Linux
-  - Programacao
-tags:
-  - bash
-  - grep
-  - log
-  - sed
-  - sort
-  - svn
-  - uniq
-  - usuario
-
+game: regex
 ---
 Recentemente escrevi um post sobre [como migrar seu repositório svn para o git][1]. Em um dos passos falo pra você criar uma lista de mapeamento dos seus usuários do svn para os do git. O único problema disso é descobrir quem são eles. Aqui vai um one-liner de bash que resolve isso :)
 
@@ -39,21 +23,5 @@ Explicação da bizarrice acima:
 Tentei fazer usando o comando **cut** no lugar do sed, mas o cut desistia no meio do caminho por causa de caracteres estranhos. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://vidageek.net/2009/06/08/como-migrar-de-svn-para-git/
-
-
-
-
 

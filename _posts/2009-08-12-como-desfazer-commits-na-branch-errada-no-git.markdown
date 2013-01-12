@@ -1,19 +1,8 @@
 ---
 author: convidados
-title: >
-  Como desfazer commits na branch errada
-  no Git
-
+title: Como desfazer commits na branch errada no Git
 layout: post
-category:
-  - Dicas
-  - Programacao
-tags:
-  - branch
-  - commit
-  - conflito
-  - git
-
+game: git
 ---
 *O post de hoje é do nosso amigo Lucas Cavalcanti, desenvolvedor da [Caelum][1].*
 

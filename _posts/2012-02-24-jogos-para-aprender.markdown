@@ -1,13 +1,8 @@
 ---
 author: Jonas Abreu
 title: Jogos para Aprender
-
 layout: post
-category:
-  - Jogos
-  - Programacao
-tags: [ ]
-
+game: regex
 ---
 Nas últimas 4 semanas, alguns amigos e eu resolvemos desafiar um tabu bem comum. Como ensinar pessoas de forma mais eficiente e divertida do que em uma sala de aula.
 
@@ -17,27 +12,10 @@ O [VidaGeek Games][4] é o fruto desse trabalho. Como é uma PoC, ainda está be
 
 Todo feedback é bem-vindo e fundamental para nós. E se gostou bastante da idéia, pode nos ajudar sugerindo idéias/patches através do [github][6] ou do email games@vidageek.net. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://en.wikipedia.org/wiki/Proof_of_concept
  [2]: http://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice
  [3]: http://gamification.org/wiki/Gamification
  [4]: http://games.vidageek.net
  [5]: http://games.vidageek.net/play/regex
  [6]: https://github.com/vidageek/games
-
-
-
-
 

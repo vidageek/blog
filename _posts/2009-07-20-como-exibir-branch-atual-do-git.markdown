@@ -2,6 +2,7 @@
 author: Jonas Abreu
 title: Como exibir branch atual do git
 layout: post
+game: git
 ---
 Umas das coisas legais que bash tem é uma variável que define como deve ser o prompt da linha de comando. Essa variavel de ambiente se chama PS1. Um dos usos mais incríveis que já vi dela foi o de mostrar em qual branch do git você está (e não mostrar nada quando você não está em um repositório).
 

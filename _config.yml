@@ -23,3 +23,6 @@ google_analytics:
 disqus:
   id: vidageeknet
 
+games:
+  git: 'Git'
+  regex: 'RegEx'

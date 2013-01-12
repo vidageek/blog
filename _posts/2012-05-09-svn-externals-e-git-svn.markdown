@@ -1,13 +1,8 @@
 ---
 author: Jonas Abreu
 title: Svn externals e Git Svn
-
 layout: post
-category:
-  - Dicas
-  - Programacao
-tags: [ ]
-
+game: git
 ---
 No meu post anterior, sobre [git svn shallow cloning][1], acabei deixando de usar git naquele projeto por causa de um pequeno problema.
 

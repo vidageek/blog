@@ -1,13 +1,8 @@
 ---
 author: Jonas Abreu
 title: Git Svn shallow clone
-
 layout: post
-category:
-  - Dicas
-  - Programacao
-tags: [ ]
-
+game: git
 ---
 Em um projeto que fui trabalhar uma vez e que usava svn para controle de versão, tentei usar git svn para não precisar mudar meu fluxo de trabalho e ter todas as vantagens do git.
 

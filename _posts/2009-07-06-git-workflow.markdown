@@ -2,6 +2,7 @@
 author: Jonas Abreu
 title: Git Workflow
 layout: post
+game: git
 ---
 
 Recentemente passei a utlizar git em todos os meus projetos (depois de sofrer muito com a lentidão do sourceforge e outros repositórios svn).

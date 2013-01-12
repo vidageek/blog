@@ -1,14 +1,8 @@
 ---
 author: Jonas Abreu
 title: 'Open Source Week - Scraper'
-
 layout: post
-category:
-  - Java
-  - OpenSource
-  - Programacao
-tags: [ ]
-
+game: regex
 ---
 O Terceiro lançamento é o [Scraper][1].
 
@@ -32,27 +26,14 @@ Maiores informações na [página oficial][1].
 
 Ah, infelizmente ainda não disponível em um repositório maven (vou resolver isso nas próximas semanas), mas você pode baixá-lo no [github][7] da [AdaptIdeas][8]. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- [1]: http://projetos.vidageek.net/scraper
- [2]: http://en.wikipedia.org/wiki/Web_scraping
- [3]: http://en.wikipedia.org/wiki/Regular_expression
- [4]: http://en.wikipedia.org/wiki/XPath
- [5]: http://en.wikipedia.org/wiki/Document_Object_Model
- [6]: http://www.procurandocursos.com.br
- [7]: https://github.com/adaptideas/scraper
- [8]: http://www.adaptideas.com.br
+[1]: http://projetos.vidageek.net/scraper
+[2]: http://en.wikipedia.org/wiki/Web_scraping
+[3]: http://en.wikipedia.org/wiki/Regular_expression
+[4]: http://en.wikipedia.org/wiki/XPath
+[5]: http://en.wikipedia.org/wiki/Document_Object_Model
+[6]: http://www.procurandocursos.com.br
+[7]: https://github.com/adaptideas/scraper
+[8]: http://www.adaptideas.com.br
 
 
 

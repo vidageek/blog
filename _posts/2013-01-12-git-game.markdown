@@ -2,6 +2,7 @@
 author: Jonas Abreu
 title: Git Game
 layout: post
+game: git
 ---
 
 No [começo do ano passado][1] colocamos uma PoC sobre jogos para aprendizado no ar. Estava 
