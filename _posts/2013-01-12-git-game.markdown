@@ -1,0 +1,31 @@
+---
+author: Jonas Abreu
+title: Git Game
+layout: post
+---
+
+No [começo do ano passado][1] colocamos uma PoC sobre jogos para aprendizado no ar. Estava 
+bem cru, com poucos exercícios mas já dava para ver se funcionava.
+
+Depois de quase um ano de horas vagas e muito trabalho para melhorar toda a parte interna
+de como funciona o [VidaGeek Games][2], finalmente estamos lançando o segundo jogo, o 
+[Git Game][3].
+
+O Git Game surgiu da necessidade de ensinar [Git][4] para outras pessoas e do fato de um
+post sobre o [fluxo de trabalho com Git][5] ser um dos mais visitados do blog.
+
+O jogo ainda possui poucos exercícios (mais ou menos 100), mas já contêm boa parte do que
+uso no dia a dia. 
+
+Ainda falta bastante polimento, mas já dá para aprender uma coisa ou outra.
+
+Espero que gostem.
+
+E como sempre, todo feedback é muito bem vindo!
+
+
+[1]: http://www.vidageek.net/2012/02/24/jogos-para-aprender/
+[2]: http://games.vidageek.net/
+[3]: http://games.vidageek.net/play/git
+[4]: http://git-scm.com/
+[5]: http://www.vidageek.net/2009/07/06/git-workflow/
