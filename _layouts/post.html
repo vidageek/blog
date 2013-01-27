@@ -6,12 +6,7 @@ layout: default
 {{ page.content | unindent | markdownify }}
 {% include post-end.html %}
 
-{% if site.games[page.game] %}
-	<div class="well">
-	Quer aprender mais sobre esse assunto? Conheça o 
-	<a href="http://games.vidageek.net/play/{{page.game}}">{{ site.games[page.game] }} Game</a>
-	</div>
-{% endif %}
+{% include games.html %}
 
 {% if site.related_posts.size > 0 %}
 <div id="related">
