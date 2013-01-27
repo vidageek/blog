@@ -11,7 +11,8 @@ Um site como o VidaGeek.net, que tem quase 400 posts, demorava meia hora porque 
 que enviava os arquivos era muito burro.
 
 Pra resolver isso, criei [um script sujo, imundo, porco e nojento][2] que simplesmente verifica
-se o SHA do arquivo mudou desde o último deploy. Se mudou, envia. Senão não faz nada :)
+se o MD5 (era SHA, mas estava demorando muito) do arquivo mudou desde o último deploy. Se mudou, 
+envia. Senão não faz nada :)
 
 Se mais alguém passa pelo mesmo problema, talvez ele ajude. Mas repito, é um código bem horrendo...
 
