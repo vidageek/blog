@@ -1,18 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Lançamento do Gentoo 2007.0
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-  - News
-  - OpenSource
-tags:
-  - Gentoo
-  - Linux
-  - News
-  - OpenSource
 
 ---
 O Gentoo enfim liberou sua versão 2007.0 para download e publicou um press release explicando as principais diferenças de cada iso e arquitetura, comparada à versão anterior (2006.1).

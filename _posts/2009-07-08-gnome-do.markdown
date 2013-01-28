@@ -1,19 +1,7 @@
 ---
 author: Luiz
 title: Gnome Do
-
 layout: post
-category:
-  - Dicas
-  - Linux
-  - Software
-  - Ubuntu
-tags:
-  - atalhos
-  - dock
-  - gnome
-  - Linux
-  - Mac
 
 ---
 ![Interface do Gnome Do][1]  

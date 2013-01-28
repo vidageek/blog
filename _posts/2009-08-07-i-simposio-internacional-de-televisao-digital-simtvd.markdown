@@ -1,15 +1,7 @@
 ---
 author: Luiz
 title: 'I Simpósio Internacional de Televisão Digital - SIMTVD'
-
 layout: post
-category:
-  - Eventos
-tags:
-  - simposio
-  - simtvd
-  - tv digital
-  - unesp
 
 ---
 A pedidos da organização do evento, estamos divulgando a seguinte mensagem:

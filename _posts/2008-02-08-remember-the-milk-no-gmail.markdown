@@ -1,19 +1,7 @@
 ---
 author: Jonas Abreu
 title: Remember the Milk no Gmail
-
 layout: post
-category:
-  - Dicas
-  - Firefox
-  - Google
-tags:
-  - agenda
-  - Dicas
-  - Firefox
-  - Google
-  - remember_the_milk
-  - rtm
 
 ---
 Eu tenho um problema crônico de memória. Tenho idéia ou preciso fazer algo e cinco minutos mais tarde eu já esqueci. Já tentei usar agenda de papel (não lembrava de dar uma ohada de vez em quando), agendas virtuais (o [Google Calendar][1] está praticamente esquecido.). 

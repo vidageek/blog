@@ -1,17 +1,7 @@
 ---
 author: convidados
 title: Ruby e Rails no Mundo Real
-
 layout: post
-category:
-  - Eventos
-  - Opiniao
-  - Ruby
-tags:
-  - Eventos
-  - Opiniao
-  - Rails
-  - Ruby
 
 ---
 ![Rer 2009][1]  

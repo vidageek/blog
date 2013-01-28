@@ -1,25 +1,7 @@
 ---
 author: Jonas Abreu
-title: >
-  Por tudo que é sagrado, escrevam
-  testes!
-
+title: Por tudo que é sagrado, escrevam testes!
 layout: post
-category:
-  - Dicas
-  - Java
-  - Opiniao
-  - Programacao
-  - Python
-  - Ruby
-  - Software
-tags:
-  - Agile
-  - knuth
-  - manifesto ágil
-  - produtividade
-  - testes
-  - unit testing
 
 ---
 Acho que já passou da hora dos programadores amadurecerem um pouco quanto a necessidade de testes para TODA e QUALQUER aplicação que seja escrita, independente do tamanho. Acho que já passou muito da fase na qual a arrogância era o suficiente para você acreditar que sua aplicação funcionaria sem testes, afinal, você é o melhor programador do mundo.

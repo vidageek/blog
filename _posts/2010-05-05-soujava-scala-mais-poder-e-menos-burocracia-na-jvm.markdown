@@ -1,11 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SouJava - Scala: Mais poder e menos burocracia na JVM.'
-
 layout: post
-category:
-  - Uncategorized
-tags: [ ]
 
 ---
 Dia 19/05/2010 o [Rafael Ferreira][1] dará uma palestra na reunião do [SouJava][2]. 

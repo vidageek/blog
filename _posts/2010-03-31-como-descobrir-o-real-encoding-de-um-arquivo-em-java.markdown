@@ -1,19 +1,7 @@
 ---
 author: Jonas Abreu
-title: >
-  Como descobrir o real encoding de um
-  arquivo em java
-
+title: Como descobrir o real encoding de um arquivo em java
 layout: post
-category:
-  - Dicas
-  - Java
-  - OpenSource
-  - Programacao
-tags:
-  - encoding
-  - icu
-  - unicode
 
 ---
 Um dos grandes problemas que enfrentamos no meu atual projeto na [AdaptWorks][1] foi descobrir qual o real encoding de páginas html arbitrárias.

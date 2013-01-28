@@ -1,12 +1,7 @@
 ---
 author: Jonas Abreu
 title: Construindo sua marca
-
 layout: post
-category:
-  - Dicas
-  - Opiniao
-tags: [ ]
 
 ---
 Tempos atrás li um [post do Jay Fields][1] onde ele comentava sobre a importância de você ter uma marca. Em outras palavras, ele falava sobre você existir para o resto do mundo, expandir seus horizontes.

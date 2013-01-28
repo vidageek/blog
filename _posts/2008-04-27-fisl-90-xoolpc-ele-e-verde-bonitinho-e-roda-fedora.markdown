@@ -1,21 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: XO/OLPC - Ele é verde, bonitinho e roda Fedora'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - Linux
-  - News
-  - OpenSource
-tags:
-  - 
-  - FISL 9.0
-  - MEC
-  - OLPC
-  - Rodrigo
-  - XO
 
 ---
 Numa palestra simples e também sem muitas novidades, o palestrante Rodrigo Padula de Oliveira falou um pouco sobre o que é o XO, os objetivos do projeto, seu hardware e afins. Vale lembrar aqui a parte de fontes de energia alternativas conseguidas para que o XO chegasse a comunidades afastadas:

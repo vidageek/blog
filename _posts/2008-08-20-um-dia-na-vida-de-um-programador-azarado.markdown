@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: Um dia na vida de um programador azarado
-
 layout: post
-category:
-  - Humor
-  - Opiniao
-tags:
-  - cesar_cielo
-  - imprensa
-  - paulista
-  - sujeira
 
 ---
 Este post nada tem a ver com [nossa última polêmica][1] ;) .

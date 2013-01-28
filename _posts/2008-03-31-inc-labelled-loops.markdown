@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Labelled Loops'
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Opiniao
-  - Programacao
-tags: [ ]
 
 ---
 Quem disse que java é bonito? C pelo menos tem a coragem de assumir que tem **goto**. Java disfarça na estrutura que chamamaram de Labelled Loops.

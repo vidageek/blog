@@ -1,17 +1,7 @@
 ---
 author: convidados
 title: 'Google Tech Talk: Inteligência Artificial Geral'
-
 layout: post
-category:
-  - Google
-  - IA
-tags:
-  - algoritmos
-  - aprendizado-computacional
-  - artificial_intelligence
-  - Google
-  - IA
 
 ---
 Neste Google Tech Talk, o Dr. Ben Goertzel explica suas visões de como o ramo de Inteligência Artificial deve ser explorado para alcançar o tão sonhado objetivo de criar programas com uma capacidade de aprendizado verossímil a de um ser humano.

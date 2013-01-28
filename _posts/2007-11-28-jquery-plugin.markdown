@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: JQuery Plugin
-
 layout: post
-category:
-  - Dicas
-  - News
-  - Programacao
-tags:
-  - Dicas
-  - drop_shadow
-  - JQuery
-  - News
-  - Programacao
 
 ---
 Ultimamente estou correndo atrás de bastante coisa sobre design. 

@@ -1,16 +1,7 @@
 ---
 author: fabs
 title: Rails Summit
-
 layout: post
-category:
-  - Eventos
-  - OpenSource
-  - Programacao
-tags:
-  - Rails
-  - Ruby
-  - Summit
 
 ---
 ![Rails Summit Logo][1]  

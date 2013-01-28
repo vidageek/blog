@@ -1,22 +1,7 @@
 ---
 author: Luiz
 title: 'FISL 10: Scaling Rails'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - Google
-  - OpenSource
-  - Programacao
-  - Ruby
-tags:
-  - busca textual
-  - caching
-  - escalabilidade
-  - Google
-  - Rails
-  - Ruby on Rails
 
 ---
 Na segunda palestra que assisti (na verdade terceira, mas a primeira não conta porque, infelizmente, dormi :P), Sylvestre Mergulhão deu continuidade à palestra do Fabio Akita e falou sobre escalabilidade utilizando Rails no site [RedeParede][1], um site de classificados com versões para toda a América Latina.

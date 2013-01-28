@@ -1,22 +1,7 @@
 ---
 author: Jonas Abreu
 title: Um dia de usuário
-
 layout: post
-category:
-  - Humor
-tags:
-  - beatles
-  - C
-  - fortune
-  - google_translate
-  - Humor
-  - ioccc
-  - occc
-  - Programacao
-  - ten_commandments
-  - unix
-
 ---
 Sabe aqueles dias em nós programadores nos sentimos inferiores aos computadores (por que parece que perdemos a capacidade de força-los a fazer o que queremos)? Aqueles dias em que parece que cada bit do universo está conspirando contra você? Aquele dia de entrega de trabalho e seu programa continua funcionando para todos os casos menos aquele que alguém acabou de te falar? O que fazer nessas horas?  
 Em dias como esse (e para evitar suicídio entre programadores) voce pode aliviar um pouco a tensão com esses sites:

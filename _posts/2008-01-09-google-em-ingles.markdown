@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google em Inglês
-
 layout: post
-category:
-  - Dicas
-  - Google
-tags:
-  - Dicas
-  - Google
 
 ---
 De tempos em tempos eu entro no [Labs da Google][1] pra ver quais as novidades que eles estão lançando no sistema de busca. Nada algoritimico, apenas aquelas coisas bobas que chamam atenção, como usar a busca para fazer contas ou procurar em dicionários.

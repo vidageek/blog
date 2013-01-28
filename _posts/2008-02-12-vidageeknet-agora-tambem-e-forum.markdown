@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: VidaGeek.net agora também é Fórum!
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Java
-  - News
-  - Programacao
-tags:
-  - forum
 
 ---
 Acabamos de colocar no ar (definitivamente. Estivemos fazendo testes por algum tempo) o [fórum do VidaGeek][1]. 

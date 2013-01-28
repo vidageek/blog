@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: Não Calcule PI em Binário
-
 layout: post
-category:
-  - Humor
-tags:
-  - Humor
-  - Math
 
 ---
 ![Avoid Pi][1]  

@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: Trocando chaves rsa rapidamente
-
 layout: post
-category:
-  - Dicas
-  - Programacao
-tags:
-  - bash
-  - chave
-  - github
-  - key
 
 ---
 Não sei se muitas pessoas tem esse problema, mas eu tenho mais de um par de chaves (no caso, tenho a minha para a conta jonasabreu do github e a da conta vidageek, também no github). Como era muito chato troca-las manualmente, fiz um pequeno script em bash para fazer isso para mim.  

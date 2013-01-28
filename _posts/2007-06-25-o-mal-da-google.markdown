@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: O Mal da Google
-
 layout: post
-category:
-  - Google
-  - Opiniao
-tags:
-  - Google
-  - Opiniao
 
 ---
 A cada dia que passa, a Google diversifica ainda mais seus produtos. Por um lado, isso é ótimo. São produtos de incrível qualidade (alguns muito melhores do que seus concorrentes, como o gMail). Eu, por exemplo, uso os seguintes produtos da google:

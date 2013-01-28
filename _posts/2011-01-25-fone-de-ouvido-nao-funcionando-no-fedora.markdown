@@ -1,19 +1,7 @@
 ---
 author: Luiz
-title: >
-  Fone de ouvido não funcionando no
-  Fedora
-
+title: Fone de ouvido não funcionando no Fedora
 layout: post
-category:
-  - Dicas
-  - Linux
-tags:
-  - alsa
-  - bug
-  - fedora
-  - intel hda
-  - Linux
 
 ---
 No meu computador mais parrudo (que descrevi no [post anterior][1]), nunca conseguia usar fone de ouvido sem incomodar os outros à minha volta: se eu colocasse o plug até o fim, não saía som nenhum — nem no altofalante nem no fone. Se deixasse o plug do fone no meio do caminho, saía som tanto no fone quanto no altofalante do notebook.

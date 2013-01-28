@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Open Source Week - I18n'
-
 layout: post
-category:
-  - Java
-  - OpenSource
-  - Programacao
-tags: [ ]
 
 ---
 O segundo lançamento é da versão 0.5 do [I18n, lançado ano passado][1]. Essa versão resolve o problema que tivemos para lidar  

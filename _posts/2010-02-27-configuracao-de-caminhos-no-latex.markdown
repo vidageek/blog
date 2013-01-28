@@ -1,18 +1,7 @@
 ---
 author: Luiz
 title: Configuração de caminhos no LaTeX
-
 layout: post
-category:
-  - Latex
-tags:
-  - configuração
-  - kpathsea
-  - Latex
-  - path
-  - tetex
-  - texconfig
-  - texlive
 
 ---
 Um de nossos leitores, o Cacio Gazola, perguntou-nos recentemente como o LaTeX sabe onde procurar os pacotes, fontes e configurações. Eu não sabia, mas fui investigar. Descobri, achei interessante e resolvi compartilhar aqui.

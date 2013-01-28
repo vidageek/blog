@@ -1,17 +1,7 @@
 ---
 author: Luiz
 title: 'SNL - Ensaio sobre a cegueira'
-
 layout: post
-category:
-  - Dicas
-  - Livros
-  - Opiniao
-tags:
-  - cegueira
-  - Dicas
-  - Livros
-  - saramago
 
 ---
 [José Saramago][1] teve uma ótima idéia para um livro, e usou seu talento muito bem para escrever “Ensaio sobre a cegueira”.

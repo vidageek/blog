@@ -1,13 +1,7 @@
 ---
 author: Luiz
 title: Mercado ou mundo acadêmico?
-
 layout: post
-category:
-  - Opiniao
-tags:
-  - estudo
-  - trabalho
 
 ---
 ![Mundo acadêmico?][1]  

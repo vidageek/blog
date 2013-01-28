@@ -1,20 +1,7 @@
 ---
 author: convidados
 title: Ambiente aberto de Xadrez Online
-
 layout: post
-category:
-  - Jogos
-  - OpenSource
-  - Software
-tags:
-  - c3sl
-  - jabber
-  - Jogos
-  - online
-  - OpenSource
-  - Programacao
-  - Xadrez
 
 ---
 O Xadrez Livre é um ambiente aberto de ensino e aprendizagem de xadrez criado para servir como apoio ao projeto de ensino de xadrez nas escolas brasileiras.

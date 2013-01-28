@@ -1,20 +1,7 @@
 ---
 author: Luiz
 title: Firefox 3.5 e Gears no Ubuntu
-
 layout: post
-category:
-  - Dicas
-  - Firefox
-  - Google
-  - Linux
-  - Ubuntu
-tags:
-  - Firefox
-  - gears
-  - Google
-  - shiretoko
-  - Ubuntu
 
 ---
 ![Firefox 3.5, aqui vamos nós][1]  

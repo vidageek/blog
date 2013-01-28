@@ -1,19 +1,7 @@
 ---
 author: convidados
-title: >
-  Proteção de Tela como Papel de Parede
-  no Linux
-
+title: Proteção de Tela como Papel de Parede no Linux
 layout: post
-category:
-  - Dicas
-  - Linux
-tags:
-  - dica
-  - Dicas
-  - gnome
-  - Linux
-  - proteção_de_tela
 
 ---
 Segue uma dica que achei na internet e é bem interessante. É possível colocar uma proteção de tela como papel de parede do Linux, por exemplo a animação do Matrix.  

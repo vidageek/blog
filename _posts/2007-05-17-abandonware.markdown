@@ -1,15 +1,7 @@
 ---
 author: Breno Franco
 title: Abandonware
-
 layout: post
-category:
-  - Software
-tags:
-  - abandonia
-  - abandonware
-  - dosbox
-  - Software
 
 ---
 Em (outro) post sobre a filosofia do software, vou falar sobre Abandonware, como fica óbvio pelo título. Isto não é sobre software livre – ou pelo menos não ***ainda***.

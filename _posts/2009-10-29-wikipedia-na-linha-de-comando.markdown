@@ -1,14 +1,7 @@
 ---
 author: fabs
 title: Wikipedia na linha de comando
-
 layout: post
-category:
-  - Diversão
-tags:
-  - bash
-  - dig
-  - wikipedia
 
 ---
 São muitas as vezes que tenho que recorrer ao navegador pra procurar no google a definição de alguma palavra, conceito, serviço ou “whatever” na wikipedia. Outro dia me deparei com o seguinte script, que chamei define:

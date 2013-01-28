@@ -1,12 +1,7 @@
 ---
 author: fabs
 title: Falando em Agile
-
 layout: post
-category:
-  - Agile
-  - Eventos
-tags: [ ]
 
 ---
 ![Falando em Agile][1]  

@@ -1,11 +1,7 @@
 ---
 author: convidados
 title: Retrospectiva 2008
-
 layout: post
-category:
-  - Uncategorized
-tags: [ ]
 
 ---
 Se você já nos acompanha faz mais de um ano, você provavelmente já viu tudo (ou pelo menos quase tudo) do conteúdo que publicamos em 2008. Mas acreditamos que existem coisas que podem merecem ser revistas e que podem trazer novas informações para os nossos leitores. Se você conheceu o VidaGeek.net no decorrer de 2008 (ou quem sabe, neste começo de 2009), pode não ter visto diversos posts que acreditamos ser relevante para os visitantes. 

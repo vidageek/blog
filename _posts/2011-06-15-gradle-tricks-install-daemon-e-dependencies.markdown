@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Gradle Tricks - Install, Daemon e Dependencies'
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Usando maven em outros projetos? Sem problemas.

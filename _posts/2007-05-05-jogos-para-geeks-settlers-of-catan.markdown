@@ -1,14 +1,7 @@
 ---
 author: Breno Franco
 title: 'Jogos para Geeks: Settlers of Catan'
-
 layout: post
-category:
-  - Dicas
-  - Jogos
-tags:
-  - Dicas
-  - Jogos
 
 ---
 Durante a estada em Porto Alegre, aprendemos (graças ao [Danilo Sato][1]) a jogar Settlers of Catan, um jogo de tabuleiro baseado em estratégia por turnos.

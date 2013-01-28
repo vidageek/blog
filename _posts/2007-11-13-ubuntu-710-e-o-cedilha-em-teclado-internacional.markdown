@@ -1,24 +1,7 @@
 ---
 author: Cecilia Fernandes
-title: >
-  Ubuntu 7.10 e o cedilha em teclado
-  internacional
-
+title: Ubuntu 7.10 e o cedilha em teclado internacional
 layout: post
-category:
-  - Dicas
-  - Linux
-  - Ubuntu
-tags:
-  - C
-  - cedilha
-  - Dicas
-  - Guilherme-de-Almeida-Moreira
-  - Guilherme-Moreira
-  - Linux
-  - Ubuntu
-  - Ubuntu-7.10
-  - US-International
 
 ---
 Guilherme de Almeida Moreira, um amigo nosso, passou pelo problema clássico de colocar para funcionar o cedilha no Ubuntu 7.10. Já que não encontrou informações de como resolver o problema na internet, ele nos enviou sua solução na esperança de ser útil para outras pessoas.

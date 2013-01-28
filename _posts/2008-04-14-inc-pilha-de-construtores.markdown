@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Pilha de Construtores'
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Quando criamos o construtor da nossa classe, mesmo que não coloquemos explicitamente uma chamada ao construtor da classe mãe, a chamada ao construtor da classe mãe é a primeira coisa que acontece no nosso construtor.

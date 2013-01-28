@@ -1,22 +1,7 @@
 ---
 author: Luiz
 title: Governança em software livre
-
 layout: post
-category:
-  - Discussões
-  - OpenSource
-  - Web 2.0
-tags:
-  - bazar
-  - catedral
-  - Debian
-  - github
-  - governança
-  - meritocracia
-  - OpenSource
-  - raymond
-  - Software Livre
 
 ---
 No [QCon][1], evento que ocorreu nos dias 11 e 12 desse mês, dei uma palestra no formato *lightning talk* sobre governança em software livre. Para quem se interessar, coloquei os slides no [Scribd][2].

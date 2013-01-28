@@ -1,11 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Cursos de verão no IME-USP
-
 layout: post
-category:
-  - Uncategorized
-tags: [ ]
 
 ---
 Todo ano, o Instituto de Matemática e Estatística da USP promove diversos cursos de matemática, estatística e computação para acadêmicos E não-acadêmicos interessados nessas áreas.

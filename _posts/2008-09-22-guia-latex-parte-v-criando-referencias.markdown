@@ -1,19 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte V: Criando referências'
-
 layout: post
-category:
-  - Dicas
-  - Latex
-  - Tutoriais
-tags:
-  - Índice Remissivo
-  - Dicas
-  - Glossário
-  - Latex
-  - Links
-  - Tutoriais
 
 ---
 Após passar pelas outras partes desse tutorial, chegamos ao ponto em que gostaríamos de criar links externos ou internos para nossa aplicação e referências bibliográficas.

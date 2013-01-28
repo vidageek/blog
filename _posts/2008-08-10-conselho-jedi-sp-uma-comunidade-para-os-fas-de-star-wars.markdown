@@ -1,16 +1,7 @@
 ---
 author: convidados
 title: 'Conselho Jedi SP - Uma Comunidade para os Fãs de Star Wars'
-
 layout: post
-category:
-  - GeekStyleOfLife
-tags:
-  - Conselho Jedi
-  - GeekStyleOfLife
-  - Jedi
-  - Sci-Fi
-  - StarWars
 
 ---
 ![Star Wars Coin][1]  

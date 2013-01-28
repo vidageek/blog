@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - SEO Book'
-
 layout: post
-category:
-  - Dicas
-  - Livros
-  - Opiniao
-tags:
-  - Dicas
-  - Livros
-  - Opiniao
 
 ---
 Acredito que esse seja o primeiro livro relacionado a computação que aparece no SNL.

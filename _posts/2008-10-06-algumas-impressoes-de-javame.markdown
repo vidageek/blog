@@ -1,19 +1,7 @@
 ---
 author: Luiz
 title: Algumas impressões de JavaME
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Opiniao
-  - Programacao
-tags:
-  - Celular
-  - Java
-  - JavaME
-  - Mobile
-  - Portabilidade
 
 ---
 ![][1]  

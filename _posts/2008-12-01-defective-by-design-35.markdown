@@ -1,23 +1,7 @@
 ---
 author: fabs
 title: 'Defective By Design - 35 dias contra DRM'
-
 layout: post
-category:
-  - Discussões
-  - News
-  - Opiniao
-tags:
-  - apple
-  - benkler
-  - DMCA
-  - DRM
-  - foss
-  - fsf
-  - IME
-  - iphone
-  - Mac
-  - won
 
 ---
 ![][1]

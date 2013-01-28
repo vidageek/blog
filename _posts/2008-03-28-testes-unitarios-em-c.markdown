@@ -1,16 +1,7 @@
 ---
 author: Luiz
 title: Testes unitários em C++
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-tags:
-  - C
-  - cppunit
-  - testes
 
 ---
 ![CppUnit Logo by Luiz][1]

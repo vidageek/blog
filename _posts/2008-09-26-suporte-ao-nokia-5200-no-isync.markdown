@@ -1,14 +1,7 @@
 ---
 author: convidados
 title: Suporte ao Nokia 5200 no iSync
-
 layout: post
-category:
-  - Mac
-tags:
-  - Mac
-  - Nokia
-  - Vivo
 
 ---
 ![Nokia 5200][1]  

@@ -1,20 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0: Wireless Meshing with OLPC'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - News
-  - OpenSource
-tags:
-  - Eventos
-  - Fisl
-  - Misc
-  - News
-  - OpenSource
-  - Tecnologia
 
 ---
 Segue o resumo da palestra de ontem “Wireless Meshing with OLPC”. Para aqueles que não estão familiarizados com a sigla, vale explicar que OLPC é um dos laptops educacionais que competem nas licitações estaduais. O “One Laptop Per Child” XO é o modelo mais comentado e, temos que dizer, atrai a simpatia de qualquer um que passe por ele. Em uma breve ocasião, faremos uma notícia explicando as diferenças entre os concorrentes.

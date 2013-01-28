@@ -1,22 +1,7 @@
 ---
 author: Luiz
-title: >
-  10 artigos que todo programador deveria
-  ler (pelo menos duas vezes)
-
+title: 10 artigos que todo programador deveria ler (pelo menos duas vezes)
 layout: post
-category:
-  - Blogroll
-  - Dicas
-  - Opiniao
-  - Programacao
-tags:
-  - Artigos
-  - Lista
-  - Michael Feathers
-  - ObjectMentor
-  - Orientação a
-  - Programação funcional
 
 ---
 Semana passada, Michael Feathers publicou um [post][1] no blog da ObjectMentor onde indica 10 artigos que todo programador deveria ler. Segundo ele, a lista contém artigos que abrangem assuntos que todo programador deve saber sobre código. Os artigos estão em inglês. Essa lista pode servir de um resumo do que há de mais importante para aprender sobre programação para quem pretende trabalhar com isso. A lista segue abaixo, com links para versões gratuitas dos artigos (no post original, nem todos os links são para versões gratuitas):

@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'FISL 8.0 - Privacidade na Internet: um debate em aberto (Thiago Tavares Nunes de Oliveira e Demi Getschko)'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - OpenSource
-tags:
-  - Eventos
-  - Fisl
-  - OpenSource
 
 ---
 Nessa palestra, Demi Getschko, um dos percussores da Internet no Brasil e, de acordo com o outro palestrante, a pessoa que ligou os primeiros cabos da Internet na FAPESP nos anos 80, propôs discutirmos os principios de privacidade x liberdade. Falou sobre os aspectos humanos, tais como privacidade X acesso a dados, intrusãoo X propaganda, dados pessoais x segurança.  

@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: Mirror 1.5 release
-
 layout: post
-category:
-  - Java
-  - OpenSource
-  - Programacao
-tags:
-  - 1.5
-  - dsl
-  - matcher
-  - mirror
-  - reflection
 
 ---
 A versão 1.5 do [Mirror][1] acaba de ser lançada.

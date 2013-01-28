@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - Memórias, Sonhos e Reflexões'
-
 layout: post
-category:
-  - Dicas
-  - Livros
-  - Opiniao
-tags:
-  - Dicas
-  - Livros
-  - Opiniao
 
 ---
 Seguindo com nossa série sobre livros, aqui vai um dos meus preferidos.

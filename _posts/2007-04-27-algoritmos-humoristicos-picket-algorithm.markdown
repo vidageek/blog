@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Algoritmos Humorísticos - Picket Algorithm'
-
 layout: post
-category:
-  - Humor
-  - Opiniao
-tags:
-  - algoritmo
-  - Humor
-  - Opiniao
-  - piquete
 
 ---
 Este algoritmo tem por objetivo sincronizar o acesso de processos a um mesmo recurso (ou instituição):

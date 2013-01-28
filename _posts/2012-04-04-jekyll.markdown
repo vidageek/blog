@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: Jekyll
-
 layout: post
-category:
-  - Dicas
-  - OpenSource
-  - Ruby
-tags: [ ]
 
 ---
 Quando eu escrevi o meu post anterior, comentei que o [Performance Java][1] estava sendo gerado usando [Jekyll][2].

@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: O Jogo da Vida
-
 layout: post
-category:
-  - Math
-tags:
-  - Life
-  - Math
 
 ---
 ![Life][1]  

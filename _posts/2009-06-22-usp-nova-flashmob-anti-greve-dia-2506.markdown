@@ -1,15 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'USP - nova flashmob anti-greve dia 25/06'
-
 layout: post
-category:
-  - Eventos
-tags:
-  - anti-greve
-  - flashmob
-  - greve
-  - usp
 
 ---
 Começo esse post pedindo desculpas aos nossos leitores que não fazem parte da USP, mas algumas causas exigem que mesmo quem não gosta de se manifestar em questões políticas faça algo a respeito.

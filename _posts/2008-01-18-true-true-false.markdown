@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'TRUE & TRUE == FALSE ?'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-tags:
-  - C
-  - Dicas
-  - Programacao
 
 ---
 Quando estamos programando, é muito comum precisarmos de um tipo booleano. Infelizmente o padrão Ansi C (isoc89) não possui um tipo primitivo para representar verdadeiro ou falso.

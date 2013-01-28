@@ -1,17 +1,7 @@
 ---
 author: convidados
 title: Tabelas assimétricas no LaTeX
-
 layout: post
-category:
-  - Dicas
-  - Latex
-tags:
-  - Latex
-  - multicolumn
-  - multirow
-  - span
-  - tabela assimétrica
 
 ---
 O post de hoje tem, novamente, a colaboração do nosso leitor Cacio Gazola. Mas desta vez foi ele que escreveu a base. Segue o texto adaptado:

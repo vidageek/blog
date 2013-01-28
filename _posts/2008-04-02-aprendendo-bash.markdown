@@ -1,25 +1,7 @@
 ---
 author: convidados
 title: Aprendendo Bash
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-  - Ubuntu
-tags:
-  - bash
-  - cygwin
-  - Debian
-  - Gentoo
-  - GNU
-  - Mac
-  - OSX
-  - Redhat
-  - shell
-  - SuSE
-  - terminal
-  - Ubuntu
 
 ---
 ![Terminal][1]  

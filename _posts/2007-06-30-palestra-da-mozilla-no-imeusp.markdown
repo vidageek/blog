@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: Palestra da Mozilla no IME/USP
-
 layout: post
-category:
-  - Eventos
-  - Firefox
-  - OpenSource
-  - Software
-tags:
-  - Eventos
-  - Firefox
-  - OpenSource
-  - Software
 
 ---
 Na última quarta feira, dia 27 de junho, Asa Dotzler e J. T. Batson deram uma palestra sobre a Mozilla, no IME-USP (Instituto de Matemática e Estatística da Universidade de São Paulo).

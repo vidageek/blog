@@ -1,21 +1,7 @@
 ---
 author: convidados
-title: >
-  Sincronizando o OpenOffice com o Google
-  Docs
-
+title: Sincronizando o OpenOffice com o Google Docs
 layout: post
-category:
-  - Google
-  - OpenSource
-  - Web 2.0
-tags:
-  - Google
-  - Google Docs
-  - OpenOffice
-  - OpenSource
-  - Software Livre
-  - Web 2.0
 
 ---
 ![Projeto ooo2gd][1]  

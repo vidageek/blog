@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: Encoding hell
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags:
-  - arquivo
-  - encoding
-  - leitura
-  - problema
-  - utf-8
 
 ---
 [Encoding][1] é sempre um inferno. Se você nunca precisou brigar com encoding, pergunte para seus amigos e a cara deles dirá tudo.

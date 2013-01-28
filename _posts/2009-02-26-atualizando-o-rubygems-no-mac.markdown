@@ -1,15 +1,7 @@
 ---
 author: convidados
 title: Atualizando o RubyGems no Mac
-
 layout: post
-category:
-  - Ruby
-tags:
-  - Gems
-  - Mac
-  - Mac OSX
-  - Ruby
 
 ---
 ![Rubygems][1]  

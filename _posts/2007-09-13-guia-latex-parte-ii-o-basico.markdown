@@ -1,21 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte II: O Básico'
-
 layout: post
-category:
-  - Dicas
-  - Latex
-tags:
-  - acentos-em-latex
-  - autor
-  - babel
-  - cabeçalho-em-latex
-  - Dicas
-  - inputenc
-  - Latex
-  - package
-  - título
 
 ---
 Agora que você já tem o compilador de Tex e o pré-processador de Latex instalados na sua máquina, vamos dar as ferramentas necessárias para escrever documentos simples em Latex, porém já bonitos.

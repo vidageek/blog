@@ -1,11 +1,7 @@
 ---
 author: Jonas Abreu
 title: Problemas Técnicos
-
 layout: post
-category:
-  - Software
-tags: [ ]
 
 ---
 Nas últimas duas semanas o VidaGeek tem passado por alguns problemas técnicos. Isso está ocorrendo devido à atualização do WordPress que fizemos.

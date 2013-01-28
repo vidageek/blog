@@ -1,16 +1,7 @@
 ---
 author: fabs
-title: >
-  Google remove funcionalidade, usuários
-  reclamam e... nada.
-
+title: Google remove funcionalidade, usuários reclamam e... nada.
 layout: post
-category:
-  - Discussões
-tags:
-  - docs
-  - funcionalidades
-  - Google
 
 ---
 Continuando a série de coisas que funcionavam e não funcionam mais, depois da frustração com o novo [Apple Magic Mouse][1], vamos falar do Google Docs.

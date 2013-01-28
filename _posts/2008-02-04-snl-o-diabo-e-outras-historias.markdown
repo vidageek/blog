@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'SNL - O Diabo e outras histórias'
-
 layout: post
-category:
-  - Dicas
-  - Livros
-  - Opiniao
-tags:
-  - Dicas
-  - Livros
-  - Opiniao
 
 ---
 Eu acredito que um bom conto seja muito mais difícil de escrever do que um bom romance.

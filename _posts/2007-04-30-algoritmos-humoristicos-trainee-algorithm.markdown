@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Algoritmos Humorísticos - Trainee Algorithm'
-
 layout: post
-category:
-  - Humor
-  - Opiniao
-tags:
-  - Humor
-  - Opiniao
 
 ---
 Para os que não sabem, os problemas computacionais podem ser classificados de acordo com a sua complexidade em Polinomiais (P) e Não Polinomiais (NP). Os problemas NP não possuem algoritmo eficiente para sua resolução. Quer dizer, não possuiam até que as empresas criaram o algoritmo Estagiário.

@@ -1,16 +1,7 @@
 ---
 author: fabs
 title: 'Lean Startup - Usando métricas para tomar decisões (Ski kitty)'
-
 layout: post
-category:
-  - Jogos
-  - Lean Startup
-tags:
-  - game
-  - lean
-  - metrics
-  - startup
 
 ---
 [![20111206-012036.jpg][2]][2]Logo que decidimos fazer o[ Ski Kitty ][2]para plataformas móveis, um dos primeiros desafios foi decidir, entre inúmeros modos de jogo, qual seria o mais divertido de jogar. Pensamos em várias mecânicas para o jogo. Três delas pareciam bem interessantes. Por muito tempo discutimos baseado nossas opiniões, o que cada um dos membros da equipe achava que deveria ser a melhor opção.

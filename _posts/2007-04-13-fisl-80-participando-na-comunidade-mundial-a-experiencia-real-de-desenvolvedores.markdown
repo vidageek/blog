@@ -1,18 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0 Participando na Comunidade Mundial: A experiência real de desenvolvedores'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - OpenSource
-  - Programacao
-tags:
-  - Eventos
-  - Fisl
-  - OpenSource
-  - Programacao
 
 ---
 É realmente interessante quando o fato de a maior parte dos palestrantes terem faltado acrescenta tanto valor a uma discussão. Na ausência de Gilmar Souza, Vinícius e Yara Senger, o presente Bruno Souza reuniu uma equipe de figuras internacionais importantes para discutir como participar ativamente das comunidades opensource. Eia a lista dos participantes:

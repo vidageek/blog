@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: Benchmark TreeSet x HashSet
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags:
-  - Dicas
-  - Java
-  - Programacao
 
 ---
 Quando estudamos estruturas de dados, aprendemos que um [Hash][1], no caso médio (ou no caso de um [hashing perfeito][2]) é mais rápido (possui menor [complexidade][3]) que uma árvore balanceada, como a [árvore Rubro-Negra][4]. A teoria nos prova isso. E na prática?

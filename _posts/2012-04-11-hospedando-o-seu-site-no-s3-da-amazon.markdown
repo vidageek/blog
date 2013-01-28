@@ -1,12 +1,7 @@
 ---
 author: Jonas Abreu
 title: Hospedando o seu site no S3 da Amazon
-
 layout: post
-category:
-  - Dicas
-  - Programacao
-tags: [ ]
 
 ---
 Eu achava que ia ser mais complicado, mas no fim é bem fácil.

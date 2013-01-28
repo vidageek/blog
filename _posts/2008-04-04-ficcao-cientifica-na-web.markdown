@@ -1,14 +1,7 @@
 ---
 author: convidados
 title: Ficção Ciêntifica na Web
-
 layout: post
-category: [ ]
-tags:
-  - Arquivo X
-  - Ficção Ciêntifica
-  - Sci-Fi
-  - The Day
 
 ---
 ![Abdução][1]  

@@ -1,18 +1,7 @@
 ---
 author: Cecilia Fernandes
-title: >
-  Chamada de trabalhos para o Congresso
-  Catarinense de Software Livre
-
+title: Chamada de trabalhos para o Congresso Catarinense de Software Livre
 layout: post
-category:
-  - Eventos
-  - OpenSource
-tags:
-  - chamada de trabalhos
-  - palestra
-  - SC
-  - solisc
 
 ---
 A **Associação Software Livre Santa Catarina** – SoLiSC – informa a abertura da chamada de trabalhos para o 5º SoLiSC – Congresso Catarinense de Software Livre.

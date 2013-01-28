@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: HFS+ case insensitive?
-
 layout: post
-category:
-  - Dicas
-  - Mac
-  - Programacao
-tags: [ ]
 
 ---
 Fiz uma descoberta bem estranha.

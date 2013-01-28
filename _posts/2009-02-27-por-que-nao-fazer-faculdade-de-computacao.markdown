@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
-title: >
-  Por que (não) fazer faculdade de
-  computação
-
+title: Por que (não) fazer faculdade de computação
 layout: post
-category:
-  - Discussões
-  - Opiniao
-tags: [ ]
 
 ---
 Uma coisa que me incomoda desde o fim do ensino médio é a faculdade. Tem piorado bastante conforme eu vejo que ela não acrescenta muito a minha vida.  

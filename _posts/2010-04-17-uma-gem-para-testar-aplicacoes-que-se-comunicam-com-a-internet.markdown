@@ -1,26 +1,7 @@
 ---
 author: Luiz
-title: >
-  Uma gem para testar aplicações que se
-  comunicam com a Internet
-
+title: Uma gem para testar aplicações que se comunicam com a Internet
 layout: post
-category:
-  - Dicas
-  - Discussões
-  - Java
-  - Programacao
-  - Ruby
-tags:
-  - Classes abertas
-  - DI
-  - FakeWeb
-  - Injeção de Dependências
-  - Java
-  - Mock
-  - OO
-  - orientação a objetos
-  - Ruby
 
 ---
 Aplicações para a Internet que se comunicam umas com as outras é algo mais do que comum. Ou sua aplicação consome algo que outra produz ou ela produz algo para outra consumir.

@@ -1,16 +1,7 @@
 ---
 author: convidados
 title: Probabilidades no Banco Imobiliário
-
 layout: post
-category:
-  - Jogos
-tags:
-  - Jogos
-  - Markov
-  - Math
-  - Monopoly
-  - Probabilidade
 
 ---
 ![Monopoly's Dog][1] O **Banco Imobiliário** (*Monopoly* no original) é um dos mais clássicos jogos de tabuleiro e imagino que quase todo mundo já jogou este clássico quando pequeno (ou ainda joga). Como o jogo utiliza-se de dados para jogar, a probabilidade é uma característica intrínseca do jogo. Este [artigo][2] apresenta uma série de cálculos explicando a probabilidade envolvida no jogo. 

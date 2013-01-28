@@ -1,12 +1,7 @@
 ---
 author: Jonas Abreu
 title: Performance Java
-
 layout: post
-category:
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Desde o ano passado tenho trabalhado com um foco bem forte em performance e otimização de aplicações Java.

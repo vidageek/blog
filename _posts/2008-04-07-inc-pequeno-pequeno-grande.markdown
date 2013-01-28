@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Pequeno + Pequeno == Grande?'
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Continuando meu passeio pelas entranhas do Java, mais uma surpresa.

@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: Até o número de cliques?
-
 layout: post
-category:
-  - Google
-  - Programacao
-tags:
-  - Google
-  - Programacao
 
 ---
 Esses dias, quando estava instalando o plugin do Remember The Milk, eu notei uma coisa interessante. O site de busca do Google mostra o número de vezes que você clicou em um determinado link e a data do último clique.

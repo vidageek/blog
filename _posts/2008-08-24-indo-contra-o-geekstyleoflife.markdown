@@ -1,15 +1,7 @@
 ---
 author: Jonas Abreu
 title: Indo contra o GeekStyleofLife
-
 layout: post
-category:
-  - GeekStyleOfLife
-  - Opiniao
-tags:
-  - iaido
-  - ler
-  - nei_kung
 
 ---
 Tempos atrás, escrevi sobre [algumas doenças bem características de programadores][1]. 

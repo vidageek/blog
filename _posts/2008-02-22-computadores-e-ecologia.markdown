@@ -1,18 +1,7 @@
 ---
 author: Luiz
 title: Computadores e Ecologia
-
 layout: post
-category:
-  - Dicas
-  - Opiniao
-tags:
-  - computador
-  - consumo de energia
-  - ecologia
-  - economia
-  - meio ambiente
-  - Notebook
 
 ---
 ![Energia elétrica][1]Recentemente, assisti o documentário “Uma Verdade Inconveniente”, do Al Gore (uma vez candidato à presidência dos EUA). Isso me inspirou a escrever esse artigo, comentando sobre algumas coisas que nós, computeiros computólogos, podemos fazer pelo nosso meio ambiente.

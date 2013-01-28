@@ -1,17 +1,7 @@
 ---
 author: Jonas Abreu
 title: E se alguém trocar a sua id do AdSense?
-
 layout: post
-category:
-  - Dicas
-  - Google
-  - Opiniao
-  - Programacao
-tags:
-  - adsense
-  - injecao
-  - javascript
 
 ---
 Sem dúvida alguma, a maior parte da publicidade online hoje é feita usando-se o [AdSense da Google][1]. Isso não é nenhum problema, afinal o AdSense é uma das ferramentas de anúncios que tem o melhor retorno financeiro para quem a utiliza. Mas e a segurança?

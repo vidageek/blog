@@ -1,25 +1,7 @@
 ---
 author: Luiz
 title: Linguagens de programação
-
 layout: post
-category:
-  - C
-  - IA
-  - Java
-  - Opiniao
-  - Programacao
-  - Ruby
-tags:
-  - C
-  - Java
-  - lisp
-  - MUMPS
-  - Perl
-  - Programacao
-  - Scheme
-  - Simula
-  - smalltalk
 
 ---
 ![Linguagens de programação][1]Uma pergunta bastante relevante que surge na cabeça de quase todos os programadores certa hora da vida é: por que existem tantas linguagens de programação? Outra bastante comum é: qual delas é melhor? Alguém poderia responder: existem tantas porque uma vem para corrigir as falhas das outras, e a melhor é a que tem menos falhas. Certo? Errado.  

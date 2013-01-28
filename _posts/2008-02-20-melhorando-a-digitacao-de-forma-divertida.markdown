@@ -1,17 +1,7 @@
 ---
 author: convidados
-title: >
-  Melhorando a Digitação de Forma
-  Divertida
-
+title: Melhorando a Digitação de Forma Divertida
 layout: post
-category:
-  - Jogos
-tags:
-  - digitação
-  - flash
-  - Jogos
-  - web
 
 ---
 ![Word Shoot: Spell Fast or Die!][1]

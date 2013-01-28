@@ -1,22 +1,7 @@
 ---
 author: Luiz
 title: 'FISL 10: Agilidade e Qualidade de Projetos com Ruby on Rails'
-
 layout: post
-category:
-  - Agile
-  - Dicas
-  - Eventos
-  - Fisl
-  - OpenSource
-  - Programacao
-  - Ruby
-  - Tutoriais
-tags:
-  - Fisl
-  - fisl 10
-  - Rails
-  - Ruby on Rails
 
 ---
 Ontem, [Fabio Akita][1] deu uma palestra no FISL 10 sobre Ruby on Rails. Foi uma palestra lotada e divertida.

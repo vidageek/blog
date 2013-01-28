@@ -1,20 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de programação - Javascript'
-
 layout: post
-category:
-  - Opiniao
-  - Programacao
-tags:
-  - javascript
-  - JQuery
-  - orientação a objetos
-  - Programação funcional
-  - Prototype
-  - Rhino
-  - Script
-  - V8
 
 ---
   

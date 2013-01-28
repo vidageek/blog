@@ -1,15 +1,7 @@
 ---
 author: Jonas Abreu
 title: Red, Green, Refactor?
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags:
-  - red green refactor
-  - tdd
 
 ---
 Já faz um bom tempo que eu mudei o meu ciclo de desenvolvimento com testes do [Red, Green, Refactor][1] (ciclo tradicional de TDD) para algo um pouco diferente.

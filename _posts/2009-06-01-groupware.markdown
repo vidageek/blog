@@ -1,11 +1,7 @@
 ---
 author: fabs
 title: Groupware
-
 layout: post
-category:
-  - Uncategorized
-tags: [ ]
 
 ---
 ![][1]

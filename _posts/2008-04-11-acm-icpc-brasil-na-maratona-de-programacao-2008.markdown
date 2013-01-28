@@ -1,16 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'ACM ICPC - Brasil na maratona de programação 2008'
-
 layout: post
-category:
-  - Eventos
-  - Programacao
-tags:
-  - ACM
-  - ICPC
-  - IME/USP
-  - Maratona de Programação
 
 ---
 Nesta quarta, a final da Maratona de Programação [ACM-ICPC][1] desse ano reuniu, em Banff, Canadá, os 98 melhores times de programação, vindos de diversos países.

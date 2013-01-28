@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: Grafos no Orkut
-
 layout: post
-category:
-  - Google
-  - Programacao
-tags:
-  - Google
-  - Programacao
 
 ---
 Essa é mais uma feature que o Google possui que está acelerando o processo de calvicie em mim.

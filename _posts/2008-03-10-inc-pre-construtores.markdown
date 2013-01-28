@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Pré construtores'
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Java possui um bloco de código que é executado antes dos contrutores da sua classe, mas depois que sua classe já está carregada para a memória.

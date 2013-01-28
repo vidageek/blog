@@ -1,16 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte IV: Estética (imagens e coloração)'
-
 layout: post
-category:
-  - Dicas
-  - Latex
-  - Tutoriais
-tags:
-  - Dicas
-  - Latex
-  - Tutoriais
 
 ---
 Continuando o Guia Latex, vamos aprender a colorir e colocar imagens em documentos LaTeX.

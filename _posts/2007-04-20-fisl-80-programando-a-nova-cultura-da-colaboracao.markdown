@@ -1,16 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0: Programando a nova cultura da colaboração'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - OpenSource
-tags:
-  - Eventos
-  - Fisl
-  - OpenSource
 
 ---
 Roberto Lemos, José Marcelo Zacchi e Carlos Affonso Pereira de Souza dividiram o tempo de uma palestra para expor suas visões a respeito da cultura de colaboração sob a qual o movimento de software livre e a web2.0 funcionam.

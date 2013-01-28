@@ -1,14 +1,7 @@
 ---
 author: convidados
 title: Xadrez Online
-
 layout: post
-category:
-  - GeekStyleOfLife
-tags:
-  - Chess.com
-  - GeekStyleOfLife
-  - Xadrez
 
 ---
 ![Chess][1]  

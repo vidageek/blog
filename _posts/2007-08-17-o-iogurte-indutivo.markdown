@@ -1,15 +1,7 @@
 ---
 author: Breno Franco
 title: O Iogurte Indutivo
-
 layout: post
-category:
-  - Dicas
-tags:
-  - analogia
-  - Dicas
-  - inducao
-  - recursao
 
 ---
 Como muitos de vocês devem saber, é possível fazer iogurte a partir de leite e de um pouco de iogurte. Imagine que temos tanto leite quanto for necessário. Então, se tivermos algum iogurte, podemos fazer uma leva de iogurte. Dessa leva, podemos reservar um pouco para a produção de outra leva, da qual podemos tirar um pouco para originar a terceira, e assim por diante.

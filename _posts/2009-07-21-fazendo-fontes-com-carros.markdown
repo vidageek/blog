@@ -1,18 +1,7 @@
 ---
 author: fabs
 title: Fazendo fontes com carros
-
 layout: post
-category:
-  - Dicas
-  - News
-  - Uncategorized
-tags:
-  - carros
-  - fonte
-  - toyota
-  - vidageek
-  - vimeo
 
 ---
 Dois artistas, um piloto profissional, um software de captura de imagens e um carro é tudo que você precisa para criar uma fonte. Sim, a idéia chama-se [IQ-Font][1], e foi com ela que escrevi o endereço desse blog aqui embaixo.

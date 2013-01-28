@@ -1,19 +1,7 @@
 ---
 author: Luiz
 title: Na crista da onda
-
 layout: post
-category:
-  - Discussões
-  - OpenSource
-  - Opiniao
-  - Software
-tags:
-  - onda tecnológica
-  - OpenSource
-  - Opiniao
-  - sistemas legados
-  - Tecnologia
 
 ---
 ![Crista da Onda][1]  

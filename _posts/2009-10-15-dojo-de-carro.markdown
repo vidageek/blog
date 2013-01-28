@@ -1,14 +1,7 @@
 ---
 author: fabs
 title: Dojo de Carro
-
 layout: post
-category:
-  - Diversão
-  - Programacao
-tags:
-  - amsterdã
-  - dojo
 
 ---
 ![Dojo no Carro][1]Tem mais ou menos 1 mês, aproveitei o tempo livre das férias antes das aulas para passear em Amsterdã. Passei antes é claro em Bruxelas para encontrar com Leandro Lameiro, um amigo Politécnico que tive a oportunidade de conhecer nas sessões do [coding-dojo de São Paulo ][2] (para quem não sabe o que é um dojo, vale a pena dar uma olhada nesse artigo do vidageek sobre o [dojo no fisl 9.0][3]).

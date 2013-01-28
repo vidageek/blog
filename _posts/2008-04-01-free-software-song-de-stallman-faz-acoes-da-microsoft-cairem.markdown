@@ -1,19 +1,8 @@
 ---
 author: Breno Franco
-title: >
-  "Free Software Song" de Stallman faz
-  ações da Microsoft caírem
+title: Free Software Song de Stallman faz ações da Microsoft caírem
 
 layout: post
-category:
-  - Humor
-  - Linux
-  - OpenSource
-tags:
-  - ações
-  - free software song
-  - microsoft
-  - stallman
 
 ---
 ![RMS e Gil em frene à Microsoft][1]

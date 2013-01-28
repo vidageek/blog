@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: 'Assistindo TV no Micro: Joost 0.9.2'
-
 layout: post
-category:
-  - Software
-tags:
-  - Software
-
 ---
 Muito tempo atrás, [falamos][1] por aqui sobre a nova criação dos desenvolvedores do Skype: o Joost.
 

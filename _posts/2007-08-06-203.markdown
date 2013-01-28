@@ -1,14 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte I: O que é e por que usar'
-
 layout: post
-category:
-  - Dicas
-  - Latex
-tags:
-  - Dicas
-  - Latex
 
 ---
 Latex é uma linguagem de marcação de texto, isto é, uma sintaxe na qual você escreve textos já com as indicações de layout, como deve aparecer na página final. A propósito, Latex escreve-se, na verdade, Lateχ – esse último χé o “chi” do alfabeto grego – e a pronúncia é /la<u>te</u>qui/*.

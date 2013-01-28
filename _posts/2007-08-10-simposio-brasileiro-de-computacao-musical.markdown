@@ -1,19 +1,7 @@
 ---
 author: Cecilia Fernandes
-title: >
-  Simpósio Brasileiro de Computação
-  Musical
-
+title: Simpósio Brasileiro de Computação Musical
 layout: post
-category:
-  - Eventos
-tags:
-  - arte
-  - Computação-Musical
-  - Eventos
-  - IME
-  - Nyquist
-  - usp
 
 ---
 Nos dias 1 a 4 de setembro, o IME/USP será sede do 11º Simpósio Brasileiro de Computação Musical.

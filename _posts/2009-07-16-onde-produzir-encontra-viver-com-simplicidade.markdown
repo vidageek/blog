@@ -1,27 +1,7 @@
 ---
 author: fabs
-title: |
-  >
-    Onde produzir encontra viver com
-    simplicidade.
-
-  |
-    Foi quando ganhei de um amigo um caderno de notas (um Moleskine :-) e era de desenho. Resultado, meu celular + notebook continuam sendo mais do que suficientes para me manter cuidandos dos meus afazeres, e ao invés de um complexo dispositivo para manter anotações, tenho agora um elegante caderno que tenho até mesmo usado para desenhar . O mais legal, descobri que adoro desenhar, e o tempo que gastava lendo emails no meu PDA gasto agorarabiscar fachadas de prédios e objetos quadrados.
-    
-    Jogar RPG X Ir ao Cinema, Teatro ou Ler um Livro
-    
-    Sempre fui jogador de rpg, desde os 9 anos. Não dispenso nenhum bom livro, tão pouco uma mostra de cinema ou uma peça de Teatro. Entretanto, assim como quando ouço música, nunca produzo nenhum conteúdo novo, apenas consumo. Entretanto, sempre que sento em uma mesa de jogos com um grupo de amigos, criamos histórias, personagens e até mesmo passamos meses criando mundos. Essa atividade já produziu muitas coisas bacanas. É verdade que durante esse tempo fomos amadores e nunca publicamos nada, mas já começamos a ver algumas oportunidades. Recentemente temos planejado editar um livro com uma de nossas aventuras mais famosas, e até mesmo um jogo online está em produção usando idéias que tivemos enquanto jogávamos rpg.
+title: Onde produzir encontra viver com simplicidade.
 layout: post
-category:
-  - Dicas
-  - Opiniao
-tags:
-  - benkler
-  - consumismo
-  - iphone
-  - moleskine
-  - wikonomics
-  - won
 
 ---
 Já não dá mais para chamar de nova a idéia de que o atual avanço tecnológico tornou mais fácil produzir todo tipo de conteúdo. A literatura está farta de títulos que desmantelam o assunto, tanto densos como o famoso Wealth of Networks de Yochai Benkler (Riqueza das Redes em português) até os mais “mastigados” como em Wikonomics de Don Tapscot, tentam explicar como temos avançado na produção de cultura, principalmente de maneira colaborativa e distribuída.

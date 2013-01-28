@@ -1,18 +1,7 @@
 ---
 author: fabs
 title: 'SNL - O Caçador de Pipas'
-
 layout: post
-category:
-  - Livros
-  - Opiniao
-  - Uncategorized
-tags:
-  - afeganistão
-  - filmes
-  - khaled
-  - literatura
-  - pipas
 
 ---
 ![][1]

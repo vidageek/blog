@@ -1,16 +1,7 @@
 ---
 author: convidados
 title: 'NeoOffice: Um OpenOffice Nativo para Mac'
-
 layout: post
-category:
-  - Mac
-tags:
-  - Mac
-  - NeoOffice
-  - Office
-  - OpenOffice
-  - X11
 
 ---
 ![Neo Office Logo][1]  

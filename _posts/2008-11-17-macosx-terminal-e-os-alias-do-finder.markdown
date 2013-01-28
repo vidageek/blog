@@ -1,17 +1,7 @@
 ---
 author: fabs
 title: MacOSX Terminal e os Alias do Finder
-
 layout: post
-category:
-  - Dicas
-  - Mac
-tags:
-  - alias
-  - bash
-  - finder
-  - osascript
-  - symlink
 
 ---
 ![][1]Essa vai para os usuários de Mac, outro dia faço um post para os usuários de Linux para contra balancear ^.^.

@@ -1,15 +1,7 @@
 ---
 author: Luiz
 title: Promoção RedBug
-
 layout: post
-category:
-  - Promoções
-tags:
-  - camisetas
-  - parceria
-  - promoção
-  - redbug
 
 ---
 O VidaGeek.net firmou uma parceria com a [RedBug][1], uma marca de camisetas geek bem divertidas. E para comemorar essa nova parceria, nós vamos sortear uma camiseta da RedBug para nossos leitores! E, melhor ainda, você escolhe qual camiseta deles você quer ganhar!

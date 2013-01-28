@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'YACP - Definindo seus próprios tipos'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
 
 ---
 C possui suporte a definição de novos tipos, o que torna o código muitas vezes mais legível e conciso. É possível criar esses novos tipos com **typedef**, **struct**, **enum** e **union**.

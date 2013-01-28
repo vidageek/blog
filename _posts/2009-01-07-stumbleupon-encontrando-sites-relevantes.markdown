@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: 'StumbleUpon - Encontrando Sites Relevantes'
-
 layout: post
-category:
-  - Web 2.0
-tags:
-  - StumbleUpon
-  - Web 2.0
 
 ---
 ![Stumbleupon Logo][1]  

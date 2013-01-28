@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'JSF - SOAPConnection'
-
 layout: post
-category:
-  - Java
-  - Programacao
-tags:
-  - call
-  - object
-  - soap
-  - soapconnection
-  - soapmessage
-  - sobrecarga
 
 ---
 Continuando com a série Java’s Signal of Failure (JSF), uma saída esperta e preguiçosa.

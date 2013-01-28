@@ -1,18 +1,7 @@
 ---
 author: fabs
-title: >
-  Sincronizando o Address Book do seu mac
-  com os Contatos do Gmail
-
+title: Sincronizando o Address Book do seu mac com os Contatos do Gmail
 layout: post
-category:
-  - Mac
-tags:
-  - addressbook
-  - gmail
-  - hack
-  - lifehacker
-  - Mac
 
 ---
 ![synronize-with-google][1]

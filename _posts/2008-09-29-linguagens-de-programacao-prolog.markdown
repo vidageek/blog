@@ -1,21 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de programação - Prolog'
-
 layout: post
-category:
-  - IA
-  - Opiniao
-  - Programacao
-tags:
-  - Análise Sintática
-  - Bancos de Dados
-  - IA
-  - Inteligência Artificial
-  - Lógica
-  - Programação Declarativa
-  - Programação Lógica
-  - prolog
 
 ---
 ![Coloração de mapas][1]  

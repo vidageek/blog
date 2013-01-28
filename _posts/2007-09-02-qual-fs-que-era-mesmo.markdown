@@ -1,15 +1,7 @@
 ---
 author: Jonas Abreu
 title: Qual fs que era mesmo?
-
 layout: post
-category:
-  - Dicas
-  - Linux
-tags:
-  - Dicas
-  - disktype
-  - Linux
 
 ---
 Recentemente tive um problema com meu notebook (um iBook consideravelmente idoso). Por algum motivo a placa de video queimou e sairia mais barato comprar um novo do que arrumar. O que fiz? Comprei um computador de mesa muito melhor pelo mesmo preço. Mas isso me trouxe um belo problema. Tenho vários cds gravados com o formato padrão do Mac (que eu nem imaginava qual era). Pensei, “Ah, o mount se vira, detecta o formato e monta direito”. Gastei neurônio a toa. O mount simplesmente diz que eu preciso especificar o formato da mídia.

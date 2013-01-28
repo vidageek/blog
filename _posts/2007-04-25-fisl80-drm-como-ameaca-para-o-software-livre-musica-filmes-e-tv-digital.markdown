@@ -1,21 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL8.0: DRM como ameaça para o software livre: música, filmes e TV digital'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - OpenSource
-tags:
-  - DMCA
-  - DRM
-  - EFF
-  - Eventos
-  - Fisl
-  - Misc
-  - OpenSource
-  - Seth-Schoen
 
 ---
 Numa palestra interessante e, surpreendentemente, em português, o palestrante Seth Schoen expôs seu ponto de vista sobre a Digital Rights Management.

@@ -1,16 +1,7 @@
 ---
 author: fabs
 title: Enfim um Terceiro Botão..
-
 layout: post
-category:
-  - Discussões
-  - Mac
-tags:
-  - apple
-  - magic mouse
-  - might mouse
-  - third button
 
 ---
 Alguns de vocês devem se lembrar que [eu fiz um post reclamando do novo Apple Magic Mouse][1].

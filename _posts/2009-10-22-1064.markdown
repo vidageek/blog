@@ -1,16 +1,7 @@
 ---
 author: fabs
 title: 'Awk & Sed'
-
 layout: post
-category:
-  - Linux
-tags:
-  - awk
-  - cadu
-  - esisar
-  - frança
-  - sed
 
 ---
 Agora que além de aprendiz de cientista da computação, eu virei Engenheiro de Informática e Redes em treinamento, tenho aulas de Administração de Sistemas aqui em [ESISAR][1].

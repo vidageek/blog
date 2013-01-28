@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
-title: >
-  Quem disse que a mesa está
-  desorganizada?
-
+title: Quem disse que a mesa está desorganizada?
 layout: post
-category:
-  - Opiniao
-  - Programacao
-tags:
-  - Opiniao
-  - Programacao
 
 ---
 Sabe quando você chega na casa de um programador, olha pra mesa dele e vê algo assim:

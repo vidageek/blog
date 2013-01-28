@@ -1,18 +1,7 @@
 ---
 author: Luiz
 title: Que curso eu faço?
-
 layout: post
-category:
-  - Dicas
-  - Programacao
-  - Software
-tags:
-  - Curso
-  - Dicas
-  - Formacao
-  - Programacao
-  - Software
 
 ---
 ![Dúvidas?][1]

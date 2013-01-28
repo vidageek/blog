@@ -1,14 +1,7 @@
 ---
 author: convidados
 title: 'Star Wars - Versão Steampunk'
-
 layout: post
-category:
-  - GeekStyleOfLife
-tags:
-  - GeekStyleOfLife
-  - Star Wars
-  - Steampunk
 
 ---
 *[Steampunk][1]*, pra quem não conhece, é uma forma de ficção científica no qual o mundo utiliza tecnologia baseada em vapor ao invés de energia elétrica. Usando esta visão, o artista **[Sillof][2]** recriou os personagens de **Star Wars: Uma Nova Esperança** e depois outros de **O Império Contra-Ataca**. 

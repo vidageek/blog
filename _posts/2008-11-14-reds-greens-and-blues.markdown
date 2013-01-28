@@ -1,16 +1,7 @@
 ---
 author: fabs
 title: Reds, Greens and Blues
-
 layout: post
-category:
-  - Discussões
-  - Opiniao
-tags:
-  - benkler
-  - informação
-  - sociedade
-  - welth of networks
 
 ---
 ![][1]Outro dia destes enquanto viajava para casa dos meus pais, fui surpreendido por uma explicação muito boa do Yochai Benkler, a respeito de liberdade individual, no capítulo [Individual Freedon: Autonomy, Information and Law][2], do livro the [Wealth of Networks,][3] distribuido sob a licensa Creative Commons.

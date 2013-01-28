@@ -1,24 +1,7 @@
 ---
 author: Jonas Abreu
 title: O mal dos programadores
-
 layout: post
-category:
-  - Dicas
-  - Opiniao
-tags:
-  - Dicas
-  - dores
-  - email
-  - gastrite
-  - gripe
-  - insonia
-  - Opiniao
-  - programador
-  - resfriado
-  - tendinite
-  - ulcera
-  - vista_cancada
 
 ---
 As coisas boas de ser um programador a maioria das pessoas já conhece. Temos o horário mais flexível (nem sempre…), muitos nos adoram e temem (afinal, computação é um monstro medieval que ninguém consegue entender), ganhamos mais fazendo aparentemente menos (isso com certeza não é verdade), podemos causar danos sérios às empresas para as quais trabalhamos (não vejo como vantagem, mas é verdade.), e outros.

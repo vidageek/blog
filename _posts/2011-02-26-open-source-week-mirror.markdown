@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Open Source Week - Mirror'
-
 layout: post
-category:
-  - Java
-  - OpenSource
-  - Programacao
-tags: [ ]
 
 ---
 Para finalizar os lançamentos de projetos essa semana, a versão 1.6 do [Mirror][1] finalmente foi lançada.

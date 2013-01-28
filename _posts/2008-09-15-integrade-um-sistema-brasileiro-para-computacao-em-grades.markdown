@@ -1,15 +1,7 @@
 ---
 author: fabs
 title: 'InteGrade: Um Sistema Brasileiro para Computação em Grades'
-
 layout: post
-category:
-  - OpenSource
-  - Programacao
-tags:
-  - berkley
-  - grades
-  - Integrade
 
 ---
 ![Integrade][1]  

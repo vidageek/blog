@@ -1,19 +1,7 @@
 ---
 author: fabs
-title: >
-  Vidageek é aceito com instituição
-  mentora do Google Summer of Code
-
+title: Vidageek é aceito com instituição mentora do Google Summer of Code
 layout: post
-category:
-  - C
-  - OpenSource
-  - Ruby
-tags:
-  - Google
-  - grafos
-  - gsoc
-  - method_finder
 
 ---
 ![][1]Muito obrigado pessoal! O Vidageek vai participar do Google Summer of Code. Estamos muito felizes, o GSoC é um evento importante e não teríamos conseguido sem o apoio de vocês. Mas mais do que isso, não só fomos o primeiro blog brasileiro a conseguir esse feito, como todos os nosso escritores serão mentores, e teremos uma boa quantidade de projetos.

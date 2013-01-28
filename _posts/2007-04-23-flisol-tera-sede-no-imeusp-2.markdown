@@ -1,19 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: FLISOL terá sede no IME/USP
-
 layout: post
-category:
-  - Eventos
-  - Linux
-  - OpenSource
-tags:
-  - Eventos
-  - Flisol
-  - InstallFest
-  - Linux
-  - OpenSource
-  - usp
 
 ---
 Acontece no próximo sábado, o Festival Latino Americano de Instalação Software Livre ([www.installfest.info][1]) , que deve realizar uma série de install-fest simultâneos por toda a América Latina.  

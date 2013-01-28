@@ -1,20 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Jornalismo Livre'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - Opiniao
-  - Web 2.0
-tags:
-  - blog
-  - Fisl
-  - informação
-  - Jornalismo livre
-  - liberdade
-  - licensas
 
 ---
 Essa palestra iniciou com a motivação do tema: o jornalismo deveria ter os mesmos preceitos do software livre: colaboração, participação da comunidade, estudo e reuso de material, etc. Para isso, discutiu-se como ordenar uma colaboração do público de forma não autoritária e descentralizada.

@@ -1,14 +1,7 @@
 ---
 author: fabs
 title: Tirinhas para Todos
-
 layout: post
-category:
-  - Diversão
-tags:
-  - quadrinhos
-  - tirinhas
-  - xkcd
 
 ---
 ![tirinha_locked][1]  

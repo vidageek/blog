@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: Hibernate Search
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - OpenSource
-  - Programacao
-tags:
-  - hibernate
-  - lucene
-  - search
-  - textual
 
 ---
 Semanas atrás eu apanhei bastante do [Hibernate Search][1]. Na verdade, não foi dele que eu apanhei, mas de não entender algo fundamental sobre ele.

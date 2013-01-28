@@ -1,18 +1,7 @@
 ---
 author: Luiz
 title: Meu Ubuntu fala!
-
 layout: post
-category:
-  - Dicas
-  - Linux
-  - Mac
-  - Ubuntu
-tags:
-  - espeak
-  - Linux
-  - Mac
-  - Ubuntu
 
 ---
 ![Voz sintetizada][1]Tenho alguns amigos que possuem Mac Books e adoram brincar com o sintetizador de voz que vem com o Mac OS X. Eu também queria um sintetizador de voz para participar da brincadeira, mas meu notebook não é da Apple. Então procurei no meu Ubuntu algum sintetizador de voz para instalar. E qual não foi a minha surpresa quando descobri que o Ubuntu já vem com um instalado!

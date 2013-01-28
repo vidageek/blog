@@ -1,17 +1,7 @@
 ---
 author: Luiz
 title: Integrais
-
 layout: post
-category:
-  - Dicas
-  - Math
-tags:
-  - calculadora
-  - cálculo
-  - Dicas
-  - integral
-  - Wolfram
 
 ---
 ![Integral? Socorro!][1]

@@ -1,12 +1,7 @@
 ---
 author: convidados
 title: Inclusão ou Exclusão Digital?
-
 layout: post
-category:
-  - OpenSource
-  - Opiniao
-tags: [ ]
 
 ---
 ![Exclusão Digital][1]  

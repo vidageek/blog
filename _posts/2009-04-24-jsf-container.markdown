@@ -1,16 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'JSF - Container'
-
 layout: post
-category:
-  - Java
-  - Programacao
-tags:
-  - awt
-  - comentário
-  - container
-  - documentação
 
 ---
 Em mais uma post da série que tem feito programadores Java perderem o sono, Java’s Signal of Failure (JSF).

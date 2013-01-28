@@ -1,23 +1,7 @@
 ---
 author: Jonas Abreu
 title: E quando nossos heróis tombarem?
-
 layout: post
-category:
-  - Fisl
-  - OpenSource
-  - Opiniao
-tags:
-  - Fisl
-  - futuro
-  - liberdade
-  - linus_torvalds
-  - maddog
-  - OpenSource
-  - Opiniao
-  - pianola
-  - richard_stallman
-  - software_livre
 
 ---
 O FISL já terminou faz algumas semanas e eu ainda não consegui escrever sobre uma palestra: “Why is Software Livre! like a Pianola”, de John “Maddog” Hall.

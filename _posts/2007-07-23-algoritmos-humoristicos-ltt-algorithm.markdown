@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Algoritmos Humorísticos - LTT Algorithm'
-
 layout: post
-category:
-  - Humor
-  - Opiniao
-tags:
-  - Humor
-  - Opiniao
 
 ---
 Recentemente falei sobre o [ algoritmo CET (Correção de Erros Temporários)][1]. Agora vou apresentar uma generalização desse algorítmo, empregada recentemente com resultados explosivos.  

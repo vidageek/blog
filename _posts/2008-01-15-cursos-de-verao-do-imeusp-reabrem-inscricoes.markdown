@@ -1,29 +1,7 @@
 ---
 author: Cecilia Fernandes
-title: >
-  Cursos de verão do IME/USP reabrem
-  inscrições
-
+title: Cursos de verão do IME/USP reabrem inscrições
 layout: post
-category:
-  - C
-  - Java
-  - News
-  - Programacao
-tags:
-  - AgilCoop
-  - C
-  - Caelum
-  - cursos
-  - IME
-  - Java
-  - Java-para-Web
-  - Metodologias-Ágeis
-  - News
-  - Programacao
-  - usp
-  - verão
-  - xp
 
 ---
 Uma boa notícia para quem ainda não sabe o que fazer no verão e gostaria de aprender algo ou se atualizar por um preço acessível: os cursos de verão do IME/USP reabriram inscrições para vagas remanescentes.

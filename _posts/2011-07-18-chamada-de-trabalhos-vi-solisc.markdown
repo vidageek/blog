@@ -1,15 +1,7 @@
 ---
 author: convidados
 title: Chamada de Trabalhos VI SoLiSC
-
 layout: post
-category:
-  - Eventos
-  - OpenSource
-tags:
-  - Eventos
-  - noticias
-  - Software Livre
 
 ---
 A Associação Software Livre Santa Catarina – SoLiSC – fez no último dia 29/06, no FISL abertura da chamada de trabalhos para o 6º SoLiSC – Congresso Catarinense de Software Livre.

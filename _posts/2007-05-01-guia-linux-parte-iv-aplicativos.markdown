@@ -1,14 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux - Parte IV: Aplicativos'
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-tags:
-  - Gentoo
-  - Linux
 
 ---
 Continuando com o nosso guia, abordarei agora aplicativos gerais para Linux. Se você seguiu o nosso guia até aqui você deve ter um sistema muito bom rodando, mas muita coisa está faltando. Iremos agora instalar essa ferramentas essenciais para computadores caseiros que precisam de aplicativos de escritório, tratamento de imagens e outros.

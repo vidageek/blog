@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: Camiseta do Stallman
-
 layout: post
-category:
-  - Humor
-tags:
-  - Humor
-
 ---
 Compre agora sua camiseta do Stallman, a lá Che.
 

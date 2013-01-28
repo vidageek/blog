@@ -1,11 +1,7 @@
 ---
 author: convidados
 title: Os Homens-Bomba do Software Livre
-
 layout: post
-category:
-  - Opiniao
-tags: [ ]
 
 ---
 ![Terrorismo][1]

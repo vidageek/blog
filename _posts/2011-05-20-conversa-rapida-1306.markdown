@@ -1,12 +1,7 @@
 ---
 author: Jonas Abreu
 title: Conversa Rápida 13/06
-
 layout: post
-category:
-  - Eventos
-  - Programacao
-tags: [ ]
 
 ---
 No dia 13 de Junho, das 19:30 às 22:00, acontecerá na [AdaptWorks][1] mais uma edição do [Conversa Rápida][2].

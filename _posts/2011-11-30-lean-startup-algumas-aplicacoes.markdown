@@ -1,23 +1,7 @@
 ---
 author: fabs
 title: 'Lean Startup - Algumas aplicações'
-
 layout: post
-category:
-  - Agile
-  - Empreendedorismo
-  - GeekStyleOfLife
-  - Lean
-  - Lean Startup
-  - Opiniao
-tags:
-  - Agile
-  - Curso
-  - empreendedorismo
-  - IME
-  - lean
-  - startup
-  - usp
 
 ---
 Já tem bastante tempo que não escrevo no vidageek. Desde o meu último artigo, e do retorno da França bastante coisa aconteceu, sendo a principal delas a minha entrada nesse mundo de startups, fundando e fechando a Tailorbirds. Aprendi muita coisa nesses quase dois anos viajando e empreendendo, e achei que seria muito legal vir aqui no vidageek compartilhar com vocês.

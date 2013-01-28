@@ -1,20 +1,7 @@
 ---
 author: Luiz
 title: Como funciona o Wii Remote
-
 layout: post
-category:
-  - Diversão
-  - GeekStyleOfLife
-  - Jogos
-tags:
-  - bluetooth
-  - camera
-  - curiosidades
-  - imagens médicas
-  - infravermelho
-  - interface
-  - wii
 
 ---
 ![Wii Remote e Nunchuk][1]  

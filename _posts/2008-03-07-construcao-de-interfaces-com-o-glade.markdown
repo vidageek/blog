@@ -1,20 +1,7 @@
 ---
 author: Luiz
 title: Construção de interfaces com o Glade
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Java
-  - Linux
-  - Mac
-  - OpenSource
-  - Programacao
-  - Ruby
-  - Software
-  - Tutoriais
-tags: [ ]
 
 ---
 Encontrei um artigo muito bom sobre construção de interfaces com o Glade [neste site][1]. O autor ensina, passo-a-passo, como instalar e utilizar essa ferramenta tão poderosa, concluindo com exemplos em diversas linguagens. O artigo ainda está em construção, mas já está bem completo.

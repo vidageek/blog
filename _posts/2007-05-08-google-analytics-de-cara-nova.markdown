@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google Analytics de cara nova
-
 layout: post
-category:
-  - Google
-  - News
-tags:
-  - Google
-  - News
 
 ---
 O [Google Analytics][1] acaba de reformular sua interface de relatórios. No lugar dos quatro gráficos (realmente muito informativos) do painel inicial, existem diversos relatórios. E o melhor, você pode definir quais são eles.  

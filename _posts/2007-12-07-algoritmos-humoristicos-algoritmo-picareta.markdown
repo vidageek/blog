@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Algoritmos Humorísticos - Algoritmo Picareta'
-
 layout: post
-category:
-  - Humor
-  - Opiniao
-tags:
-  - Humor
-  - Opiniao
 
 ---
 Depois de um bom tempo sem postar nada (fim de ano é complicado….), dei de cara com alguns sites que merecem ter sua engenhosidade (no uso do algoritmo Picareta) exposta como exemplo. 

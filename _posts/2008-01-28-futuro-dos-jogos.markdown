@@ -1,16 +1,7 @@
 ---
 author: Luiz
 title: Futuro dos Jogos
-
 layout: post
-category:
-  - Jogos
-tags:
-  - futuro
-  - gadgets
-  - Jogos
-  - realidade virtual
-  - vr
 
 ---
 O Nintendo Wii mostrou que um possível futuro para os jogos é a interatividade, e não simplesmente o realismo. De fato, o Wii vendeu mais do que o Playstation 3, que é o console mais poderoso produzido até hoje, por ser mais interativo e revolucionário, e não apenas por ser mais barato.

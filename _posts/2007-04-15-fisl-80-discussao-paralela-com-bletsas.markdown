@@ -1,18 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0: Discussão paralela com Bletsas'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - OpenSource
-tags:
-  - Eventos
-  - Fisl
-  - Misc
-  - OpenSource
-  - Uncategorized
 
 ---
 Após a palestra sobre Wireless Meshing com OLPC, conversamos brevemente com o palestrante da apresentação anterior, “Meshy Communications with the OLPC XO”.

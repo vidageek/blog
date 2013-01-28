@@ -1,13 +1,7 @@
 ---
 author: convidados
 title: Notícias Fresquinhas
-
 layout: post
-category:
-  - News
-tags:
-  - Misc
-  - News
 
 ---
 Algumas notícias interessantes:

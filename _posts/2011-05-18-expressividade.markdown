@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
 title: Expressividade
-
 layout: post
-category:
-  - Discussões
-  - Expressividade
-  - Opiniao
-  - Programacao
-tags: [ ]
 
 ---
 Enquanto eu resolvia o [primeiro desafio de expressividade][1], eu notei uma coisa relacionada ao [código das minhas classes][2].

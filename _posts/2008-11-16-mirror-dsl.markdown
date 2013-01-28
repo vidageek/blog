@@ -1,20 +1,7 @@
 ---
 author: Jonas Abreu
 title: Mirror DSL
-
 layout: post
-category:
-  - Java
-  - OpenSource
-  - Programacao
-  - Software
-tags:
-  - dsl
-  - Java
-  - Languages
-  - mirror
-  - Programming
-  - reflection
 
 ---
 Alguns devem ter notado que faz alguns meses que não escrevo para o VG com frequencia. Um dos motivos disso foi este projeto.

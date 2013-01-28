@@ -1,20 +1,7 @@
 ---
 author: convidados
 title: FeedBurner e Google
-
 layout: post
-category:
-  - Google
-  - News
-tags:
-  - feedburner
-  - Google
-  - google_adsense
-  - google_analytics
-  - john_chow
-  - News
-  - techcrunch
-  - youtube
 
 ---
 Muitos boatos ocorrem nos últimos dias, mas parece que a compra do FeedBurner pela Google está realmente acontecendo. Segundo o [TechCrunch][1] o acordo está na casa dos $100 Milhões de Dólares, pagos em dinheiro (ao contrário do pessoal do Youtube que receberam em ações da Google).  O negócio, que deverá ser concluido nas próximas semanas, se mostrou muito lucrativo para o FeedBurner que foi fundado em 2003 com um capital inicial de $ 1 milhão de doláres e posteriormente (em 2005) aumentado para $10 milhões.

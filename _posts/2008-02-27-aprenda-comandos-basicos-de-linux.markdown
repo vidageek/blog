@@ -1,19 +1,7 @@
 ---
 author: convidados
 title: Aprenda Comandos Básicos de Linux
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-  - Ubuntu
-tags:
-  - bash
-  - Linux
-  - sh
-  - shell
-  - terminal
-  - Ubuntu
 
 ---
 ![Terminal][1]  

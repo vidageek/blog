@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: Desafio de expressividade I
-
 layout: post
-category:
-  - Expressividade
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Já faz um bom tempo em que venho pensando em como criar formas de exercitar diversas técnicas de programação.

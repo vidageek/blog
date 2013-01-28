@@ -1,21 +1,7 @@
 ---
 author: convidados
 title: 'Nova Coluna Semanal: Geek Style of Life'
-
 layout: post
-category:
-  - GeekStyleOfLife
-  - Humor
-  - Jogos
-  - Livros
-tags:
-  - GeekStyleOfLife
-  - Humor
-  - Jogos
-  - Livros
-  - RPG
-  - Sci-Fi
-  - Xadrez
 
 ---
 ![Geek is not a Crime][1]  

@@ -1,18 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Domínio público - existe vida depois do direito autoral?'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - OpenSource
-  - Opiniao
-tags:
-  - direitos autorais
-  - domínio público
-  - Fisl
-  - OpenSource
 
 ---
 Numa das melhores palestras que eu assisti nesse FISL inteiro, Carlos Affonso Pereira de Souza falou sobre as leis relativas ao direito autoral e também sobre a legislação sobre domínio público. Não que software livre esteja intimamente ligado ao tema, mas foi interessante saber da visão jurídica sobre software.

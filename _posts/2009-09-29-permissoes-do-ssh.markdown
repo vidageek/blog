@@ -1,15 +1,7 @@
 ---
 author: Jonas Abreu
 title: Permissões do .ssh
-
 layout: post
-category:
-  - Dicas
-  - Linux
-tags:
-  - key
-  - permissão
-  - ssh
 
 ---
 Uma vez por semestre (pelo menos) eu passo por um problema bizarro quando eu preciso configurar login utilizando chaves de criptografia.

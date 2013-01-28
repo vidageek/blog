@@ -1,24 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Falando em Java: Overview'
-
 layout: post
-category:
-  - Eventos
-  - Programacao
-  - Web 2.0
-tags:
-  - Caelum
-  - Eventos
-  - FalandoEmJava
-  - Fábio-Kung
-  - Guilherme-Silveira
-  - Java
-  - Paulo-Silveira
-  - Philip-Calçado
-  - Programacao
-  - Sérgio-Lopes
-  - Web 2.0
 
 ---
 Neste sábado, 30/07, aconteceu o evento Falando em Java da [Caelum][1] no Centro Universitário da FEI.

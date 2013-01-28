@@ -1,16 +1,7 @@
 ---
 author: convidados
 title: Resolvendo o Cubo Mágico
-
 layout: post
-category:
-  - GeekStyleOfLife
-tags:
-  - Cubo Mágico
-  - GeekStyleOfLife
-  - Lego
-  - Mindstorm
-  - "Rubik's Cube"
 
 ---
 ![Resolvendo o Cubo Mágico][1]  

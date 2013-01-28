@@ -1,11 +1,7 @@
 ---
 author: convidados
 title: 'MMORPGs - Lord of the Rings Online'
-
 layout: post
-category:
-  - GeekStyleOfLife
-tags: [ ]
 
 ---
 ![Gandalf][1]  

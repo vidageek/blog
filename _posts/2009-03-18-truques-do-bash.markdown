@@ -1,11 +1,7 @@
 ---
 author: fabs
 title: Truques do Bash
-
 layout: post
-category:
-  - Uncategorized
-tags: [ ]
 
 ---
 Outro dia desses um amigo meu me mostrou o [command line fu][1], um site de comandos bash. A princípio eu achei besteira, até ver a riqueza dos comandos que eu não conhecia. Seguem alguns exemplos:

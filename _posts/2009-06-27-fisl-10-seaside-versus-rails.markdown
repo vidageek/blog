@@ -1,21 +1,7 @@
 ---
 author: Luiz
 title: 'FISL 10: Seaside versus Rails'
-
 layout: post
-category:
-  - Discussões
-  - Eventos
-  - Fisl
-  - OpenSource
-  - Opiniao
-  - Programacao
-  - Ruby
-tags:
-  - fisl 10
-  - Rails
-  - seaside
-  - smalltalk
 
 ---
 Na primeira palestra da qual participei (e a primeira que dei num evento público), falei, junto com o grande [Fabio Kung][1], sobre [Seaside][2], um arcabouço para desenvolvimento de aplicações para a Web escrito em [Smalltalk][3]. O Kung, é claro, falou de Rails.

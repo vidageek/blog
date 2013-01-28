@@ -1,17 +1,7 @@
 ---
 author: Jonas Abreu
 title: FISL 8.0
-
 layout: post
-category:
-  - Eventos
-  - News
-  - OpenSource
-tags:
-  - Eventos
-  - Fisl
-  - News
-  - OpenSource
 
 ---
 Este ano, nós estaremos fazendo a cobertura do FISL, Fórum Internacional de Software Livre, que começará amanhã em Porto Alegre, Rio Grande do Sul. Fiquem de olho para ver as novidades sobre as palestras, workshops, software livre (é claro) e o que mais estiver rolando no fórum. 

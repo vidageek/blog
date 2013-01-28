@@ -1,18 +1,7 @@
 ---
 author: Luiz
 title: Programação para crianças
-
 layout: post
-category:
-  - Humor
-  - Jogos
-  - Programacao
-tags:
-  - crianças
-  - geek
-  - Humor
-  - jogo
-  - Programacao
 
 ---
 [<img src='http://vidageek.net/wp-content/uploads/2008/04/box001.JPG' alt='Caixa do Jogo C-Jump' width=250 align='right' />][1]

@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: Infinitest
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Lembro que em pelo menos [ um post anterior][1] eu comentei sobre o [Infinitest][2].

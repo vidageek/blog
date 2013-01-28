@@ -1,18 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de programação - C++'
-
 layout: post
-category:
-  - C
-  - Java
-  - Opiniao
-  - Programacao
-tags:
-  - C
-  - Java
-  - linguagens de programação
-  - orientação a objetos
 
 ---
 ![C++][1]Não tenho tanta experiência com C++, mas a que tenho já é suficiente para mim.

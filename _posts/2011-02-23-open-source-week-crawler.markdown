@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Open Source Week - Crawler'
-
 layout: post
-category:
-  - Java
-  - OpenSource
-  - Programacao
-tags: [ ]
 
 ---
 Certo, não vai dar uma semana exatamente, mas serão quatro dias em que vou lançar dois projetos novos e versões de outros dois projetos.

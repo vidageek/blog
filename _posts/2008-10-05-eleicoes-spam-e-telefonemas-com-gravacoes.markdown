@@ -1,18 +1,7 @@
 ---
 author: Cecilia Fernandes
-title: >
-  Eleições, spam e telefonemas com
-  gravações
-
+title: Eleições, spam e telefonemas com gravações
 layout: post
-category:
-  - GeekStyleOfLife
-tags:
-  - eleições
-  - GeekStyleOfLife
-  - privacidade
-  - São Paulo
-  - spam
 
 ---
 Geeks não são exatamente adeptos de política, mas quando a política é forçada garganta abaixo, é preciso dizer o que pensamos. 

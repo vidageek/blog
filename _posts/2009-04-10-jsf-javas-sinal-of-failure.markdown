@@ -1,15 +1,7 @@
 ---
 author: Jonas Abreu
 title: "JSF - Java's Signal of Failure"
-
 layout: post
-category:
-  - Java
-  - Programacao
-tags:
-  - herança
-  - stack
-  - vector
 
 ---
 Não. Isso não é um post para falar mal de JSF (embora eu tenha motivos para isso). É apenas o começo de mais uma série com um nome quase comico e estranho (como [SNL][1] e [INC][2]).

@@ -1,11 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Evento de metodologias ágeis: Falando em Agile'
-
 layout: post
-category:
-  - Uncategorized
-tags: [ ]
 
 ---
 ![Falando em Agile 2008][1]

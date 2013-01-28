@@ -1,16 +1,7 @@
 ---
 author: fabs
 title: Rede social de Gadgets
-
 layout: post
-category:
-  - News
-  - Uncategorized
-tags:
-  - gadgets
-  - iphone
-  - Mac
-  - Twitter
 
 ---
 ![Fa gdgt List][1]Seja você fanático ou não por dispositivos eletrônicos vai adorar a mais nova comunidade feita para esses maravilhas da tecnologia moderna, [gdgt.com][2].

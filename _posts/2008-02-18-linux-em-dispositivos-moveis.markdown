@@ -1,19 +1,7 @@
 ---
 author: convidados
 title: Linux em Dispositivos Móveis
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-  - Ubuntu
-tags:
-  - Gentoo
-  - iPod
-  - Laptop
-  - Linux
-  - Notebook
-  - Ubuntu
 
 ---
 ![Linux num laptop][1]  

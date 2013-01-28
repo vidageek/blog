@@ -1,17 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Ubuntu planeja versão móvel
-
 layout: post
-category:
-  - Linux
-  - OpenSource
-tags:
-  - Celular
-  - Linux
-  - Mobile
-  - OpenSource
-  - Ubuntu
 
 ---
 O [PCWorld][1] noticiou a intenção dos desenvolvedores Ubuntu de desenvolver uma versão móvel da distribuição.

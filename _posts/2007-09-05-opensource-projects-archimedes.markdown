@@ -1,16 +1,7 @@
 ---
 author: fabs
 title: 'OpenSource Projects: Archimedes'
-
 layout: post
-category:
-  - Fisl
-  - OpenSource
-  - Software
-tags:
-  - Fisl
-  - OpenSource
-  - Software
 
 ---
 Inaugurando nosso conjunto de posts sobre Projetos Opensource, temos o OpenCAD Archimedes, um projeto em encubadora Fapesp que eu faço questão que seja o primeiro dessa série porque, apesar de nunca ter colaborado com ele, acompanho-o desde suas primeiras retas e intersecções.

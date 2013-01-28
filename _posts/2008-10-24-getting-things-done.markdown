@@ -1,14 +1,7 @@
 ---
 author: fabs
 title: Getting Things Done
-
 layout: post
-category:
-  - Dicas
-  - Opiniao
-tags:
-  - GTD
-  - Organização
 
 ---
 [![Diagrama de GTD][2]][2]  

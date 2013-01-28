@@ -1,12 +1,7 @@
 ---
 author: Jonas Abreu
 title: Rodas existem porque inventamos várias
-
 layout: post
-category:
-  - Opiniao
-  - Programacao
-tags: [ ]
 
 ---
 Uma coisa que ouço sempre na comunidade Java (falo dessa pois é a que conheço melhor) são os brados de “não reinventar a roda”. Cada vez que alguém aparece com um problema e fala de uma solução que algum projeto já resolve, desincentivam o programador completamente, falando que não vale a pena resolver novamente o problema já resolvido.

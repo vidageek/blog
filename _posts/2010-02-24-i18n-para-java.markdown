@@ -1,17 +1,7 @@
 ---
 author: Jonas Abreu
 title: I18n para Java
-
 layout: post
-category:
-  - Java
-  - OpenSource
-  - Programacao
-  - Software
-tags:
-  - fmt
-  - i18n
-  - jstl
 
 ---
 Quando eu comecei a trabalhar na [Adaptworks][1] em setembro do ano passado, estou em um projeto onde temos muito espaço para experimentação e criação de melhorias.

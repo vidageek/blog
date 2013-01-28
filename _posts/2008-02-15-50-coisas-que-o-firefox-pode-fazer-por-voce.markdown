@@ -1,17 +1,7 @@
 ---
 author: convidados
-title: >
-  50 Coisas Que o Firefox Pode Fazer Por
-  Você
-
+title: 50 Coisas Que o Firefox Pode Fazer Por Você
 layout: post
-category:
-  - Firefox
-tags:
-  - add-ons
-  - extensões
-  - Firefox
-  - plugins
 
 ---
 ![Firefox][1]  

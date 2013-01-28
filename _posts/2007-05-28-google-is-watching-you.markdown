@@ -1,16 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Google is watching you
-
 layout: post
-category:
-  - Google
-  - News
-  - Opiniao
-tags:
-  - Google
-  - News
-  - Opiniao
 
 ---
 Um projeto da Google já causa polêmica antes mesmo de sua própria implementação. O próximo passo divulgado da gigante será criar bancos de dados pessoais com informações de cada indivíduo que aceitar esses termos – provavelmente agregando ao seu sistema de buscas o software da recém-adquirida [DoubleClick][1].

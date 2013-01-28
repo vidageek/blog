@@ -1,12 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Open Source Week - Fim'
-
 layout: post
-category:
-  - OpenSource
-  - Programacao
-tags: [ ]
 
 ---
 Foram duas semanas de trabalhos para documentar e lançar esses projetos (alguns já estavam “quase prontos” a mais de 6 meses.).

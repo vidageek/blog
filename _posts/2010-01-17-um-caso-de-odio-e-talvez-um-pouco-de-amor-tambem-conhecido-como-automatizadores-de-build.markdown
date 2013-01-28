@@ -1,26 +1,7 @@
 ---
 author: Jonas Abreu
-title: >
-  Um caso de ódio e talvez um pouco de
-  amor (Também conhecido como
-  automatizadores de build)
-
+title: Um caso de ódio e talvez um pouco de amor (Também conhecido como automatizadores de build)
 layout: post
-category:
-  - Discussões
-  - Java
-  - Linux
-  - Mac
-  - OpenSource
-  - Opiniao
-  - Programacao
-  - Software
-tags:
-  - ant
-  - build
-  - deploy
-  - mvn
-  - test
 
 ---
 Eu sou um grande fã de automatização de tarefas repetitivas. Odeio ter que repetir tarefas.

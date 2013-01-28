@@ -1,17 +1,7 @@
 ---
 author: Jonas Abreu
 title: Design de APIs
-
 layout: post
-category:
-  - Java
-  - Programacao
-tags:
-  - api
-  - design
-  - Google
-  - joshua_bloch
-  - tech_talk
 
 ---
 ![Java][1]

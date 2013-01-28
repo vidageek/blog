@@ -1,18 +1,7 @@
 ---
 author: Luiz
 title: Aplicações portáveis em C/C++
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Linux
-  - Programacao
-tags:
-  - C
-  - Dicas
-  - Linux
-  - Programacao
 
 ---
 Um requisito cada vez mais importante hoje em dia para uma aplicação é a portabilidade. Com cada vez mais sistemas diferentes no mercado, com configurações e necessidades específicas, fica mais difícil atingir esse objetivo.

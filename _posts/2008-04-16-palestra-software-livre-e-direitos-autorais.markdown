@@ -1,22 +1,7 @@
 ---
 author: Luiz
 title: 'Palestra - Software Livre e Direitos Autorais'
-
 layout: post
-category:
-  - Eventos
-  - OpenSource
-  - Opiniao
-tags:
-  - bsd
-  - copyright
-  - direitos
-  - floss
-  - gpl
-  - palestra
-  - patentes
-  - rishab
-  - Software Livre
 
 ---
 ![Rishab Aiyer Ghosh][1]

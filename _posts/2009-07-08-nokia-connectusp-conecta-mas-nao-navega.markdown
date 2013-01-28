@@ -1,14 +1,7 @@
 ---
 author: fabs
 title: Nokia ConnectUsp conecta mas não navega
-
 layout: post
-category:
-  - usp
-tags:
-  - Nokia
-  - usp
-  - wireless
 
 ---
 ![][1]

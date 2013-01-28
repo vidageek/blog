@@ -1,17 +1,7 @@
 ---
 author: convidados
-title: >
-  Uma Impressora Open-Source de Materiais
-  3D
-
+title: Uma Impressora Open-Source de Materiais 3D
 layout: post
-category:
-  - OpenSource
-tags:
-  - GNU
-  - gpl
-  - Impressora
-  - RepRap
 
 ---
 ![RepRap][1]

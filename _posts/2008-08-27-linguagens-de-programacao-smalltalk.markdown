@@ -1,17 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de programação - Smalltalk'
-
 layout: post
-category:
-  - Programacao
-tags:
-  - magma
-  - Programacao
-  - seaside
-  - self
-  - smalltalk
-  - squeak
 
 ---
 ![Squeak Logo][1]Smalltalk é a linguagem de programação que tornou popular o paradigma de orientação a objetos. Inspirou as linguagens mais populares da atualidade: Java, Ruby, Python, etc. Mais sobre a história do surgimento de Smalltalk pode ser visto na [Wikipedia][2] (o [artigo em inglês][3] é mais completo).

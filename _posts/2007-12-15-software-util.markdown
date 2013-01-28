@@ -1,12 +1,7 @@
 ---
 author: Luiz
 title: Software útil
-
 layout: post
-category:
-  - Opiniao
-tags:
-  - Opiniao
 
 ---
 Olá a todos! Sou o mais novo membro do VidaGeek. Nesse meu primeiro post vou falar um pouco sobre a utilidade do software.

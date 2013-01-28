@@ -1,24 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 10: Primeiro dia, organização e dojo'
-
 layout: post
-category:
-  - Dicas
-  - Eventos
-  - Fisl
-  - OpenSource
-tags:
-  - Daniel Cukier
-  - dojo
-  - Fábio-Kung
-  - Fisl
-  - fisl 10
-  - Organização
-  - Rails
-  - Ruby
-  - seaside
-  - smalltalk
 
 ---
 A décima edição do FISL começou ontem, na PUC-RS, em Porto Alegre. A localização não é novidade, mas a data terrível atrapalhou bastante as caravanas das universidades públicas. A citar, o IME-USP que, no ano passado, foi a maior caravana do FISL com mais de 50 pessoas, teve meras 14 pessoas vindo de ônibus conosco.

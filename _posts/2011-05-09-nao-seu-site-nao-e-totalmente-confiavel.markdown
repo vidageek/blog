@@ -1,14 +1,7 @@
 ---
 author: Jonas Abreu
-title: >
-  Não. Seu site não é totalmente
-  confiável.
-
+title: Não. Seu site não é totalmente confiável.
 layout: post
-category:
-  - Discussões
-  - Opiniao
-tags: [ ]
 
 ---
 “A loja é totalmente confiável e os seus dados estão seguros”. Essa frase me deu calafrios assim que li em um email que recebi.

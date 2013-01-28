@@ -1,20 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Desenvolvendo jogos com PyGame'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - OpenSource
-  - Programacao
-tags:
-  - FISL 9.0
-  - Igor Montagner
-  - Jogos
-  - PyGame
-  - Python
-  - PyWeek
 
 ---
 O colaborador convidado Igor Montagner é bacharelando em Ciências da Computação pelo IME/USP e esteve no FISL 9.0 conosco, onde a palestra sobre PyWeek e PyGame chamou sua atenção. Veja o que ele tem a contar sobre essa palestra!

@@ -1,17 +1,7 @@
 ---
 author: fabs
 title: OpenBeach
-
 layout: post
-category:
-  - Eventos
-tags:
-  - Diversão
-  - evento
-  - floripa
-  - geek
-  - maddog
-  - praia
 
 ---
 Depois de um ano cheio de eventos como FISL, Latinoware, Rails Summit, Falando em Agile e Encontro Ágil, decidimos fechar o ano com uma desconferência, o [OpenBeach][1], onde o principal objetivo é relaxar a beira do mar acompanhado de amigos.

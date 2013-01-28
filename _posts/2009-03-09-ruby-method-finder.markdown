@@ -1,16 +1,7 @@
 ---
 author: fabs
 title: Ruby Method Finder
-
 layout: post
-category:
-  - Programacao
-  - Ruby
-tags:
-  - hacks
-  - Ruby
-  - smaltalk
-  - tricks
 
 ---
 ![][1]Eu nunca tinha experimentado [SmallTalk][2] antes do [Dojo][3] da semana passada aqui no [ime][4]. Confesso que a sintaxe muito intuitiva as vezes deixava a desejar, expressando mensagens do tipo “should not do: #not” ou semelhantes.

@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Long Switch?'
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Uma peculiaridade estranha do switch do java é que ele não funciona para o tipo long.

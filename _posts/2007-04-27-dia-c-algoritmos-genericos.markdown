@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Algoritmos Genéricos'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
 
 ---
 A construção de algoritmos genéricos é útil pois evita que você tenha que reescrever código muito semelhante para trabalhar com dados diferentes. Bons exemplos de algoritmos genéricos são o qsort e bsearch, ambos da stdlib.h . Eles são implementações de um algoritmo de ordenação e de busca em vetores de qualquer tipo de dado. Eles funcionam mais ou menos assim:  

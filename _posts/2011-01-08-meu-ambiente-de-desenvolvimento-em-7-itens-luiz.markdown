@@ -1,30 +1,7 @@
 ---
 author: Luiz
-title: >
-  Meu ambiente de desenvolvimento em 7
-  ítens (Luiz)
-
+title: Meu ambiente de desenvolvimento em 7 ítens (Luiz)
 layout: post
-category:
-  - Dicas
-  - Diversão
-  - Opiniao
-  - Programacao
-tags:
-  - bash
-  - chrome
-  - dropbox
-  - eclipse
-  - Firefox
-  - flakboy
-  - git
-  - openarena
-  - qwop
-  - svn
-  - tetrinet
-  - typeracer
-  - vim
-  - wordsquared
 
 ---
 Assim como a Cecilia, eu também resolvi entrar na brincadeira, convidado pelo [David Paniz][1].

@@ -1,19 +1,7 @@
 ---
 author: convidados
-title: >
-  Atualizações de Segurança do Windows
-  Vista
-
+title: Atualizações de Segurança do Windows Vista
 layout: post
-category:
-  - Blogroll
-  - Humor
-tags:
-  - Blogroll
-  - Humor
-  - Linux
-  - Ubuntu
-  - windows
 
 ---
 Recentemente encontrei esta tirinha na internet e gostei tanto que acabei assinando o *feed* do [Extralife][1] para poder ler as novas publicações. O autor não é tão genial quanto o do [xkcd][2] mas nem por isso é ruim, apenas o **xkcd** que é excepcional.

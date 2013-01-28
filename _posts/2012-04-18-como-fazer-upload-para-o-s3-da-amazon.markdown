@@ -1,12 +1,7 @@
 ---
 author: Jonas Abreu
 title: Como fazer upload para o S3 da Amazon
-
 layout: post
-category:
-  - Dicas
-  - Programacao
-tags: [ ]
 
 ---
 Uma das coisas que precisei fazer para colocar o [Performance Java][1] foi aprender a fazer upload para o [S3][2].

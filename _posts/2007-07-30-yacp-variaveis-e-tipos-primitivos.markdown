@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'YACP - Variáveis e Tipos Primitivos'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
 
 ---
 ### **Variáveis**

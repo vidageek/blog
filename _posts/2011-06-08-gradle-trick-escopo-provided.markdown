@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Gradle Trick - Escopo Provided'
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 Eu tenho brincado bastante com [gradle][1] (pretendo migrar todos meus projetos maven para ele).

@@ -1,21 +1,7 @@
 ---
 author: Jonas Abreu
 title: Google Tech Talks
-
 layout: post
-category:
-  - Dicas
-  - Google
-  - OpenSource
-  - Programacao
-  - Software
-tags:
-  - Dicas
-  - Google
-  - OpenSource
-  - Programacao
-  - Software
-  - Uncategorized
 
 ---
 Ultimamente, pelo que tenho visto, o sonho da maioria dos programadores é trabalhar para a Google, ao lado de algumas das maiores mentes do planeta. Mas, enquanto não é possível realizar esse sonho (afinal, mestrado e doutorado são demorados), podemos acompanhar diversas palestras promovidas pela Google, os Google Tech Talks. Preparei uma pequena (será mesmo?) lista com alguns dos Tech Talks mais assistidos que eu consegui encontrar. Clique em DESC para ver uma breve descrição da palestra e no nome da palestra para assisti-la.

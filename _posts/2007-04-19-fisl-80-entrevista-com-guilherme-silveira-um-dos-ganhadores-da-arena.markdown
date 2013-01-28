@@ -1,14 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 8.0: Entrevista com Guilherme Silveira, um dos ganhadores da Arena'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-tags:
-  - Eventos
-  - Fisl
 
 ---
 Guilherme Silveira, o primeiro colocado no Qualifying e um dos ganhadores da Arena de Programação do FISL 8.0, muito gentilmente concordou em nos dar uma entrevista expondo suas opiniões sobre o FISL e falando um pouco da sua experiência. Veja abaixo:

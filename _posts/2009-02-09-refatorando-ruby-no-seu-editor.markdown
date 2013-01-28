@@ -1,16 +1,7 @@
 ---
 author: convidados
 title: Refatorando Ruby no seu editor
-
 layout: post
-category:
-  - Ruby
-tags:
-  - Fábio-Kung
-  - Rails
-  - Refatoração
-  - Ruby
-  - TextMate
 
 ---
 Recentemente, o [Fabio Kung][1] (um dos gurus brasileiros de Ruby) publicou em seu blog um [post][2] sobre a nova ferramenta que está desenvolvendo: o Rfactor. 

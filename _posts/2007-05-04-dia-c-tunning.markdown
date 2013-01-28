@@ -1,18 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'Dia C - Tuning'
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
 
 ---
 Enfim chegamos à parte que todos esperavam. Como extrair ou últimos ciclos do seu processador. Como evitar fazer qualquer coisa que não seja realmente necessária ao seu código. Mas antes de começar a carnificina, algumas considerações:

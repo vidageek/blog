@@ -1,19 +1,7 @@
 ---
 author: Luiz
-title: >
-  Crowdsourcing para o aprendizado
-  computacional
-
+title: Crowdsourcing para o aprendizado computacional
 layout: post
-category:
-  - Google
-  - Humor
-  - Jogos
-tags:
-  - busca de imagens
-  - Google
-  - jogo
-  - trabalho
 
 ---
 *Nota (29/08/2012): a ferramenta a qual se refere esse post foi desativada. Provavelmente eles já aprenderam a classificar as imagens :)*

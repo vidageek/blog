@@ -1,21 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Introducing Google Summer of Code'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - Google
-  - OpenSource
-  - Programacao
-tags:
-  - estágio
-  - FISL 9.0
-  - Google
-  - Summer of Code
-  - Umit
-  - Winter of Code
 
 ---
 A palestra da Google sobre o Summer of Code se ateve ao básico: apresentaram o projeto e as motivações do projeto, tanto para a Google quanto para os estudantes participantes.

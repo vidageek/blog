@@ -1,15 +1,7 @@
 ---
 author: Luiz
 title: Programação Dinâmica
-
 layout: post
-category:
-  - Dicas
-  - Programacao
-tags:
-  - algoritmos
-  - combinatória
-  - programação dinâmica
 
 ---
 Uma das estratégias de resolução algoritmica de problemas mais difíceis de ser aplicada, na minha opinião, é a [programação dinâmica][1]. Mas existem alguns truques que facilitam o desenvolvimento de algoritmos baseados nessa idéia.

@@ -1,16 +1,7 @@
 ---
 author: Luiz
 title: Presente da Nokia para SP
-
 layout: post
-category:
-  - Dicas
-  - Eventos
-  - News
-tags:
-  - Nokia
-  - Nokia Store SP
-  - usp
 
 ---
   

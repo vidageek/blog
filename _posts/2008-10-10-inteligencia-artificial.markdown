@@ -1,17 +1,7 @@
 ---
 author: Luiz
 title: Inteligência Artificial
-
 layout: post
-category:
-  - IA
-  - Opiniao
-tags:
-  - Busca
-  - Determinismo
-  - Heurística
-  - IA
-  - Opiniao
 
 ---
 ![Somos máquinas?][1]

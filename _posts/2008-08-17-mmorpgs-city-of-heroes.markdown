@@ -1,15 +1,7 @@
 ---
 author: convidados
 title: 'MMORPGs: City of Heroes'
-
 layout: post
-category:
-  - GeekStyleOfLife
-  - Jogos
-tags:
-  - GeekStyleOfLife
-  - Jogos
-  - MMORPG
 
 ---
 ![Herois][1] Não foi difícil encontrar um *site* que oferecesse um [período de testes de 14 dias][2] para o [City of Heroes][3]/[City of Villains][4]. O *download* foi tão demorado quanto se pode esperar de um MMORPG moderno, já que o jogo têm 2.5GB. A idéia do jogo é simples: jogando como um super-herói você vive em *Galaxy City*, uma cidade cheia de bandidos e missões a serem cumpridas e jogando como um vilão você vive em *Rogue Isles*, uma ilha que serve de refúgio para os vilões mas que é cheia de traições e problemas. 

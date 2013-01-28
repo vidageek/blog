@@ -1,20 +1,7 @@
 ---
 author: convidados
-title: >
-  Pesquisa sobre ferramentas para
-  desenvolvimento livre
-
+title: Pesquisa sobre ferramentas para desenvolvimento livre
 layout: post
-category:
-  - Agile
-  - OpenSource
-  - Opiniao
-tags:
-  - comunicação
-  - Hugo Corbucci
-  - mestrado
-  - OpenSource
-  - pesquisa
 
 ---
 Meu nome é Hugo Corbucci e sou aluno de mestrado em Ciências da Computação no IME/USP.  

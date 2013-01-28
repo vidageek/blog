@@ -1,16 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: As melhores de primeiro de abril 2007
-
 layout: post
-category:
-  - Google
-  - Humor
-  - Linux
-tags:
-  - Google
-  - Humor
-  - Linux
 
 ---
 Como de praxe, vários sites da área publicaram notícias “pegadinha” em todo o mundo. Nesse exercício de criatividade extrema, separamos alguns destaques e seus melhores trechos:

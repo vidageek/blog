@@ -1,16 +1,7 @@
 ---
 author: convidados
-title: >
-  Analisando o boot do Ubuntu com o
-  Bootchart
-
+title: Analisando o boot do Ubuntu com o Bootchart
 layout: post
-category:
-  - Linux
-  - Ubuntu
-tags:
-  - Linux
-  - Ubuntu
 
 ---
 O bootchart cria uma imagem PNG detalhando exatamente o que acontece na sua sequência de boot, mostrando quais processos estão carregando no momento. Com uma análise desse gráfico é possível identificar os gargalos e possivelmente resolve-los, melhorando assim o tempo de boot.

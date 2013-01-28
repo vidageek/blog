@@ -1,23 +1,7 @@
 ---
 author: Jonas Abreu
 title: YACP (Yet Another C Primer)
-
 layout: post
-category:
-  - C
-  - Dicas
-  - Programacao
-  - Tutoriais
-tags:
-  - C
-  - Dicas
-  - emacs
-  - gcc
-  - gdb
-  - gvim
-  - Programacao
-  - Tutoriais
-  - vim
 
 ---
 Este é o primeiro post de uma série que tem por objetivo ensinar programação em C a alguém que já tem noção do que é programação, mas nunca programou. Programadores menos experientes também encontrarão muito material útil aqui.

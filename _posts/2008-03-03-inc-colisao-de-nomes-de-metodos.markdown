@@ -1,13 +1,7 @@
 ---
 author: Jonas Abreu
 title: 'INC - Colisão de Nomes de Métodos'
-
 layout: post
-category:
-  - Dicas
-  - Java
-  - Programacao
-tags: [ ]
 
 ---
 O que acontece quando uma classe sua implementa duas interfaces que tem um método com o mesmo nome? Compila!

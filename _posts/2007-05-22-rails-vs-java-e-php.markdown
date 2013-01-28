@@ -1,14 +1,7 @@
 ---
 author: convidados
 title: Rails Vs Java e PHP
-
 layout: post
-category:
-  - Programacao
-  - Ruby
-tags:
-  - Programacao
-  - Ruby
 
 ---
 O blog [Rails Envy][1], obviamente inspirados no video **“I’m a Mac, I’m a Windows”**, criou a série  

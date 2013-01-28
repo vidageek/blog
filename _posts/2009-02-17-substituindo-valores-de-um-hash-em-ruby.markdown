@@ -1,19 +1,7 @@
 ---
 author: convidados
 title: Substituindo valores de um Hash em Ruby
-
 layout: post
-category:
-  - Dicas
-  - Ruby
-tags:
-  - BDD
-  - Dicas
-  - hash
-  - Merge
-  - Rails
-  - Rspec
-  - Ruby
 
 ---
 ![Ruby Logo][1]

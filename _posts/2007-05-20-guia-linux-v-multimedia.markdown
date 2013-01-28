@@ -1,19 +1,7 @@
 ---
 author: convidados
 title: 'Guia Linux V: Multimedia'
-
 layout: post
-category:
-  - Gentoo
-  - Linux
-tags:
-  - Gentoo
-  - itunes
-  - Linux
-  - mpg123
-  - mplayer
-  - rhythmbox
-  - totem
 
 ---
 Nessa parte do Guia Linux iremos abordar como utilizar o seu Gentoo para assistir filmes e escutar música no seu computador. Começamos ensinando como escutar MP3s e então abordaremos a visualização de filmes em vários formatos.

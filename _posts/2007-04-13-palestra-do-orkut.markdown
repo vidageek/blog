@@ -1,21 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Palestra do Orkut
-
 layout: post
-category:
-  - Eventos
-  - Google
-  - Humor
-  - Web 2.0
-tags:
-  - Eventos
-  - Google
-  - Humor
-  - orkut
-  - usp
-  - Web 2.0
-  - web_community
 
 ---
 Na última segunda-feira, 09/04, o criador do site de relacionamentos mais popular no Brasil, Orkut Buyukkokten veio a São Paulo, conheceu usuários, gravou um programa na MTV, almoçou com repórteres da Info e deu uma palestra na USP. Estivemos nesta palestra e fizemos um resumo.

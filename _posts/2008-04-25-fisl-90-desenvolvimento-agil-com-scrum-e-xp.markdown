@@ -1,20 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'FISL 9.0: Desenvolvimento ágil com Scrum e XP'
-
 layout: post
-category:
-  - Eventos
-  - Fisl
-  - Programacao
-tags:
-  - desenvolvimento
-  - FISL 9.0
-  - Globo.com
-  - Guilherme Chapiewski
-  - Metodologias-Ágeis
-  - Scrum
-  - xp
 
 ---
 Novamente uma palestra surpreendentemente cheia. Não houve muitas novidades para quem já conhecia metodologias ágeis, mas o palestrante Guilherme Chapiewski abordou os temas básicos e gastou os primeiros 5 minutos de palestra em convencer o mercado de que o uso de metodologias ágeis não é loucura da cabeça de poucos, mas sim algo funcional e mais adequado à dinamicidade do mercado atual.

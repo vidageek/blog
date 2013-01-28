@@ -1,18 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: 'Falando Em Java: A Web2.0 somos nozes'
-
 layout: post
-category:
-  - Eventos
-  - Web 2.0
-tags:
-  - Eventos
-  - Falando-em-Java
-  - Java
-  - Philip-Calçado
-  - Web 2.0
-  - web2.0
 
 ---
 Após enfrentar longas horas de aeroporto (e acabar vindo de ônibus), [Philip Calçado][1] ainda teve pique para dar uma palestra divertida e focada na desambiguação do termo “Web2.0″.

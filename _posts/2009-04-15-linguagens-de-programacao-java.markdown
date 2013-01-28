@@ -1,21 +1,7 @@
 ---
 author: Luiz
 title: 'Linguagens de Programação - Java'
-
 layout: post
-category:
-  - Discussões
-  - Java
-  - Opiniao
-  - Programacao
-  - Software
-tags:
-  - Groovy
-  - Java
-  - JRuby
-  - JVM
-  - Mainstream
-  - Sun
 
 ---
 ![Duke][1]

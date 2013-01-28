@@ -1,27 +1,7 @@
 ---
 author: fabs
 title: Yahoo Hack Day 2008
-
 layout: post
-category:
-  - Eventos
-  - GeekStyleOfLife
-  - OpenSource
-  - Programacao
-  - Software
-  - Uncategorized
-  - Web 2.0
-tags:
-  - arduino
-  - brhackday08
-  - cocos2d
-  - comofas
-  - design
-  - emeeter
-  - hack
-  - hacker
-  - senac
-  - yahoo
 
 ---
 ![][1]Acabei de checar do prédio do SENAC em Santo Amaro onde participei do Yahoo OpenHack day.

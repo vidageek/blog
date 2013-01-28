@@ -1,21 +1,7 @@
 ---
 author: Cecilia Fernandes
 title: Dell se junta a Novell/Microsoft
-
 layout: post
-category:
-  - Linux
-  - News
-  - OpenSource
-tags:
-  - Dell
-  - Linux
-  - microsoft
-  - News
-  - Novell
-  - OpenSource
-  - SuSE
-  - windows
 
 ---
 Saiu no jornal Estado de São Paulo, o anúncio da união da Dell a Novell e Microsoft pela maior interação entre Linux SuSE e Windows.

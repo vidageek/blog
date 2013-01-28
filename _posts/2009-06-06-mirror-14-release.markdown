@@ -1,19 +1,7 @@
 ---
 author: Jonas Abreu
 title: Mirror 1.4 release
-
 layout: post
-category:
-  - Java
-  - News
-  - OpenSource
-tags:
-  - 1.4
-  - dsl
-  - getter
-  - mirror
-  - release
-  - setter
 
 ---
 Acabei de fazer o release da versão 1.4 do [Mirror][1], do qual [já falei por aqui.][2]
