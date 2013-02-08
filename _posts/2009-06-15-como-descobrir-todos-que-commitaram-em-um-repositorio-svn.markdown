@@ -14,13 +14,13 @@ Recentemente escrevi um post sobre [como migrar seu repositório svn para o git]
 
 Explicação da bizarrice acima:
 
-1.  **svn log**: Exibe todo o log de commits feitos naquele repositório. 
-2.  **grep “^r[0-9]“**: Pega todas as linhas iniciadas com r seguido por um número (header de cada commit do svn) 
-3.  **sed -E “s/^.\*\|(.\*)\|.\*\|.\*$/\1/”**: Roda o monstro chamado sed em modo estendido e captura o nome dos usuários (conte o número de pipes) 
-4.  **sort**: Ordena a lista com os usuários que comitaram. 
-5.  **uniq**: elimina todas as duplicatas deixando apenas uma cópia de cada usuário (só funciona em listas ordenadas. Por isso o sort anterior). 
+1.  `svn log`: Exibe todo o log de commits feitos naquele repositório. 
+2.  `grep "^r[0-9]"`: Pega todas as linhas iniciadas com r seguido por um número (header de cada commit do svn) 
+3.  `sed -E "s/^.\*\|(.\*)\|.\*\|.\*$/\1/"`: Roda o monstro chamado sed em modo estendido e captura o nome dos usuários (conte o número de pipes) 
+4.  `sort`: Ordena a lista com os usuários que comitaram. 
+5.  `uniq`: elimina todas as duplicatas deixando apenas uma cópia de cada usuário (só funciona em listas ordenadas. Por isso o sort anterior). 
 
-Tentei fazer usando o comando **cut** no lugar do sed, mas o cut desistia no meio do caminho por causa de caracteres estranhos. 
+Tentei fazer usando o comando `cut` no lugar do `sed`, mas o cut desistia no meio do caminho por causa de caracteres estranhos. 
 
 
  [1]: http://vidageek.net/2009/06/08/como-migrar-de-svn-para-git/
