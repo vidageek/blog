@@ -26,6 +26,7 @@ layout: nil
   {% endfor %}
 
   {% for page in site.html_pages %}
+  {% if page.stealth != true %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
     {% if page.last_updated %}
@@ -38,6 +39,7 @@ layout: nil
     {% if page.changefreq %}<changefreq>{{ page.changefreq }}</changefreq>{% endif %}
     {% if page.priority %}<priority>{{ page.priority }}</priority>{% endif %}
   </url>
+  {% endif %}
   {% endfor %}
 
 </urlset>
