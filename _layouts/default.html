@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} - {% elsif page.author %} {{ page.author }} - {% endif %}{{ site.name }}</title>
+    <title>
+	{% if page.title %}{{ page.title }} - 
+	{% elsif page.dados %} Extração de dados - {{ page.dados }} - 
+	{% elsif page.author %} {{ page.author }} - 
+	{% endif %}{{ site.name }}
+	</title>
     {% if page.description %}
     <meta name="description" content="{{ page.description }}" />
     {% endif %}
+	
+	{% if page.stealth == true%}
+	<meta name="robots" content="noindex" />
+    {% endif %}
+
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <link rel="stylesheet" media="screen" href="/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" media="screen" href="/css/style.css" type="text/css" />
