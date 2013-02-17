@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+
+<div class="post">
+	<h1><a href="{{ page.url }}"> {{ page.title }}</a> </h1>
+	{% if site.plusid[page.author] %}
+		<a href="https://plus.google.com/{{ site.plusid[page.author] }}?rel=author">{{ page.author }}</a>
+	{% else %}
+		{{ page.author }}
+	{% endif %} 
+	<br />
+
+	{{ page.content | unindent | markdownify }}
+
+</div>
+
