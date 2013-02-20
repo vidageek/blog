@@ -115,7 +115,7 @@ Foi usado o script
 		  26029 dbc
 
 	Os arquivos que são de maior interesse (que são os dados do DataSus) são os com as extensões dbf (Foxpro), exe (arquivo zip com dbf dentro), arj (arquivo compactado com arj e com dbf dentro) e dbc (MS Visual Foxpro). Vale lembrar que dbf e dbc são formatos proprietários, o que dificulta muito a extração dos dados. 
-	Para transformar todos os arquivos em dbf, foi usado [um script bash][5] com base em arj, unzip, wine e uma ferramenta de extração de dbc fornecida pelo datasus (mas que só funciona em windows).
+	Para transformar todos os arquivos em dbf, foi usado [um script bash][5] com base em [arj][7], [unzip][8], [wine][9] e uma [ferramenta de extração de dbc fornecida pelo datasus][6] (mas que só funciona em windows).
 
 * **19/02/2013** - Os arquivos são um pouco despadronizados. Alguns arj/exe possuem mais de um dbf. As vezes o nome externo não bate com o interno. Para evitar colisões e sobrescritas, o script foi modificado para acrescentar um namespace (nome do arquivo original) na pasta de destino.
 
@@ -126,3 +126,7 @@ Foi usado o script
 [3]: /dados/datasus/conectiva.png
 [4]: http://dtr2001.saude.gov.br/editora/produtos/livros/pdf/04_0203_M2.pdf
 [5]: https://gist.github.com/jonasabreu/4982078
+[6]: http://www2.datasus.gov.br/DATASUS/index.php?area=040805&item=6#dbf2dbc
+[7]: http://packages.ubuntu.com/quantal/arj
+[8]: http://packages.ubuntu.com/quantal/unzip
+[9]: http://www.winehq.org/
