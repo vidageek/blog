@@ -10,14 +10,14 @@ Pois bem, outro dia desses estava colocando meus feeds em dia e achei uma recome
 
 **md-mouse.sh:**
 
-#!/usr/bin/env bash
-
-killall MiddleClick  
-open -a MiddleClick
-
-**(usar o comando) crontab -e e adicionar a linha:**
-
-10 *       *        *       *      /Users/fabsn/Library/Scripts/md-mouse.sh
+	#!/usr/bin/env bash
+	
+	killall MiddleClick  
+	open -a MiddleClick
+	
+	**(usar o comando) crontab -e e adicionar a linha:**
+	
+	10 *       *        *       *      /Users/fabsn/Library/Scripts/md-mouse.sh
 
 Isso vai fazer com que o script seja reiniciado no minuto 10 de cada hora (a cada 1 hora). 
 
