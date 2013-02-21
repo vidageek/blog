@@ -10,7 +10,7 @@ Talvez isso seja notícia velha, mas graças ao [LifeHacker][2] eu descobri como
 
 Sabe se lá porque, a Apple escondeu a opção de sincronização de contatos apenas para quem tem um Iphone, todavia existe um possível hack para habilitar essa funcionalidade. Primeiro faça um backup do arquivo ~/Library/Preferences/com.apple.iPhod.plist , depois substitua seu conteudo por:
 
-{ Devices = { red-herring = { ‘Family ID’ = 10001; }; }; }
+	{ Devices = { red-herring = { ‘Family ID’ = 10001; }; }; }
 
 Salve o arquivo e abra o AdressBook, e vc vai ganhar o menu de sincronização do gmail. Apareceu na minha barra também um ícone de sincronização (o mesmo usado para o Mobile Me), e quando eu mando sincronizar ele sincroniza meu n95, meu AddressBook e os contatos do Gmail. Se o Ícone não aparecer para você, abrir o ISync pode ajudar.
 

@@ -13,9 +13,12 @@ Um dos grandes atrativos da linguagem é a sintaxe, bastante diferente da conven
 *   Com vários argumentos, por seletores: {objeto} {mensagem} {argumento1} {cont. da mensagem} {argumento2} …
 
 Para tornar mais claro o último tipo, é necessário olhar para a declaração de um método que recebe vários argumentos, que é assim:  
-`umaMensagemComArgumento: objeto eOutro: arg1 eMaisUm: arg2`  
+
+	umaMensagemComArgumento: objeto eOutro: arg1 eMaisUm: arg2
+
 Os parâmetros ficam intercalados no nome do método. Assim, uma chamada para esse método seria feita assim:  
-`destinatario umaMensagemComArgumento: 1 eOutro: 2 eMaisUm: 3`
+
+	destinatario umaMensagemComArgumento: 1 eOutro: 2 eMaisUm: 3
 
 Outra característica bastante interessante em Smalltalk é que tudo são objetos. Isso faz com que a linguagem não possua if, else, switch, while nem nenhum outro tipo de palavra reservada. Todos esses controles de fluxo são implementados como métodos de objetos Boolean.
 

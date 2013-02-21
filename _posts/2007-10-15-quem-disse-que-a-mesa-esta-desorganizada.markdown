@@ -26,21 +26,8 @@ Voltando ao assunto, o mesmo acontece com a mesa do programador. Os itens que el
 
 Da próxima vez que encontrar alguém que tem uma mesa muito bagunçada, desconfie de que é um bom programador, ao invés de achar que não passa de um desleixado ;). 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://vidageek.net/public/images/mesa.jpg
-
+ [2]: http://feeds.feedburner.com/VidaGeek
  [3]: http://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
  [4]: http://en.wikipedia.org/wiki/Splay_tree
  [5]: http://en.wikipedia.org/wiki/Cache

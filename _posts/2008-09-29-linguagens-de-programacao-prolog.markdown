@@ -11,21 +11,17 @@ Continuando com nossa série sobre linguagens de programação, vou falar um pou
 
 A princípio, isso pode parecer mágica, mas existe toda uma [teoria de lógica][5] por trás. Um programa em Prolog é, na verdade, um conjunto de fatos, predicados e regras de derivação de lógica. Uma execução de um programa é, na verdade, uma prova de um teorema, iniciada por uma consulta. Confuso? Vamos dar um exemplo:
 
-`<br />
-pai(joao, jose).<br />
-pai(jose, manoel).</p>
-<p>avo(Avo, Neto) :-<br />
-pai(Avo, Filho),<br />
-pai(Filho, Neto).<br />
-`
+	pai(joao, jose).
+	pai(jose, manoel).
+	avo(Avo, Neto) :-
+	pai(Avo, Filho),
+	pai(Filho, Neto).
 
 O trecho de código acima define dois fatos: “joao” é pai de “jose” e “jose” é pai de “manoel”. Também define uma regra de derivação: a regra avo. A regra diz: um Avo é avô de um Neto se o Avo é pai de um Filho e (a vírgula faz o papel do conectivo lógico “e”) esse mesmo Filho é pai de um Neto. Note as letras maiúsculas no começo dos nomes; variáveis, em Prolog, devem começar com letra maiúscula (se não começar com letra maiúscula, ou é regra, ou é predicado ou é símbolo). Note, também, o ponto final no fim de cada fato e da regra: outro requisito da sintaxe de Prolog.
 
 Agora, suponha que você queira saber quem são os netos de “joao”. Para isso, faz-se uma consulta, que é da seguinte forma:
 
-`<br />
-?- avo(joao, X).<br />
-`
+	?- avo(joao, X).
 
 Note que passamos uma variável para a consulta (o X). Quando fazemos isso, o Prolog procura por todos os símbolos que satisfazem a consulta. Esse é o maior poder do Prolog: a busca. Toda consulta é uma busca numa árvore de possíveis soluções para a satisfação da consulta (ou para a prova do teorema).
 
@@ -42,18 +38,6 @@ Apesar de tudo isso, Prolog também tem seus problemas. Além de ser necessário
 Resumindo, Prolog é uma linguagem interessante de se aprender; estimula um tipo de raciocínio diferente, mais lógico e mais recursivo. Também facilita muito a vida em alguns tipos de problemas.
 
 **Nota**: a imagem do post remete ao problema de colorir mapas utilizando um número fixo de cores, um problema bastante difícil, mas que pode ser facilmente programado em Prolog. A imagem foi retirada [deste site][9], que fala mais sobre o problema. 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
  [1]: http://vidageek.net/wp-content/uploads/2008/09/mapas-300x266.jpg "Coloração de mapas"

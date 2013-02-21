@@ -38,28 +38,7 @@ Não sei quanto a vocês, mas eu prefiro a segunda forma ;)
 
 Todo feedback é bem vindo!
 
-[![Reblog this post [with Zemanta]][5]][5]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  [1]: http://en.wikipedia.org/wiki/Java_%28programming_language%29 "Java (programming language)"
  [2]: http://en.wikipedia.org/wiki/Application_programming_interface "Application programming interface"
  [3]: http://projetos.vidageek.net/mirror/
- []: http://reblog.zemanta.com/zemified/50d3c366-3064-49ca-b9fb-8f796e76b7e1/ "Zemified by Zemanta"
-
-
-
-
 

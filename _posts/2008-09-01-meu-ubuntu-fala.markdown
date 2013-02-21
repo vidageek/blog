@@ -15,24 +15,11 @@ O `espeak` tem suas vantagens e desvantagens comparado ao sintetizador de voz do
 Por outro lado, o `espeak` suporta várias línguas, inclusive o português. Mesmo que o sotaque não seja dos melhores (parece um americano falando português, às vezes), quebra um galho legal.
 
 Agora você já pode deixar seu Ubuntu mais simpático! Crie um script assim:  
-`<br />
-#!/bin/bash<br />
-espeak -v brazil 'Olá!'<br />
-`  
+
+	#!/bin/bash
+	espeak -v brazil 'Olá!'
+
 e coloque para executar no início da sessão =) 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  [1]: http://vidageek.net/wp-content/uploads/2008/08/sintvoz.jpg "Voz sintetizada"
 

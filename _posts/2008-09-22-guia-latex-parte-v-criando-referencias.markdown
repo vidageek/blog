@@ -12,17 +12,17 @@ Começamos essa parte pelos links externos, seguimos com links internos e a cria
 
 Para utilizar links externos da mesma forma que usamo-nas em HTML, podemos usar o pacote de referências do LaTeX e a tag simples *href* – bastante similar a HTML, certo?
 
-\usepackage{hyperref}  
-% …
+	\usepackage{hyperref}  
+	% …
 
-\href{url}{texto}
+	\href{url}{texto}
 
 Alternativamente, quando queremos manter o próprio link na página e apenas fazê-lo ser “clicável”, podemos ainda lançar mão da tag *url*, que fica no pacote de mesmo nome:
 
-\usepackage{url}  
-% …
+	\usepackage{url}  
+	% …
 
-\url{http://vidageek.net}
+	\url{http://vidageek.net}
 
 ### Links internos
 
@@ -30,17 +30,17 @@ Dentro de documentos do tipo *article*, *book* ou *report* (os três tipos de do
 
 Marcamos uma referência que será chamada mais tarde colocando uma marcação nela, uma etiqueta:
 
-\label{nomeDaEtiqueta}
+	\label{nomeDaEtiqueta}
 
 E, no lugar onde precisamos referenciá-las, podemos fazê-lo de duas formas: indicando a página que contém a *label* ou sua seção.
 
-%…
+	%…
 
-\ref{nomeDaEtiqueta}  
-% referencia para a section da label nomeDaEtiqueta
+	\ref{nomeDaEtiqueta}  
+	% referencia para a section da label nomeDaEtiqueta
 
-\pageref{nomeDaEtiqueta}  
-% referencia para a página em que a label aparece
+	\pageref{nomeDaEtiqueta}  
+	% referencia para a página em que a label aparece
 
 Repare que, para que essas referências funcionem, **é preciso rodar pdflatex Duas vezes**. Isso porque na primeira vez, o parser do pdflatex passa apenas registrando as Labels e onde colocar as referências, mas na segunda é que é capaz de saber o número da seção e da página, quando aplicável.
 
@@ -50,34 +50,16 @@ Para criar o índice remissivo, basta colocarmos marcadores do tipo *glossary* p
 
 Assim, vamos direto ao ponto de como usá-lo:
 
-\glossary{ancora no índice remissivo}  
-% Marcação da linha para o índice remissivo
+	\glossary{ancora no índice remissivo}  
+	% Marcação da linha para o índice remissivo
 
 Após terminar seu texto, você vai precisar rodar em sequência:
 
-pdflatex arquivo.tex  
-makeindex arquivo.idx  
-pdflatex arquivo.tex
+	pdflatex arquivo.tex  
+	makeindex arquivo.idx  
+	pdflatex arquivo.tex
 
 Novamente explicando o porquê: na primeira vez que usamos o pdflatex, ele agrupa as palavras do glossário (índice remissivo) no arquivo *.idx com as devidas referências. Então, usamos o makeindex para transformar esse *.idx em um adendo LaTeX pro arquivo original e, na segunda passagem do pdflatex, ele finalmente junta as duas informações.
 
 Então, agora, você já sabe colocar links internos, externos e até mesmo gerar seu índice remissívo/glossário de acordo com as necessidades do seu texto. Espero que essa sessão do Guia Latex tenha ajudado e a próxima que virá tratará da parte matemática do LaTeX, parte bastante elegante e apreciada pelos usuários acadêmicos de Latex. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

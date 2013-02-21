@@ -14,7 +14,7 @@ Qual a relação daqueles comentários com sua receita? Toda.
 
 Provavelmente todo mundo já ouviu falar de injeção de Javascript em uma página, mas vou explicar rapidamente o que é:
 
-Um usuário mal intencionado, após tentar de diversas formas, descobre um jeito de incluir código Javascript na sua página (Em muitos sistemas isso significa apenas abrir e fechar a tag <script> em um formulário e depois submeter) e usa isso para mudar o comportamento do site.
+Um usuário mal intencionado, após tentar de diversas formas, descobre um jeito de incluir código Javascript na sua página (Em muitos sistemas isso significa apenas abrir e fechar a tag `<script>` em um formulário e depois submeter) e usa isso para mudar o comportamento do site.
 
 Javascript é uma linguagem absurdamente poderosa e flexivel (vejam JQuery e Prototype, por exemplo). Além desse poder todo, o navegador constrói uma estrutura com todos os elementos da página que pode ser manipulada livremente por Javascript.
 

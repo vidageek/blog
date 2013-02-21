@@ -26,15 +26,15 @@ Os operadores mais comuns são:
 Chega de teoria. Basicamente o que acontece é o seguinte:
 
     
-    2+3 &#038;&#038; 5 é verdadeiro
-    2+3 &#038;&#038; 0 é falso
-    2+3 &#038;&#038; 4 é verdadeiro
+    2+3 && 5 é verdadeiro
+    2+3 && 0 é falso
+    2+3 && 4 é verdadeiro
     2+3 || 0 é verdadeiro
     2+3 || 1 é verdadeiro
     2-2 || 1-1 é falso
     !0 é verdadeiro
     !1234567 é falso
-    (0 &#038;&#038; 0) || 1 é verdadeiro
+    (0 && 0) || 1 é verdadeiro
     
 
 Notem que se você ler o que está escrito (sabendo que 0 é falso e os outros números são verdadeiros) fica bem intuitivo:
@@ -50,19 +50,21 @@ Certo… tirando o último exemplo não é tão intuitivo assim mas você se aco
 
 Se você fizer todas as comparações possíveis usando duas condições e um operador você chega as seguintes tabelas:
 
-| **&&**          | **verdadeiro** | **falso** |
-| --------------- | -------------- |
-| **verdadeiro**  | verdadeiro     | falso     |
-| **falso**       | falso          | falso     |
+**&&**          | **verdadeiro** | **falso** 
+:---------------: | :--------------: |:---:
+**verdadeiro**  | verdadeiro     | falso     
+**falso**       | falso          | falso    
 
-| Operador Ou (||) | **||**         | **verdadeiro** | **falso**  |
-| ---------------- |
-| **verdadeiro** | verdadeiro     | verdadeiro |
-| **falso**      | verdadeiro     | falso      |
 
-| Operador Não (!) | **!** | **verdadeiro** | **falso**  |
-| ---------------- |
-|       | falso          | verdadeiro |
+Operador Ou (||) | **||**         | **verdadeiro** | **falso**  
+:----------------: |:-------:|:------:
+**verdadeiro** | verdadeiro     | verdadeiro 
+**falso**      | verdadeiro     | falso      
+
+
+Operador Não (!) | **!** | **verdadeiro** | **falso** 
+:----------------: |:------: |:----:
+      | falso          | verdadeiro
 
 Existe um outro operador, chamado Ou Exclusivo. As expressões formadas por ele são verdadeiras se uma única condição (das duas em volta dele) for verdadeira. Se as duas forem verdadeiras ou falsas a expressão é falsa. Ele não costuma ser muito utilizado (só usei ele pra criptografia e mesmo assim era um operador um pouquinho diferente. 
 

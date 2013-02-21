@@ -31,40 +31,27 @@ Para os anti-Emacs espalhados pelo mundo, você pode utilizar o editor [TexMaker
 
 Por ora, instale o Latex no seu computador e teste um pouco o editor escolhido, vendo como ele marca o código abaixo:
 
-\documentclass{article}  
-\usepackage{verbatim}  
-\usepackage[T1]{fontenc}  
-\usepackage[latin1]{inputenc}  
-\usepackage[brazil]{babel}  
-\title{Tutorial de Latex – parte I}  
-\author{VidaGeek.net}
+	\documentclass{article}  
+	\usepackage{verbatim}  
+	\usepackage[T1]{fontenc}  
+	\usepackage[latin1]{inputenc}  
+	\usepackage[brazil]{babel}  
+	\title{Tutorial de Latex – parte I}  
+	\author{VidaGeek.net}
 
-\begin{document}  
-\section{A seção}  
-\subsection{Utilizando uma subseção}  
-\subsubsection{Usando uma subsubseção:}  
-Uma lista numerada qualquer…  
-\begin{enumerate}  
-\item{Algum ítem}  
-\item{Um outro item}  
-\end{enumerate}
+	\begin{document}  
+	\section{A seção}  
+	\subsection{Utilizando uma subseção}  
+	\subsubsection{Usando uma subsubseção:}  
+	Uma lista numerada qualquer…  
+	\begin{enumerate}  
+	\item{Algum ítem}  
+	\item{Um outro item}  
+	\end{enumerate}
 
-\end{document}
+	\end{document}
 
 * Nota sobre a pronúncia de Lateχ: segundo me foi dito recentemente, em grego, o χ no final de uma palavra é suprimido e sua síbala fica tônica, portanto, Lateχ seria lido /laté/ – fica a sua preferência. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  [1]: http://www-cs-faculty.stanford.edu/~knuth/
  [2]: http://www.finkproject.org/index.php

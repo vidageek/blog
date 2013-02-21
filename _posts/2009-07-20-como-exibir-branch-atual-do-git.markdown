@@ -35,13 +35,13 @@ Impossível de ler, correto? Vou quebrar em mais linhas para facilitar a vida.
 
 Não testei, mas deve ter o mesmo efeito. Explicando um pouco da mágica:
 
-1.  Essa sequência bizarra de caracteres (\[\033[38m\]) é a forma de definir que o que virá depois será impresso em branco, num terminal que permite coloração (o que realmente define a cor é o 38m. O resto é apenas a forma de indicar a mudança de cor). “\u”, na PS1, significa o usuário atual. 
+1.  Essa sequência bizarra de caracteres (`\[\033[38m\]`) é a forma de definir que o que virá depois será impresso em branco, num terminal que permite coloração (o que realmente define a cor é o 38m. O resto é apenas a forma de indicar a mudança de cor). “\u”, na PS1, significa o usuário atual. 
 2.  A próxima sequência de caracteres bizarros troca a cor para verde. “\w”, na PS1, é o seu path atual. 
 3.  Troca a cor para vermelho. 
 4.  Extrai o nome do branch (sendo executado em uma subshell. Para isso que servem os \`).
-    1.  **git branch 2>/dev/null**: Imprime todos os branches do repositório onde você se encontra. Caso ocorra algum erro, a mensagem de erro será enviada para /dev/null, vulgo limbo (por isso nada será impresso nos outros diretórios). 
-    2.  **grep “^\*”**: Me dá todas as linhas começadas por * . 
-    3.  **sed -r \”s/\*\ (.*)/ \(\1\)/\”**: Novamente o grande monstro sed salva o dia. A regex que está ali pega o que vêm depois do espaço que está depois do * e imprime com parenteses em volta. 
+    1.  `git branch 2>/dev/null`: Imprime todos os branches do repositório onde você se encontra. Caso ocorra algum erro, a mensagem de erro será enviada para /dev/null, vulgo limbo (por isso nada será impresso nos outros diretórios). 
+    2.  `grep “^\*”`: Me dá todas as linhas começadas por * . 
+    3.  `sed -r \”s/\*\ (.*)/ \(\1\)/\”`: Novamente o grande monstro sed salva o dia. A regex que está ali pega o que vêm depois do espaço que está depois do * e imprime com parenteses em volta. 
 5.  Muda a cor para branco, imprime $ (apenas para marcar o fim do prompt) e para de brincar com as cores do terminal, devolvendo o controle à shell.
         
 A versão anterior que eu usava da PS1 usava ruby pra fazer essa mágica toda, mas dessa forma não depende mais do ruby instalado na máquina. 

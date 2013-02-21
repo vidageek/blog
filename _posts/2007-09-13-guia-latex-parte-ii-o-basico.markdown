@@ -45,37 +45,21 @@ Você pode informar o Título e o Autor do seu texto no código de forma a, semp
 
 Os comandos são usados da forma mais intuitiva:
 
-**\title{Nome do Texto}  
-\author{Cecilia \\ VidaGeek.net}**
+	\title{Nome do Texto}  
+	\author{Cecilia \\ VidaGeek.net}
 
 Então, até agora sabemos usar o cabeçalho e o que significa o que você escreve nele:  
-\documentclass{article}  
-\usepackage[T1]{fontenc}  
-\usepackage[latin1]{inputenc}  
-\usepackage[brazil]{babel}  
-\title{Guia Latex II – O Básico}  
-\author{VidaGeek}
 
-\begin{document}
+	\documentclass{article}  
+	\usepackage[T1]{fontenc}  
+	\usepackage[latin1]{inputenc}  
+	\usepackage[brazil]{babel}  
+	\title{Guia Latex II – O Básico}  
+	\author{VidaGeek}
 
-Tente escrever texto aqui!  
-\end{document} 
+	\begin{document}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	Tente escrever texto aqui!  
+	\end{document} 
 
 
