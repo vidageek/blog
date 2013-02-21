@@ -4,7 +4,7 @@ title: Como desfazer commits na branch errada no Git
 layout: post
 game: git
 ---
-*O post de hoje é do nosso amigo Lucas Cavalcanti, desenvolvedor da [Caelum][1].*
+**O post de hoje é do nosso amigo Lucas Cavalcanti, desenvolvedor da [Caelum][1].**
 
 Usando git, sempre é bom trabalhar em branches, nunca commitar diretamente na branch master.
 
@@ -17,46 +17,28 @@ O que fazer então?
 
 Um jeito legal de prevenir isso é digitando os comandos:
 
-`<br />
-(master) $ git branch temp<br />
-# cria uma branch pra guardar o estado atual<br />
-`  
-`<br />
-(master) $ git reset --hard HEAD@{1}<br />
-# volta o estado do branch master para a última<br />
-# ação perigosa que você fez, geralmente<br />
-# o último push que vc fez no servidor<br />
-`  
-`<br />
-(master) $ git pull origin master<br />
-# agora sim fazendo um pull seguro<br />
-`  
-`<br />
-(master) $ git checkout temp<br />
-(temp) $ git rebase master<br />
-# e corrige os eventuais conflitos do jeito certo<br />
-`  
-`<br />
-(temp) $ git checkout master<br />
-(master) $ git merge temp<br />
-(master) $ git push origin master<br />
-(master) $ git branch -d temp<br />
-`
+	(master) $ git branch temp
+	# cria uma branch pra guardar o estado atual
+	  
+	(master) $ git reset --hard HEAD@{1}
+	# volta o estado do branch master para a última
+	# ação perigosa que você fez, geralmente
+	# o último push que vc fez no servidor
+	
+	(master) $ git pull origin master
+	# agora sim fazendo um pull seguro
+	
+	(master) $ git checkout temp
+	(temp) $ git rebase master
+	# e corrige os eventuais conflitos do jeito certo
+	
+	(temp) $ git checkout master
+	(master) $ git merge temp
+	(master) $ git push origin master
+	(master) $ git branch -d temp
 
 Assim você corrige a cagada de trabalhar no master sem querer e continua a trabalhar com o git  
 do jeito certo. 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
  [1]: http://www.caelum.com.br

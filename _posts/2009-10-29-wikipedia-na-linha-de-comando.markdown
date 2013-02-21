@@ -6,13 +6,13 @@ layout: post
 ---
 São muitas as vezes que tenho que recorrer ao navegador pra procurar no google a definição de alguma palavra, conceito, serviço ou “whatever” na wikipedia. Outro dia me deparei com o seguinte script, que chamei define:
 
-#!/usr/bin/env bash
+	#!/usr/bin/env bash
 
-dig +short txt $@.wp.dg.cx
+	dig +short txt $@.wp.dg.cx
 
 Por exemplo, executando:
 
-fabs@mac > define ospf
+	fabs@mac > define ospf
 
 vejo:
 

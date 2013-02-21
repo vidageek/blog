@@ -1,0 +1,29 @@
+---
+author: Jonas Abreu
+title: Redirect de páginas no S3
+layout: post
+---
+
+Revisando alguns dos posts antigos do [VidaGeek.net][1], notei que o WordPress que usávamos, em algum momento, 
+preferiu colocar o id do post como url, ao invés de criar uma a partir do título.
+
+Como isso é bem ruim para engines de busca (menos informação útil), resolvi montar uma url melhor.
+
+O problema é que existem links para esses posts antigos, então eu precisava redirecionar a página antiga para
+a nova. Depois de procurar um pouco, encontrei no [StackOverflow como fazer isso][3].
+
+No fim, é bem simples pelo [console do S3][4]:
+
+* Entre no bucket que tem o arquivo que você quer redirecionar
+* Selecione o arquivo
+* Clique em Properties -> Metadata -> Add more metadata
+* Escolha **Website Redirect Location**
+* Coloque o valor que quer. Pode ser relativo ao começo do bucket.
+
+A cada dia o S3 fica melhor para hospedar html.
+
+
+[1]: http://www.vidageek.net
+[2]: https://aws.amazon.com/s3/
+[3]: http://stackoverflow.com/questions/2272835/amazon-s3-object-redirect
+[4]: https://console.aws.amazon.com/s3
