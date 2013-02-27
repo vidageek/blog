@@ -119,7 +119,73 @@ Foi usado o script
 
 * **19/02/2013** - Os arquivos são um pouco despadronizados. Alguns arj/exe possuem mais de um dbf. As vezes o nome externo não bate com o interno. Para evitar colisões e sobrescritas, o script foi modificado para acrescentar um namespace (nome do arquivo original) na pasta de destino.
 
+* **23/02/2013** - Não foi possível extrair vários arquivos referentes ao Amapá. São eles:
 
+	Estado_AP/acap0105.exe
+	Estado_AP/acap0106.exe
+	Estado_AP/acap0107.exe
+	Estado_AP/acap0108.exe
+	Estado_AP/acap0109.exe
+	Estado_AP/acap0110.exe
+	Estado_AP/acap0111.exe
+	Estado_AP/acap0112.exe
+	Estado_AP/acap0201.exe
+	Estado_AP/acap0202.exe
+	Estado_AP/acap0203.exe
+	Estado_AP/acap0204.exe
+	Estado_AP/acap0205.exe
+	Estado_AP/acap0206.exe
+	Estado_AP/acap0207.exe
+	Estado_AP/acap0208.exe
+	Estado_AP/acap0211.exe
+	Estado_AP/acap0212.exe
+	Estado_AP/acap0301.exe
+	Estado_AP/acap0302.exe
+	Estado_AP/acap0303.exe
+	Estado_AP/acap0304.exe
+	Estado_AP/acap0305.exe
+	Estado_AP/acap0306.exe
+	Estado_AP/acap0307.exe
+	Estado_AP/acap0308.exe
+	Estado_AP/acap0309.exe
+	Estado_AP/acap0310.exe
+	Estado_AP/acap0311.exe
+	Estado_AP/acap0312.exe
+	Estado_AP/acap0401.exe
+	Estado_AP/acap0402.exe
+	Estado_AP/acap0403.exe
+	Estado_AP/acap0404.exe
+	Estado_AP/acap0405.exe
+	Estado_AP/acap0406.exe
+	Estado_AP/acap9801.exe
+	Estado_AP/acap9802.exe
+	Estado_AP/acap9803.exe
+	Estado_AP/acap9804.exe
+	Estado_AP/acap9805.exe
+	Estado_AP/acap9806.exe
+	Estado_AP/acap9807.exe
+	Estado_AP/acap9808.exe
+	Estado_AP/acap9809.exe
+	Estado_AP/acap9810.exe
+	Estado_AP/acap9811.exe
+	Estado_AP/acap9812.exe
+	Estado_AP/acap9901.exe
+	Estado_AP/acap9902.exe
+	Estado_AP/acap9903.exe
+	Estado_AP/acap9904.exe
+	Estado_AP/acap9905.exe
+	Estado_AP/acap9906.exe
+	Estado_AP/acap9907.exe
+	Estado_AP/acap9908.exe
+	Estado_AP/acap9909.exe
+	Estado_AP/acap9910.exe
+	Estado_AP/acap9911.exe
+	Estado_AP/acap9912.exe
+	
+
+* **25/02/2013** - Foi usado o seguinte [script para a geração das tabelas][10]. O script teve que ser modificado porque alguns arquivos já deram sinais de que não podem ser extraídos. Eles serão registrados no momento da extração.
+
+* **26/02/2013** - Conseguimos extrair os dados dos arquivos referentes ao Amapá. Foi necessário o [WinRAR][11] em uma máquina Windows. O descompactador do MacOS X e o programa [unzip][8] não conseguiram.
 
 [1]: http://www.videolan.org/vlc/index.html
 [2]: /dados/datasus/vlc.png
@@ -130,3 +196,5 @@ Foi usado o script
 [7]: http://packages.ubuntu.com/quantal/arj
 [8]: http://packages.ubuntu.com/quantal/unzip
 [9]: http://www.winehq.org/
+[10]: https://gist.github.com/jonasabreu/5030203
+[11]: http://www.rarlab.com/download.htm
