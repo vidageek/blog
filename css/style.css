@@ -120,3 +120,11 @@ ul#autor-links {
 	margin: 0px 0px 0px 20px;
 	text-align: left;
 }
+
+div.license {
+	text-align: center;
+}
+
+div.license img {
+	margin: 15px;
+}
