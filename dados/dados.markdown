@@ -16,6 +16,8 @@ stealth: true
 * [Download de csv com os gastos dos municípios de SP][9]
 * [Busca de veterinários][10]
 * [Site para pedidos de dados de instituições de SP][11]
+* [Jurisprudência Sistematizada do TCU][12]. Aparentemente é a parte legislativa do processo.
+
 
 
 [1]: http://www.portalmedico.org.br/include/acompanhamento/pesquisa.asp
@@ -29,3 +31,4 @@ stealth: true
 [9]: http://www.portaldocidadao.tce.sp.gov.br/municipio_downloads/despesas/2012?ds_municipio=
 [10]: http://www.cfmv.gov.br/consulta/index.php?nome_regra=inicia&nome=&inscricao_uf=SP&inscricao_nro=27670&inscricao_classe=VP&uf=&especialidade=&inscricao_tipo=&situacao=&ordem=NOME&pag=1&posicao=0&flag=1
 [11]: http://www.sic.sp.gov.br/
+[12]: https://contas.tcu.gov.br/portal/SigaMenuSistema?codItem=2537
