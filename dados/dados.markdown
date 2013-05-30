@@ -17,8 +17,13 @@ stealth: true
 * [Busca de veterinários][10]
 * [Site para pedidos de dados de instituições de SP][11]
 * [Jurisprudência Sistematizada do TCU][12]. Aparentemente é a parte legislativa do processo.
-
-
+* [Listagem de ONGs inidôneas][13]
+* [Listagem de Empresas inidôneas][14]
+* [Listagem dos Imóveis Funcionais][15]
+* [Listagem de expulsões da administração federal][16]
+* [Servidores do governo federal][17]
+* [Muitos dados sobre governo federal][18]
+* [Explicações sobre partes técnicas do orçamento][19]
 
 [1]: http://www.portalmedico.org.br/include/acompanhamento/pesquisa.asp
 [2]: http://portal.cfm.org.br/index.php?medicosNome=&medicosCRM=&medicosUF=SP&medicosMunicipios=9668&medicosSituacao=&medicosTipoInscricao=&medicosEspecialidade=24&buscaEfetuada=true&option=com_medicos#buscaMedicos
@@ -32,3 +37,10 @@ stealth: true
 [10]: http://www.cfmv.gov.br/consulta/index.php?nome_regra=inicia&nome=&inscricao_uf=SP&inscricao_nro=27670&inscricao_classe=VP&uf=&especialidade=&inscricao_tipo=&situacao=&ordem=NOME&pag=1&posicao=0&flag=1
 [11]: http://www.sic.sp.gov.br/
 [12]: https://contas.tcu.gov.br/portal/SigaMenuSistema?codItem=2537
+[13]: http://www.portaldatransparencia.gov.br/downloads/view.asp?c=CEPIM#get
+[14]: http://www.portaldatransparencia.gov.br/downloads/view.asp?c=CEIS
+[15]: http://www.portaldatransparencia.gov.br/downloads/view.asp?c=imoveisfuncionais
+[16]: http://www.portaldatransparencia.gov.br/downloads/view.asp?c=expulsoes
+[17]: http://www.portaldatransparencia.gov.br/downloads/view.asp?c=Servidores
+[18]: http://www.portaldatransparencia.gov.br/planilhas/index.asp
+[19]: http://www.fazenda.sp.gov.br/cge2/perguntas.pdf
