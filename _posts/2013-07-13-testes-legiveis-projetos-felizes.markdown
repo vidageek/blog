@@ -1,5 +1,5 @@
 ---
-author: Luiz Real
+author: Luiz
 title: Testes legíveis, projetos felizes
 layout: post
 ---
