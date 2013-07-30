@@ -24,6 +24,14 @@ stealth: true
 * [Servidores do governo federal][17]
 * [Muitos dados sobre governo federal][18]
 * [Explicações sobre partes técnicas do orçamento][19]
+* [Anvisa - Busca de produtos para Saúde][20] (Busque por "a" :) )
+* [Anvisa - Busca de empresas][21]
+* [Anvisa - Lista de preços de medicamentos][22]
+* [Secretaria de Segurança Pública (SSP) - Estatísticas trimestrais][23]
+* [Lista nacional de doenças de notificação compulsória][24]
+* [SPTrans - Histórico de receitas e despesas][25]
+* [SPTrans - Demonstrativos de pagamento][26]
+* [Imposto de renda de médicos e hospitais entre 98 e 2004][27]
 
 [1]: http://www.portalmedico.org.br/include/acompanhamento/pesquisa.asp
 [2]: http://portal.cfm.org.br/index.php?medicosNome=&medicosCRM=&medicosUF=SP&medicosMunicipios=9668&medicosSituacao=&medicosTipoInscricao=&medicosEspecialidade=24&buscaEfetuada=true&option=com_medicos#buscaMedicos
@@ -44,3 +52,11 @@ stealth: true
 [17]: http://www.portaldatransparencia.gov.br/downloads/view.asp?c=Servidores
 [18]: http://www.portaldatransparencia.gov.br/planilhas/index.asp
 [19]: http://www.fazenda.sp.gov.br/cge2/perguntas.pdf
+[20]: http://www.anvisa.gov.br/scriptsweb/correlato/correlato_rotulagem.htm
+[21]: http://www.anvisa.gov.br/datavisa/Consulta_Autorizacao/consulta_autorizacao_internet.asp
+[22]: http://portal.anvisa.gov.br/wps/portal/anvisa/anvisa/regulado/!ut/p/c5/rZC3krNAEISfRQ8grYNlFXKHR6zMjxEkFHJIGAEnCqOnP6ou-oMjuplggq6p7v5ABKZ9Jt0jTdpH9UwKcAQRjT912RCkDYSQfnxCUxc5FfdbqCto0kMaw19GhjPfcItAAI5QiP9lY22-8_chgwPnHhuct9k7itpz98N2vdbiKrLdfBxe6oi5mg7cy0d4XiNf26syz6-1zxY_SWa85ntYIHqcylV_LldwJQiUEISngwkma2nKGc02wT_6DAduVOUVhCCSYl_HzLB1BLfEwdBUJQZtW8XMQsD9Qx7zXuRPvf6jRydmBDImiISKFGMQHEM4KJXTK2rQhWnSDQbfeV9NFGp6bpnio14rp_3YInpLbs_usCydDbzYjFj2YU3YpX2XOy8z3NyXx5oXeK89T_gyBHnjBMXVuLNhadyzl1u0h0JB1-R8q-650DbpeKncDWmKZT3i0VL9uPX8l0jPqaeNp8B6mTtFlBohgFnlWGKkaUm6AHXpdRvRMnrEEOvlxTebfumV/?1dmy&urile=wcm%3apath%3a/anvisa+portal/anvisa/pos+-+comercializacao+-+pos+-+uso/regulacao+de+marcado/publicacao+regulacao+economica/listas+de+precos+de+medicamentos+03
+[23]: http://www.ssp.sp.gov.br/novaestatistica/Trimestrais.aspx
+[24]: http://www.saude.sp.gov.br/resources/ses/perfil/profissional-da-saude/servicos/lista_nacional_de_doencas_de_notificacao_compulsoria_.pdf
+[25]: http://www.sptrans.com.br/indicadores/historico_receitas-despesas.aspx
+[26]: http://200.99.150.163/DemPag/hdempag.aspx
+[27]: http://tabnet2.datasus.gov.br/cgi/irrf99/irrf00.htm
