@@ -13,4 +13,4 @@ dar manutenção em mais um site, cuidar de mais um layout, etc).
 Então, para quem já conhecia, nenhuma novidade. Se você não conhecia, dê uma olhada [nele][1], pode ser
 que encontre algo interessante :)
 
-[1]: /performance-java
+[1]: http://www.vidageek.net/performance-java
