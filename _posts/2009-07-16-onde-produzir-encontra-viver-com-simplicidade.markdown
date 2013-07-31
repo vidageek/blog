@@ -41,7 +41,7 @@ Se você já fez alguma troca como essa, conte para nós nos comentários. Pesso
  [2]: http://culinaria.epistemol.net/Noite_da_Culinaria/Bem_Vindo!.html
  [3]: http://www.freeforallmankind.com/prizeimages/MotorolaQ.jpg
  [4]: http://www.moleskine.com/
- [5]: ”http://pt.wikipedia.org/wiki/Role-playing_game”
+ [5]: http://pt.wikipedia.org/wiki/Role-playing_game
  [6]: http://www.guynameddave.com/100-thing-challenge.html
 
 
