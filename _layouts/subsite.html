@@ -1,0 +1,19 @@
+---
+layout: default
+
+---
+
+<div class="post">
+
+<h2>{{ page.title }}</h2>
+
+<ul class="nav nav-pills nav-justified">
+{% for category in page.categories %}
+    <li><a href="/{{page.subpath}}/{{category}}.html">{{site.category-names[category]}}</a></li>
+{% endfor %}
+</ul>
+
+{{ page.content | unindent | markdownify }}
+
+</div>
+

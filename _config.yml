@@ -33,3 +33,11 @@ disqus:
 games:
   git: 'Git'
   regex: 'RegEx'
+
+category-names:
+  conceitos: 'Conceitos'
+  concorrencia: 'Concorrência'
+  estrutura-dados: 'Estrutura de Dados'
+  ferramentas: 'Ferramentas'
+  flags: 'Flags da JVM'
+  pitfalls: 'Pitfalls'
