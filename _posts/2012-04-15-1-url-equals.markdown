@@ -1,7 +1,7 @@
 ---
 layout: post
 title: URL.equals
-permalink: /url-equals.html
+permalink: /performance-java/url-equals
 category: pitfalls
 author: Jonas Abreu
 ---

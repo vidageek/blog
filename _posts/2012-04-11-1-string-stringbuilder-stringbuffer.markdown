@@ -1,7 +1,7 @@
 ---
 layout: post
 title: String X StringBuilder X StringBuffer
-permalink: /string-string-builder-string-buffer.html
+permalink: /performance-java/string-string-builder-string-buffer
 category: pitfalls
 author: Jonas Abreu
 ---
