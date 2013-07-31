@@ -4,6 +4,7 @@
     <title>
 	{% if page.title %}{{ page.title }} -
 	{% elsif page.dados %} Extração de dados - {{ page.dados }} -
+    {% elsif page.subsite %} {{site.subsite[page.subsite]}} - {{site.category-names[page.category]}} -
 	{% elsif page.author %} {{ page.author }} -
 	{% endif %}{{ site.name }}
 	</title>

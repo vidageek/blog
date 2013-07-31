@@ -41,3 +41,6 @@ category-names:
   ferramentas: 'Ferramentas'
   flags: 'Flags da JVM'
   pitfalls: 'Pitfalls'
+
+subsite:
+  performance-java: 'Performance Java'
