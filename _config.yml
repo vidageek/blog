@@ -2,6 +2,8 @@ url: http://www.vidageek.net
 name: VidaGeek.net
 description: 'Linux, Open-source, Programação e Produtividade'
 
+exclude: ['Rakefile', 'deploy.sh', 'temas', 'towrite', 'author-stats.sh']
+
 markdown: rdiscount
 
 permalink: /:year/:month/:day/:title/
