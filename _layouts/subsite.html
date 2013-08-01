@@ -7,7 +7,7 @@ layout: default
 
 <h2>{{ site.subsite[page.subsite] }}</h2>
 
-<ul class="nav nav-pills nav-justified">
+<ul class="nav nav-pills categorias">
 {% for category in page.categories %}
     <li><a href="/{{page.subsite}}/{{category}}.html">{{site.category-names[category]}}</a></li>
 {% endfor %}

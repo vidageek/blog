@@ -24,6 +24,7 @@ div#content {
 	max-width: 705px;
 	margin: 40px;
 	float: right;
+    width: 100%;
 }
 
 div#wrapper {
@@ -132,4 +133,8 @@ div.license img {
 iframe {
     margin: 40px auto;
     display: block;
+}
+
+ul.categorias li {
+    width: 45%;
 }

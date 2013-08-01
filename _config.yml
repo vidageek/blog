@@ -43,6 +43,14 @@ category-names:
   ferramentas: 'Ferramentas'
   flags: 'Flags da JVM'
   pitfalls: 'Pitfalls'
+  cr201307: 'Julho 2013 na Lambda3'
+  cr201203: 'Março 2012 na AdaptWorks'
+  cr201202: 'Fevereiro 2012 na AdaptWorks'
+  cr201201: 'Janeiro 2012 na AdaptWorks'
+  cr201108: 'Agosto 2011 na AdaptWorks'
+  cr201107: 'Julho 2011 no AgileBrazil'
+  cr201106: 'Junho 2011 na AdaptWorks'
+  cr201105: 'Maio 2011 na AdaptWorks'
 
 subsite:
   performance-java: 'Performance Java'

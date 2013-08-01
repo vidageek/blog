@@ -1,5 +1,9 @@
 #! /bin/bash
 
+function to_path {
+    RETVAL=`echo $1 | tr '[A-Z]' '[a-z]' | sed -E "s#[^0-9a-z/\._]+#-#g" | sed -E "s/-$//"`;
+}
+
 function escreve_post {
     FILE=$1
     PALESTRANTE=$2
@@ -22,6 +26,54 @@ function escreve_post {
 
 }
 
+function escreve_index {
+    FILE=index.html;
+    CATEGORIAS=`echo $1 | sed "s/, $//"`;
+    PALESTRANTES=`echo $2 | sed "s/, /#/g" | tr '#' '\n' | sort | uniq`
+ 
+    echo "---" > $FILE;
+    echo "layout: subsite" >> $FILE;
+    echo "categories: [$CATEGORIAS]" >> $FILE;
+    echo "subsite: conversa-rapida" >> $FILE;
+    echo "---" >> $FILE;
+    echo "" >> $FILE;
+    echo "<h2>Palestrantes</h2>" >> $FILE;
+    echo "<ul class=\"nav nav-pills categorias\">" >> $FILE;
+    for PALESTRANTE in $PALESTRANTES; do
+        to_path $PALESTRANTE
+        URL_PALESTRANTE=$RETVAL
+        echo "<li><a href=\"/conversa-rapida/$URL_PALESTRANTE.html\">$PALESTRANTE</a></li>" >> $FILE;
+    done;
+    echo "</ul>" >> $FILE;
+    echo "" >> $FILE;
+    echo "O Conversa Rápida é um evento com palestras curtas, dinâmicas para grupos e outras atividades propostas" >> $FILE;
+    echo "pelos palestrantes. A motivação principal é introduzir novos assuntos, então todos só sabem quais serão" >> $FILE;
+    echo "os temas das apresentações no momento delas." >> $FILE;
+    echo "" >> $FILE;
+}
+
+function adiciona_palestra {
+    PALESTRANTE=$1
+    to_path $PALESTRANTE
+    PALESTRANTE_PATH=$RETVAL
+    FILE="palestrante-$RETVAL.markdown"
+    TITULO=$2
+    POST_PATH=$3
+    
+    if [ -e  "$FILE" ]; then
+        echo "* [$TITULO](/conversa-rapida/$POST_PATH)" >> $FILE;
+    else
+        echo "Gerando arquivo $FILE"
+        echo "---" > $FILE;
+        echo "layout: palestrante" >> $FILE;
+        echo "palestrante: $PALESTRANTE" >> $FILE;
+        echo "permalink: /$PALESTRANTE_PATH.html" >> $FILE;
+        echo "subsite: conversa-rapida" >> $FILE;
+        echo "---" >> $FILE;
+        echo "" >> $FILE;
+        echo "* [$TITULO](/conversa-rapida/$POST_PATH)" >> $FILE;
+    fi;
+}
 
 METADATA=/Users/setf/Documents/Eventos/ConversaRapida
 
@@ -29,29 +81,38 @@ IFS_BAK=$IFS
 IFS="
 "
 
+echo "Apagando palestrantes"
+rm -f palestrante*
+
+CATEGORIAS=""
+PALESTRANTES=""
 for EDICAO in `find $METADATA -iname links-videos`; do
     ANO=`echo $EDICAO | cut -d "/" -f 7`
     MES=`echo $EDICAO | cut -d "/" -f 8 | cut -d "-" -f 1`
     DATA=`grep "$ANO-$MES" edicoes`
     MES_EXTENSO=`echo $EDICAO | cut -d "/" -f 8 | cut -d "-" -f 2`
     EMPRESA=`echo $EDICAO | cut -d "/" -f 8 | cut -d "-" -f 3`
-    
+    CATEGORIA="cr$ANO$MES"
+    CATEGORIAS="$CATEGORIA, $CATEGORIAS"
     N=0
     for VIDEO in `cat $EDICAO`; do
         let "N=$N + 1"
         TITULO=`echo $VIDEO | cut -d "#" -f 1`;
         PALESTRANTE=`echo $VIDEO | cut -d "#" -f 2`;
+        PALESTRANTES="$PALESTRANTE, $PALESTRANTES"
         CODIGO_YOUTUBE=`echo $VIDEO | cut -d "#" -f 3 | sed -E "s/.*v=(.*)/\1/"`;
-        POST_PATH=`echo $PALESTRANTE-$TITULO | tr '[A-Z]' '[a-z]' | sed -E "s#[^0-9a-z/\._]+#-#g" | sed -E "s/-$//"`;
+        to_path "$PALESTRANTE-$TITULO"
+        POST_PATH=$RETVAL;
         TITULO_LIMPO=`echo $TITULO | sed "s/:/&#58;/g"`
         FILE="../_posts/$DATA-$N-$POST_PATH.markdown"
-        CATEGORIA="cr$ANO$MES"
 
         escreve_post $FILE $PALESTRANTE $TITULO_LIMPO $POST_PATH $CATEGORIA $CODIGO_YOUTUBE
+        adiciona_palestra $PALESTRANTE $TITULO_LIMPO $POST_PATH
                
     done;
 done;
 
+escreve_index $CATEGORIAS $PALESTRANTES
 
 IFS=$IFS_BAK
 IFS_BAK=

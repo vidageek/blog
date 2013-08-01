@@ -1,0 +1,11 @@
+---
+layout: palestrante
+palestrante: Victor Hugo Germano
+permalink: /victor-hugo-germano.html
+subsite: conversa-rapida
+---
+
+* [XMPP e Aplicações em Tempo Real](/conversa-rapida/victor-hugo-germano-xmpp-e-aplica-es-em-tempo-real)
+* [Jabber Bots](/conversa-rapida/victor-hugo-germano-jabber-bots)
+* [Diferenças Culturais](/conversa-rapida/victor-hugo-germano-diferen-as-culturais)
+* [59 seconds](/conversa-rapida/victor-hugo-germano-59-seconds)
