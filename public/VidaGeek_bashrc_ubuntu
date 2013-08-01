@@ -33,3 +33,4 @@ echo -e ""; cal ;
 fortune
 
 PS1="[\t \u \W]\\$ "
+
