@@ -5,9 +5,8 @@ function escreve_post {
     PALESTRANTE=$2
     TITULO=$3
     POST_PATH=$4
-    ANO=$5
-    MES=$6
-    CODIGO=$7
+    CATEGORY=$5
+    CODIGO=$6
 
     echo "Gerando arquivo $FILE"
 
@@ -15,7 +14,7 @@ function escreve_post {
     echo "layout: post" >> $FILE;
     echo "title: Conversa Rápida - $PALESTRANTE - $TITULO" >> $FILE;
     echo "permalink: /conversa-rapida/$POST_PATH" >> $FILE;
-    echo "category: cr$ANO$MES" >> $FILE;
+    echo "category: $CATEGORY" >> $FILE;
     echo "author: Jonas Abreu" >> $FILE;
     echo "---" >> $FILE;
     echo "" >> $FILE;
@@ -44,12 +43,11 @@ for EDICAO in `find $METADATA -iname links-videos`; do
         PALESTRANTE=`echo $VIDEO | cut -d "#" -f 2`;
         CODIGO_YOUTUBE=`echo $VIDEO | cut -d "#" -f 3 | sed -E "s/.*v=(.*)/\1/"`;
         POST_PATH=`echo $PALESTRANTE-$TITULO | tr '[A-Z]' '[a-z]' | sed -E "s#[^0-9a-z/\._]+#-#g" | sed -E "s/-$//"`;
-        
         TITULO_LIMPO=`echo $TITULO | sed "s/:/&#58;/g"`
+        FILE="../_posts/$DATA-$N-$POST_PATH.markdown"
+        CATEGORIA="cr$ANO$MES"
 
-        FILE=`echo ../_posts/$DATA-$N-$POST_PATH.markdown`
-        
-        escreve_post $FILE $PALESTRANTE $TITULO_LIMPO $POST_PATH $ANO $MES $CODIGO_YOUTUBE
+        escreve_post $FILE $PALESTRANTE $TITULO_LIMPO $POST_PATH $CATEGORIA $CODIGO_YOUTUBE
                
     done;
 done;
