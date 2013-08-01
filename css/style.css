@@ -128,3 +128,8 @@ div.license {
 div.license img {
 	margin: 15px;
 }
+
+iframe {
+    margin: 40px auto;
+    display: block;
+}

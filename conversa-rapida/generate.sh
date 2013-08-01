@@ -23,7 +23,7 @@ for EDICAO in `find $METADATA -iname links-videos`; do
         
         TITULO_LIMPO=`echo $TITULO | sed "s/:/&#58;/g"`
 
-        FILE=`echo $DATA-$N-$POST_PATH.markdown`
+        FILE=`echo ../_posts/$DATA-$N-$POST_PATH.markdown`
         
         echo "Gerando arquivo $FILE"
 
