@@ -1,5 +1,29 @@
 #! /bin/bash
 
+function escreve_post {
+    FILE=$1
+    PALESTRANTE=$2
+    TITULO=$3
+    POST_PATH=$4
+    ANO=$5
+    MES=$6
+    CODIGO=$7
+
+    echo "Gerando arquivo $FILE"
+
+    echo "---" > $FILE;
+    echo "layout: post" >> $FILE;
+    echo "title: Conversa Rápida - $PALESTRANTE - $TITULO" >> $FILE;
+    echo "permalink: /conversa-rapida/$POST_PATH" >> $FILE;
+    echo "category: cr$ANO$MES" >> $FILE;
+    echo "author: Jonas Abreu" >> $FILE;
+    echo "---" >> $FILE;
+    echo "" >> $FILE;
+    echo "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/$CODIGO\" frameborder=\"0\" allowfullscreen></iframe>" >> $FILE;
+
+}
+
+
 METADATA=/Users/setf/Documents/Eventos/ConversaRapida
 
 IFS_BAK=$IFS
@@ -25,18 +49,8 @@ for EDICAO in `find $METADATA -iname links-videos`; do
 
         FILE=`echo ../_posts/$DATA-$N-$POST_PATH.markdown`
         
-        echo "Gerando arquivo $FILE"
-
-        echo "---" > $FILE;
-        echo "layout: post" >> $FILE;
-        echo "title: Conversa Rápida - $PALESTRANTE - $TITULO_LIMPO" >> $FILE;
-        echo "permalink: /conversa-rapida/$POST_PATH" >> $FILE;
-        echo "category: cr$ANO$MES" >> $FILE;
-        echo "author: Jonas Abreu" >> $FILE;
-        echo "---" >> $FILE;
-        echo "" >> $FILE;
-        echo "<iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/$CODIGO_YOUTUBE\" frameborder=\"0\" allowfullscreen></iframe>" >> $FILE;
-        
+        escreve_post $FILE $PALESTRANTE $TITULO_LIMPO $POST_PATH $ANO $MES $CODIGO_YOUTUBE
+               
     done;
 done;
 
