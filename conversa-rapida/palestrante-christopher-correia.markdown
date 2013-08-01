@@ -5,4 +5,4 @@ permalink: /christopher-correia.html
 subsite: conversa-rapida
 ---
 
-* [Taletos, Pontos Fortes e Fracos](/conversa-rapida/christopher-correia-taletos-pontos-fortes-e-fracos)
+* [Talentos, Pontos Fortes e Fracos](/conversa-rapida/christopher-correia-talentos-pontos-fortes-e-fracos)

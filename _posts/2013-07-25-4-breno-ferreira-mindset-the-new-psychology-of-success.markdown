@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conversa Rápida - Breno Ferreira - Mindset:#58; The New Psychology Of Success
+title: Conversa Rápida - Breno Ferreira - Mindset&#58; The New Psychology Of Success
 permalink: /conversa-rapida/breno-ferreira-mindset-the-new-psychology-of-success
 category: cr201307
 author: Jonas Abreu

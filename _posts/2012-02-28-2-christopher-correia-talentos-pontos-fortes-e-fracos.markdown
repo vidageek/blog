@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Conversa Rápida - Christopher Correia - Taletos, Pontos Fortes e Fracos
-permalink: /conversa-rapida/christopher-correia-taletos-pontos-fortes-e-fracos
+title: Conversa Rápida - Christopher Correia - Talentos, Pontos Fortes e Fracos
+permalink: /conversa-rapida/christopher-correia-talentos-pontos-fortes-e-fracos
 category: cr201202
 author: Jonas Abreu
 ---

@@ -75,6 +75,21 @@ function adiciona_palestra {
     fi;
 }
 
+function escreve_categoria {
+    CATEGORIA=$1
+    FILE=$CATEGORIA.html
+
+    echo "Gerando arquivo $FILE"
+
+    echo "---" > $FILE;
+    echo "layout: category" >> $FILE;
+    echo "category: $CATEGORIA" >> $FILE;
+    echo "permalink: /$CATEGORIA.html" >> $FILE;
+    echo "subsite: conversa-rapida" >> $FILE;
+    echo "---" >> $FILE;
+
+}
+
 METADATA=/Users/setf/Documents/Eventos/ConversaRapida
 
 IFS_BAK=$IFS
@@ -94,6 +109,9 @@ for EDICAO in `find $METADATA -iname links-videos`; do
     EMPRESA=`echo $EDICAO | cut -d "/" -f 8 | cut -d "-" -f 3`
     CATEGORIA="cr$ANO$MES"
     CATEGORIAS="$CATEGORIA, $CATEGORIAS"
+
+    escreve_categoria $CATEGORIA
+
     N=0
     for VIDEO in `cat $EDICAO`; do
         let "N=$N + 1"
@@ -103,7 +121,7 @@ for EDICAO in `find $METADATA -iname links-videos`; do
         CODIGO_YOUTUBE=`echo $VIDEO | cut -d "#" -f 3 | sed -E "s/.*v=(.*)/\1/"`;
         to_path "$PALESTRANTE-$TITULO"
         POST_PATH=$RETVAL;
-        TITULO_LIMPO=`echo $TITULO | sed "s/:/&#58;/g"`
+        TITULO_LIMPO=`echo $TITULO | sed "s/:/\&#58;/g"`
         FILE="../_posts/$DATA-$N-$POST_PATH.markdown"
 
         escreve_post $FILE $PALESTRANTE $TITULO_LIMPO $POST_PATH $CATEGORIA $CODIGO_YOUTUBE
