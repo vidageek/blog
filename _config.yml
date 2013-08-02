@@ -43,6 +43,8 @@ category-names:
   ferramentas: 'Ferramentas'
   flags: 'Flags da JVM'
   pitfalls: 'Pitfalls'
+  banco-dados: 'Banco de Dados'
+  biserver: 'BI Server'
   cr201307: 'Julho 2013 na Lambda3'
   cr201203: 'Março 2012 na AdaptWorks'
   cr201202: 'Fevereiro 2012 na AdaptWorks'
@@ -55,6 +57,7 @@ category-names:
 subsite:
   performance-java: 'Performance Java'
   conversa-rapida: 'Conversa Rápida'
+  pentaho: 'Pentaho'
 
 disqusids:
   '/performance-java/list-contains': '/list-contains.html'
