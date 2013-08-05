@@ -1,6 +1,6 @@
 ---
 layout: subsite
-categories: [biserver, banco-dados]
+categories: [biserver, banco-dados, pentaho-plugin]
 subsite: pentaho
 ---
 
