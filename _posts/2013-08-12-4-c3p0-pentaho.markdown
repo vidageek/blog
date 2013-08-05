@@ -1,0 +1,45 @@
+---
+layout: post
+title: C3P0 com Pentaho
+permalink: /pentaho/c3p0-com-pentaho
+category: biserver
+author: Jonas Abreu
+---
+
+Mais um problema bobo que acho que já deveria vir resolvido.
+
+Você prepara o [BI Server][1], testa, vê que está tudo funcionando. Vai dormir e no dia seguinte vê que ele
+não consegue se conectar com o banco de dados. Ele simplesmente te dá uma mensagem simples e esclarecedora:
+
+    java.net.SocketException: Broken pipe 
+
+Se você usa [hibernate][2] faz algum tempo, já sabe exatamente o que é isso. Você esqueceu de configurar um connection pool
+decente nele (aparentemente eles preferem um connection pool que para de funcionar do que um que sempre cria uma conexão 
+nova. Vai entender...).
+
+Para resolver esse problema, você pode simplesmente fazer o seu [BI Server usar o `C3P0`, que é um ótimo connection pool][3].
+
+Para quem não quer clicar no link acima ou prefere em português (as versões podem ter mudado quando você ler este post):
+
+* [Baixe o C3P0 (c3p0-0.9.2.1.bin.zip)][4]
+* Descompacte ele
+* Copie o arquivo `c3p0-0.9.2.1.jar` para a pasta `biserver-ce/tomcat/lib` do seu BI Server
+* Copie o arquivo `mchange-commons-java-0.2.3.4.jar` para a mesma pasta do seu BI Server
+* Cole o seguinte trecho de `xml` no seu arquivo `pentaho-solutions/system/hibernate/mysql5.hibernate.cfg.xml` (se você
+usa outro banco de dados é só colar no arquivo equivalente), logo após a tag `<session-factory>`
+        <property name="connection.provider_class">org.hibernate.connection.C3P0ConnectionProvider</property>
+        <property name="hibernate.c3p0.acquire_increment">3</property>
+        <property name="hibernate.c3p0.idle_test_period">10</property>
+        <property name="hibernate.c3p0.min_size">5</property>
+        <property name="hibernate.c3p0.max_size">75</property>
+        <property name="hibernate.c3p0.max_statements">0</property>
+        <property name="hibernate.c3p0.timeout">25200</property>
+        <property name="hibernate.c3p0.preferredTestQuery">select 1</property>
+        <property name="hibernate.c3p0.testConnectionOnCheckout">true</property>
+* Reinicie o BI Server
+* Se pergunte porque isso não veio feito por padrão.
+
+[1]: /pentaho/biserver.html
+[2]: http://www.hibernate.org/
+[3]: http://wiki.pentaho.com/display/ServerDoc2x/Configuring+for+MySQL
+[4]: http://sourceforge.net/projects/c3p0/

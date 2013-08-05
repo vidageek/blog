@@ -36,5 +36,5 @@ O mais legal é que isso habilita GZip em todo o BI Server, desde que o recurso 
 A diferença de tempo de carga das páginas é sensível.
     
 
-[1]: http://community.pentaho.com/projects/bi_platform/
+[1]: /pentaho/biserver.html
 [2]: /pentaho/saiku

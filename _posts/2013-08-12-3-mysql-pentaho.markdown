@@ -32,6 +32,6 @@ para usar o MySQL (depois de ser reiniciado).
 
 [1]: http://www.pentaho.com/
 [2]: http://mysql.com/
-[3]: http://kettle.pentaho.com/
-[4]: http://community.pentaho.com/projects/bi_platform/
+[3]: /pentaho/kettle.html
+[4]: /pentaho/biserver.html
 [5]: https://dev.mysql.com/downloads/connector/j/#downloads
