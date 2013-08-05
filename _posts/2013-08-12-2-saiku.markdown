@@ -2,7 +2,7 @@
 layout: post
 title: Saiku
 permalink: /pentaho/saiku
-category: biserver
+category: pentaho-plugin
 author: Jonas Abreu
 ---
 
