@@ -2,12 +2,10 @@
 <html>
   <head>
     <title>
-	{% if page.title %}{{ page.title }} -
-	{% elsif page.dados %} Extração de dados - {{ page.dados }} -
-    {% elsif page.palestrante %}  {{site.subsite[page.subsite]}} - {{page.palestrante}} -
-    {% elsif page.subsite %} {{site.subsite[page.subsite]}} - {{site.category-names[page.category]}} -
-	{% elsif page.author %} {{ page.author }} -
-	{% endif %}{{ site.name }}
+      {% capture page_title %}
+        {% include title.html %}
+      {% endcapture %}
+      {{page_title}}
 	</title>
     {% if page.description %}
     <meta name="description" content="{{ page.description }}" />
@@ -16,10 +14,10 @@
 	{% if page.stealth == true%}
 	<meta name="robots" content="noindex" />
     {% endif %}
-
+    <meta property="og:image" content="http://www.vidageek.net/images/logo.png" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <link rel="stylesheet" media="screen" href="/css/bootstrap.min.css?v=2" type="text/css" />
-    <link rel="stylesheet" media="screen" href="/css/style.css?v=2" type="text/css" />
+    <link rel="stylesheet" media="screen" href="/css/bootstrap.min.css?v=3" type="text/css" />
+    <link rel="stylesheet" media="screen" href="/css/style.css?v=3" type="text/css" />
     <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
     <!-- google analytics async -->
     <script type="text/javascript">
@@ -61,7 +59,17 @@
 				<li><a href="/autor/jonas-abreu.html">Jonas Abreu</a></li>
 				<li><a href="/autor/luiz.html">Luiz Real</a></li>
 				<li><a href="/autor/convidados.html">Convidados</a></li>
-			</ul>
+              </ul>
+              <h3>Compartilhe</h3>
+            <ul>
+                
+{% capture share_url%}
+{{ site.url | url_encode}}{{page.url | url_encode }}
+{% endcapture %}
+              <li><img height="15" src="/images/facebook.gif" /><a href="https://www.facebook.com/sharer/sharer.php?u={{share_url}}" target="_blank">Facebook</a></li>
+              <li><img height="15" src="/images/gplus.png" /><a href="https://plus.google.com/share?url={{share_url}}" target="_blank">Google+</a></li>
+              <li><img height="15" src="/images/twitter-bird.gif" /><a href="http://twitter.com/share?text={{page_title | fix_white_chars | url_encode}}&url={{share_url}}" target="_blank">Twitter</a></li>
+            </ul>
 			<h3>Links</h3>
 			<ul>
 				<li><img height="15" src="/images/antiif.gif" /><a href="http://www.antiifcampaign.com/" target="_blank">Anti-if Campaign</a></li>
