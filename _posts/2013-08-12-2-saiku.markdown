@@ -1,0 +1,16 @@
+---
+layout: post
+title: Saiku
+permalink: /pentaho/saiku
+category: biserver
+author: Jonas Abreu
+---
+
+Um dos plugins mais interessantes que o pentaho tem é o [Saiku][1], da [Analytical Labs][2]. Ele simplesmente é um 
+plugin para você fazer análises rápidas da dados, desde que os seus dados estejam em um [cubo OLAP][3].
+
+Você consegue instalá-lo pelo Market Place do BI Server.
+
+[1]: http://analytical-labs.com/downloads.php
+[2]: http://analytical-labs.com/
+[3]: https://en.wikipedia.org/wiki/OLAP_cube
