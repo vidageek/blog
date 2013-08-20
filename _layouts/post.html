@@ -24,11 +24,7 @@ layout: default
 <div id="comments">
   <div id="disqus_thread"></div>
   <script type="text/javascript">
-    {% if site.disqusids[page.url] %}
-    var disqus_identifier = "{{ site.disqusids[page.url] }}";
-    {% else %}
     var disqus_identifier = "{{ page.url }}";
-    {% endif %}
     (function() {
      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
      dsq.src = 'http://{{ site.disqus.id }}.disqus.com/embed.js';
