@@ -8,6 +8,8 @@ TODAY=`date +"%Y-%m-%d"`
 
 NOME_FINAL=$TODAY`echo $POST | sed -E "s/^[0-9]+//"`
 
+git checkout master
+
 mv _stash/$POST _posts/$NOME_FINAL
 
 git add _posts
