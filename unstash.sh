@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-( [ ! -d "~/blog-vidageek" ] ) && git clone git@github.com:~/blog-vidageek
+( [ ! -d "~/blog-vidageek" ] ) && git clone git@github.com:vidageek/blog.git ~/blog-vidageek
 
 cd ~/blog-vidageek
 
