@@ -1,0 +1,12 @@
+#! /bin/bash
+
+let "NUM=`ls | wc -l` + 1"
+
+POST=$NUM-$1.markdown
+
+echo "---" > $POST
+echo "layout: post" >> $POST
+echo "title:" >> $POST
+echo "author:" >> $POST
+echo "---" >> $POST
+
