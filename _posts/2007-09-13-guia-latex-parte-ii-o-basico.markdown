@@ -2,6 +2,7 @@
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte II: O Básico'
 layout: post
+tutorial: latex
 
 ---
 Agora que você já tem o compilador de Tex e o pré-processador de Latex instalados na sua máquina, vamos dar as ferramentas necessárias para escrever documentos simples em Latex, porém já bonitos.
