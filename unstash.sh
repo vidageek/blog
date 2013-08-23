@@ -6,7 +6,7 @@ cd ~/blog-vidageek
 
 git pull origin master
 
-POST=`ls _stash/ | head -n 1`;
+POST=`ls _stash/ | grep markdown | head -n 1`;
 
 test -z "$POST" && exit 1
 
