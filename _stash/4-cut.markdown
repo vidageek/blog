@@ -2,12 +2,12 @@
 layout: post
 title: Cut
 author: Jonas Abreu
-permalink: /tutorial/bash/cut.html
+permalink: /tutorial/bash/cut
 tutorial: bash-log
 ---
 
 O [cut][1] é uma das ferramentas mais simples e úteis da shell. Basicamente ele quebra a string passada em qualquer
-ocorrência de um determinado caractere e deixa que você selecione algum dos campos.
+ocorrência de um determinado caractere e deixa que você selecione algum dos pedaços.
 
 ### Cut
 
