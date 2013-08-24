@@ -37,6 +37,9 @@ ou, a forma mais interessante,
 
 Essa segunda forma é algo muito comum de ser feito em bash. O `> arquivo` significa "redirecione a saída padrão para o arquivo `arquivo`. Então sempre que você quiser guardar a saída de um programa, basta colocar depois dele `> arquivo`.
 
-O primeiro exercício desse tutorial é usar o `curl` para baixar o arquivo de log ( `http://www.vidageek.net/public/bash/games.log` )
+### Exercício
+
+Baixe o arquivo de log ( `http://www.vidageek.net/public/bash/games.log` ) que usaremos no tutorial usando o `curl`. O 
+arquivo deverá chamar-se `games.log`.
 
 [1]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)

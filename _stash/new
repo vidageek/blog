@@ -1,6 +1,6 @@
 #! /bin/bash
 
-let "NUM=`cat id` + 1"
+let "NUM=`cat id` + 2"
 
 POST=../$NUM-$1.markdown
 
