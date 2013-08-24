@@ -2,7 +2,7 @@
 
 let "NUM=`cat id` + 1"
 
-POST=$NUM-$1.markdown
+POST=../$NUM-$1.markdown
 
 echo "---" > $POST
 echo "layout: post" >> $POST
