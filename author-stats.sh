@@ -1,3 +1,3 @@
 #! /bin/bash 
 
-grep -ri "author:" _posts | cut -d ":" -f 3 | sort | uniq -c | sort
+grep "author:" _posts/* _stash/* | grep -v "_stash/new" | cut -d ":" -f 3 | sort | uniq -c | sort
