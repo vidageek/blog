@@ -2,7 +2,7 @@
 layout: post
 title: Cut
 author: Jonas Abreu
-permalink: /tutorial/bash/cut
+permalink: /bash/cut
 tutorial: bash-log
 ---
 
@@ -38,6 +38,7 @@ Coloque o `cut` para que imprima todas as parte (uma por vez) do seguinte ip:
 
     echo "192.168.0.1" | coloque o cut aqui
 
-Extraia a lista de ips do arquivo de log `games.log` usando cut. Você vai precisar de um outro comando que se chama `cat` e serve para ler arquivos. `cat arquivo` imprime o conteúdo do arquivo no terminal.
+Extraia a lista de ips do arquivo de log `games.log` usando cut. Você vai precisar de um outro comando que se
+chama `cat` e serve para ler arquivos. `cat arquivo` imprime o conteúdo do arquivo no terminal.
 
 [1]: https://en.wikipedia.org/wiki/Cut_(Unix)

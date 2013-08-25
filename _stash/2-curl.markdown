@@ -2,7 +2,7 @@
 layout: post
 title: Curl
 author: Jonas Abreu
-permalink: /tutorial/bash/curl
+permalink: /bash/curl
 tutorial: bash-log
 ---
 
@@ -37,9 +37,12 @@ ou, a forma mais interessante,
 
 Essa segunda forma é algo muito comum de ser feito em bash. O `> arquivo` significa "redirecione a saída padrão para o arquivo `arquivo`. Então sempre que você quiser guardar a saída de um programa, basta colocar depois dele `> arquivo`.
 
-### Exercício
+Para acompanhar o tutorial, baixe o arquivo de log ( `http://www.vidageek.net/public/bash/games.log` ) que usaremos 
+no tutorial usando o `curl`. O arquivo deverá chamar-se `games.log`.
 
-Baixe o arquivo de log ( `http://www.vidageek.net/public/bash/games.log` ) que usaremos no tutorial usando o `curl`. O 
-arquivo deverá chamar-se `games.log`.
+#### Ips
+
+Os ips do log não são verdadeiros. Eu troquei eles usando [esse script][2]
 
 [1]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[2]: /public/bash/change-ip.sh
