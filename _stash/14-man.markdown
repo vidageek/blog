@@ -2,7 +2,7 @@
 layout: post
 title: Man
 author: Jonas Abreu
-permalink: /bash/man.html
+permalink: /bash/man
 tutorial: bash-log
 ---
 

@@ -9,7 +9,7 @@ permalink: /pentaho/csv-input
 Um componente bem simples de usar do [Kettle][1] é o `CSV input`, que permite que você carregue arquivos .csv 
 para a sua transformação.
 
-![CSV Input][2]
+### Principais Parâmetros
 
 * **Step Name:** Nome do passo. Deve ser único na transformação inteira
 * **Filename:** Caminho absoluto para o arquivo `csv` que deseja ler
@@ -32,4 +32,3 @@ csv. Em geral é bom dar uma olhada nos tipos inferidos, porque muitas vezes ele
 
 
 [1]: /pentaho/kettle.html
-[2]: /images/pentaho/csv-input.png
