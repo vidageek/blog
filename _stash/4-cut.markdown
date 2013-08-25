@@ -6,6 +6,9 @@ permalink: /bash/cut
 tutorial: bash-log
 ---
 
+### Comandos até o momento
+    $ curl http://www.vidageek.net/public/bash/games.log > games.log
+
 O [cut][1] é uma das ferramentas mais simples e úteis da shell. Basicamente ele quebra a string passada em qualquer
 ocorrência de um determinado caractere e deixa que você selecione algum dos pedaços.
 

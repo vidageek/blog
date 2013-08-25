@@ -139,3 +139,7 @@ iframe {
 ul.categorias li {
     width: 45%;
 }
+
+div.post h3 {
+    margin-top: 20px;
+}
