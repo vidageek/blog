@@ -2,9 +2,8 @@
 layout: post
 title: Grep
 author: Jonas Abreu
-permalink: /bash/grep.html
+permalink: /bash/grep
 tutorial: bash-log
-game: regex
 ---
 
 ### Comandos até o momento
