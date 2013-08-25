@@ -2,7 +2,7 @@
 layout: post
 title: Head
 author: Jonas Abreu
-permalink: /bash/head.html
+permalink: /bash/head
 tutorial: bash-log
 ---
 
