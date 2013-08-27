@@ -15,30 +15,29 @@ Esses tipos definem vários atributos estilísticos como tamanho da letra, área
 
 As diferenças principais nos atributos de cada um dos tipos de documento em Latex são duas:
 
-| Atributo      | article                               | book           | report         |
+| Atributo      | article                               | book           | report         
 ||
-| **Impressão** | só frente                             | frente e verso | só frente      |
-| **Capa**      | Inclusa na primeira  
-página do texto | Página de capa | Página de capa |
+| **Impressão** | só frente                             | frente e verso | só frente      
+| **Capa**      | Inclusa na primeira página do texto   | Página de capa | Página de capa 
 
 ## \usepackage{pacote}
 
 Agora que já definimos a formatação básica da página, temos que importar alguns pacotes que nos permitem escrever em português. O suporte à grafia brasileira, incluindo acentos e tudo o mais, é dado por um conjunto de pacotes:
 
-*   <u>babel:</u> dá suporte à ortografia de diversas línguas. Use a opção **brazil** para escrever no nosso português.
-*   <u>inputenc:</u> adiciona a codificação das letras em ascii para melhor visualização num editor Ascii. Isto é, faz com que você consiga ler as vogais acentuadas com sua forma padrão e não como o Tex as interpreta. Usamos **latin1**
+*   **babel:** dá suporte à ortografia de diversas línguas. Use a opção **brazil** para escrever no nosso português.
+*   **inputenc:** adiciona a codificação das letras em ascii para melhor visualização num editor Ascii. Isto é, faz com que você consiga ler as vogais acentuadas com sua forma padrão e não como o Tex as interpreta. Usamos **latin1**
 
 Alternativamente a usar estes pacotes, você pode escrever manualmente os acentos e o cedilha utilizando a sintaxe de Tex:
 
-|       | ~ (til)      | ‘ (agudo)    | ^ (circunflexo) | ` (grave)<\td> |
+|       | `~` (til)      | `‘` (agudo)    | `^` (circunflexo) | ` (grave)
 ||
-| **a** | \~a ou \~{a} | \’a ou \’{a} | \^a ou \^{a}    | \`a ou \`{a}   |
-| **e** | —            | \’e ou \’{e} | \^e ou \^{e}    | —              |
-| **i** | —            | \’i ou \’{i} | \^i ou \^{i}    | —              |
-| **o** | \~o ou \~{o} | \’o ou \’{o} | \^o ou \^{o}    | —              |
-| **a** | —            | \’u ou \’{u} | \^u ou \^{u}    | —              |
+| **a** | `\~a` ou `\~{a}` | `\’a` ou `\’{a}` | `\^a` ou `\^{a}`    | \\\`a ou \\\`{a}
+| **e** | —            | `\’e` ou `\’{e}` | `\^e` ou `\^{e}`    | —              
+| **i** | —            | `\’i` ou `\’{i}` | `\^i` ou `\^{i}`    | —              
+| **o** | `\~o` ou `\~{o}` | `\’o` ou `\’{o}` | `\^o` ou `\^{o}`    | —              
+| **a** | —            | `\’u` ou `\’{u}` | `\^u` ou `\^{u}`    | —              
 
-E o cedilha, escrevemos assim: **\c{c}**.
+E o cedilha, escrevemos assim: `\c{c}`.
 
 ## \title e \author
 

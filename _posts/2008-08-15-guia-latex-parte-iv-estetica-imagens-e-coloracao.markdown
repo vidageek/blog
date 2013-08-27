@@ -23,11 +23,11 @@ Excelente. Com esses pacotes à disposição, já podemos usar o comando para co
 
 	\textcolor{**cor**}{texto a ser colorido}, onde a variável **cor** é uma cor escrita em inglês.
 
-	| red    | blue   |
-	||
-	| cyan   | yellow |
-	| orange | gray   |
-	| teal   | green  |
+| red    | blue   
+||
+| cyan   | yellow 
+| orange | gray   
+| teal   | green  
 
 ### Colocando imagens
 

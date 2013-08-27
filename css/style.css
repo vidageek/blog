@@ -143,3 +143,17 @@ ul.categorias li {
 div.post h3 {
     margin-top: 20px;
 }
+
+div.post table {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+div.post td, div.post th {
+    border-bottom: solid 1px;
+}
+
+div.post thead tr {
+    margin-bottom: 15px;
+}
