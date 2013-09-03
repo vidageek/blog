@@ -32,6 +32,9 @@ stealth: true
 * [SPTrans - Histórico de receitas e despesas][25]
 * [SPTrans - Demonstrativos de pagamento][26]
 * [Imposto de renda de médicos e hospitais entre 98 e 2004][27]
+* [Geo Ftp do IBGE][28]
+* [Ftp principal IBGE][29]
+* [Centro de Estudos da Metrópole - Possui ceps geolocalizados de são paulo][30]
 
 [1]: http://www.portalmedico.org.br/include/acompanhamento/pesquisa.asp
 [2]: http://portal.cfm.org.br/index.php?medicosNome=&medicosCRM=&medicosUF=SP&medicosMunicipios=9668&medicosSituacao=&medicosTipoInscricao=&medicosEspecialidade=24&buscaEfetuada=true&option=com_medicos#buscaMedicos
@@ -60,3 +63,6 @@ stealth: true
 [25]: http://www.sptrans.com.br/indicadores/historico_receitas-despesas.aspx
 [26]: http://200.99.150.163/DemPag/hdempag.aspx
 [27]: http://tabnet2.datasus.gov.br/cgi/irrf99/irrf00.htm
+[28]: ftp://geoftp.ibge.gov.br/
+[29]: ftp://ftp.ibge.gov.br/
+[30]: http://www.fflch.usp.br/centrodametropole/v3/bases.php?retorno=716&language=pt_br
