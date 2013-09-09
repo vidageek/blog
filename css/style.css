@@ -157,3 +157,7 @@ div.post td, div.post th {
 div.post thead tr {
     margin-bottom: 15px;
 }
+
+div.post img {
+    max-width: 100%;
+}
