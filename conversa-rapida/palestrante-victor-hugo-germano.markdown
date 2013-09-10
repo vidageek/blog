@@ -9,3 +9,4 @@ subsite: conversa-rapida
 * [Jabber Bots](/conversa-rapida/victor-hugo-germano-jabber-bots)
 * [Diferenças Culturais](/conversa-rapida/victor-hugo-germano-diferen-as-culturais)
 * [59 seconds](/conversa-rapida/victor-hugo-germano-59-seconds)
+* [O Poder de Organizações Sem Líderes](/conversa-rapida/victor-hugo-germano-o-poder-de-organiza-es-sem-l-deres)
