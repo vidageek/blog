@@ -1,0 +1,17 @@
+
+{% if page.tutorial %}
+<div id="tutorial-box">
+    <p>
+    Este post é parte do tutorial <a href="/tutorial/{{page.tutorial}}.html">{{site.tutorial[page.tutorial]}}</a>. 
+    </p>
+    Posts desse tutorial:
+    <ol>
+      {% for p in site.posts reversed %}
+        {% if page.tutorial == p.tutorial %}
+          <li><a href="{{p.url}}">{{p.title}}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+</div>
+{% endif %}
+

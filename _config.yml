@@ -62,3 +62,5 @@ subsite:
   conversa-rapida: 'Conversa Rápida'
   pentaho: 'Pentaho'
 
+tutorial:
+  bash-log: "Bash com análise de logs"
