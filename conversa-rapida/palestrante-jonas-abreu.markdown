@@ -20,3 +20,4 @@ subsite: conversa-rapida
 * [Fórmulas X Especialistas](/conversa-rapida/jonas-abreu-f-rmulas-x-especialistas)
 * [Anchoring](/conversa-rapida/jonas-abreu-anchoring)
 * [Por que eu odeio palestras?](/conversa-rapida/jonas-abreu-por-que-eu-odeio-palestras)
+* [Prática Deliberada](/conversa-rapida/jonas-abreu-pr-tica-deliberada)
