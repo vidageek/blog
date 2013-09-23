@@ -2,7 +2,7 @@
 author: Cecilia Fernandes
 title: 'Guia Latex - Parte III: Estruturando e marcando o texto'
 layout: post
-tutorial: latex
+tutorial: guia-latex
 
 ---
 Após um período de recesso, o Guia Latex segue. Dessa vez, veremos marcação de texto básica e as maneiras mais comuns e simples de se estruturar uma página, com seções e subseções, listas e, por fim, tabelas.
