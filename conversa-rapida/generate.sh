@@ -102,8 +102,8 @@ rm -f palestrante*
 CATEGORIAS=""
 PALESTRANTES=""
 for EDICAO in `find $METADATA -iname links-videos`; do
-    ANO=`echo $EDICAO | cut -d "/" -f 7`
-    MES=`echo $EDICAO | cut -d "/" -f 8 | cut -d "-" -f 1`
+    ANO=`echo $EDICAO | cut -d "/" -f 8`
+    MES=`echo $EDICAO | cut -d "/" -f 9 | cut -d "-" -f 1`
     DATA=`grep "^$ANO-$MES" edicoes | cut -d " " -f 2`
     MES_EXTENSO=`echo $EDICAO | cut -d "/" -f 8 | cut -d "-" -f 2`
     EMPRESA=`echo $EDICAO | cut -d "/" -f 8 | cut -d "-" -f 3`
