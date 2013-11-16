@@ -1,7 +1,7 @@
 #! /bin/bash
 
 function to_path {
-    RETVAL=`echo $1 | tr '[A-Z]' '[a-z]' | sed -E "s#[^0-9a-z/\._]+#-#g" | sed -E "s/-$//"`;
+    RETVAL=`echo $1 | tr '[A-Z]' '[a-z]' | sed -E "s#[^0-9abcdefghijklmnopqrstuvwxyz/\._]+#-#g" | sed -E "s/-$//"`;
 }
 
 function escreve_post {
@@ -90,7 +90,7 @@ function escreve_categoria {
 
 }
 
-METADATA=/Users/setf/Documents/Eventos/ConversaRapida
+METADATA=~/Dropbox/Documents/Eventos/ConversaRapida
 
 IFS_BAK=$IFS
 IFS="
