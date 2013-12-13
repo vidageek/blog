@@ -7,6 +7,7 @@ subsite: conversa-rapida
 
 * [O Seu Papel No Processo de Comunicação](/conversa-rapida/raphael-molesim-o-seu-papel-no-processo-de-comunica-o)
 * [Modelos de Tomadas de Decisão Compartilhada](/conversa-rapida/raphael-molesim-modelos-de-tomadas-de-decis-o-compartilhada)
+* [Entendendo o seu Comportamento](/conversa-rapida/raphael-molesim-entendendo-o-seu-comportamento)
 * [Bem Vindo ao Comercial](/conversa-rapida/raphael-molesim-bem-vindo-ao-comercial)
 * [Definindo Ground Rules para Retrospectivas Ágeis](/conversa-rapida/raphael-molesim-definindo-ground-rules-para-retrospectivas-geis)
 * [Melhoria contínua depende de uma boa cultura de feedback](/conversa-rapida/raphael-molesim-melhoria-cont-nua-depende-de-uma-boa-cultura-de-feedback)

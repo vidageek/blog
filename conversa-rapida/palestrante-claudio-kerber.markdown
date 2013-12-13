@@ -6,5 +6,6 @@ subsite: conversa-rapida
 ---
 
 * [Amor Iterativo e Incremental](/conversa-rapida/claudio-kerber-amor-iterativo-e-incremental)
+* [Intermediário no Desenvolvimento de Software](/conversa-rapida/claudio-kerber-intermedi-rio-no-desenvolvimento-de-software)
 * [Finanças Pessoais](/conversa-rapida/claudio-kerber-finan-as-pessoais)
 * [Desobediência Civil](/conversa-rapida/claudio-kerber-desobedi-ncia-civil)
