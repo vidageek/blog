@@ -11,3 +11,4 @@ subsite: conversa-rapida
 * [Felicidade](/conversa-rapida/breno-ferreira-felicidade)
 * [The New Cambriam Explosion](/conversa-rapida/breno-ferreira-the-new-cambriam-explosion)
 * [Handle Your Shit, Son!](/conversa-rapida/breno-ferreira-handle-your-shit-son)
+* [Minhas resoluções de ano novo](/conversa-rapida/breno-ferreira-minhas-resolu-es-de-ano-novo)

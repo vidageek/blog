@@ -15,3 +15,4 @@ subsite: conversa-rapida
 * [Autonomia](/conversa-rapida/raphael-molesim-autonomia)
 * [Agentes Racionais](/conversa-rapida/raphael-molesim-agentes-racionais)
 * [Bicicletas Tornam a Cidade Mais Humana](/conversa-rapida/raphael-molesim-bicicletas-tornam-a-cidade-mais-humana)
+* [Extented Hapiness Radar](/conversa-rapida/raphael-molesim-extented-hapiness-radar)
