@@ -85,6 +85,11 @@ div#sidebar a {
 	margin-left: 5px;
 }
 
+div#sidebar h2 {
+    line-height: 27px;
+    font-size: 18px;
+}
+
 div.autor-info {
 	max-width: 330px;
 	text-align: center;
@@ -142,6 +147,11 @@ ul.categorias li {
 
 div.post h3 {
     margin-top: 20px;
+}
+
+div.post h1 {
+    font-size: 24px;
+    line-height: 36px;
 }
 
 div.post table {
