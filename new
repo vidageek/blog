@@ -1,8 +1,8 @@
 #! /bin/bash
 
-let "NUM=`cat id` + 2"
+let "NUM=`cat _drafts/id` + 2"
 
-POST=../$NUM-$1.markdown
+POST=_drafts/$NUM-$1.markdown
 
 echo "---" > $POST
 echo "layout: post" >> $POST
@@ -10,4 +10,4 @@ echo "title:" >> $POST
 echo "author:" >> $POST
 echo "---" >> $POST
 
-echo $NUM > id
+echo $NUM > _drafts/id
