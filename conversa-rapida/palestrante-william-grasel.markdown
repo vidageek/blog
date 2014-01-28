@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: William Grasel
-permalink: /william-grasel.html
+permalink: /conversa-rapida/william-grasel.html
 subsite: conversa-rapida
 ---
 

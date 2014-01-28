@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Heslei Silva
-permalink: /heslei-silva.html
+permalink: /conversa-rapida/heslei-silva.html
 subsite: conversa-rapida
 ---
 

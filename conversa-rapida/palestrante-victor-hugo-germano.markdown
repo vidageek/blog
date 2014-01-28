@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Victor Hugo Germano
-permalink: /victor-hugo-germano.html
+permalink: /conversa-rapida/victor-hugo-germano.html
 subsite: conversa-rapida
 ---
 

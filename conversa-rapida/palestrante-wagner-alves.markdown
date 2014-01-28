@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Wagner Alves
-permalink: /wagner-alves.html
+permalink: /conversa-rapida/wagner-alves.html
 subsite: conversa-rapida
 ---
 

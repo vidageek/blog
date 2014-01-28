@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Leonardo Andreucci
-permalink: /leonardo-andreucci.html
+permalink: /conversa-rapida/leonardo-andreucci.html
 subsite: conversa-rapida
 ---
 

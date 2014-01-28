@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Raphael Molesim
-permalink: /raphael-molesim.html
+permalink: /conversa-rapida/raphael-molesim.html
 subsite: conversa-rapida
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Wellington Marion
-permalink: /wellington-marion.html
+permalink: /conversa-rapida/wellington-marion.html
 subsite: conversa-rapida
 ---
 

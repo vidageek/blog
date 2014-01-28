@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Breno Ferreira
-permalink: /breno-ferreira.html
+permalink: /conversa-rapida/breno-ferreira.html
 subsite: conversa-rapida
 ---
 

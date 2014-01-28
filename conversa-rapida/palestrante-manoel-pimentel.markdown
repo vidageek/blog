@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Manoel Pimentel
-permalink: /manoel-pimentel.html
+permalink: /conversa-rapida/manoel-pimentel.html
 subsite: conversa-rapida
 ---
 

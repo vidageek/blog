@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Vitor Hugo Queiroz
-permalink: /vitor-hugo-queiroz.html
+permalink: /conversa-rapida/vitor-hugo-queiroz.html
 subsite: conversa-rapida
 ---
 

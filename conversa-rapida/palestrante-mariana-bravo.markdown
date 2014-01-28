@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Mariana Bravo
-permalink: /mariana-bravo.html
+permalink: /conversa-rapida/mariana-bravo.html
 subsite: conversa-rapida
 ---
 

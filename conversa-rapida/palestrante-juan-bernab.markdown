@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Juan Bernabó
-permalink: /juan-bernab.html
+permalink: /conversa-rapida/juan-bernab.html
 subsite: conversa-rapida
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Flavio Logullo
-permalink: /flavio-logullo.html
+permalink: /conversa-rapida/flavio-logullo.html
 subsite: conversa-rapida
 ---
 

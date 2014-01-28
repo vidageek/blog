@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: André Pantalião
-permalink: /andr-pantali-o.html
+permalink: /conversa-rapida/andr-pantali-o.html
 subsite: conversa-rapida
 ---
 

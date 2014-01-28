@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Rafael Camargo
-permalink: /rafael-camargo.html
+permalink: /conversa-rapida/rafael-camargo.html
 subsite: conversa-rapida
 ---
 

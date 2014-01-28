@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Dyego Costa
-permalink: /dyego-costa.html
+permalink: /conversa-rapida/dyego-costa.html
 subsite: conversa-rapida
 ---
 

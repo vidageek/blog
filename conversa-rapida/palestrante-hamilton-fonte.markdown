@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Hamilton Fonte
-permalink: /hamilton-fonte.html
+permalink: /conversa-rapida/hamilton-fonte.html
 subsite: conversa-rapida
 ---
 

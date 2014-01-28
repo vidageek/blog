@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Rafael Buzon
-permalink: /rafael-buzon.html
+permalink: /conversa-rapida/rafael-buzon.html
 subsite: conversa-rapida
 ---
 

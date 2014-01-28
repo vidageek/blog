@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Cecilia Fernandes
-permalink: /cecilia-fernandes.html
+permalink: /conversa-rapida/cecilia-fernandes.html
 subsite: conversa-rapida
 ---
 

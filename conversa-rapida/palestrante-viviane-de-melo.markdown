@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Viviane de Melo
-permalink: /viviane-de-melo.html
+permalink: /conversa-rapida/viviane-de-melo.html
 subsite: conversa-rapida
 ---
 

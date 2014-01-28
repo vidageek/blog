@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: André Faria
-permalink: /andre-faria.html
+permalink: /conversa-rapida/andre-faria.html
 subsite: conversa-rapida
 ---
 

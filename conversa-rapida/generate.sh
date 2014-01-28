@@ -67,7 +67,7 @@ function adiciona_palestra {
         echo "---" > $FILE;
         echo "layout: palestrante" >> $FILE;
         echo "palestrante: $PALESTRANTE" >> $FILE;
-        echo "permalink: /$PALESTRANTE_PATH.html" >> $FILE;
+        echo "permalink: /conversa-rapida/$PALESTRANTE_PATH.html" >> $FILE;
         echo "subsite: conversa-rapida" >> $FILE;
         echo "---" >> $FILE;
         echo "" >> $FILE;
@@ -84,7 +84,7 @@ function escreve_categoria {
     echo "---" > $FILE;
     echo "layout: category" >> $FILE;
     echo "category: $CATEGORIA" >> $FILE;
-    echo "permalink: /$CATEGORIA.html" >> $FILE;
+    echo "permalink: /conversa-rapida/$CATEGORIA.html" >> $FILE;
     echo "subsite: conversa-rapida" >> $FILE;
     echo "---" >> $FILE;
 

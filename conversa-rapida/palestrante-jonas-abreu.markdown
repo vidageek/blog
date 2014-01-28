@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Jonas Abreu
-permalink: /jonas-abreu.html
+permalink: /conversa-rapida/jonas-abreu.html
 subsite: conversa-rapida
 ---
 

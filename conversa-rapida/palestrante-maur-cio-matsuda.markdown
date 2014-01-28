@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Maurício Matsuda
-permalink: /maur-cio-matsuda.html
+permalink: /conversa-rapida/maur-cio-matsuda.html
 subsite: conversa-rapida
 ---
 

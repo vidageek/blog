@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Hugo Corbucci
-permalink: /hugo-corbucci.html
+permalink: /conversa-rapida/hugo-corbucci.html
 subsite: conversa-rapida
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Marcus Vinicius
-permalink: /marcus-vinicius.html
+permalink: /conversa-rapida/marcus-vinicius.html
 subsite: conversa-rapida
 ---
 

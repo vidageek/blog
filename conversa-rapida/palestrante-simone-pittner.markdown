@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Simone Pittner
-permalink: /simone-pittner.html
+permalink: /conversa-rapida/simone-pittner.html
 subsite: conversa-rapida
 ---
 

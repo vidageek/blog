@@ -7,6 +7,7 @@ exclude: ['Rakefile', 'deploy.sh', 'temas', 'towrite', 'author-stats.sh', 'edico
 markdown: rdiscount
 
 permalink: /:year/:month/:day/:title/
+relative_permalinks: false
 
 email: contato@vidageek.net
 

@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Christopher Correia
-permalink: /christopher-correia.html
+permalink: /conversa-rapida/christopher-correia.html
 subsite: conversa-rapida
 ---
 

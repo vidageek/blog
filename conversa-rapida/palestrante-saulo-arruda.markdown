@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Saulo Arruda
-permalink: /saulo-arruda.html
+permalink: /conversa-rapida/saulo-arruda.html
 subsite: conversa-rapida
 ---
 

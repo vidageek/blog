@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Ronaldo Martins
-permalink: /ronaldo-martins.html
+permalink: /conversa-rapida/ronaldo-martins.html
 subsite: conversa-rapida
 ---
 

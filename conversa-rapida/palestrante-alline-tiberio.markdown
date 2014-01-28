@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Alline Tiberio
-permalink: /alline-tiberio.html
+permalink: /conversa-rapida/alline-tiberio.html
 subsite: conversa-rapida
 ---
 

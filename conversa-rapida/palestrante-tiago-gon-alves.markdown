@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Tiago Gonçalves
-permalink: /tiago-gon-alves.html
+permalink: /conversa-rapida/tiago-gon-alves.html
 subsite: conversa-rapida
 ---
 

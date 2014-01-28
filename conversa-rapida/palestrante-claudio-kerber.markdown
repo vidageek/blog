@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Claudio Kerber
-permalink: /claudio-kerber.html
+permalink: /conversa-rapida/claudio-kerber.html
 subsite: conversa-rapida
 ---
 

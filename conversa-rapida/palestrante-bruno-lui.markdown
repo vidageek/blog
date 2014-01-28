@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Bruno Lui
-permalink: /bruno-lui.html
+permalink: /conversa-rapida/bruno-lui.html
 subsite: conversa-rapida
 ---
 

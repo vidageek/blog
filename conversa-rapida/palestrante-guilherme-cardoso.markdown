@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Guilherme Cardoso
-permalink: /guilherme-cardoso.html
+permalink: /conversa-rapida/guilherme-cardoso.html
 subsite: conversa-rapida
 ---
 

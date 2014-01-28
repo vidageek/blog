@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Narciso Benigno
-permalink: /narciso-benigno.html
+permalink: /conversa-rapida/narciso-benigno.html
 subsite: conversa-rapida
 ---
 

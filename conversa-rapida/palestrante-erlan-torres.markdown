@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Erlan Torres
-permalink: /erlan-torres.html
+permalink: /conversa-rapida/erlan-torres.html
 subsite: conversa-rapida
 ---
 

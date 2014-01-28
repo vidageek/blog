@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Dairton Bassi
-permalink: /dairton-bassi.html
+permalink: /conversa-rapida/dairton-bassi.html
 subsite: conversa-rapida
 ---
 

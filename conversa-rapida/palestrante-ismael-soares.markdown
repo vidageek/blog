@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Ismael Soares
-permalink: /ismael-soares.html
+permalink: /conversa-rapida/ismael-soares.html
 subsite: conversa-rapida
 ---
 

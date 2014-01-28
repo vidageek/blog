@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Juliano Alves
-permalink: /juliano-alves.html
+permalink: /conversa-rapida/juliano-alves.html
 subsite: conversa-rapida
 ---
 

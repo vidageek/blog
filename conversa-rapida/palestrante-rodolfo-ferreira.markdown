@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Rodolfo Ferreira
-permalink: /rodolfo-ferreira.html
+permalink: /conversa-rapida/rodolfo-ferreira.html
 subsite: conversa-rapida
 ---
 

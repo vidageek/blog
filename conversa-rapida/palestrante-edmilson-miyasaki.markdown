@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Edmilson Miyasaki
-permalink: /edmilson-miyasaki.html
+permalink: /conversa-rapida/edmilson-miyasaki.html
 subsite: conversa-rapida
 ---
 

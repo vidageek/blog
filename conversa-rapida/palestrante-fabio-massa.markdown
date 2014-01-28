@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Fabio Massa
-permalink: /fabio-massa.html
+permalink: /conversa-rapida/fabio-massa.html
 subsite: conversa-rapida
 ---
 

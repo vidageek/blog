@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Luiz Real
-permalink: /luiz-real.html
+permalink: /conversa-rapida/luiz-real.html
 subsite: conversa-rapida
 ---
 

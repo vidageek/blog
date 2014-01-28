@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Fernando Oliveira
-permalink: /fernando-oliveira.html
+permalink: /conversa-rapida/fernando-oliveira.html
 subsite: conversa-rapida
 ---
 

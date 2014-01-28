@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Victor Cavalcante
-permalink: /victor-cavalcante.html
+permalink: /conversa-rapida/victor-cavalcante.html
 subsite: conversa-rapida
 ---
 

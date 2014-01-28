@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Daniela
-permalink: /daniela.html
+permalink: /conversa-rapida/daniela.html
 subsite: conversa-rapida
 ---
 

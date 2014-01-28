@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Giovanni Bassi
-permalink: /giovanni-bassi.html
+permalink: /conversa-rapida/giovanni-bassi.html
 subsite: conversa-rapida
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Fabiano Milani
-permalink: /fabiano-milani.html
+permalink: /conversa-rapida/fabiano-milani.html
 subsite: conversa-rapida
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Manoel Pimentel e Dairton Bassi
-permalink: /manoel-pimentel-e-dairton-bassi.html
+permalink: /conversa-rapida/manoel-pimentel-e-dairton-bassi.html
 subsite: conversa-rapida
 ---
 

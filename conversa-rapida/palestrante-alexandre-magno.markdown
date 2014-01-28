@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Alexandre Magno
-permalink: /alexandre-magno.html
+permalink: /conversa-rapida/alexandre-magno.html
 subsite: conversa-rapida
 ---
 

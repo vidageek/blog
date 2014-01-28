@@ -1,7 +1,7 @@
 ---
 layout: palestrante
 palestrante: Paulo Siqueira
-permalink: /paulo-siqueira.html
+permalink: /conversa-rapida/paulo-siqueira.html
 subsite: conversa-rapida
 ---
 
