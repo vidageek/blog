@@ -26,6 +26,7 @@ funcionando em todos os sites que passei. Mas é bem simples:
 	</object>
 
 Os parâmetros são:
+
 * type: Determina que esse objeto é uma applet java. O **version** estabele a menor versão 
 que o browser precisa ter instalado para rodar a sua applet.
 * id: serve para você utilizar a sua applet via javascript, o que é bem interessante.
