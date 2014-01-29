@@ -1,6 +1,8 @@
 #! /bin/bash
 
-jekyll || /var/lib/gems/1.8/bin/jekyll
+rvm use 2.1.0
+bundle install
+jekyll
 
 /home/ubuntu/bin/s3-jekyll-deploy/s3-jekyll-deploy www.vidageek.net
 
