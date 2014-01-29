@@ -4,7 +4,7 @@ title: Mockito e mocks
 author: Jonas Abreu
 ---
 
-### TL;DR;
+## TL;DR;
 Você pode usar mocks assim com o Mockito e um guia rápido da api do Mockito no fim do post ;)
 
 <hr>
@@ -12,20 +12,20 @@ Você pode usar mocks assim com o Mockito e um guia rápido da api do Mockito no
 Um dos meus alunos me pediu para escrever um pouco sobre [mocks][1] e [mockito][2], porque aparentemente não existe 
 muito material sobre o assunto (em especial mockito) em português.
 
-### Sobre o que é mock
+## Sobre o que é mock
 
 Eu não vou discutir o que é um mock, spy, stub, fake object e etc. Não gosto muito de discutir taxonomia. Nesse post, 
 o que vou chamar de mock é bem abrangente: mock é qualquer objeto que você passe (para outro objeto) com o objetivo 
 de observar/mudar o comportamento do objeto sendo
 testado.
 
-### Mockito
+## Mockito
 
 O [mockito][2] é uma biblioteca que ajuda na criação de mocks. Acho a sintaxe dele bem mais agradável do que outros 
 projetos, como o [jmock][3]. Mas no fim é questão de gosto. Existem umas 6M bibliotecas de mock em java que fazem 
 basicamente a mesma coisa. Vou usar ele nesse post simplesmente porque acho mais agradável :) 
 
-### Exemplo
+## Exemplo
 
 Vamos modelar um marceneiro. Por quê? Porque sim :)
 
@@ -71,7 +71,7 @@ Seu [infinitest][6] volta a ficar verde. Você volta pro próximo passo do teste
 
 Seu código parou de compilar. Vou pular a parte da solução mais trivial ir para a discussão de quem é que corta.
 
-### Quem corta a tábua?
+## Quem corta a tábua?
 
 Não é o marceneiro. Cortar com os dentes ou unhas ia ser bem difícil. Ele precisa de uma `Serra`. Mas qual tipo? 
 [Serrote][7]? [Serra de arco][8]? [Tico-tico][9]? Sei lá. E não faz diferença, desde que seja uma serra e corte tábuas.
@@ -136,7 +136,7 @@ Java). Então vamos usar ele de uma vez :)
 
 E seu [infinitest][6] fica verde :) Tudo está passando. Vamos entender essa zona toda do @Before e do @Mock.
 
-### Usando Mockito
+## Usando Mockito
 
 * `MockitoAnnotations.initMocks(this)`: Simplesmente inicializa com mocks que ainda não sabem fazer nada todos os campos
 do seu objeto de teste (no caso, `MarceneiroTest`) anotados com `@Mock`.
@@ -149,14 +149,14 @@ chamar o `when` quantas vezes quiser.
 Simples? Não. Mas as alternativas também não são muito boas. Depois de bastante desgaste e sofrimento você acaba 
 pegando o jeito. Mas ainda é mais fácil de entender e usar do que qualquer spec de Java ;)
 
-### Como o Mockito funciona
+## Como o Mockito funciona
 
 Magia negra. 
 
 Não cabe nesse post. Se quiserem muito saber como funciona, me avisem nos comentários que eu escrevo outro
 post explicando (ou peço pro [Lucas][10] ou o [Ferreira][11] explicarem :D )
 
-### Dores com o Mockito (e mocks)
+## Dores com o Mockito (e mocks)
 
 Tirando a sintaxe que te obriga a ler o código de outra forma, existem algumas coisas que precisamos prestar atenção:
 
@@ -182,7 +182,7 @@ Pior ainda, eles podem continuar passando mas não estar testando mais nada.
 a ficar sem paciência de tanto `when` que tenho que colocar, refatoro a classe sendo testada. E minha paciência não
 é muito grande quando estou escrevendo testes ;)
 
-### Guia rápido de API do Mockito
+## Guia rápido de API do Mockito
 
 Fui procurar a documentação que eu usava e não encontrei. Então resolvi colocar aqui uma explicação rápida dos métodos 
 que encontrei referência em meus projetos Java com Mockito (`grep -ri org.mockito workspace`)
@@ -268,7 +268,7 @@ nenhuma interação com o mock.
         // vai falhar porque o HashMap chama o método hashCode() do mock.
         verifyZeroInteractions(mock);
 
-### Nota
+## Nota
 
 Nenhum dos códigos acima foi compilado. Provavelmente tem vários erros. Me avisem nos comentários que eu corrijo eles.
 
