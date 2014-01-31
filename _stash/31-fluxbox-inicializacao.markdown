@@ -7,7 +7,7 @@ author: Jonas Abreu
 Uma das coisas mais legal do [Fluxbox][1], é que você configura ele inteiro via
 arquivos de texto bem simples.
 
-Um desses arquivos simples é o [startup][2], que é rodado logo antes da inicialização
+Um desses arquivos simples é o [~/.fluxbox/startup][2], que é rodado logo antes da inicialização
 do fluxbox (na verdade, ele é quem invoca o fluxbox).
 
 Como você faz para rodar um programa na inicialização do fluxbox? Você simplesmente 
