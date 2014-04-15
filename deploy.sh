@@ -1,8 +1,10 @@
-#! /bin/bash
+#! /bin/bash --login
+
+set -e
 
 rvm use 2.1.0
 bundle install
-jekyll
+jekyll build
 
 /home/ubuntu/bin/s3-jekyll-deploy/s3-jekyll-deploy www.vidageek.net
 
