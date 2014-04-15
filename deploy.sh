@@ -2,7 +2,7 @@
 
 set -e
 
-rvm use 2.1.0
+~/.rvm/bin/rvm use 2.1.0
 bundle install
 jekyll build
 
