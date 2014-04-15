@@ -2,7 +2,7 @@
 
 set -e
 
-source "~/.rvm/scripts/rvm"
+source ~/.rvm/scripts/rvm
 
 rvm use 2.1.0
 bundle install
