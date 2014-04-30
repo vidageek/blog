@@ -10,8 +10,6 @@ rvm use 2.1.0
 bundle install
 jekyll build
 
-cd _site
-
-aws --size-only s3 sync . s3://www.vidageek.net/ --acl "public-read" 
+/home/ubuntu/bin/s3-jekyll-deploy/s3-jekyll-deploy www.vidageek.net
 
 curl "http://feedburner.google.com/fb/a/pingSubmit?bloglink=http%3A%2F%2Fwww.vidageek.net"
