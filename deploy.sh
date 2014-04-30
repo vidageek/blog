@@ -12,6 +12,6 @@ jekyll build
 
 cd _site
 
-aws --size-only --acl "public-read" s3 sync . s3://www.vidageek.net/
+aws --size-only s3 sync . s3://www.vidageek.net/ --acl "public-read" 
 
 curl "http://feedburner.google.com/fb/a/pingSubmit?bloglink=http%3A%2F%2Fwww.vidageek.net"
