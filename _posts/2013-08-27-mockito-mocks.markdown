@@ -121,7 +121,7 @@ Java). Então vamos usar ele de uma vez :)
 	@Before
 	public void setup() {
 		MockitoAnnotations.initMocks(this);
-		when(serra.serra(any(Tabua.class)))
+		when(serra.corta(any(Tabua.class)))
           .thenReturn(Arrays.asList(new Tabua(), new Tabua());
 	}
 
