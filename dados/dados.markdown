@@ -36,6 +36,7 @@ stealth: true
 * [Ftp principal IBGE][29]
 * [Centro de Estudos da Metrópole - Possui ceps geolocalizados de são paulo][30]
 * [Nova localização dos dados do Datasus][31]
+* [Sistema de Informação de Saneamento no Brasil][32]
 
 [1]: http://www.portalmedico.org.br/include/acompanhamento/pesquisa.asp
 [2]: http://portal.cfm.org.br/index.php?medicosNome=&medicosCRM=&medicosUF=SP&medicosMunicipios=9668&medicosSituacao=&medicosTipoInscricao=&medicosEspecialidade=24&buscaEfetuada=true&option=com_medicos#buscaMedicos
@@ -68,3 +69,4 @@ stealth: true
 [29]: ftp://ftp.ibge.gov.br/
 [30]: http://www.fflch.usp.br/centrodametropole/v3/bases.php?retorno=716&language=pt_br
 [31]: ftp://ftp.datasus.gov.br/dissemin/publicos/
+[32]: http://www.snis.gov.br/
