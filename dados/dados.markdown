@@ -37,6 +37,10 @@ stealth: true
 * [Centro de Estudos da Metrópole - Possui ceps geolocalizados de são paulo][30]
 * [Nova localização dos dados do Datasus][31]
 * [Sistema de Informação de Saneamento no Brasil][32]
+* [Dados sobre agua (chuva, vazao e nivel)][33]
+* [Dados geolocalizados (incluindo alguns POI)][34]
+* [Varios dados geograficos, incluindo algumas cachoeiras][35]
+* [Dados de cavernas no brasil][36]
 
 [1]: http://www.portalmedico.org.br/include/acompanhamento/pesquisa.asp
 [2]: http://portal.cfm.org.br/index.php?medicosNome=&medicosCRM=&medicosUF=SP&medicosMunicipios=9668&medicosSituacao=&medicosTipoInscricao=&medicosEspecialidade=24&buscaEfetuada=true&option=com_medicos#buscaMedicos
@@ -70,3 +74,7 @@ stealth: true
 [30]: http://www.fflch.usp.br/centrodametropole/v3/bases.php?retorno=716&language=pt_br
 [31]: ftp://ftp.datasus.gov.br/dissemin/publicos/
 [32]: http://www.snis.gov.br/
+[33]: http://mapas-hidro.ana.gov.br/
+[34]: http://www.geonames.org/
+[35]: ftp://geoftp.ibge.gov.br/mapeamento_sistematico/base_continua_ao_milionesimo/BCIM_V4/BASE_SHAPEFILE.zip
+[36]: http://www.icmbio.gov.br/cecav/downloads/mapas.html
