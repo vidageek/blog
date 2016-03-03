@@ -41,6 +41,7 @@ stealth: true
 * [Dados geolocalizados (incluindo alguns POI)][34]
 * [Varios dados geograficos, incluindo algumas cachoeiras][35]
 * [Dados de cavernas no brasil][36]
+* [Marcas registradas no brasil (CodPedido >= 4145)][37]
 
 [1]: http://www.portalmedico.org.br/include/acompanhamento/pesquisa.asp
 [2]: http://portal.cfm.org.br/index.php?medicosNome=&medicosCRM=&medicosUF=SP&medicosMunicipios=9668&medicosSituacao=&medicosTipoInscricao=&medicosEspecialidade=24&buscaEfetuada=true&option=com_medicos#buscaMedicos
@@ -78,3 +79,4 @@ stealth: true
 [34]: http://www.geonames.org/
 [35]: ftp://geoftp.ibge.gov.br/mapeamento_sistematico/base_continua_ao_milionesimo/BCIM_V4/BASE_SHAPEFILE.zip
 [36]: http://www.icmbio.gov.br/cecav/downloads/mapas.html
+[37]: https://gru.inpi.gov.br/pePI/servlet/MarcasServletController?Action=detail&CodPedido=4145
